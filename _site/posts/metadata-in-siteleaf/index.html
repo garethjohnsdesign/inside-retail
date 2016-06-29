@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Siteleaf, http://siteleaf.com" />
+
+<title>Metadata in Siteleaf</title>
+<meta name="description" content="In Siteleaf, metadata is pure key/value data attached to a site, page, or post. It provides a way to interact with templates beyond the basic usage of inject...">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.">
+<meta name="twitter:title" content="Inside Retail">
+<meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.">
+<meta name="twitter:creator" content="https://twitter.com/insideretail">
+<meta name="twitter:image:src" content="http://aqualis.co/assets/img/meta/meta-image.png">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Metadata in Siteleaf" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:url" content="/posts/metadata-in-siteleaf/" />
+<meta property="og:image" content="http://aqualis.co/assets/img/meta/meta-image.png" />
+<meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit." />
+<meta property="og:site_name" content="Inside Retail" />
+
+<!-- Icons -->
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/icons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/icons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/icons/manifest.json">
+<link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#000000">
+<link rel="shortcut icon" href="/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/assets/icons/mstile-144x144.png">
+<meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="stylesheet" type="text/css" href="/assets/css/app.css">
+		
+<link rel="canonical" href="/posts/metadata-in-siteleaf/">
+<link rel="alternate" type="application/rss+xml" title="Inside Retail" href="/feed.xml">
+
+<link rel="stylesheet" href="https://i.icomoon.io/public/0d0b2f3d01/InsideRetail/style-svg.css">
+<script defer src="https://i.icomoon.io/public/0d0b2f3d01/InsideRetail/svgxuse.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80072725-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+	
+<!-- Navigation -->
+<div class="top">
+<div class="top-bar">
+  <div class="top-bar-left">
+    <ul class="menu">
+      <li><a href="/" class="header__home"><img src="/assets/img/layout/logo.svg" class="header__logo" alt="Inside Retail" /></a></li>
+	  
+	  
+	  
+      <li>
+        <a href="/about/" class="">About</a>
+      </li>
+      
+      <li>
+        <a href="/setting-up/" class="">Setting Up</a>
+      </li>
+      
+      <li>
+        <a href="/trading-and-hiring/" class="">Trading & Hiring</a>
+      </li>
+      
+      <li>
+        <a href="/expanding/" class="">Expanding</a>
+      </li>
+      
+      <li>
+        <a href="/enhancing-business/" class="">Enhancing Business</a>
+      </li>
+      
+      
+    </ul>
+  </div>
+  <div class="top-bar-right">
+    <ul class="menu">
+      <li class="menu-text">Inside Retail</li>
+    </ul>
+  </div>
+</div>
+</div>
+<!-- End Navigation -->
+	
+<!-- Content -->
+<section class="content">
+
+
+<article class="article">
+  
+  
+  <section class="article__meta">
+    
+      <ul class="article__tags">
+        
+          
+          
+        
+          
+          
+        
+          
+          
+        
+      </ul>
+    
+    
+    <time class="article__date" datetime="2013-07-07T14:51:00+00:00">2013-07-07 14:51:00 +0000</time>
+    
+  </section>
+  
+  <section class="article__content">
+    
+      
+        <p class="note">This post refers to a legacy version of Siteleaf.</p>
+      
+    
+
+    
+    <p>
+      <a href="/posts/metadata-in-siteleaf/"><img src="/uploads/metadata-in-siteleaf-ui.png" alt="Metadata in Siteleaf" /></a>
+    </p>
+    
+
+    
+      <p>In <a href="http://siteleaf.com">Siteleaf</a>, metadata is pure key/value data attached to a site, page, or post. It provides a way to interact with templates beyond the basic usage of injecting title or body copy. Metadata can be used to set inline CSS values or specify the number of posts on a given page—the uses are endless. It’s also very flexible, down to a per-entity level. A post could have a completely unique set of metadata compared to that of its siblings. Let’s look at a few examples.</p>
+
+<h3 id="page-specific-color">Page-specific color</h3>
+
+<p>For my <a href="http://destroytoday.com">personal website</a>, I wanted each page to reflect its content. I accomplished this in the previous design through custom color per-page in the ‘Work’ section. All posts, however, looked the same. This time around, since I’m already writing more than ever, I knew posts would benefit from the same custom treatment, but not to the extent of pages. I decided on a single highlight color for each post, extracted from either its hero image or the topic of the post.</p>
+
+<p><img src="/uploads/metadata-in-siteleaf-color.png" alt="color" /></p>
+
+<p>In our first example, we specify a metadata key <code class="highlighter-rouge">color</code> with the value <code class="highlighter-rouge">#c00</code>. Notice how Siteleaf displays the correct syntax of this metadata in the lower right. You’ll find these syntax helpers below every input field in Siteleaf’s UI.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;style&gt;
+    a {
+        color: <span class="p">{{</span><span class="w"> </span><span class="nv">meta</span><span class="p">.</span><span class="nv">color</span><span class="w"> </span><span class="p">}}</span>;
+    }
+&lt;/style&gt;
+</code></pre>
+</div>
+
+<p>Then, inside the <code class="highlighter-rouge">&lt;head&gt;</code> tag of our default template, we create a <code class="highlighter-rouge">&lt;style&gt;</code> tag and set the base link color to our metadata value. The keyword <code class="highlighter-rouge">meta</code>, in this instance, references the metadata of the current page or post. When looping through posts, you can access each post’s metadata using <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">post.meta.color</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code>. If your metadata key isn’t a friendly variable name, you can access it with brackets: <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">meta['my</span><span class="w"> </span><span class="err">color']</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code>.</p>
+
+<p><em>Note — Siteleaf uses the shorter keyword <code class="highlighter-rouge">meta</code> when referencing metadata.</em></p>
+
+<h3 id="fallbacks">Fallbacks</h3>
+
+<p>Let’s say your website uses page-specific color, but not all pages call for their own color. In this case, you want the metadata to fall back to your brand color. To do this, we use the Siteleaf’s custom Liquid filter <code class="highlighter-rouge">fallback</code>. Now, when a page or post doesn’t have a <code class="highlighter-rouge">color</code> metadata, the value will fall back to one of the greatest colors in the entire spectrum.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;style&gt;
+    a {
+        color: <span class="p">{{</span><span class="w"> </span><span class="nv">meta</span><span class="p">.</span><span class="nv">color</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">fallback</span><span class="p">:</span><span class="w"> </span><span class="s1">'#007998'</span><span class="w"> </span><span class="p">}}</span>;
+    }
+&lt;/style&gt;
+</code></pre>
+</div>
+
+<p><em>Note — Fallbacks work with any variable, not just metadata.</em></p>
+
+<h3 id="site-metadata">Site metadata</h3>
+
+<p>At the launch of Siteleaf, we only had metadata for pages and posts, but we recently added site metadata as well, taking the separation of content and code one step further. You can use site metadata to manage your website meta, like its description:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;head&gt;
+    &lt;meta name='description' content='<span class="p">{{</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">meta</span><span class="p">.</span><span class="nv">description</span><span class="w"> </span><span class="p">}}</span>'&gt;
+&lt;/head&gt;
+</code></pre>
+</div>
+
+<p>Using our fallback example from before, you can use site metadata for the fallback value:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;style&gt;
+    a {
+        color: <span class="p">{{</span><span class="w"> </span><span class="nv">meta</span><span class="p">.</span><span class="nv">color</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">fallback</span><span class="p">:</span><span class="w"> </span>site.meta.color<span class="w"> </span><span class="p">}}</span>;
+    }
+&lt;/style&gt;
+</code></pre>
+</div>
+
+<p>Site metadata is especially useful for cases where your website is tied to 3rd party services, like <a href="http://symbolset.com">Symbolset</a>, <a href="http://typekit.com">Typekit</a>, or <a href="http://google.com/analytics">Google Analytics</a>. Here are a few examples:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;head&gt;
+    &lt;link href="//cdn.symbolset.com/<span class="p">{{</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">meta</span><span class="p">.</span><span class="nv">symbolset_id</span><span class="w"> </span><span class="p">}}</span>/symbolset.css" rel="stylesheet"&gt;
+&lt;/head&gt;
+</code></pre>
+</div>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;script&gt;
+    (function() {
+        var config = {
+            kitId: '<span class="p">{{</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">meta</span><span class="p">.</span><span class="nv">typekit_id</span><span class="w"> </span><span class="p">}}</span>',
+            scriptTimeout: 3000
+        };
+    })();
+&lt;/script&gt;
+</code></pre>
+</div>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;script&gt;
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '<span class="p">{{</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">meta</span><span class="p">.</span><span class="nv">analytics_id</span><span class="w"> </span><span class="p">}}</span>']);
+    _gaq.push(['_setDomainName', '<span class="p">{{</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">domain</span><span class="w"> </span><span class="p">}}</span>']);
+    _gaq.push(['_trackPageview']);
+&lt;/script&gt;
+</code></pre>
+</div>
+
+<h3 id="post-count-limit">Post count limit</h3>
+
+<p>I’m not a fan of hard-coded values in my templates. With them, it would be an ordeal to change something as petty as the number of blog posts on my front page. Fortunately, we can use metadata, keeping these values in Siteleaf, where we can easily update them.</p>
+
+<p><img src="/uploads/metadata-in-siteleaf-limit.png" alt="limit" /></p>
+
+<p>For any given page with posts, we simply set the metadata like before. Then, in the template, we set the <code class="highlighter-rouge">limit</code> property of the loop to the metadata of the page:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span>post<span class="w"> </span>in<span class="w"> </span>posts<span class="w"> </span><span class="na">limit</span><span class="o">:</span><span class="w"> </span>meta.limit.value<span class="w"> </span><span class="p">%}</span>
+    &lt;article&gt;
+        &lt;h3&gt;<span class="p">{{</span><span class="w"> </span><span class="nv">post</span><span class="p">.</span><span class="nv">title</span><span class="w"> </span><span class="p">}}</span>&lt;/h3&gt;
+        <span class="p">{{</span><span class="w"> </span><span class="nv">post</span><span class="p">.</span><span class="nv">body</span><span class="w"> </span><span class="p">}}</span>
+    &lt;/article&gt;
+<span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+</code></pre>
+</div>
+
+<p><em>Note — we use the keyword <code class="highlighter-rouge">value</code> when referencing the metadata because filters, like <code class="highlighter-rouge">limit</code>, must be run on the value of the metadata, not the metadata instance itself. If you remove the <code class="highlighter-rouge">value</code> keyword, Liquid will throw an <code class="highlighter-rouge">undefined method</code> error.</em></p>
+
+<h3 id="social-network-links">Social network links</h3>
+
+<p>If you’re feeling adventureous, there are a number of tricks you can pull off using Liquid filters and metadata, like listing links to your various networks. There are two ways of going about this that would allow for a flexible, easy-to-update list.</p>
+
+<p><img src="/uploads/metadata-in-siteleaf-links-1.png" alt="links" /></p>
+
+<p>The first method uses a comma-separated metadata value. In the template, we use the <code class="highlighter-rouge">assign</code> method along with the <code class="highlighter-rouge">split</code> filter to create a variable array of links. Notice that we use the <code class="highlighter-rouge">value</code> keyword like in the post count example.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">links</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">meta</span><span class="p">.</span><span class="nv">links</span><span class="p">.</span><span class="nv">value</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">split</span><span class="p">:</span><span class="w"> </span><span class="s1">', '</span><span class="w"> </span><span class="p">%}</span>
+&lt;ul&gt;
+    <span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span>link<span class="w"> </span>in<span class="w"> </span>links<span class="w"> </span><span class="p">%}</span>
+        &lt;li&gt;
+            &lt;a href="<span class="p">{{</span><span class="w"> </span><span class="nv">link</span><span class="w"> </span><span class="p">}}</span>"&gt;<span class="p">{{</span><span class="w"> </span><span class="nv">link</span><span class="w"> </span><span class="p">}}</span>&lt;/a&gt;
+        &lt;/li&gt;
+    <span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+&lt;/ul&gt;
+</code></pre>
+</div>
+
+<p>The second method allows you to extract the name of the network, but at the cost of gross code. This time, we create metadata for each link, but we prefix each key with a keyword, like ‘link_’.</p>
+
+<p><img src="/uploads/metadata-in-siteleaf-links-2.png" alt="links" /></p>
+
+<p>Then, in our template, we loop through the metadata, splitting each key along the way. With a conditional, we check that the metadata is one of our links and if it is, we use the second value in our split key as the network name with our value as the URL. You can even use the capitalize filter if you’d like. I told you it would be gross.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;ul&gt;
+    <span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span>data<span class="w"> </span>in<span class="w"> </span>meta<span class="w"> </span><span class="p">%}</span>
+        <span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">key</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">data</span><span class="p">.</span><span class="nv">key</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">split</span><span class="p">:</span><span class="w"> </span><span class="s1">'_'</span><span class="w"> </span><span class="p">%}</span>
+        <span class="p">{%</span><span class="w"> </span><span class="kr">if</span><span class="w"> </span><span class="nv">key</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="s1">'link'</span><span class="w"> </span><span class="p">%}</span>
+            &lt;li&gt;&lt;a href="<span class="p">{{</span><span class="w"> </span><span class="nv">data</span><span class="p">.</span><span class="nv">value</span><span class="w"> </span><span class="p">}}</span>"&gt;<span class="p">{{</span><span class="w"> </span><span class="nv">key</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">capitalize</span><span class="w"> </span><span class="p">}}</span>&lt;/a&gt;&lt;/li&gt;
+        <span class="p">{%</span><span class="w"> </span><span class="kr">endif</span><span class="w"> </span><span class="p">%}</span>
+    <span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+&lt;/ul&gt;
+</code></pre>
+</div>
+
+<h3 id="wrapping-up">Wrapping up</h3>
+
+<p>I hope this article helped in backing up my claim that Siteleaf is a real contender for any website. You shouldn’t need to sacrifice anything when building static. Metadata will allow you to customize any aspect of your website. Be creative. Experiment a bit and see what else you can do. As always, feel free to <a href="http://twitter.com/siteleaf">reach out</a> if you have any questions.</p>
+
+<p><small>This article was originally posted on destroytoday.com.</small></p>
+
+    
+    
+  </section>
+</article>
+
+
+
+</section>
+<!-- End Content -->
+	
+<!-- Footer -->
+<footer>
+<!-- Footer Top -->
+<div class="row expanded">
+  <div class="small-6 columns">
+  <ul class="menu">
+	<li><a href="/" class="header__home"><img src="/assets/img/layout/logo.svg" class="header__logo" alt="Inside Retail" /></a></li>
+  </ul>
+  </div>
+</div>
+<!-- End Footer Top -->
+
+<!-- Footer Bottom -->
+<div class="row expanded">
+  <div class="small-6 columns">
+  <ul class="menu">
+	<li><a href="#">© 2016 i2i Events Group</a></li>
+  </ul>
+  </div>
+  <div class="small-6 columns">
+  <ul class="menu align-right">
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
+    <li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+    <li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+    <li class="menu-text">Connect</li>
+  </ul>
+  </div>
+</div>
+<!-- End Footer Bottom -->
+</footer>
+<!-- End Footer -->
+
+</body>
+<script src="/assets/js/min/app-min.js"></script>
+</html>

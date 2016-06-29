@@ -1,0 +1,20 @@
+<div class="top-bar">
+  <div class="top-bar-left">
+    <ul class="menu">
+      <li><a href="/" class="header__home"><img src="{{ site.logo }}" class="header__logo" alt="{{ site.title }}" /></a></li>
+	  
+	  
+	  {% for item in site.data.navigation.header %}
+      <li>
+        <a href="{{ item.url }}" class="">{{ item.title }}</a>
+      </li>
+      {% endfor %}
+      
+    </ul>
+  </div>
+  <div class="top-bar-right">
+    <ul class="menu">
+      <li class="menu-text">Inside Retail</li>
+    </ul>
+  </div>
+</div>

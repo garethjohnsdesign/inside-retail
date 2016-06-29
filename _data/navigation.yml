@@ -1,0 +1,24 @@
+header:
+- title: About
+  url: /about/
+- title: Setting Up
+  url: /setting-up/
+- title: Trading & Hiring
+  url: /trading-and-hiring/
+- title: Expanding
+  url: /expanding/
+- title: Enhancing Business
+  url: /enhancing-business/
+footer:
+- title: Features
+  url: /features/
+- title: Press
+  url: http://siteleaf.dropmark.com/326718
+- title: Privacy
+  url: /privacy/
+- title: Terms
+  url: /terms/
+- title: Status
+  url: http://status.siteleaf.com
+- title: Twitter
+  url: https://twitter.com/siteleaf
