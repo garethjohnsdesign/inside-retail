@@ -1,6 +1,6 @@
 ---
 title: Getting started
-date: 2013-07-01 18:00:00 -04:00
+date: 2013-07-01 22:00:00 Z
 tags:
 - video
 - tutorial

@@ -1,6 +1,6 @@
 ---
 title: Brooklyn Beta
-date: 2013-10-08 15:34:00 -04:00
+date: 2013-10-08 19:34:00 Z
 tags:
 - event
 hero: "/uploads/beta.jpg"
