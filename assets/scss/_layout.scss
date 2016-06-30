@@ -1,15 +1,17 @@
 // Standard
 
 :focus {
-outline: 0;
+	outline: 0;
 }
 
 svg {
-max-width: 100%;
+	max-width: 100%;
 }
 
 img {
-max-width: 100%;
+	display: block;
+	max-width: 100%;
+	height: auto
 }
 
 // Typography
@@ -21,15 +23,64 @@ max-width: 100%;
 // Layout
 
 
-
-
-// Structure
-
-
-
-// Navigation
-
-.header__logo {
-  width: $width--logo;
+// Announcement
+.announcement {
+	background-color: $color--light-gray;
+	color: $color--white;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
 }
+
+// Header
+.header__logo {
+	width: 4rem;
+}
+
+//Carousel
+.carousel__title .carousel__highlight {
+	display: inline;
+	background: $color--white;
+	color: $color--black;
+	padding: 0.25em;
+	padding-left: 0;
+	padding-right: 0;
+	box-shadow: 10px 0 0 $color--white, -10px 0 0 $color--white;
+}
+
+// Sponsors
+.sponsors {
+	background-color: $color--light-gray;
+	color: $color--dark-gray;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.sponsors .icon {
+	font-size: 5rem;
+	color: $color--dark-gray;
+}
+
+// Subscribe
+.subscribe {
+	background-color: $color--orange;
+	color: $color--white;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.subscribe__form {
+	padding-top: 1rem;
+}
+
+// Footer
+.footer__top {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.footer__bottom {
+	background-color: $color--lightest-gray;
+}
+
+// Testing
 

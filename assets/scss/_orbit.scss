@@ -1,0 +1,43 @@
+// Orbit
+                                                                         
+.orbit-header {
+    position: absolute;
+    top: 30%;
+    z-index: 8;
+    padding: 1rem;
+    color: $color--white;
+    width: 100%;
+}
+
+.orbit-container .icon {
+	color: $color--white;
+    font-size: 1rem;
+}
+
+.orbit-header a {
+    color: $color--white;
+    @include transition(all 0.3s cubic-bezier(0.39, 0.575, 0.565, 1));
+}
+
+.orbit-header a:hover {
+    color: $color--white;
+}
+
+.orbit-previous, .orbit-next {
+    cursor: pointer;
+    @include transition(all 0.3s cubic-bezier(0.39, 0.575, 0.565, 1));
+}
+
+.orbit-previous:hover {
+    -webkit-transform: translateY(-50%) translateX(-10px);
+    transform: translateY(-50%) translateX(-10px);
+}
+
+.orbit-next:hover {
+        -webkit-transform: translateY(-50%) translateX(10px);
+    transform: translateY(-50%) translateX(10px);
+}
+
+.orbit-container {
+	height: auto !important;
+}

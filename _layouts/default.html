@@ -4,11 +4,13 @@
 {% include head.html %}
 
 <body>
-	
+
+<!-- Announcement -->
+{% include announcement.html %}
+<!-- End Announcement -->
+
 <!-- Navigation -->
-<div class="top">
 {% include navigation.html %}
-</div>
 <!-- End Navigation -->
 	
 <!-- Content -->
@@ -16,11 +18,18 @@
 {{ content }}
 </section>
 <!-- End Content -->
-	
+
+<!-- Sponsors -->
+{% include sponsors.html %}
+<!-- End Sponsors -->
+
+
+<!-- Subscribe -->
+{% include subscribe.html %}
+<!-- End Subscribe -->
+
 <!-- Footer -->
-<footer>
 {% include footer.html %}
-</footer>
 <!-- End Footer -->
 
 </body>

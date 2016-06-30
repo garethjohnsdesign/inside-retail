@@ -1,20 +1,23 @@
-<div class="top-bar">
+<div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
+  <button class="menu-icon" type="button" data-toggle></button>
+  <div class="title-bar-title">Inside Retail</div>
+</div>
+
+<div class="top-bar" id="example-menu">
   <div class="top-bar-left">
-    <ul class="menu">
+    <ul class="dropdown menu" data-dropdown-menu>
       <li><a href="/" class="header__home"><img src="{{ site.logo }}" class="header__logo" alt="{{ site.title }}" /></a></li>
-	  
-	  
-	  {% for item in site.data.navigation.header %}
-      <li>
-        <a href="{{ item.url }}" class="">{{ item.title }}</a>
-      </li>
-      {% endfor %}
-      
+      {% for item in site.data.navigation.header %}
+  <li>
+    <a href="{{ item.url }}" class="">{{ item.title }}</a>
+  </li>
+  {% endfor %}
     </ul>
   </div>
   <div class="top-bar-right">
-    <ul class="menu">
-      <li class="menu-text">Inside Retail</li>
+    <ul class="menu align-right">
+	  <li><a href="/">Subscribe</a></li>
+      <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
     </ul>
   </div>
 </div>

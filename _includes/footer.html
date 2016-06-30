@@ -1,15 +1,49 @@
 <!-- Footer Top -->
-<div class="row expanded">
-  <div class="small-6 columns">
+<div class="footer__top">
+	
+<!-- Footer Top__Logo -->
+<div class="row expanded columns">
   <ul class="menu">
 	<li><a href="/" class="header__home"><img src="{{ site.logo }}" class="header__logo" alt="{{ site.title }}" /></a></li>
   </ul>
-  </div>
 </div>
+<!-- End Footer Top__Logo -->
+
+<!-- Footer Top__Menu -->
+<div class="row expanded">
+  
+  <div class="small-2 columns">
+  <ul class="menu vertical">
+  {% for item in site.data.navigation.details %}
+  <li><a href="{{ item.url }}" class="">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  
+  <div class="small-2 columns">
+  <ul class="menu vertical">
+  {% for item in site.data.navigation.categories %}
+  <li><a href="{{ item.url }}" class="">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  
+  <div class="small-2 columns">
+  <ul class="menu vertical">
+  {% for item in site.data.navigation.tags %}
+  <li><a href="{{ item.url }}" class="">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  
+</div>
+<!-- End Footer Top__Menu-->
+
 <!-- End Footer Top -->
+</div>
 
 <!-- Footer Bottom -->
-<div class="row expanded">
+<div class="row expanded footer__bottom">
   <div class="small-6 columns">
   <ul class="menu">
 	<li><a href="#">© {{ site.time | date: '%Y' }} {{site.company}}</a></li>
@@ -17,11 +51,11 @@
   </div>
   <div class="small-6 columns">
   <ul class="menu align-right">
+	<li class="menu-text">Connect</li>
 	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
 	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
     <li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
     <li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
-    <li class="menu-text">Connect</li>
   </ul>
   </div>
 </div>
