@@ -8,6 +8,9 @@ collections:
   posts:
     title: Posts
     output: true
+  blog_tags:
+    title: Tags
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -16,15 +19,26 @@ defaults:
     path: ''
     type: posts
   values:
+    permalink: "/blog/:title/"
     layout: post
-    permalink: "/posts/:title/"
+    image: 
+    description: 
+    button:
+      title: 
+      url: 
 - scope:
     path: ''
-    type: pages
+    type: blog_tags
   values:
-    layout: page
+    layout: tag
 permalink: pretty
-analytics: 
+gems:
+- jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.
 domain: http://insideretail.com
 company: i2i Events Group
@@ -35,3 +49,5 @@ twitter: https://twitter.com/insideretail
 google: "UA-80072725-1"
 logo: "/assets/img/layout/logo.svg"
 per_page: 12
+date_format: "%b %d, %Y"
+future: true

@@ -36,6 +36,38 @@ img {
 	width: 4rem;
 }
 
+//Index
+.index__content {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.index__latest__title {
+	text-transform: uppercase;
+}
+
+.index__connect__title {
+	text-transform: uppercase;
+	padding-bottom: 2rem;
+}
+
+.index__top__title {
+	text-transform: uppercase;
+	padding-bottom: 1rem;
+}
+
+
+
+// Excerpt
+.excerpt__image {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.excerpt__tag__link {
+	text-transform: uppercase;
+}
+
 //Carousel
 .carousel__title .carousel__highlight {
 	display: inline;

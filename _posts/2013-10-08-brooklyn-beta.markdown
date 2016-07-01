@@ -3,6 +3,8 @@ title: Brooklyn Beta
 date: 2013-10-08 15:34:00 -04:00
 tags:
 - event
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/beta.jpg"
 ---
 

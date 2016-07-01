@@ -2,9 +2,14 @@
 layout: default
 ---
 
+<div class="row">
 {% for post in site.posts limit:site.per_page %}
-  {% include post.html post=post is_excerpt=true %}
+  {% include excerpt.html %}
 {% endfor %}
-<div class="blog__buttonWrap">
-  <a href="/blog/archive/" class="bg--gray blog__button">Older posts</a>
+</div>
+
+<div class="row">
+<div class="columns">
+  <a href="/blog/archive/" class="bg--gray button expanded">Older posts</a>
+</div>
 </div>

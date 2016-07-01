@@ -3,6 +3,8 @@ title: Stickers now available
 date: 2014-06-18 15:51:00 -04:00
 tags:
 - community
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 hero: 
 ---
 

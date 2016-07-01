@@ -6,6 +6,8 @@ tags:
 - jekyll
 - github
 - video
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 image: "/uploads/jekyll-from-scratch-title.png"
 description: In this tutorial, we’ll show you how to get set up and develop websites
   locally using Jekyll, a static website generator built on Ruby. We'll cover installing

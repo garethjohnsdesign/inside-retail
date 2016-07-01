@@ -4,6 +4,8 @@ date: 2014-07-08 10:00:00 -04:00
 tags:
 - tip
 - markdown
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 hero: 
 ---
 

@@ -4,6 +4,8 @@ date: 2013-06-28 17:50:00 -04:00
 tags:
 - video
 - v1
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 vimeo: '69301083'
 ---
 

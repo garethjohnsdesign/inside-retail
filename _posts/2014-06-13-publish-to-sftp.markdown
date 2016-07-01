@@ -3,6 +3,8 @@ title: Now publishing to SFTP
 date: 2014-06-13 10:35:00 -04:00
 tags:
 - announcement
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 hero: 
 ---
 

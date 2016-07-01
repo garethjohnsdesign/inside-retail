@@ -4,6 +4,8 @@ date: 2015-03-25 15:55:00 -04:00
 tags:
 - tutorial
 - aws
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 hero: 
 ---
 

@@ -4,6 +4,8 @@ date: 2013-07-01 10:43:00 -04:00
 tags:
 - tutorial
 - v1
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/hello-world-im-siteleaf-create-site.png"
 ---
 

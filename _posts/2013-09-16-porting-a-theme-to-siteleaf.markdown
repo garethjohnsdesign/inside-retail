@@ -5,6 +5,8 @@ tags:
 - tutorial
 - liquid
 - v1
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/porting-a-theme-to-siteleaf-martin.png"
 Docs:
 - getting started

@@ -1,4 +1,6 @@
 header:
+- title: Blog
+  url: /blog/
 - title: About
   url: /about/
 - title: Setting Up

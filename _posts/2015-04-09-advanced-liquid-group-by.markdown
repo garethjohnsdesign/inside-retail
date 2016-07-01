@@ -5,6 +5,8 @@ tags:
 - tutorial
 - liquid
 - v1
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/group_by.svg"
 Docs:
 - filters and tags

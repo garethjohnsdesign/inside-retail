@@ -4,6 +4,8 @@ date: 2013-06-05 22:47:00 -04:00
 tags:
 - announcement
 - v1
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/introducing-siteleaf.jpg"
 ---
 

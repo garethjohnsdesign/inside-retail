@@ -5,6 +5,8 @@ tags:
 - video
 - tutorial
 - v1
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 vimeo: '69294068'
 Docs:
 - getting started

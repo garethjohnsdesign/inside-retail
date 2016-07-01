@@ -1,11 +1,13 @@
 ---
-title: Connecting GitHub and Siteleaf
+title: The Online Challenge 
 date: 2016-06-24 13:00:00 -04:00
 tags:
 - tutorial
 - jekyll
 - github
 - video
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 image: "/uploads/connecting-github-and-siteleaf-title.png"
 description: This tutorial will show you how to connect and sync an existing Jekyll
   site from GitHub to Siteleaf, so you can edit content and preview your site in the

@@ -2185,6 +2185,137 @@ Copyright (c) 2015 Daniel Eden
   -webkit-animation-name: slideOutUp;
   animation-name: slideOutUp; }
 
+.blue {
+  color: #11A0F3; }
+  .blue.icon {
+    fill: #11A0F3; }
+
+.green {
+  color: #25BEA1; }
+  .green.icon {
+    fill: #25BEA1; }
+
+.yellow {
+  color: #F8EC31; }
+  .yellow.icon {
+    fill: #F8EC31; }
+
+.red {
+  color: #E56134; }
+  .red.icon {
+    fill: #E56134; }
+
+.purple {
+  color: #91278F; }
+  .purple.icon {
+    fill: #91278F; }
+
+.darkest-gray {
+  color: #374252; }
+  .darkest-gray.icon {
+    fill: #374252; }
+
+.darker-gray {
+  color: #5A6575; }
+  .darker-gray.icon {
+    fill: #5A6575; }
+
+.dark-gray {
+  color: #8C95A3; }
+  .dark-gray.icon {
+    fill: #8C95A3; }
+
+.gray {
+  color: #B1B8C4; }
+  .gray.icon {
+    fill: #B1B8C4; }
+
+.white {
+  color: #ffffff; }
+  .white.icon {
+    fill: #ffffff; }
+
+.bg--blue {
+  background: #11A0F3;
+  color: #ffffff; }
+
+.bg--green {
+  background: #25BEA1;
+  color: #ffffff; }
+
+.bg--yellow {
+  background: #F8EC31; }
+  .bg--yellow h1,
+  .bg--yellow h2,
+  .bg--yellow h3,
+  .bg--yellow h4,
+  .bg--yellow h5,
+  .bg--yellow h6 {
+    color: #ffffff; }
+
+.bg--red {
+  background: #E56134;
+  color: #ffffff; }
+
+.bg--purple {
+  background: #91278F;
+  color: #ffffff; }
+
+.bg--darkest-gray {
+  background: #374252;
+  color: #ffffff; }
+
+.bg--darker-gray {
+  background: #5A6575;
+  color: #ffffff; }
+
+.bg--dark-gray {
+  background: #8C95A3;
+  color: #ffffff; }
+
+.bg--gray {
+  background: #B1B8C4;
+  color: #ffffff; }
+
+.bg--light-gray {
+  background: #D3D8E0; }
+
+.bg--lighter-gray {
+  background: #E9ECF0; }
+
+.bg--lightest-gray {
+  background: #F7F8FA; }
+
+.bg--white {
+  background: #ffffff; }
+
+a.bg--blue:hover {
+  background: #0b91df; }
+
+a.bg--green:hover {
+  background: #21a98f; }
+
+a.bg--yellow:hover {
+  background: #f7ea18; }
+
+a.bg--red:hover {
+  background: #e24f1d; }
+
+a.bg--purple:hover {
+  background: #7d227b; }
+
+a.bg--darkest-gray:hover {
+  background: #2d3643; }
+
+a.bg--darker-gray:hover {
+  background: #4f5967; }
+
+a.bg--dark-gray:hover {
+  background: #7e8898; }
+
+a.bg--gray:hover {
+  background: #a2abb9; }
+
 @font-face {
   font-family: 'Gotham-Light';
   src: url("../fonts/Gotham-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Light.otf") format("opentype"), url("../fonts/Gotham-Light.woff") format("woff"), url("../fonts/Gotham-Light.ttf") format("truetype"), url("../fonts/Gotham-Light.svg#Gotham-Light") format("svg");
@@ -2215,7 +2346,7 @@ Copyright (c) 2015 Daniel Eden
 
 .orbit-container .icon {
   color: #ffffff;
-  font-size: 1rem; }
+  font-size: 5rem; }
 
 .orbit-header a {
   color: #ffffff;
@@ -6499,6 +6630,28 @@ img {
 
 .header__logo {
   width: 4rem; }
+
+.index__content {
+  padding-top: 2rem;
+  padding-bottom: 2rem; }
+
+.index__latest__title {
+  text-transform: uppercase; }
+
+.index__connect__title {
+  text-transform: uppercase;
+  padding-bottom: 2rem; }
+
+.index__top__title {
+  text-transform: uppercase;
+  padding-bottom: 1rem; }
+
+.excerpt__image {
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
+.excerpt__tag__link {
+  text-transform: uppercase; }
 
 .carousel__title .carousel__highlight {
   display: inline;

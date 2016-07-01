@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Siteleaf, http://siteleaf.com" />
+
+<title>Introducing user roles</title>
+<meta name="description" content="Today we’re happy to introduce a highly requested feature: user roles. Since day one you’ve been able to invite collaborators to your site. With the introduc...">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.">
+<meta name="twitter:title" content="Inside Retail">
+<meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.">
+<meta name="twitter:creator" content="https://twitter.com/insideretail">
+<meta name="twitter:image:src" content="http://aqualis.co/assets/img/meta/meta-image.png">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Introducing user roles" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:url" content="/blog/introducing-user-roles/" />
+<meta property="og:image" content="http://aqualis.co/assets/img/meta/meta-image.png" />
+<meta property="og:description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit." />
+<meta property="og:site_name" content="Inside Retail" />
+
+<!-- Icons -->
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/icons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/icons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/icons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/icons/manifest.json">
+<link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#000000">
+<link rel="shortcut icon" href="/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/assets/icons/mstile-144x144.png">
+<meta name="msapplication-config" content="/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+<link rel="stylesheet" type="text/css" href="/assets/css/app.css">
+		
+<link rel="canonical" href="/blog/introducing-user-roles/">
+<link rel="alternate" type="application/rss+xml" title="Inside Retail" href="/feed.xml">
+
+<link rel="stylesheet" href="https://i.icomoon.io/public/0d0b2f3d01/InsideRetail/style-svg.css">
+<script defer src="https://i.icomoon.io/public/0d0b2f3d01/InsideRetail/svgxuse.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80072725-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<!-- Announcement -->
+<div class="row expanded announcement">
+	<div class="small-12 columns text-center">
+		Pure London Olympia London 24 — 26 July 2016
+	</div>
+</div>
+
+<!-- End Announcement -->
+
+<!-- Navigation -->
+<div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
+  <button class="menu-icon" type="button" data-toggle></button>
+  <div class="title-bar-title">Inside Retail</div>
+</div>
+
+<div class="top-bar" id="example-menu">
+  <div class="top-bar-left">
+    <ul class="dropdown menu" data-dropdown-menu>
+      <li><a href="/" class="header__home"><img src="/assets/img/layout/logo.svg" class="header__logo" alt="Inside Retail" /></a></li>
+      
+  <li>
+    <a href="/blog/" class="">Blog</a>
+  </li>
+  
+  <li>
+    <a href="/about/" class="">About</a>
+  </li>
+  
+  <li>
+    <a href="/setting-up/" class="">Setting Up</a>
+  </li>
+  
+  <li>
+    <a href="/trading-and-hiring/" class="">Trading & Hiring</a>
+  </li>
+  
+  <li>
+    <a href="/expanding/" class="">Expanding</a>
+  </li>
+  
+  <li>
+    <a href="/enhancing-business/" class="">Enhancing Business</a>
+  </li>
+  
+    </ul>
+  </div>
+  <div class="top-bar-right">
+    <ul class="menu align-right">
+	  <li><a href="/">Subscribe</a></li>
+      <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
+    </ul>
+  </div>
+</div>
+<!-- End Navigation -->
+	
+<!-- Content -->
+<section class="content">
+
+
+<article class="article">
+<!-- Title -->
+<h2 class="article__title"><a href="/blog/introducing-user-roles/">Introducing user roles</a></h2>
+<!-- End Title -->
+
+<!-- Tags and Date -->
+
+<section class="article__meta">
+
+  <ul class="menu article__tags">
+    
+      
+      
+        
+        
+          <li class="article__tag"><a href="/blog/tags/announcement/" class="article__tag__link bg--green">Announcement</a></li>
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    
+  </ul>
+
+
+<time class="article__date" datetime="2014-05-05T13:00:00+00:00">May 05, 2014</time>
+
+</section>
+
+<!-- End Tags and Date -->
+  
+  
+<!-- Article Content -->
+<section class="article__content">
+
+
+<p>Today we’re happy to introduce a highly requested feature: user roles. Since day one you’ve been able to invite collaborators to your site. With the introduction of user roles, you can now set the level of control each collaborator has over your site content. You can now set a collaborator’s role to one of the following:</p>
+
+<h3 id="admin">Admin</h3>
+
+<p>The admin role gives full privileges to the collaborator, allowing them to manage and publish all content. This role is great for people who are helping build the site, like a developer or designer, since it allows them to upload theme files, change the site’s settings, and invite other collaborators.</p>
+
+<h3 id="publisher">Publisher</h3>
+
+<p>The publisher role is similar to the admin role, however publishers aren’t able to access theme files or the site’s settings. This is a great role to grant to a client. It allows a person to manage and publish pages, posts and assets, while protecting them from accidentally breaking the site’s theme.</p>
+
+<h3 id="writer">Writer</h3>
+
+<p>The writer role is the most limited role available. A writer can only manage their own content, and any content they create will default to “Draft” status. This means that a Publisher or Admin must approve a writer’s content first before publishing it. This role is great for sites with many collaborators who only need access in order to add content (like a blog post).</p>
+
+
+
+
+
+</section>
+<!-- End Article Content -->
+  
+</article>
+
+
+
+</section>
+<!-- End Content -->
+
+<!-- Sponsors -->
+<div class="row expanded columns sponsors">
+	
+	<div class="row">
+	<div class="small-12 columns text-center">
+	<h5>Sponsors</h5>
+	</div>
+	</div>
+	
+	<div class="row">
+	<div class="small-12 columns">
+		<ul class="menu align-center">
+			<li><a href="#"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
+			<li><a href="#"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
+			<li><a href="#"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
+			<li><a href="#"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
+		</ul>
+	</div>
+	</div>
+	
+</div>
+<!-- End Sponsors -->
+
+
+<!-- Subscribe -->
+<div class="row expanded subscribe">
+<div class="small-12 columns text-center">
+<h5>Subscribe</h5>
+<h5>Get our newsletter Dolor here lorem opsum</h5>
+
+<form class="subscribe__form">
+<div class="row">
+	<div class="medium-12 columns">
+		<ul class="menu align-center">
+		    <li><input type="text" placeholder="Email Address"></li>
+		    <li><button type="button" class="button">Sign Up</button></li>
+		</ul>   
+	</div>
+</div>
+</form>
+
+
+</div>
+</div>
+
+<!-- End Subscribe -->
+
+<!-- Footer -->
+<!-- Footer Top -->
+<div class="footer__top">
+	
+<!-- Footer Top__Logo -->
+<div class="row expanded columns">
+  <ul class="menu">
+	<li><a href="/" class="header__home"><img src="/assets/img/layout/logo.svg" class="header__logo" alt="Inside Retail" /></a></li>
+  </ul>
+</div>
+<!-- End Footer Top__Logo -->
+
+<!-- Footer Top__Menu -->
+<div class="row expanded">
+  
+  <div class="small-2 columns">
+  <ul class="menu vertical">
+  
+  <li><a href="/about/" class="">About</a></li>
+  
+  <li><a href="/privacy/" class="">Privacy</a></li>
+  
+  <li><a href="/terms/" class="">Terms & Conditions</a></li>
+  
+  <li><a href="/site-map/" class="">Site Map</a></li>
+  
+  </ul>
+  </div>
+  
+  <div class="small-2 columns">
+  <ul class="menu vertical">
+  
+  <li><a href="/setting-up/" class="">Setting Up</a></li>
+  
+  <li><a href="/trading-and-hiring/" class="">Trading & Hiring</a></li>
+  
+  <li><a href="/expanding/" class="">Expanding</a></li>
+  
+  <li><a href="/enhancing-business/" class="">Enhancing Business</a></li>
+  
+  </ul>
+  </div>
+  
+  <div class="small-2 columns">
+  <ul class="menu vertical">
+  
+  <li><a href="/ecommerce/" class="">eCommerce</a></li>
+  
+  <li><a href="/marketing/" class="">Marketing</a></li>
+  
+  <li><a href="/in-store/" class="">In-Store</a></li>
+  
+  <li><a href="/inspiration/" class="">Inspiration</a></li>
+  
+  </ul>
+  </div>
+  
+</div>
+<!-- End Footer Top__Menu-->
+
+<!-- End Footer Top -->
+</div>
+
+<!-- Footer Bottom -->
+<div class="row expanded footer__bottom">
+  <div class="small-6 columns">
+  <ul class="menu">
+	<li><a href="#">© 2016 i2i Events Group</a></li>
+  </ul>
+  </div>
+  <div class="small-6 columns">
+  <ul class="menu align-right">
+	<li class="menu-text">Connect</li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
+    <li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+    <li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+  </ul>
+  </div>
+</div>
+<!-- End Footer Bottom -->
+<!-- End Footer -->
+
+</body>
+<script src="/assets/js/min/app-min.js"></script>
+</html>

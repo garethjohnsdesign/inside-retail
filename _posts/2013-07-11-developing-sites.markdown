@@ -6,6 +6,8 @@ tags:
 - video
 - liquid
 - v1
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 vimeo: '70121781'
 Docs:
 - getting started

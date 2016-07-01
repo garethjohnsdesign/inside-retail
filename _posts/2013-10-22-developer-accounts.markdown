@@ -3,6 +3,8 @@ title: Developer accounts
 date: 2013-10-22 10:32:00 -04:00
 tags:
 - announcement
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 ---
 
 Today, we’re announcing developer accounts. At launch, we required a subscription in order to use Siteleaf, unless you were invited to a site. Now, you can sign up for free, test the waters, and get a feel for the service before subscribing. If you want to publish your site, simply upgrade to one of our [plans](/plans) and publish away.

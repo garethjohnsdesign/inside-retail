@@ -3,6 +3,8 @@ title: Siteleaf Hackday in Brooklyn
 date: 2013-08-09 15:05:00 -04:00
 tags:
 - event
+excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-text: Maecenas faucibus mollis interdum
 ---
 
 Introducing the very first [Siteleaf Hackday](http://siteleaf.eventbrite.com), August 24 in Brooklyn, NY. If you are new to Siteleaf, have questions, or just need some motivation to finally make that new blog, here's your chance to sit down with the Siteleaf team and talk one-on-one.
