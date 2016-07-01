@@ -1,6 +1,6 @@
 ---
 title: Sites we love
-date: 2013-10-31 15:24:00 -04:00
+date: 2013-10-31 19:24:00 Z
 tags:
 - inspiration
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"

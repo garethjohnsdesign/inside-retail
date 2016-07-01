@@ -1,6 +1,6 @@
 ---
 title: Jekyll from scratch
-date: 2016-06-14 13:00:00 -04:00
+date: 2016-06-14 17:00:00 Z
 tags:
 - tutorial
 - jekyll

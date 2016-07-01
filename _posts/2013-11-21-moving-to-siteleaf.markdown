@@ -1,6 +1,6 @@
 ---
 title: Moving to Siteleaf
-date: 2013-11-21 01:22:00 -05:00
+date: 2013-11-21 06:22:00 Z
 tags:
 - community
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"

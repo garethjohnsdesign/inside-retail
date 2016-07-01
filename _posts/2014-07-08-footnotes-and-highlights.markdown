@@ -1,6 +1,6 @@
 ---
 title: Footnotes & Highlights
-date: 2014-07-08 10:00:00 -04:00
+date: 2014-07-08 14:00:00 Z
 tags:
 - tip
 - markdown

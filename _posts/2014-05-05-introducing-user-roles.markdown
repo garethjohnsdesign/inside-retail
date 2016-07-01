@@ -1,6 +1,6 @@
 ---
 title: Introducing user roles
-date: 2014-05-05 09:00:00 -04:00
+date: 2014-05-05 13:00:00 Z
 tags:
 - announcement
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"

@@ -32,6 +32,7 @@ defaults:
   values:
     layout: tag
 permalink: pretty
+<<<<<<< HEAD
 gems:
 - jekyll-seo-tag
 markdown: kramdown
@@ -40,14 +41,23 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.
+=======
+analytics: 
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus,
+  porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur
+  ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.
+>>>>>>> origin/master
 domain: http://insideretail.com
 company: i2i Events Group
 email: info@insideretail.com
 facebook: https://www.facebook.com/insideretail
 instagram: https://www.instagram.com/insideretail
 twitter: https://twitter.com/insideretail
-google: "UA-80072725-1"
+google: UA-80072725-1
 logo: "/assets/img/layout/logo.svg"
 per_page: 12
+<<<<<<< HEAD
 date_format: "%b %d, %Y"
 future: true
+=======
+>>>>>>> origin/master
