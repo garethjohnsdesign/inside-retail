@@ -122,9 +122,15 @@ h1, h2 {
 	padding-bottom: 2rem;
 }
 
+.sponsors a {
+	color: $color--dark-gray;
+	&:hover {
+    color: black;
+  }
+}
+
 .sponsors .icon {
 	font-size: 5rem;
-	color: yellow;
 }
 
 .sponsors h5 {

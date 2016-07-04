@@ -6708,9 +6708,13 @@ h1, h2 {
   padding-top: 2rem;
   padding-bottom: 2rem; }
 
+.sponsors a {
+  color: #8C95A3; }
+  .sponsors a:hover {
+    color: black; }
+
 .sponsors .icon {
-  font-size: 5rem;
-  color: yellow; }
+  font-size: 5rem; }
 
 .sponsors h5 {
   text-transform: uppercase;

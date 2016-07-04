@@ -11,6 +11,9 @@ collections:
   blog_tags:
     title: Tags
     output: true
+  blog_categories:
+    title: Categories
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -23,14 +26,16 @@ defaults:
     layout: post
     image: 
     description: 
-    button:
-      title: 
-      url: 
 - scope:
     path: ''
     type: blog_tags
   values:
     layout: tag
+- scope:
+    path: ''
+    type: blog_categories
+  values:
+    layout: category
 permalink: pretty
 gems:
 - jekyll-seo-tag

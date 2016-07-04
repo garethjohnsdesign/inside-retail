@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% assign category = page.title | downcase %}
+{% assign category_posts = site.categories[category] %}
+{% for post in category_posts %}
+{% include post.html post=post is_excerpt=true %}
+{% endfor %}
