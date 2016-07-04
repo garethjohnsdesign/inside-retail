@@ -1,7 +1,8 @@
 ---
 title: Say hello to Siteleaf v2
 date: 2016-06-07 14:00:00 Z
-category: getting-started
+categories:
+- getting-started
 tags:
 - announcement
 - video

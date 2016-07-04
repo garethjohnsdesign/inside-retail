@@ -1,7 +1,8 @@
 ---
 title: Introducing learn.siteleaf.com
 date: 2016-06-13 21:03:00 Z
-category: getting-started
+categories:
+- getting-started
 tags:
 - announcement
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"

@@ -1,7 +1,8 @@
 ---
 title: Jekyll from scratch
 date: 2016-06-14 17:00:00 Z
-category: getting-started
+categories:
+- getting-started
 tags:
 - tutorial
 - jekyll

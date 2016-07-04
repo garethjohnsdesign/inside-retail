@@ -5,14 +5,14 @@ collections:
   carousel:
     title: Carousel
     output: true
+  blog_categories:
+    title: Categories
+    output: true
   posts:
     title: Posts
     output: true
   blog_tags:
     title: Tags
-    output: true
-  blog_categories:
-    title: Categories
     output: true
   uploads:
     title: Uploads
