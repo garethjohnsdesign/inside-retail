@@ -120,7 +120,7 @@
   </div>
   <div class="top-bar-right">
     <ul class="menu align-right">
-	  <li><a href="/">Subscribe</a></li>
+	  <li><a href="/">Subscribe<span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
       <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
     </ul>
   </div>
@@ -129,240 +129,11 @@
 	
 <!-- Content -->
 <section class="content">
-
-
-<article class="article">
-<!-- Title -->
-<h2 class="article__title"><a href="/blog/publishing-via-the-api/">Publishing via the API</a></h2>
-<!-- End Title -->
-
-<!-- Tags and Date -->
-
-<section class="article__meta">
-
-  <ul class="menu article__tags">
-    
-      
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/announcement/" class="article__tag__link bg--green">Announcement</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/tutorial/" class="article__tag__link bg--blue">Tutorial</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/v1/" class="article__tag__link bg--dark-gray">v1</a></li>
-        
-      
-        
-        
-      
-    
-  </ul>
-
-
-<time class="article__date" datetime="2015-06-24T15:10:00+00:00">Jun 24, 2015</time>
-
-</section>
-
-<!-- End Tags and Date -->
-  
-  
-<!-- Article Content -->
-<section class="article__content">
-
-
-<p>For the last week publishing in the Siteleaf interface has been powered by our API. This has been a requested feature by some of our users and ourselves. Its behavior is bit different than some of our other API endpoints, so let’s go over it.</p>
-
-<p>To initiate a publish, make an authenticated <code class="highlighter-rouge">POST</code> request to the <code class="highlighter-rouge">/sites/:id/publish</code> endpoint.</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>curl -u <span class="s2">"</span><span class="nv">$API_KEY</span><span class="s2">:</span><span class="nv">$API_SECRET</span><span class="s2">"</span> -X POST <span class="se">\</span>
-  http://api.siteleaf.com/v1/sites/<span class="nv">$SITE_ID</span>/publish
-
-<span class="o">{</span><span class="s2">"job_id"</span>:<span class="s2">"e79af12c79ccd8866902d3dd"</span><span class="o">}</span> 
-</code></pre>
+<div class="row">
+	<div class="small-12 columns">
+		<h2 class="article__title"><a href="/blog/publishing-via-the-api/">Publishing via the API</a></h2>
+	</div>
 </div>
-
-<p>This triggers a publish and immediately returns a job ID (or returns an already running job ID if one exists). You can stop here if you’d like and Siteleaf will happily chug away in the background.</p>
-
-<p>But the fun doesn’t stop there. You can optionally check in on publish progress using your <code class="highlighter-rouge">job_id</code> from above by making an authenticated <code class="highlighter-rouge">GET</code> request to the new <code class="highlighter-rouge">/jobs/:id</code> endpoint.</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>curl -u <span class="s2">"</span><span class="nv">$API_KEY</span><span class="s2">:</span><span class="nv">$API_SECRET</span><span class="s2">"</span> <span class="se">\</span>
-  http://api.siteleaf.com/api/v1/jobs/e79af12c79ccd8866902d3dd
-
-event:publish
-data:<span class="o">{</span><span class="s2">"status"</span>:<span class="s2">"working"</span>,<span class="s2">"message"</span>:<span class="s2">"Checking... /home"</span>,<span class="s2">"updated_at"</span>:<span class="s2">"1435159120"</span><span class="o">}</span>
-
-<span class="o">[</span>etc…]
-
-event:publish
-data:<span class="o">{</span><span class="s2">"status"</span>:<span class="s2">"complete"</span>,<span class="s2">"message"</span>:<span class="s2">"Published"</span>,<span class="s2">"updated_at"</span>:<span class="s2">"1435159121"</span><span class="o">}</span>
-</code></pre>
-</div>
-
-<p>This endpoint, unlike our others, consistently returns <a href="https://en.wikipedia.org/wiki/Server-sent_events">Server Sent Events</a> (SSE) instead of JSON documents (including  errors). The <code class="highlighter-rouge">data</code> field is JSON encoded however. SSE is supported in all modern browsers and there are client libraries in a number of programming languages.</p>
-
-<p>Additionally, job ID’s are kept for at least 30 minutes after completion so you can check in on a publish immediately or wait a bit.</p>
-
-<p>Can’t wait to see what uses you come up with!</p>
-
-<h3 id="publishing-from-the-gem">Publishing from the gem</h3>
-
-<p>First install the latest gem (<a href="https://rubygems.org/gems/siteleaf"><code class="highlighter-rouge">0.9.23</code></a> as of writing)</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>gem install siteleaf
-</code></pre>
-</div>
-
-<p>And then…</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>siteleaf publish
-Fetching inventory...
-Compiling...
-<span class="o">[</span>etc…]
-Published
-<span class="gp">=&gt; </span>Publish completed.
-</code></pre>
-</div>
-
-<p>Or if you don’t care about progress, you can use either of the following:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>siteleaf publish -q
-<span class="gp">$ </span>siteleaf publish --quiet
-
-<span class="gp">=&gt; </span>Publish queued.
-</code></pre>
-</div>
-
-<p>🎉🎉</p>
-
-
-
-
-
-</section>
-<!-- End Article Content -->
-  
-</article>
-
-
-
 </section>
 <!-- End Content -->
 
@@ -378,10 +149,10 @@ Published
 	<div class="row">
 	<div class="small-12 columns">
 		<ul class="menu align-center">
-			<li><a href="#"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
+			<li><a href="http://www.mastercard.co.uk" target="_blank"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
+			<li><a href="http://go.sap.com/index.html" target="_blank"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
+			<li><a href="https://www.gov.uk/government/organisations/uk-trade-investment" target="_blank"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
+			<li><a href="https://www.vendhq.com" target="_blank"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
 		</ul>
 	</div>
 	</div>

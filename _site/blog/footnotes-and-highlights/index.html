@@ -120,7 +120,7 @@
   </div>
   <div class="top-bar-right">
     <ul class="menu align-right">
-	  <li><a href="/">Subscribe</a></li>
+	  <li><a href="/">Subscribe<span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
       <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
     </ul>
   </div>
@@ -129,169 +129,11 @@
 	
 <!-- Content -->
 <section class="content">
-
-
-<article class="article">
-<!-- Title -->
-<h2 class="article__title"><a href="/blog/footnotes-and-highlights/">Footnotes & Highlights</a></h2>
-<!-- End Title -->
-
-<!-- Tags and Date -->
-
-<section class="article__meta">
-
-  <ul class="menu article__tags">
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/tip/" class="article__tag__link bg--yellow">Tip</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/markdown/" class="article__tag__link bg--darker-gray">Markdown</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-    
-  </ul>
-
-
-<time class="article__date" datetime="2014-07-08T14:00:00+00:00">Jul 08, 2014</time>
-
-</section>
-
-<!-- End Tags and Date -->
-  
-  
-<!-- Article Content -->
-<section class="article__content">
-
-
-<p>In addition to the <a href="http://daringfireball.net/projects/markdown/syntax">Markdown basics</a>, Siteleaf supports some advanced syntax to make formatting your content easier. Here is a sentence showing off a <mark>highlight</mark> and also a footnote<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
-
-<p>Footnotes are great for citing and referencing sources, or for expanding on ideas. They are created like this:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>A cool sentence[^1].
-
-[﻿^1]: A cool footnote.
-</code></pre>
+<div class="row">
+	<div class="small-12 columns">
+		<h2 class="article__title"><a href="/blog/footnotes-and-highlights/">Footnotes & Highlights</a></h2>
+	</div>
 </div>
-
-<p>And rendered like this:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="nt">&lt;p&gt;</span>A cool sentence<span class="nt">&lt;sup</span> <span class="na">id=</span><span class="s">"fnref1"</span><span class="nt">&gt;</span>
-    <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"#fn1"</span> <span class="na">rel=</span><span class="s">"footnote"</span><span class="nt">&gt;</span>1<span class="nt">&lt;/a&gt;</span>
-<span class="nt">&lt;/sup&gt;</span>.<span class="nt">&lt;/p&gt;</span>
-<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"footnotes"</span><span class="nt">&gt;</span>
-    <span class="nt">&lt;hr&gt;</span>
-    <span class="nt">&lt;ol&gt;</span>
-        <span class="nt">&lt;li</span> <span class="na">id=</span><span class="s">"fn1"</span><span class="nt">&gt;</span>
-            <span class="nt">&lt;p&gt;</span>A cool footnote. <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"#fnref1"</span> <span class="na">rev=</span><span class="s">"footnote"</span><span class="nt">&gt;</span>↩<span class="nt">&lt;/a&gt;&lt;/p&gt;</span>
-        <span class="nt">&lt;/li&gt;</span>
-    <span class="nt">&lt;/ol&gt;</span>
-<span class="nt">&lt;/div&gt;</span>
-</code></pre>
-</div>
-
-<p>Highlighting is useful when you’d like to direct the readers attention somewhere specific. To use it, wrap a phrase in <code class="highlighter-rouge">==double equal signs==</code>. Highlights simply get wrapped in <code class="highlighter-rouge">&lt;mark&gt;</code> tags. And remember, “with great power comes great responsibility.”</p>
-
-<p><small>A version of this article was originally posted on larryfox.us.</small></p>
-<div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>This is a footnote in Siteleaf! <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-
-
-
-
-
-</section>
-<!-- End Article Content -->
-  
-</article>
-
-
-
 </section>
 <!-- End Content -->
 
@@ -307,10 +149,10 @@
 	<div class="row">
 	<div class="small-12 columns">
 		<ul class="menu align-center">
-			<li><a href="#"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
+			<li><a href="http://www.mastercard.co.uk" target="_blank"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
+			<li><a href="http://go.sap.com/index.html" target="_blank"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
+			<li><a href="https://www.gov.uk/government/organisations/uk-trade-investment" target="_blank"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
+			<li><a href="https://www.vendhq.com" target="_blank"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
 		</ul>
 	</div>
 	</div>

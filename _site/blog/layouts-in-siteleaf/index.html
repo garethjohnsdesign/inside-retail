@@ -120,7 +120,7 @@
   </div>
   <div class="top-bar-right">
     <ul class="menu align-right">
-	  <li><a href="/">Subscribe</a></li>
+	  <li><a href="/">Subscribe<span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
       <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
     </ul>
   </div>
@@ -129,274 +129,11 @@
 	
 <!-- Content -->
 <section class="content">
-
-
-<article class="article">
-<!-- Title -->
-<h2 class="article__title"><a href="/blog/layouts-in-siteleaf/">Layouts in Siteleaf</a></h2>
-<!-- End Title -->
-
-<!-- Tags and Date -->
-
-<section class="article__meta">
-
-  <ul class="menu article__tags">
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/tutorial/" class="article__tag__link bg--blue">Tutorial</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/liquid/" class="article__tag__link bg--red">Liquid</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/v1/" class="article__tag__link bg--dark-gray">v1</a></li>
-        
-      
-        
-        
-      
-    
-  </ul>
-
-
-<time class="article__date" datetime="2013-10-29T14:42:00+00:00">Oct 29, 2013</time>
-
-</section>
-
-<!-- End Tags and Date -->
-  
-  
-<!-- Article Content -->
-<section class="article__content">
-
-
-<p>In my last article about <a href="http://siteleaf.com">Siteleaf</a>, I wrote about what goes into <a href="/blog/porting-a-theme-to-siteleaf/">porting a theme</a> to Siteleaf from another CMS. This time around, I’ll show you how to write cleaner, less redundant templates through the use of layouts.</p>
-
-<h3 id="what-is-a-layout">What is a layout?</h3>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;html&gt;
-    &lt;head&gt;
-        ...
-    &lt;/head&gt;
-    &lt;body&gt;
-        &lt;header&gt;...&lt;/header&gt;
-        <span class="p">{{</span><span class="w"> </span><span class="nv">content</span><span class="w"> </span><span class="p">}}</span>
-        &lt;footer&gt;...&lt;/footer&gt;
-    &lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
+<div class="row">
+	<div class="small-12 columns">
+		<h2 class="article__title"><a href="/blog/layouts-in-siteleaf/">Layouts in Siteleaf</a></h2>
+	</div>
 </div>
-
-<p>In Siteleaf, a layout is a base template that can be used and reused as a foundation for your website. For example, the <a href="https://github.com/destroytoday/destroytoday.com/blob/master/_layouts/default.html">default layout</a> for my <a href="http://destroytoday.com">personal website</a> consists of the HTML head content, the header, and the footer. In between the header and footer, I use a <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">content</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code> tag to insert the rest of my website’s content. This way, I don’t need to copy and paste the surrounding code into every template. I can assign a block of HTML to the <code class="highlighter-rouge">content</code> variable and <a href="https://github.com/Shopify/liquid/">Liquid</a>, our templating engine, will place the variable’s value wherever referenced.</p>
-
-<h3 id="creating-a-layout">Creating a layout</h3>
-
-<p><img src="/uploads/layouts-in-siteleaf-structure-0.jpg" alt="file structure" /></p>
-
-<p>Let’s get our hands dirty by building our own layout. Start by creating a <code class="highlighter-rouge">_layouts</code> folder in your website’s root directory. In this folder, create a <code class="highlighter-rouge">default.html</code> file. This file will be used as the base layout. Below is some basic code you can use to get started with your layout:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;html&gt;
-    &lt;head&gt;
-        &lt;title&gt;<span class="p">{{</span><span class="w"> </span><span class="nv">title</span><span class="w"> </span><span class="p">}}</span>&lt;/title&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-        <span class="p">{{</span><span class="w"> </span><span class="nv">content</span><span class="w"> </span><span class="p">}}</span>
-    &lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
-</div>
-
-<p>This code simply sets the browser window title and shows any HTML assigned to the <code class="highlighter-rouge">content</code> variable.</p>
-
-<p><img src="/uploads/layouts-in-siteleaf-structure-1.jpg" alt="file structure" /></p>
-
-<p>Now, in your website’s default template (<code class="highlighter-rouge">default.html</code> in your root directory), write the following code:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">capture</span><span class="w"> </span><span class="na">content</span><span class="w"> </span><span class="p">%}</span>
-    &lt;article&gt;
-        &lt;h1&gt;<span class="p">{{</span><span class="w"> </span><span class="nv">title</span><span class="w"> </span><span class="p">}}</span>&lt;/h1&gt;
-        <span class="p">{{</span><span class="w"> </span><span class="nv">body</span><span class="w"> </span><span class="p">}}</span>
-    &lt;/article&gt;
-<span class="p">{%</span><span class="w"> </span><span class="nt">endcapture</span><span class="w"> </span><span class="p">%}</span>
-
-<span class="p">{%</span><span class="w"> </span><span class="nt">include</span><span class="w"> </span><span class="s1">'layouts/default'</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p>With Liquid, we can use the <code class="highlighter-rouge">capture</code> tag to assign a block of content to a given variable. In our example above, we assign the title and body of the current page to the variable, <code class="highlighter-rouge">content</code>. We then use the <code class="highlighter-rouge">include</code> tag to take an HTML file—our default layout—and insert it on that line. The included layout will use the <code class="highlighter-rouge">content</code> variable we assigned and Liquid will render this template as a complete HTML page.</p>
-
-<h3 id="using-multiple-layouts">Using multiple layouts</h3>
-
-<p>Now that we have a single layout, let’s take a look at adding another one. Imagine we have a blog page that shows a post with next and previous links. Since we don’t want these links on all of our pages, we’ll create a new layout on top of the default layout.</p>
-
-<p><img src="/uploads/layouts-in-siteleaf-structure-2.jpg" alt="file structure" /></p>
-
-<p>Start by creating a <code class="highlighter-rouge">blog.html</code> file in your <code class="highlighter-rouge">_layouts</code> directory and write the following code:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">capture</span><span class="w"> </span><span class="na">content</span><span class="w"> </span><span class="p">%}</span>
-    &lt;article&gt;
-        &lt;h1&gt;<span class="p">{{</span><span class="w"> </span><span class="nv">title</span><span class="w"> </span><span class="p">}}</span>&lt;/h1&gt;
-        <span class="p">{{</span><span class="w"> </span><span class="nv">body</span><span class="w"> </span><span class="p">}}</span>
-    &lt;/article&gt;
-    &lt;nav&gt;
-        <span class="p">{%</span><span class="w"> </span><span class="kr">if</span><span class="w"> </span><span class="nv">previous</span><span class="w"> </span><span class="p">%}</span>&lt;a href="<span class="p">{{</span><span class="w"> </span><span class="nv">previous</span><span class="w"> </span><span class="p">}}</span>"&gt;previous&lt;/a&gt;<span class="p">{%</span><span class="w"> </span><span class="kr">endif</span><span class="w"> </span><span class="p">%}</span>
-        <span class="p">{%</span><span class="w"> </span><span class="kr">if</span><span class="w"> </span><span class="nv">next</span><span class="w"> </span><span class="p">%}</span>&lt;a href="<span class="p">{{</span><span class="w"> </span><span class="nv">next</span><span class="w"> </span><span class="p">}}</span>"&gt;next&lt;/a&gt;<span class="p">{%</span><span class="w"> </span><span class="kr">endif</span><span class="w"> </span><span class="p">%}</span>
-    &lt;/nav&gt;
-<span class="p">{%</span><span class="w"> </span><span class="nt">endcapture</span><span class="w"> </span><span class="p">%}</span>
-
-<span class="p">{%</span><span class="w"> </span><span class="nt">include</span><span class="w"> </span><span class="s1">'layouts/default'</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p>Like before, we assign our title and body to the variable <code class="highlighter-rouge">content</code>, but this time, we also add links to the previous and next posts if they exist. Then, we include the default layout.</p>
-
-<p><img src="/uploads/layouts-in-siteleaf-structure-3.jpg" alt="file structure" /></p>
-
-<p>Next, we need to write a blog template that uses this layout. Create a <code class="highlighter-rouge">blog</code> directory in your website’s folder and a <code class="highlighter-rouge">default.html</code> file inside of it. This HTML file will now be used by all pages and posts that start with <code class="highlighter-rouge">/blog</code> in their URL. Inside the <code class="highlighter-rouge">blog/default.html</code> file, write the following line of code:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">include</span><span class="w"> </span><span class="s1">'layouts/blog'</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p>Now, all of our blog posts will use the blog layout, displaying the post with next and previous links, but also inheriting the default layout, so we keep all of our HTML head content. We use an include rather than just putting its code in this template because it allows us to reuse the layout elsewhere.</p>
-
-<p>Let’s say we started a new section on our website, like “Library,” which uses posts for books we’ve read. We could change the name of our blog layout to something more reusable, like <code class="highlighter-rouge">paginated.html</code>, which tells us that the layout supports pagination through the next and previous links. Then, we can use it for both our blog and our library.</p>
-
-<h3 id="wrapping-up">Wrapping up</h3>
-
-<p>Layouts can be incredibly useful for websites that vary from section to section. They can also help keep code to a minimum, resulting in cleaner code base. Try applying layouts to your current website and see if you can reduce the copy pasta. And, as always, don’t hesitate to <a href="http://twitter.com/siteleaf">reach out</a> if you have any questions.</p>
-
-<p><small>This article was originally posted on destroytoday.com.</small></p>
-
-
-
-
-
-</section>
-<!-- End Article Content -->
-  
-</article>
-
-
-
 </section>
 <!-- End Content -->
 
@@ -412,10 +149,10 @@
 	<div class="row">
 	<div class="small-12 columns">
 		<ul class="menu align-center">
-			<li><a href="#"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
+			<li><a href="http://www.mastercard.co.uk" target="_blank"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
+			<li><a href="http://go.sap.com/index.html" target="_blank"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
+			<li><a href="https://www.gov.uk/government/organisations/uk-trade-investment" target="_blank"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
+			<li><a href="https://www.vendhq.com" target="_blank"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
 		</ul>
 	</div>
 	</div>

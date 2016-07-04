@@ -43,6 +43,15 @@ h1, h2 {
 	font-family: $header-font-family;
 }
 
+.top-bar-right {
+	text-transform: uppercase;
+	letter-spacing: $letter-spacing--looser;
+}
+
+.top-bar-right__subscribe {
+	padding-left: 1rem;
+}
+
 //Index
 .index__content {
 	padding-top: 2rem;
@@ -51,7 +60,7 @@ h1, h2 {
 
 .index__latest__title {
 	text-transform: uppercase;
-	letter-spacing: 0.05rem;
+	letter-spacing: $letter-spacing--looser;
 }
 
 .index__connect {
@@ -60,13 +69,13 @@ h1, h2 {
 
 .index__connect h6 {
 	text-transform: uppercase;
-	letter-spacing: 0.1rem;
+	letter-spacing: $letter-spacing--looser;
 }
 
 .index__top__title {
 	text-transform: uppercase;
 	padding-bottom: 0rem;
-	letter-spacing: 0.1rem;
+	letter-spacing: $letter-spacing--looser;
 }
 
 
@@ -115,12 +124,12 @@ h1, h2 {
 
 .sponsors .icon {
 	font-size: 5rem;
-	color: $color--dark-gray;
+	color: yellow;
 }
 
 .sponsors h5 {
 	text-transform: uppercase;
-	letter-spacing: 0.1rem;
+	letter-spacing: $letter-spacing--looser;
 }
 
 // Subscribe
@@ -137,7 +146,7 @@ h1, h2 {
 
 .subscribe h5 {
 	text-transform: uppercase;
-	letter-spacing: 0.1rem;
+	letter-spacing: $letter-spacing--looser;
 }
 
 // Footer
@@ -150,8 +159,11 @@ h1, h2 {
 	background-color: $color--lightest-gray;
 }
 
-.footer__bottom menu-text {
-	background-color: $color--lightest-gray;
+.footer__bottom .menu-text {
+	font-family: $header-font-family;
+	font-weight: $global-weight-normal;
+	text-transform: uppercase;
+	letter-spacing: $letter-spacing--looser;
 }
 
 // Testing

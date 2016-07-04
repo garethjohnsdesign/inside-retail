@@ -120,7 +120,7 @@
   </div>
   <div class="top-bar-right">
     <ul class="menu align-right">
-	  <li><a href="/">Subscribe</a></li>
+	  <li><a href="/">Subscribe<span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
       <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
     </ul>
   </div>
@@ -129,267 +129,11 @@
 	
 <!-- Content -->
 <section class="content">
-
-
-<article class="article">
-<!-- Title -->
-<h2 class="article__title"><a href="/blog/advanced-liquid-where/">Advanced Liquid: Where</a></h2>
-<!-- End Title -->
-
-<!-- Tags and Date -->
-
-<section class="article__meta">
-
-  <ul class="menu article__tags">
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/tutorial/" class="article__tag__link bg--blue">Tutorial</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/liquid/" class="article__tag__link bg--red">Liquid</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/v1/" class="article__tag__link bg--dark-gray">v1</a></li>
-        
-      
-        
-        
-      
-    
-  </ul>
-
-
-<time class="article__date" datetime="2015-04-08T19:25:00+00:00">Apr 08, 2015</time>
-
-</section>
-
-<!-- End Tags and Date -->
-  
-  
-<!-- Article Content -->
-<section class="article__content">
-
-
-<p>Now that you are <a href="/blog/advanced-liquid-sort/">sorting</a> like a pro, we’ll move on to another new and exciting Liquid filter: <code class="highlighter-rouge">where</code>.</p>
-
-<p>Where allows us to find content based on a parameter. If you are coming from Jekyll, you’ll be happy to know it follows the same syntax.</p>
-
-<p>For example, here’s how we could find all pages titled “Foo”:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">foo_pages</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">pages</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"title"</span><span class="p">,</span><span class="s2">"Foo"</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
+<div class="row">
+	<div class="small-12 columns">
+		<h2 class="article__title"><a href="/blog/advanced-liquid-where/">Advanced Liquid: Where</a></h2>
+	</div>
 </div>
-
-<p>As with <code class="highlighter-rouge">sort</code>, you can use <a href="http://v1.siteleaf.com/help/themes/variables/content/">any property</a> like date, title, slug, even metadata and taxonomy. Below are few real-world examples you might find useful.</p>
-
-<h3 id="show-posts-by-author">Show posts by author</h3>
-
-<p>So I just created a fancy new bio page for myself, and now I want to display posts I’ve written alongside my bio.</p>
-
-<p><img src="/uploads/fancy-bio.png" alt="fancy bio page" /></p>
-
-<p>To locate posts written by a specific author across the entire site, we can start with <code class="highlighter-rouge">site.posts</code>. Then we can apply the <code class="highlighter-rouge">where</code> filter with <code class="highlighter-rouge">author</code> as a parameter:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">my_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"author"</span><span class="p">,</span><span class="s2">"Skylar Challand"</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p>You can also use nested properties such as <code class="highlighter-rouge">author.email</code>:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">my_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"author.email"</span><span class="p">,</span><span class="s2">"skylar@siteleaf.com"</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p>Now we can display our matching posts using the <code class="highlighter-rouge">my_posts</code> variable we just created:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>&lt;ul&gt;
-  <span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span>post<span class="w"> </span>in<span class="w"> </span>my_posts<span class="w"> </span><span class="p">%}</span>
-  &lt;li&gt;&lt;a href="<span class="p">{{</span><span class="nv">post</span><span class="p">.</span><span class="nv">url</span><span class="p">}}</span>"&gt;<span class="p">{{</span><span class="nv">post</span><span class="p">.</span><span class="nv">title</span><span class="p">}}</span>&lt;/a&gt;&lt;/li&gt;
-  <span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
-&lt;/ul&gt;
-</code></pre>
-</div>
-
-<p><strong>Don’t repeat yourself:</strong> Since the title on my bio page matches the author name (“Skylar Challand”), we could use <code class="highlighter-rouge">title</code> as a variable and make our theme code reusable:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">my_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"author"</span><span class="p">,</span>title<span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<h3 id="show-featured-posts">Show featured posts</h3>
-
-<p>In the <a href="/blog/advanced-liquid-sort/">previous tutorial</a> we showed you how to use <a href="/blog/metadata-in-siteleaf/">metadata</a> to create “sticky” posts.</p>
-
-<p><img src="/uploads/meta-sticky.png" alt="" /></p>
-
-<p>Using the same metadata, we could grab all posts with this flag:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">sticky_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"meta.sticky"</span><span class="p">,</span><span class="s2">"yes"</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p>The same could be applied to any metadata. For example, we could find all posts with a color of “Red”:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">red_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">pages</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"meta.color"</span><span class="p">,</span><span class="s2">"Red"</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p>Or posts with a particular tag:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">tagged_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"taxonomy.tags"</span><span class="p">,</span><span class="s2">"whiskey"</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p>Mm whiskey.</p>
-
-<h3 id="filter-by-year">Filter by year</h3>
-
-<p>You can also filter content by date parts including <code class="highlighter-rouge">year</code>, <code class="highlighter-rouge">month</code>, and <code class="highlighter-rouge">day</code>.</p>
-
-<p>Here’s how we could get all posts published this year:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">latest_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"year"</span><span class="p">,</span><span class="s2">"2015"</span><span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p>Again we could take this a step further and use a variable in place of year:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">this_year</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">date</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">date</span><span class="p">:</span><span class="s2">"%Y"</span><span class="w"> </span><span class="p">%}</span>
-<span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">new_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"year"</span><span class="p">,</span>this_year<span class="w"> </span><span class="p">%}</span>
-</code></pre>
-</div>
-
-<p><small>Follow <a href="http://twitter.com/siteleaf">@siteleaf</a> and stay tuned for more <a href="/blog/tags/liquid">Advanced Liquid</a>!</small></p>
-
-
-
-
-
-</section>
-<!-- End Article Content -->
-  
-</article>
-
-
-
 </section>
 <!-- End Content -->
 
@@ -405,10 +149,10 @@
 	<div class="row">
 	<div class="small-12 columns">
 		<ul class="menu align-center">
-			<li><a href="#"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
+			<li><a href="http://www.mastercard.co.uk" target="_blank"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
+			<li><a href="http://go.sap.com/index.html" target="_blank"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
+			<li><a href="https://www.gov.uk/government/organisations/uk-trade-investment" target="_blank"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
+			<li><a href="https://www.vendhq.com" target="_blank"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
 		</ul>
 	</div>
 	</div>

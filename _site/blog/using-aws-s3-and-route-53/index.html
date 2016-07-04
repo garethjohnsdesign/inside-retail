@@ -120,7 +120,7 @@
   </div>
   <div class="top-bar-right">
     <ul class="menu align-right">
-	  <li><a href="/">Subscribe</a></li>
+	  <li><a href="/">Subscribe<span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
       <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
     </ul>
   </div>
@@ -129,183 +129,11 @@
 	
 <!-- Content -->
 <section class="content">
-
-
-<article class="article">
-<!-- Title -->
-<h2 class="article__title"><a href="/blog/using-aws-s3-and-route-53/">Using AWS S3 and Route 53</a></h2>
-<!-- End Title -->
-
-<!-- Tags and Date -->
-
-<section class="article__meta">
-
-  <ul class="menu article__tags">
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/tutorial/" class="article__tag__link bg--blue">Tutorial</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-    
-      
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/aws/" class="article__tag__link bg--yellow">AWS</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-    
-  </ul>
-
-
-<time class="article__date" datetime="2015-03-25T19:55:00+00:00">Mar 25, 2015</time>
-
-</section>
-
-<!-- End Tags and Date -->
-  
-  
-<!-- Article Content -->
-<section class="article__content">
-
-
-<p>After building Siteleaf we took it upon ourselves to each rebuild our site using the service. I had previously used S3 with Jeykll and wanted to continue using it, but getting set up can be a bit of a mystery.</p>
-
-<p><em>I’m assuming that you’re using Route 53 for DNS, and want to serve content from the root domain while having www redirect to it.</em></p>
-
-<h3 id="amazon-s3">Amazon S3</h3>
-
-<p>Head to your <a href="https://console.aws.amazon.com/s3">S3 Console</a> where you’ll make one bucket named after your root domain, and another with the www subdomain (e.g. example.com and www.example.com). Take note of the region you choose.</p>
-
-<p><img src="/uploads/s3-1.gif" alt="s3-1" /></p>
-
-<p>In the root domain (e.g. example.com) bucket, go to Properties » Static Website Hosting and check “Enable website hosting”, setting your Index document to <code class="highlighter-rouge">index.html</code>. Head to the Permisions tab, click “Add bucket policy”, and add the following. Be sure to replace <code class="highlighter-rouge">DOMAIN</code> with your root domain.</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{</span><span class="w">
-    </span><span class="nt">"Version"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2008-10-17"</span><span class="p">,</span><span class="w">
-    </span><span class="nt">"Statement"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-        </span><span class="p">{</span><span class="w">
-            </span><span class="nt">"Sid"</span><span class="p">:</span><span class="w"> </span><span class="s2">"AddPerm"</span><span class="p">,</span><span class="w">
-            </span><span class="nt">"Effect"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Allow"</span><span class="p">,</span><span class="w">
-            </span><span class="nt">"Principal"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-                </span><span class="nt">"AWS"</span><span class="p">:</span><span class="w"> </span><span class="s2">"*"</span><span class="w">
-            </span><span class="p">},</span><span class="w">
-            </span><span class="nt">"Action"</span><span class="p">:</span><span class="w"> </span><span class="s2">"s3:GetObject"</span><span class="p">,</span><span class="w">
-            </span><span class="nt">"Resource"</span><span class="p">:</span><span class="w"> </span><span class="s2">"arn:aws:s3:::DOMAIN/*"</span><span class="w">
-        </span><span class="p">}</span><span class="w">
-    </span><span class="p">]</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre>
+<div class="row">
+	<div class="small-12 columns">
+		<h2 class="article__title"><a href="/blog/using-aws-s3-and-route-53/">Using AWS S3 and Route 53</a></h2>
+	</div>
 </div>
-
-<p><img src="/uploads/s3-2.gif" alt="s3-2" /></p>
-
-<p>Now in the subdomain bucket, go to Properties » Static Website Hosting and check “Redirect all requests to another host name”, filling it in the name of your root domain. Easy.</p>
-
-<p><img src="/uploads/s3-3.gif" alt="s3-3" /></p>
-
-<h3 id="route-53-and-dns">Route 53 and DNS</h3>
-
-<p>In the <a href="https://console.aws.amazon.com/route53">Route 53 Console</a> create a new hosted zone for your domain if you haven’t already, and go to its Record Sets. Similarlly to the S3 buckets, you’ll want to create two new records, one for the root domain, and one for the www subdomain.</p>
-
-<p>For both choose an A record, check alias, and set the alias target to the respective bucket (root to root bucket, www to www bucket). Save it, and in a few moments your domain and subdomain should point to your bucket.</p>
-
-<p><img src="/uploads/route53-1.gif" alt="route53-1" /></p>
-
-<h3 id="publishing-with-siteleaf">Publishing with Siteleaf</h3>
-
-<p>Back on your Siteleaf settings page select “Amazon S3” for publishing and enter your root domain name, Access Key/Secret Key (found under <a href="https://portal.aws.amazon.com/gp/aws/securityCredentials">Security Credentials</a> in your AWS account), and bucket region. After saving you should be ready to publish.</p>
-
-<p>Happy blogging.</p>
-
-<p><em>This post was originally posted at larryfox.us.</em></p>
-
-
-
-
-
-</section>
-<!-- End Article Content -->
-  
-</article>
-
-
-
 </section>
 <!-- End Content -->
 
@@ -321,10 +149,10 @@
 	<div class="row">
 	<div class="small-12 columns">
 		<ul class="menu align-center">
-			<li><a href="#"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
+			<li><a href="http://www.mastercard.co.uk" target="_blank"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
+			<li><a href="http://go.sap.com/index.html" target="_blank"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
+			<li><a href="https://www.gov.uk/government/organisations/uk-trade-investment" target="_blank"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
+			<li><a href="https://www.vendhq.com" target="_blank"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
 		</ul>
 	</div>
 	</div>

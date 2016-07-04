@@ -120,7 +120,7 @@
   </div>
   <div class="top-bar-right">
     <ul class="menu align-right">
-	  <li><a href="/">Subscribe</a></li>
+	  <li><a href="/">Subscribe<span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
       <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
     </ul>
   </div>
@@ -129,140 +129,11 @@
 	
 <!-- Content -->
 <section class="content">
-
-
-<article class="article">
-<!-- Title -->
-<h2 class="article__title"><a href="/blog/moving-to-siteleaf/">Moving to Siteleaf</a></h2>
-<!-- End Title -->
-
-<!-- Tags and Date -->
-
-<section class="article__meta">
-
-  <ul class="menu article__tags">
-    
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-          <li class="article__tag"><a href="/blog/tags/community/" class="article__tag__link bg--purple">Community</a></li>
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-    
-  </ul>
-
-
-<time class="article__date" datetime="2013-11-21T06:22:00+00:00">Nov 21, 2013</time>
-
-</section>
-
-<!-- End Tags and Date -->
-  
-  
-<!-- Article Content -->
-<section class="article__content">
-
-
-<p>Forget the CMS headaches of yesteryear, moving your website to Siteleaf is surprisingly easy. Since Siteleaf publishes to static files, it’s also a great way to speed up your site, reduce server costs, and have a permanent archive of your site. Bring your content with you using a simple <a href="https://gist.github.com/sskylar/5824224">JSON import script</a> powered by the <a href="https://github.com/siteleaf/siteleaf-api">Siteleaf API</a> (also available for <a href="https://gist.github.com/sskylar/5834451">Jekyll</a>).</p>
-
-<p>Here are four people who’ve recently made the move, and how they got here:</p>
-
-<h3 id="kilian-mcmahon">Kilian McMahon</h3>
-
-<p><a href="http://kilmc.com"><img src="/uploads/killian.jpg" alt="kilian" /></a></p>
-
-<p>Kilian is a designer from Dublin, Ireland who works on <a href="http://tito.io">Tito</a>, <a href="http://ull.ie">Úll</a>, among other fun things. He recently redesigned his personal site on Siteleaf after trying just about everything else:</p>
-
-<blockquote>
-  <p>I’ve been through a lot of setups for my personal site; static files, blogging services, folder based installations. All of them having their merits, but equally having pitfalls which really frustrated me to the point where I just wouldn’t publish to it…<br /><br />It took me roughly a day to re-design and port my old site to Siteleaf, with learning time and some design decisions taking up a lot of that time.<br /><br />What Siteleaf has given me over all is a confidence that I can be flexible without having to tear it all down and start again. My content is in the CMS, easy to restructure and iterate on as I refine my approach to documenting and publishing the various aspects of my life that I want online.</p>
-</blockquote>
-
-<p>Read more at <a href="http://kilmc.com/writing/site-redesign/">kilmc.com</a></p>
-
-<h3 id="erica-heinz">Erica Heinz</h3>
-
-<p><a href="http://www.ericaheinz.com"><img src="/uploads/erica.jpg" alt="erica" /></a></p>
-
-<p>Erica is a freelance web designer and developer, and interaction design teacher at Parsons. She recently redesigned her portfolio on Siteleaf:</p>
-
-<blockquote>
-  <p>This is my first site on Siteleaf, and it will not be the last. I’m really happy with how clear and smart the system is. Portfolios and blogs obviously need to be really simple and enjoyable to maintain, otherwise they’ll be avoided…<br /><br />Content that you enter in Siteleaf is synced to your local environment, so you’re not constantly reinstalling plugins locally or downloading your database like with Wordpress.</p>
-</blockquote>
-
-<p>Read more at <a href="http://www.ericaheinz.com/notes/new-site-new-work">ericaheinz.com</a></p>
-
-<h3 id="kyle-roderick">Kyle Roderick</h3>
-
-<p><a href="http://kyleroderick.com"><img src="/uploads/kyle.jpg" alt="kyle" /></a></p>
-
-<p>Kyle is a California-based interaction and visual designer for mobile hardware and software products, he recently moved his Wordpress site to Siteleaf:</p>
-
-<blockquote>
-  <p>…It follows the same style I had previously while using Wordpress, so I was able to really compare apples to apples. I could compare things like ease of implementation, page load times, and deployment.<br /><br />One of the major concerns of running the [site] on Wordpress under the Pagelines DMS system was page load times. For a text-only site, it was incredible that I was averaging ~5 seconds for each load. There had to be a better solution. After implementing this site with Siteleaf, I’ve brought the load time down to 400-500ms.<br /><br />The more I work with the service, the more it moulds to how I’d expect a CMS to work. It’s been about 4 weeks now and I’ve already begun planning the move of some of my other sites to Siteleaf.</p>
-</blockquote>
-
-<p>Read more at <a href="http://kyleroderick.com/blog/the-move-to-siteleaf/">kyleroderick.com</a></p>
-
-<h3 id="jessica-harllee">Jessica Harllee</h3>
-
-<p><a href="http://jessicaharllee.com"><img src="/uploads/jessica.jpg" alt="jessica" /></a></p>
-
-<p>Jessica is a Brooklyn-based designer who works at Kickstarter, and recently redesigned her portfolio on Siteleaf (she also is a two time <a href="/blog/hackday">Hackday</a> attendee!):</p>
-
-<blockquote>
-  <p>…I write Sass every day, manage my work with Git, and can do prototypes in Rails. Terminal no longer scares me and I can’t imagine a life without partials. My personal site, on the other hand, was growing staler by the day and the thought of trying to hardcode more pieces in the portfolio was stressing me out…<br /><br />Using Wordpress for a portfolio site like this has always felt hacky and Rails was probably a bit more intense than I needed. Siteleaf seemed like it fit my needs by being both flexibile and simple.</p>
-</blockquote>
-
-<p>Read more at <a href="http://jessicaharllee.com/notes/a-redesign-with-siteleaf/">jessicaharllee.com</a></p>
-
-
-
-
-
-</section>
-<!-- End Article Content -->
-  
-</article>
-
-
-
+<div class="row">
+	<div class="small-12 columns">
+		<h2 class="article__title"><a href="/blog/moving-to-siteleaf/">Moving to Siteleaf</a></h2>
+	</div>
+</div>
 </section>
 <!-- End Content -->
 
@@ -278,10 +149,10 @@
 	<div class="row">
 	<div class="small-12 columns">
 		<ul class="menu align-center">
-			<li><a href="#"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
-			<li><a href="#"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
+			<li><a href="http://www.mastercard.co.uk" target="_blank"><svg class="icon icon-mastercard"><use xlink:href="#icon-mastercard"></use></svg></a></li>
+			<li><a href="http://go.sap.com/index.html" target="_blank"><svg class="icon icon-sap"><use xlink:href="#icon-sap"></use></svg></a></li>
+			<li><a href="https://www.gov.uk/government/organisations/uk-trade-investment" target="_blank"><svg class="icon icon-uktrade"><use xlink:href="#icon-uktrade"></use></svg></a></li>
+			<li><a href="https://www.vendhq.com" target="_blank"><svg class="icon icon-vend"><use xlink:href="#icon-vend"></use></svg></a></li>
 		</ul>
 	</div>
 	</div>
