@@ -3,14 +3,14 @@ header:
   url: /blog/
 - title: About
   url: /about/
-- title: Setting Up
-  url: /setting-up/
-- title: Trading & Hiring
-  url: /trading-and-hiring/
-- title: Expanding
-  url: /expanding/
-- title: Enhancing Business
-  url: /enhancing-business/
+- title: Getting Started
+  url: /getting-started/
+- title: Up and running
+  url: /up-and-running/
+- title: Branching Out
+  url: /branching-out/
+- title: Fine-tuning
+  url: /fine-tuning/
 details:
 - title: About
   url: /about/
@@ -21,14 +21,14 @@ details:
 - title: Site Map
   url: /site-map/
 categories:
-- title: Setting Up
-  url: /setting-up/
-- title: Trading & Hiring
-  url: /trading-and-hiring/
-- title: Expanding
-  url: /expanding/
-- title: Enhancing Business
-  url: /enhancing-business/
+- title: Getting Started
+  url: /getting-started/
+- title: Up and running
+  url: /up-and-running/
+- title: Branching Out
+  url: /branching-out/
+- title: Fine-tuning
+  url: /fine-tuning/
 tags:
 - title: eCommerce
   url: /ecommerce/

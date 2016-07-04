@@ -16,3 +16,7 @@ Example showing how to change the color/size of the icons:
 	color: red; // works for single-colored icons, because "fill" was set to "currentColor"
 }
 ======================================================================================== */
+
+.index__connect .icon {
+    font-size: 1.5rem;
+}
