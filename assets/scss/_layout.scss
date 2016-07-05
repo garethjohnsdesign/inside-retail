@@ -22,6 +22,7 @@ img {
 
 h1, h2 {
 	font-family: $header-font-family-condensed;
+	line-height: $line-height--tight;
 }
 // Layout
 
@@ -37,6 +38,7 @@ h1, h2 {
 // Header
 .header__logo {
 	width: 4rem;
+	height: 2rem;
 }
 
 .top-bar {
@@ -86,16 +88,41 @@ h1, h2 {
 	padding-bottom: 1rem;
 }
 
+.excerpt__tag {
+	font-size: $small-font-size;
+	text-align: right;
+}
+
 .excerpt__tag__link {
 	text-transform: uppercase;
 }
 
-.excerpt__title {
-	margin-bottom: 0;
+.excerpt__category {
+	font-size: $small-font-size;
 }
 
-.excerpt__tag {
-	font-size: $small-font-size;
+.excerpt__category__link {
+	text-transform: uppercase;
+}
+
+.excerpt__title {
+}
+
+// Category
+
+.category__header {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.category__header__content {
+	background-color: $color--white;
+	padding: 3rem;
+}
+
+.category__title {
+	text-transform: uppercase;
+	letter-spacing: $letter-spacing--looser;
 }
 
 //Carousel

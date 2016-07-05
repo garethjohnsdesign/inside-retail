@@ -1,10 +1,10 @@
 ---
 title: Publishing via the API
 date: 2015-06-24 15:10:00 Z
+categories:
+- getting-started
 tags:
-- announcement
-- tutorial
-- v1
+- inspiration
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 

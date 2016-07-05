@@ -6,11 +6,20 @@
 </section>
 <!-- End Image -->
 
-<!-- Tags and Date -->
-{% if post.tags or post.date %}
+<!-- Category -->
 <section class="excerpt__meta">
-{% if post.tags %}
+{% if post.categories or post.tags %}
   <ul class="menu simple excerpt__tags">
+    {% for post_category in post.categories %}    
+      {% assign post_category_downcase = post_category | downcase | replace: ' ', '-' %}
+      {% for site_category in site.blog_categories %}
+        {% assign site_category_title = site_category.title | downcase | replace: ' ', '-' %}
+        {% if site_category_title == post_category_downcase %}
+          <li class="excerpt__category"><a href="{{ site_category.permalink }}" class="excerpt__category__link{% if site_category.color %} {{site_category.color}}{% endif %}">{{ site_category.title }}</a></li>
+        {% endif %}
+      {% endfor %}      
+    {% endfor %}
+    
     {% for post_tag in post.tags %}
       {% assign post_tag_downcase = post_tag | downcase %}
       {% for site_tag in site.blog_tags %}
@@ -20,11 +29,11 @@
         {% endif %}
       {% endfor %}
     {% endfor %}
+    
   </ul>
 {% endif %}
 </section>
-{% endif %}
-<!-- End Tags and Date -->
+<!-- End Category -->
 
 <!-- Title -->
 <h2 class="excerpt__title">

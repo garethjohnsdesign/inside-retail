@@ -1,9 +1,10 @@
 ---
 title: Using AWS S3 and Route 53
 date: 2015-03-25 19:55:00 Z
+categories:
+- getting-started
 tags:
-- tutorial
-- aws
+- ecommerce
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 

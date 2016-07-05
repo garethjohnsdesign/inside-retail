@@ -1,9 +1,10 @@
 ---
 title: Now publishing to GitHub Pages
 date: 2014-06-04 13:00:00 Z
+categories:
+- branching-out
 tags:
-- announcement
-- github
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/github.svg"

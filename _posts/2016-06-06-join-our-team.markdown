@@ -2,9 +2,9 @@
 title: Join our team
 date: 2016-06-06 04:00:00 Z
 categories:
-- testing
+- branching-out
 tags:
-- announcement
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 

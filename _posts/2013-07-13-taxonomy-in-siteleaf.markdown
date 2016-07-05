@@ -1,10 +1,10 @@
 ---
 title: Taxonomy in Siteleaf
 date: 2013-07-13 14:57:00 Z
+categories:
+- fine-tuning
 tags:
-- tutorial
-- liquid
-- v1
+- inspiration
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/taxonomy-in-siteleaf-ui.png"

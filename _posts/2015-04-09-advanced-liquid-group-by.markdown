@@ -1,10 +1,10 @@
 ---
 title: 'Advanced Liquid: Group By'
 date: 2015-04-09 20:30:00 Z
+categories:
+- getting-started
 tags:
-- tutorial
-- liquid
-- v1
+- ecommerce
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/group_by.svg"

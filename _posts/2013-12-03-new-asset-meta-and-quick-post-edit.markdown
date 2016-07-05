@@ -1,9 +1,10 @@
 ---
 title: 'New: Asset Metadata and Quick Post Edit'
 date: 2013-12-03 19:53:00 Z
+categories:
+- branching-out
 tags:
-- announcement
-- v1
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/asset-metadata.png"

@@ -1,8 +1,10 @@
 ---
 title: Sites we love
 date: 2013-10-31 19:24:00 Z
+categories:
+- branching-out
 tags:
-- inspiration
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/gallery.jpg"

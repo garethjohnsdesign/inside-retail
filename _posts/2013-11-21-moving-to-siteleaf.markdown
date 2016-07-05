@@ -1,8 +1,10 @@
 ---
 title: Moving to Siteleaf
 date: 2013-11-21 06:22:00 Z
+categories:
+- branching-out
 tags:
-- community
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 

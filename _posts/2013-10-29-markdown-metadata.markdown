@@ -1,11 +1,10 @@
 ---
 title: Using Markdown in metadata
 date: 2013-10-29 15:55:00 Z
+categories:
+- branching-out
 tags:
-- tip
-- markdown
-- liquid
-- v1
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 Docs:

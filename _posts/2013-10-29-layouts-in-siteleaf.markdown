@@ -1,10 +1,10 @@
 ---
 title: Layouts in Siteleaf
 date: 2013-10-29 14:42:00 Z
+categories:
+- branching-out
 tags:
-- tutorial
-- liquid
-- v1
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/layouts-in-siteleaf.svg"

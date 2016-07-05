@@ -20,6 +20,12 @@
     fill: $color--yellow;
   }
 }
+.teal {
+  color: $color--teal;
+  &.icon {
+    fill: $color--teal;
+  }
+}
 .red {
   color: $color--red;
   &.icon {
@@ -30,6 +36,18 @@
   color: $color--purple;
   &.icon {
     fill: $color--purple;
+  }
+}
+.magenta {
+  color: $color--magenta;
+  &.icon {
+    fill: $color--magenta;
+  }
+}
+.orange {
+  color: $color--orange;
+  &.icon {
+    fill: $color--orange;
   }
 }
 .darkest-gray {
@@ -84,6 +102,18 @@
 }
 .bg--red {
   background: $color--red;
+  color: $color--white;
+}
+.bg--magenta {
+  background: $color--magenta;
+  color: $color--white;
+}
+.bg--teal {
+  background: $color--teal;
+  color: $color--white;
+}
+.bg--orange {
+  background: $color--orange;
   color: $color--white;
 }
 .bg--purple {
@@ -144,4 +174,20 @@ a.bg--dark-gray:hover {
 }
 a.bg--gray:hover {
   background: darken($color--gray, $darken--button);
+}
+.category--bg--red {
+  background: $color--red;
+  color: $color--white;
+}
+.category--bg--magenta {
+  background: $color--magenta;
+}
+.category--bg--teal {
+  background: $color--teal;
+}
+.category--bg--orange {
+  background: $color--orange;
+}
+.category--bg--purple {
+  background: $color--purple;
 }

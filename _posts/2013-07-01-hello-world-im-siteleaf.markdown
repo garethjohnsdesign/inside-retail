@@ -1,6 +1,8 @@
 ---
 title: Hello World, I’m Siteleaf
 date: 2013-07-01 14:43:00 Z
+categories:
+- branching-out
 tags:
 - tutorial
 - v1

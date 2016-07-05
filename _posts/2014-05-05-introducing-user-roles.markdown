@@ -1,8 +1,10 @@
 ---
 title: Introducing user roles
 date: 2014-05-05 13:00:00 Z
+categories:
+- branching-out
 tags:
-- announcement
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/user-roles-post.jpg"

@@ -1,8 +1,10 @@
 ---
 title: Brooklyn Beta
 date: 2013-10-08 19:34:00 Z
+categories:
+- branching-out
 tags:
-- event
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/beta.jpg"

@@ -1,10 +1,10 @@
 ---
 title: Porting a theme to Siteleaf
 date: 2013-09-16 15:05:00 Z
+categories:
+- branching-out
 tags:
-- tutorial
-- liquid
-- v1
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/porting-a-theme-to-siteleaf-martin.png"

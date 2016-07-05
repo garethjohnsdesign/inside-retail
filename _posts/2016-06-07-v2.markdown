@@ -2,10 +2,9 @@
 title: Say hello to Siteleaf v2
 date: 2016-06-07 14:00:00 Z
 categories:
-- getting-started
+- up-and-running
 tags:
-- announcement
-- video
+- marketing
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 button:

@@ -1,11 +1,10 @@
 ---
 title: Developing sites and themes
 date: 2013-07-11 19:34:00 Z
+categories:
+- fine-tuning
 tags:
-- tutorial
-- video
-- liquid
-- v1
+- inspiration
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 vimeo: '70121781'

@@ -2,9 +2,9 @@
 title: Introducing learn.siteleaf.com
 date: 2016-06-13 21:03:00 Z
 categories:
-- getting-started
+- fine-tuning
 tags:
-- announcement
+- marketing
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 image: "/uploads/learn.siteleaf.com.png"

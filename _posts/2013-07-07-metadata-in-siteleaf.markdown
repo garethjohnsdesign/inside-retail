@@ -1,10 +1,10 @@
 ---
 title: Metadata in Siteleaf
 date: 2013-07-07 14:51:00 Z
+categories:
+- fine-tuning
 tags:
-- tutorial
-- liquid
-- v1
+- marketing
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/metadata-in-siteleaf-ui.png"

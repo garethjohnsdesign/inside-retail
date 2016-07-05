@@ -1,10 +1,10 @@
 ---
 title: 'Quick tip: Assets in meta fields'
 date: 2014-06-13 14:22:00 Z
+categories:
+- branching-out
 tags:
-- tip
-- liquid
-- v1
+- marketing
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 

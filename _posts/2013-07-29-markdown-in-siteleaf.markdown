@@ -1,10 +1,10 @@
 ---
 title: Markdown in Siteleaf
 date: 2013-07-29 15:01:00 Z
+categories:
+- fine-tuning
 tags:
-- tutorial
-- markdown
-- v1
+- inspiration
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/markdown-in-siteleaf-ui.png"

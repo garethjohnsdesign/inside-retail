@@ -1,9 +1,10 @@
 ---
 title: Footnotes & Highlights
 date: 2014-07-08 14:00:00 Z
+categories:
+- getting-started
 tags:
-- tip
-- markdown
+- ecommerce
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 

@@ -1,10 +1,10 @@
 ---
 title: 'Advanced Liquid: Sort'
 date: 2015-04-07 14:00:00 Z
+categories:
+- getting-started
 tags:
-- tutorial
-- liquid
-- v1
+- ecommerce
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/sort.svg"

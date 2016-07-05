@@ -1,6 +1,8 @@
 ---
 title: Getting started
 date: 2013-07-01 22:00:00 Z
+categories:
+- up-and-running
 tags:
 - video
 - tutorial

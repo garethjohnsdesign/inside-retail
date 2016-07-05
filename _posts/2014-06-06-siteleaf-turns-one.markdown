@@ -1,9 +1,10 @@
 ---
 title: Siteleaf turns one
 date: 2014-06-06 17:59:00 Z
+categories:
+- branching-out
 tags:
-- announcement
-- v1
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 

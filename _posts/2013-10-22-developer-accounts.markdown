@@ -1,8 +1,10 @@
 ---
 title: Developer accounts
 date: 2013-10-22 14:32:00 Z
+categories:
+- branching-out
 tags:
-- announcement
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 ---

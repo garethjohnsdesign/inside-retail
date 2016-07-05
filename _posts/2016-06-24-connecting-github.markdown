@@ -2,12 +2,9 @@
 title: The online Challenge
 date: 2016-06-24 17:00:00 Z
 categories:
-- gareth
+- getting-started
 tags:
-- tutorial
-- jekyll
-- github
-- video
+- ecommerce
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 image: "/uploads/connecting-github-and-siteleaf-title.png"

@@ -1,8 +1,10 @@
 ---
 title: 'Built on Siteleaf: Made by Eno'
 date: 2014-01-28 19:31:00 Z
+categories:
+- branching-out
 tags:
-- community
+- in-store
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/erin-nolan.jpg"

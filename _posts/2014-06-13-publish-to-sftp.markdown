@@ -1,8 +1,10 @@
 ---
 title: Now publishing to SFTP
 date: 2014-06-13 14:35:00 Z
+categories:
+- branching-out
 tags:
-- announcement
+- ecommerce
 excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 
