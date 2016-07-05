@@ -6,7 +6,7 @@ categories:
 tags:
 - video
 - v1
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-07.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 vimeo: '69301083'
 ---

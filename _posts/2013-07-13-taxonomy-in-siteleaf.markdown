@@ -5,7 +5,7 @@ categories:
 - fine-tuning
 tags:
 - inspiration
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-13.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/taxonomy-in-siteleaf-ui.png"
 Docs:

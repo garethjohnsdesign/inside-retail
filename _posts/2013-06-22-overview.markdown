@@ -7,7 +7,7 @@ tags:
 - tutorial
 - liquid
 - v1
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-06.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/an-introduction-to-siteleaf-collaboration.png"
 Docs:

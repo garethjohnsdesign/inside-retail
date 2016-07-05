@@ -5,7 +5,7 @@ categories:
 - branching-out
 tags:
 - ecommerce
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-30.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 
 ---

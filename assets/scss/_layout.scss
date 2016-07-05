@@ -14,6 +14,7 @@ img {
 	height: auto
 }
 
+
 // Typography
 
 .uppercase {
@@ -56,6 +57,7 @@ h1, h2 {
 
 //Index
 .index__content {
+	background: linear-gradient(to right bottom, $color--white 50%, $color--lighter-gray 50%, $color--white 75%, $color--lighter-gray 75%);
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 }

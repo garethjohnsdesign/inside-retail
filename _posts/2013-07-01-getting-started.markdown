@@ -7,7 +7,7 @@ tags:
 - video
 - tutorial
 - v1
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-08.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 vimeo: '69294068'
 Docs:

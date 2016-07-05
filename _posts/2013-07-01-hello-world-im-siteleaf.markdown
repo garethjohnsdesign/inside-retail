@@ -6,7 +6,7 @@ categories:
 tags:
 - tutorial
 - v1
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-09.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/hello-world-im-siteleaf-create-site.png"
 ---

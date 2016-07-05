@@ -1,5 +1,5 @@
 ---
 title: Inspiration
-permalink: "/blog/tags/inspiration/"
+permalink: "/inspiration/"
 ---
 

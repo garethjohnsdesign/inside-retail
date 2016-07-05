@@ -5,7 +5,7 @@ categories:
 - branching-out
 tags:
 - in-store
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-16.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/porting-a-theme-to-siteleaf-martin.png"
 Docs:

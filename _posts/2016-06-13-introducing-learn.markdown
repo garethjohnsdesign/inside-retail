@@ -5,7 +5,7 @@ categories:
 - fine-tuning
 tags:
 - marketing
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-10.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 image: "/uploads/learn.siteleaf.com.png"
 description: We're excited to officially launch our new help site learn.siteleaf.com.

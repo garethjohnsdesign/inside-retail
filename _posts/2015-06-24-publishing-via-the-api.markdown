@@ -5,7 +5,7 @@ categories:
 - getting-started
 tags:
 - inspiration
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-05.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 
 ---

@@ -6703,6 +6703,7 @@ h1, h2 {
   padding-left: 1rem; }
 
 .index__content {
+  background: linear-gradient(to right bottom, #ffffff 50%, #E9ECF0 50%, #ffffff 75%, #E9ECF0 75%);
   padding-top: 2rem;
   padding-bottom: 2rem; }
 

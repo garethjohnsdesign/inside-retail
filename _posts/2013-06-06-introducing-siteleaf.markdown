@@ -6,7 +6,7 @@ categories:
 tags:
 - announcement
 - v1
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-04.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/introducing-siteleaf.jpg"
 ---

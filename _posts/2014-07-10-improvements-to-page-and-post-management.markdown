@@ -5,7 +5,7 @@ categories:
 - getting-started
 tags:
 - in-store
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-33.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: "/uploads/header-post.jpg"
 ---

@@ -5,7 +5,7 @@ categories:
 - getting-started
 tags:
 - ecommerce
-excerpt-image: "/uploads/connecting-github-and-siteleaf-title.png"
+excerpt-image: "/uploads/inside-retail-test-content-01.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 image: "/uploads/connecting-github-and-siteleaf-title.png"
 description: This tutorial will show you how to connect and sync an existing Jekyll
