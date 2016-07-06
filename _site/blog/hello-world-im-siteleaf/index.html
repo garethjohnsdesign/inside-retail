@@ -125,11 +125,177 @@
 	
 <!-- Content -->
 <section class="content">
-<div class="row">
+<div class="post__wrapper">
+<div class="row columns post__panel">
+	
+<!-- Post Share -->
+<div class="row post__share">
 	<div class="small-12 columns">
-		<h2 class="article__title"><a href="/blog/hello-world-im-siteleaf/">Hello World, I’m Siteleaf</a></h2>
+	<ul class="menu simple">
+	<li>Share</li>
+	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
+  </ul>
 	</div>
 </div>
+<!-- End Post Share -->
+
+<!-- Post Title -->
+<div class="row post__title">
+	<div class="small-12 columns">
+		<h1>Hello World, I’m Siteleaf</h1>
+	</div>
+</div>
+
+<!-- Post Tag and Category -->
+<div class="row post__meta">
+	<div class="small-12 columns">
+
+  <ul class="menu simple excerpt__tags">
+        
+      
+      
+        
+        
+          <li class="excerpt__category"><a href="/branching-out/" class="excerpt__category__link magenta">Branching Out</a></li>
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+            
+    
+    
+    
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    
+    
+    	<li class="excerpt__length"></li>
+    
+  </ul>
+
+	</div>
+</div>
+<!-- End Tag and Category -->
+
+<div class="row">
+<div class="small-12 columns">
+
+</div>
+</div>
+
+ 
+<div class="row post__content">
+	<div class="small-12 columns">
+		<p>Last week, <a href="/blog/overview">I ran through</a> a number of <a href="http://siteleaf.com">Siteleaf’s</a> most compelling features and provided a general overview of the service. This week, I’ll hold your hand through creating a basic website using Siteleaf.</p>
+
+<h3 id="creating-your-site">Creating your site</h3>
+
+<p>Assuming you’ve already <a href="http://manage.siteleaf.com/signup">signed up</a> for a Siteleaf account, your first task is to create a site. Fill out your site’s title and domain name. If you’re just testing the waters, you can use a Siteleaf subdomain.</p>
+
+<h3 id="configuring-your-site">Configuring your site</h3>
+
+<p><img src="/uploads/hello-world-im-siteleaf-site-settings.png" alt="site-settings" /></p>
+
+<p>Once you create your site, Siteleaf will redirect to the site’s settings page. Here, you can edit its title, timezone, and publishing settings. You can also add site metadata, but I’ll hold off on that for now.</p>
+
+<p><img src="/uploads/hello-world-im-siteleaf-publishing-settings.png" alt="publishing-settings" /></p>
+
+<p>For publishing settings, we’ll go with Siteleaf’s free CDN hosting for now—it’s quick and easy for getting a site up with zero configuration. Siteleaf also allows publishing to FTP, <a href="http://aws.amazon.com/s3/">Amazon S3</a>, and <a href="http://rackspace.com/cloud/files/">Rackspace Cloud Files</a>. I personally use S3 for its ability to handle heavy loads of traffic for just pennies a month.</p>
+
+<h3 id="creating-a-page">Creating a page</h3>
+
+<p>On the left sidebar, you’ll find the top-level navigation for the current site. Here, you can also create new pages and rearrange existing ones through drag and drop. Let’s create our first page by clicking ‘New page’.</p>
+
+<p><em>Note: the first page in the ‘Pages’ list is considered the ‘Home’ page. It is rendered at the root path of your website.</em></p>
+
+<p><img src="/uploads/hello-world-im-siteleaf-new-page.png" alt="new-page" /></p>
+
+<p>In the ‘New page’ view, we’ll start by assigning a title to our page. Let’s go with ‘Blog’. Notice that the slug automatically populates itself as we type. You can also manually specify the slug if your title is unfashionably long.</p>
+
+<p>Save the page by clicking the massive green button on the right or by using the command+S hotkey. Now, we can preview the page by clicking the ‘Preview’ link just below the gigantic green save button.</p>
+
+<p><img src="/uploads/hello-world-im-siteleaf-new-page-preview.png" alt="new-page-preview" /></p>
+
+<p>Siteleaf provides a bare bones theme by default, so you can at least preview your content before touching any code. Our blog looks pretty empty, so let’s create a post.</p>
+
+<h3 id="creating-a-post">Creating a post</h3>
+
+<p>In Siteleaf, there are pages and posts. A site can have many pages. Pages can have many sub-pages. Pages can also have many posts. The difference between a page and a post is its ordering—pages can be reordered through drag and drop while posts are ordered by timestamps. The most common use of a post is for a blog, like the one we’re creating, but posts can also be used for archived content, like in the ‘Currently Brewing’ section of <a href="http://www.cafejonnie.com/">Café Jonnie</a>.</p>
+
+<p><img src="/uploads/hello-world-im-siteleaf-add-post.png" alt="add-post" /></p>
+
+<p>We can create a post for our blog by clicking either the ‘Add post’ link aside our title or the circle aside the ‘Blog’ page in the left sidebar.</p>
+
+<p><img src="/uploads/hello-world-im-siteleaf-new-post.png" alt="new-post" /></p>
+
+<p>The ‘New post’ view is almost identical to the ‘New page’ view, except for the additional taxonomy option on the right sidebar. I’ll go into great detail about taxonomy in a future post, but for now, you can use it to assign tags to your posts.</p>
+
+<p><img src="/uploads/hello-world-im-siteleaf-visibility.png" alt="hello-world-im-siteleaf-visibility" /></p>
+
+<p>On the right sidebar, we also have visibility options. A ‘draft’ post won’t appear when published. A ‘hidden’ post will only be accessible by knowing its exact URL. And a ‘visible’ post is completely public, included in both the feed and sitemap.</p>
+
+<p><img src="/uploads/hello-world-im-siteleaf-upload-asset.png" alt="upload-asset" /></p>
+
+<p>Before we publish, let’s add an image to make our post more visual. We can do this by clicking either the picture icon above the body field or the ‘Upload assets’ link below it. Upon uploading the image, it will appear as a thumbnail below the body. If you used the picture icon, the image’s Markdown code will automatically appear in the body. If you used the ‘Upload assets’ link, you can drag and drop the thumbnail to the body to add the image’s Markdown code.</p>
+
+<p><img src="/uploads/hello-world-im-siteleaf-final-post-preview.jpg" alt="final-post-preview" /></p>
+
+<p>Now, when we preview our post, the image is there along with the ‘announcement’ tag link.</p>
+
+<h3 id="publishing-your-site">Publishing your site</h3>
+
+<p><img src="/uploads/hello-world-im-siteleaf-publish.png" alt="publish" /></p>
+
+<p>If everything looks good, we can click the publish button on the top right. This will first take your content, combine it with your templates, and compile static HTML files. It will then push the files to your host. With the animation, this moment is actually pretty exciting—it makes any update feel like a big deal, worthy of celebration.</p>
+
+<h3 id="wrapping-up">Wrapping up</h3>
+
+<p>I covered a lot of ground in this post, but there is so much more ahead of us. While this ‘Hello World’ was a very basic use-case, know that Siteleaf is capable of handling much greater complexity. The next few posts will demonstrate this through use of custom templates, metadata, and taxonomy. In the meantime, feel free to <a href="http://twitter.com/siteleaf">reach out</a> with any questions or comments.</p>
+
+<p><small>This article was originally posted on destroytoday.com.</small></p>
+
+	</div>
+</div>
+
+</div>
+</div>
+
 </section>
 <!-- End Content -->
 
@@ -161,14 +327,14 @@
 <div class="row expanded subscribe">
 <div class="small-12 columns text-center">
 <h5>Subscribe</h5>
-<p>Get our newsletter Dolor here lorem opsum</p>
+<svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg> Get our newsletter Dolor here lorem opsum
 
 <form class="subscribe__form">
 <div class="row">
 	<div class="medium-12 columns">
 		<ul class="menu align-center">
-		    <li><input type="text" placeholder="Email Address"></li>
-		    <li><button type="button" class="button hollow">Sign Up</button></li>
+		    <li><input type="text" placeholder="Email Address" class="text-center"></li>
+		    <li><button type="button" class="subscribe__button button secondary hollow">Sign Up</button></li>
 		</ul>   
 	</div>
 </div>

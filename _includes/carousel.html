@@ -1,0 +1,7 @@
+<!-- Flickity HTML init -->
+<div class="gallery">
+{% assign slide_documents = site.carousel | sort:"position" %}
+{% for slide in slide_documents %}
+<div class="gallery-cell">Test</div>
+{% endfor %}
+</div>

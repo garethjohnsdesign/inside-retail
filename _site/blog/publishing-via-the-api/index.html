@@ -125,11 +125,160 @@
 	
 <!-- Content -->
 <section class="content">
-<div class="row">
+<div class="post__wrapper">
+<div class="row columns post__panel">
+	
+<!-- Post Share -->
+<div class="row post__share">
 	<div class="small-12 columns">
-		<h2 class="article__title"><a href="/blog/publishing-via-the-api/">Publishing via the API</a></h2>
+	<ul class="menu simple">
+	<li>Share</li>
+	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
+  </ul>
 	</div>
 </div>
+<!-- End Post Share -->
+
+<!-- Post Title -->
+<div class="row post__title">
+	<div class="small-12 columns">
+		<h1>Publishing via the API</h1>
+	</div>
+</div>
+
+<!-- Post Tag and Category -->
+<div class="row post__meta">
+	<div class="small-12 columns">
+
+  <ul class="menu simple excerpt__tags">
+        
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+          <li class="excerpt__category"><a href="/getting-started/" class="excerpt__category__link teal">Getting Started</a></li>
+        
+      
+        
+        
+            
+    
+    
+    
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+          <li class="excerpt__tag"><a href="/inspiration/" class="excerpt__tag__link">Inspiration</a></li>
+        
+      
+        
+        
+      
+    
+    
+    	<li class="excerpt__length"></li>
+    
+  </ul>
+
+	</div>
+</div>
+<!-- End Tag and Category -->
+
+<div class="row">
+<div class="small-12 columns">
+
+</div>
+</div>
+
+ 
+<div class="row post__content">
+	<div class="small-12 columns">
+		<p>For the last week publishing in the Siteleaf interface has been powered by our API. This has been a requested feature by some of our users and ourselves. Its behavior is bit different than some of our other API endpoints, so let’s go over it.</p>
+
+<p>To initiate a publish, make an authenticated <code class="highlighter-rouge">POST</code> request to the <code class="highlighter-rouge">/sites/:id/publish</code> endpoint.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>curl -u <span class="s2">"</span><span class="nv">$API_KEY</span><span class="s2">:</span><span class="nv">$API_SECRET</span><span class="s2">"</span> -X POST <span class="se">\</span>
+  http://api.siteleaf.com/v1/sites/<span class="nv">$SITE_ID</span>/publish
+
+<span class="o">{</span><span class="s2">"job_id"</span>:<span class="s2">"e79af12c79ccd8866902d3dd"</span><span class="o">}</span> 
+</code></pre>
+</div>
+
+<p>This triggers a publish and immediately returns a job ID (or returns an already running job ID if one exists). You can stop here if you’d like and Siteleaf will happily chug away in the background.</p>
+
+<p>But the fun doesn’t stop there. You can optionally check in on publish progress using your <code class="highlighter-rouge">job_id</code> from above by making an authenticated <code class="highlighter-rouge">GET</code> request to the new <code class="highlighter-rouge">/jobs/:id</code> endpoint.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>curl -u <span class="s2">"</span><span class="nv">$API_KEY</span><span class="s2">:</span><span class="nv">$API_SECRET</span><span class="s2">"</span> <span class="se">\</span>
+  http://api.siteleaf.com/api/v1/jobs/e79af12c79ccd8866902d3dd
+
+event:publish
+data:<span class="o">{</span><span class="s2">"status"</span>:<span class="s2">"working"</span>,<span class="s2">"message"</span>:<span class="s2">"Checking... /home"</span>,<span class="s2">"updated_at"</span>:<span class="s2">"1435159120"</span><span class="o">}</span>
+
+<span class="o">[</span>etc…]
+
+event:publish
+data:<span class="o">{</span><span class="s2">"status"</span>:<span class="s2">"complete"</span>,<span class="s2">"message"</span>:<span class="s2">"Published"</span>,<span class="s2">"updated_at"</span>:<span class="s2">"1435159121"</span><span class="o">}</span>
+</code></pre>
+</div>
+
+<p>This endpoint, unlike our others, consistently returns <a href="https://en.wikipedia.org/wiki/Server-sent_events">Server Sent Events</a> (SSE) instead of JSON documents (including  errors). The <code class="highlighter-rouge">data</code> field is JSON encoded however. SSE is supported in all modern browsers and there are client libraries in a number of programming languages.</p>
+
+<p>Additionally, job ID’s are kept for at least 30 minutes after completion so you can check in on a publish immediately or wait a bit.</p>
+
+<p>Can’t wait to see what uses you come up with!</p>
+
+<h3 id="publishing-from-the-gem">Publishing from the gem</h3>
+
+<p>First install the latest gem (<a href="https://rubygems.org/gems/siteleaf"><code class="highlighter-rouge">0.9.23</code></a> as of writing)</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>gem install siteleaf
+</code></pre>
+</div>
+
+<p>And then…</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>siteleaf publish
+Fetching inventory...
+Compiling...
+<span class="o">[</span>etc…]
+Published
+<span class="gp">=&gt; </span>Publish completed.
+</code></pre>
+</div>
+
+<p>Or if you don’t care about progress, you can use either of the following:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>siteleaf publish -q
+<span class="gp">$ </span>siteleaf publish --quiet
+
+<span class="gp">=&gt; </span>Publish queued.
+</code></pre>
+</div>
+
+<p>🎉🎉</p>
+
+	</div>
+</div>
+
+</div>
+</div>
+
 </section>
 <!-- End Content -->
 
@@ -161,14 +310,14 @@
 <div class="row expanded subscribe">
 <div class="small-12 columns text-center">
 <h5>Subscribe</h5>
-<p>Get our newsletter Dolor here lorem opsum</p>
+<svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg> Get our newsletter Dolor here lorem opsum
 
 <form class="subscribe__form">
 <div class="row">
 	<div class="medium-12 columns">
 		<ul class="menu align-center">
-		    <li><input type="text" placeholder="Email Address"></li>
-		    <li><button type="button" class="button hollow">Sign Up</button></li>
+		    <li><input type="text" placeholder="Email Address" class="text-center"></li>
+		    <li><button type="button" class="subscribe__button button secondary hollow">Sign Up</button></li>
 		</ul>   
 	</div>
 </div>

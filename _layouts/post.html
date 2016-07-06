@@ -1,9 +1,82 @@
 ---
 layout: default
 ---
+<div class="post__wrapper">
+<div class="row columns post__panel">
+	
+<!-- Post Share -->
+<div class="row post__share">
+	<div class="small-12 columns">
+	<ul class="menu simple">
+	<li>Share</li>
+	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
+  </ul>
+	</div>
+</div>
+<!-- End Post Share -->
+
+<!-- Post Title -->
+<div class="row post__title">
+	<div class="small-12 columns">
+		<h1>{{ page.title }}</h1>
+	</div>
+</div>
+
+<!-- Post Tag and Category -->
+<div class="row post__meta">
+	<div class="small-12 columns">
+{% if page.categories or page.tags %}
+  <ul class="menu simple excerpt__tags">
+    {% for page_category in page.categories %}    
+      {% assign page_category_downcase = page_category | downcase | replace: ' ', '-' %}
+      {% for site_category in site.blog_categories %}
+        {% assign site_category_title = site_category.title | downcase | replace: ' ', '-' %}
+        {% if site_category_title == page_category_downcase %}
+          <li class="excerpt__category"><a href="{{ site_category.permalink }}" class="excerpt__category__link{% if site_category.color %} {{site_category.color}}{% endif %}">{{ site_category.title }}</a></li>
+        {% endif %}
+      {% endfor %}      
+    {% endfor %}
+    
+    {% for page_tag in page.tags %}
+      {% assign page_tag_downcase = page_tag | downcase %}
+      {% for site_tag in site.blog_tags %}
+        {% assign site_tag_title = site_tag.title | downcase %}
+        {% if site_tag_title == page_tag_downcase %}
+          <li class="excerpt__tag"><a href="{{ site_tag.permalink }}" class="excerpt__tag__link{% if site_tag.color %} {{site_tag.color}}{% endif %}">{{ site_tag.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    
+    	<li class="excerpt__length">{{ page.length }}</li>
+    
+  </ul>
+{% endif %}
+	</div>
+</div>
+<!-- End Tag and Category -->
 
 <div class="row">
+<div class="small-12 columns">
+{% if post.vimeo %}
+<iframe src="https://player.vimeo.com/video/{{post.vimeo}}?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreenn></iframe>
+<p class="caption">Watch <a href="https://vimeo.com/{{post.vimeo}}" target="_blank">{{post.title}}</a> on Vimeo</p>
+{% elsif post.hero %}
+<p>
+  <a href="{{post.url}}"><img src="{{post.hero}}" alt="{{post.title}}" /></a>
+</p>
+{% endif %}
+</div>
+</div>
+
+ 
+<div class="row post__content">
 	<div class="small-12 columns">
-		<h2 class="article__title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+		{{ page.content }}
 	</div>
+</div>
+
+</div>
 </div>

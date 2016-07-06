@@ -125,11 +125,178 @@
 	
 <!-- Content -->
 <section class="content">
-<div class="row">
+<div class="post__wrapper">
+<div class="row columns post__panel">
+	
+<!-- Post Share -->
+<div class="row post__share">
 	<div class="small-12 columns">
-		<h2 class="article__title"><a href="/blog/advanced-liquid-sort/">Advanced Liquid: Sort</a></h2>
+	<ul class="menu simple">
+	<li>Share</li>
+	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
+  </ul>
 	</div>
 </div>
+<!-- End Post Share -->
+
+<!-- Post Title -->
+<div class="row post__title">
+	<div class="small-12 columns">
+		<h1>Advanced Liquid: Sort</h1>
+	</div>
+</div>
+
+<!-- Post Tag and Category -->
+<div class="row post__meta">
+	<div class="small-12 columns">
+
+  <ul class="menu simple excerpt__tags">
+        
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+          <li class="excerpt__category"><a href="/getting-started/" class="excerpt__category__link teal">Getting Started</a></li>
+        
+      
+        
+        
+            
+    
+    
+    
+      
+      
+        
+        
+          <li class="excerpt__tag"><a href="/ecommerce/" class="excerpt__tag__link">Ecommerce</a></li>
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+    
+    
+    	<li class="excerpt__length"></li>
+    
+  </ul>
+
+	</div>
+</div>
+<!-- End Tag and Category -->
+
+<div class="row">
+<div class="small-12 columns">
+
+</div>
+</div>
+
+ 
+<div class="row post__content">
+	<div class="small-12 columns">
+		<p><a href="http://v1.siteleaf.com/help/themes/getting-started/">Liquid</a> is the flexible templating language that powers themes on Siteleaf. While simple at first glance, there’s a lot of power under the hood for those wanting a greater level of control. In this new blog series, we’ll dive deeper and take a look at some advanced Liquid code and examples.</p>
+
+<p>First up in this post, we’ll take a look at the <code class="highlighter-rouge">sort</code> <a href="http://v1.siteleaf.com/help/themes/filters-and-tags">filter</a>.</p>
+
+<p>With any site, Siteleaf makes some general assumptions about your content. For example, posts are sorted by date (newest post shows first) and pages are sorted manually. In cases where this doesn’t fit your design, you can utilize the <code class="highlighter-rouge">sort</code> filter to order content any way you wish.</p>
+
+<p>For example, here’s how we might sort pages by date:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">sorted</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">pages</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">sort</span><span class="p">:</span><span class="s2">"date"</span><span class="w"> </span><span class="p">%}</span>
+</code></pre>
+</div>
+
+<p>This will sort in ascending order, but we could also choose descending order by adding <code class="highlighter-rouge">reverse</code>:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">sorted</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">pages</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">sort</span><span class="p">:</span><span class="s2">"date"</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">reverse</span><span class="w"> </span><span class="p">%}</span>
+</code></pre>
+</div>
+
+<p>You can sort on <a href="http://v1.siteleaf.com/help/themes/variables/content/">any property</a> like date, title, slug, even metadata and taxonomy. Below are few real-world examples you might find useful.</p>
+
+<h3 id="sort-tags-alphabetically">Sort tags alphabetically</h3>
+
+<p>Tags by default are shown in the order in which they were added. If you’d like to display your tags ordered alphabetically, you can achieve this using the <code class="highlighter-rouge">sort</code> filter.</p>
+
+<p>In this example, we’ll create a variable called <code class="highlighter-rouge">sorted_tags</code> to hold our sorted tags using the <a href="https://github.com/Shopify/liquid/wiki/Liquid-for-Designers#variable-assignment"><code class="highlighter-rouge">assign</code></a> Liquid tag (feel free to use any variable name you wish):</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">sorted_tags</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">tags</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">sort</span><span class="p">:</span><span class="s2">"value"</span><span class="w"> </span><span class="p">%}</span>
+</code></pre>
+</div>
+
+<p>Once sorted, we can display the tags using the <code class="highlighter-rouge">sorted_tags</code> variable we just created:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span>tag<span class="w"> </span>in<span class="w"> </span>sorted_tags<span class="w"> </span><span class="p">%}</span>
+  &lt;li&gt;&lt;a href="<span class="p">{{</span><span class="nv">tag</span><span class="p">.</span><span class="nv">url</span><span class="p">}}</span>"&gt;<span class="p">{{</span><span class="nv">tag</span><span class="p">.</span><span class="nv">value</span><span class="p">}}</span>&lt;/a&gt;&lt;/li&gt;
+<span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+</code></pre>
+</div>
+
+<h3 id="sort-posts-by-metadata">Sort posts by metadata</h3>
+
+<p>Posts are generally shown in date order, but you can use the <code class="highlighter-rouge">sort</code> filter to order on any property. With the <a href="http://www.siteleaf.com/blog/metadata-in-siteleaf/">power of metadata</a>, that can be pretty much anything you want.</p>
+
+<p>In this example, we’ll set up a meta field on our posts called <code class="highlighter-rouge">num</code> to manually sort with numeric values from 01 to 10:</p>
+
+<p><img src="/uploads/meta-num.png" alt="meta-num" /></p>
+
+<p>Using the <code class="highlighter-rouge">sort</code> filter, we can now order posts by <code class="highlighter-rouge">meta.num</code>:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">sorted_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">sort</span><span class="p">:</span><span class="s2">"meta.num"</span><span class="w"> </span><span class="p">%}</span>
+</code></pre>
+</div>
+
+<p>And of course, we can display these posts as we normally would:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>&lt;ul&gt;
+  <span class="p">{%</span><span class="w"> </span><span class="nt">for</span><span class="w"> </span>post<span class="w"> </span>in<span class="w"> </span>sorted_posts<span class="w"> </span><span class="p">%}</span>
+  &lt;li&gt;&lt;a href="<span class="p">{{</span><span class="nv">post</span><span class="p">.</span><span class="nv">url</span><span class="p">}}</span>"&gt;<span class="p">{{</span><span class="nv">post</span><span class="p">.</span><span class="nv">title</span><span class="p">}}</span>&lt;/a&gt;&lt;/li&gt;
+  <span class="p">{%</span><span class="w"> </span><span class="nt">endfor</span><span class="w"> </span><span class="p">%}</span>
+&lt;/ul&gt;
+</code></pre>
+</div>
+
+<h3 id="sticky-posts">Sticky posts</h3>
+
+<p>Perhaps you’d like to have an important or “sticky” post show up first, and retain the default order for the rest of your posts. In this case we could use metadata again.</p>
+
+<p>For this example, we’ll add a meta field to our sticky post called <code class="highlighter-rouge">sticky</code> and set a value of “yes”. We only need to add this to the sticky post, regular posts will have a blank value.</p>
+
+<p><img src="/uploads/meta-sticky.png" alt="meta-sticky" /></p>
+
+<p>Now we can sort our posts by <code class="highlighter-rouge">meta.sticky</code>, but we’ll also add a second parameter (<code class="highlighter-rouge">last</code>) to make sure our non-sticky posts are pushed below.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">sorted_posts</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">sort</span><span class="p">:</span><span class="s2">"meta.sticky"</span><span class="p">,</span><span class="s2">"last"</span><span class="w"> </span><span class="p">%}</span>
+</code></pre>
+</div>
+
+<p>By adding <code class="highlighter-rouge">last</code> you are telling Siteleaf to sort blank or null values last (the default is first).</p>
+
+<p><strong>Bonus tip:</strong> <code class="highlighter-rouge">meta.sticky</code> is equivalent to <code class="highlighter-rouge">meta["sticky"]</code>. Liquid supports both square bracket and dot notation, so if you have a preference feel free to stick with it.</p>
+
+<p><small>Stay tuned for more Advanced Liquid, up next we’ll be looking at the filters <code class="highlighter-rouge">where</code> and <code class="highlighter-rouge">group_by</code>.</small></p>
+
+	</div>
+</div>
+
+</div>
+</div>
+
 </section>
 <!-- End Content -->
 
@@ -161,14 +328,14 @@
 <div class="row expanded subscribe">
 <div class="small-12 columns text-center">
 <h5>Subscribe</h5>
-<p>Get our newsletter Dolor here lorem opsum</p>
+<svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg> Get our newsletter Dolor here lorem opsum
 
 <form class="subscribe__form">
 <div class="row">
 	<div class="medium-12 columns">
 		<ul class="menu align-center">
-		    <li><input type="text" placeholder="Email Address"></li>
-		    <li><button type="button" class="button hollow">Sign Up</button></li>
+		    <li><input type="text" placeholder="Email Address" class="text-center"></li>
+		    <li><button type="button" class="subscribe__button button secondary hollow">Sign Up</button></li>
 		</ul>   
 	</div>
 </div>

@@ -7,16 +7,19 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-01.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
+hero-video: "/uploads/inside-retail-test-content-01.jpg"
+hero-image: "/uploads/inside-retail-test-content-01.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote:
+length: Short Read
 image: "/uploads/connecting-github-and-siteleaf-title.png"
 description: This tutorial will show you how to connect and sync an existing Jekyll
   site from GitHub to Siteleaf, so you can edit content and preview your site in the
   cloud.
-button:
-  title: See more tutorials
-  url: "/blog/tags/tutorial"
+
 ---
 
-<iframe src="https://player.vimeo.com/video/171941124?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/171941124?title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Watch <a href="https://vimeo.com/171941124">Connecting GitHub and Siteleaf</a> on Vimeo
 {: .caption}

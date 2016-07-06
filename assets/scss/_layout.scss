@@ -21,9 +21,8 @@ img {
 	text-transform: uppercase;
 }
 
-h1, h2 {
-	font-family: $header-font-family-condensed;
-	line-height: $line-height--tight;
+.accent {
+	text-transform: uppercase;
 }
 // Layout
 
@@ -44,6 +43,13 @@ h1, h2 {
 
 .top-bar {
 	font-family: $header-font-family;
+	text-transform: uppercase;
+	font-size: 1.3rem;
+}
+
+.top-bar-left {
+	text-transform: uppercase;
+	letter-spacing: $letter-spacing--looser;
 }
 
 .top-bar-right {
@@ -62,8 +68,9 @@ h1, h2 {
 	padding-bottom: 2rem;
 }
 
-.index__latest__title {
+.index__latest__title h6 {
 	text-transform: uppercase;
+	font-family: $header-font-family-accent;
 	letter-spacing: $letter-spacing--looser;
 }
 
@@ -73,11 +80,13 @@ h1, h2 {
 
 .index__connect h6 {
 	text-transform: uppercase;
+	font-family: $header-font-family-accent;
 	letter-spacing: $letter-spacing--looser;
 }
 
-.index__top__title {
+.index__top__title h6 {
 	text-transform: uppercase;
+	font-family: $header-font-family-accent;
 	padding-bottom: 0rem;
 	letter-spacing: $letter-spacing--looser;
 }
@@ -86,13 +95,38 @@ h1, h2 {
 
 // Excerpt
 .excerpt__image {
-	padding-top: 1rem;
-	padding-bottom: 1rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.excerpt__image {
+    position:relative;
+}
+
+.excerpt__image:after {
+    content:'\A';
+    position:absolute;
+    width:100%; height:100%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.6);
+    opacity:0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+.excerpt__image:hover:after {
+    opacity:1;
 }
 
 .excerpt__tag {
 	font-size: $small-font-size;
 	text-align: right;
+}
+
+.excerpt__length {
+	font-size: $small-font-size;
+	text-align: right;
+	text-transform: uppercase;
+	color: $color--light-gray;
 }
 
 .excerpt__tag__link {
@@ -108,6 +142,26 @@ h1, h2 {
 }
 
 .excerpt__title {
+	line-height: $line-height--tight
+}
+
+// Post
+.post__wrapper {
+	background-color: $color--teal;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.post__panel {
+	background-color: $color--white;
+	padding: 4rem;
+}
+
+.post__title {
+}
+
+.post__content {
+	padding-top: 3rem;
 }
 
 // Category
@@ -124,6 +178,7 @@ h1, h2 {
 
 .category__title {
 	text-transform: uppercase;
+	font-family: $header-font-family-accent;
 	letter-spacing: $letter-spacing--looser;
 }
 
@@ -164,6 +219,7 @@ h1, h2 {
 
 .sponsors h5 {
 	text-transform: uppercase;
+	font-family: $header-font-family-accent;
 	letter-spacing: $letter-spacing--looser;
 }
 
@@ -179,8 +235,13 @@ h1, h2 {
 	padding-top: 1rem;
 }
 
+.subscribe__button {
+	margin-left: 2rem;
+}
+
 .subscribe h5 {
 	text-transform: uppercase;
+	font-family: $header-font-family-accent;
 	letter-spacing: $letter-spacing--looser;
 }
 
@@ -195,11 +256,8 @@ h1, h2 {
 }
 
 .footer__bottom .menu-text {
-	font-family: $header-font-family;
+	font-family: $header-font-family-accent;
 	font-weight: $global-weight-normal;
 	text-transform: uppercase;
 	letter-spacing: $letter-spacing--looser;
 }
-
-// Testing
-

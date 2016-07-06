@@ -125,11 +125,119 @@
 	
 <!-- Content -->
 <section class="content">
-<div class="row">
+<div class="post__wrapper">
+<div class="row columns post__panel">
+	
+<!-- Post Share -->
+<div class="row post__share">
 	<div class="small-12 columns">
-		<h2 class="article__title"><a href="/blog/github-pages/">Now publishing to GitHub Pages</a></h2>
+	<ul class="menu simple">
+	<li>Share</li>
+	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
+  </ul>
 	</div>
 </div>
+<!-- End Post Share -->
+
+<!-- Post Title -->
+<div class="row post__title">
+	<div class="small-12 columns">
+		<h1>Now publishing to GitHub Pages</h1>
+	</div>
+</div>
+
+<!-- Post Tag and Category -->
+<div class="row post__meta">
+	<div class="small-12 columns">
+
+  <ul class="menu simple excerpt__tags">
+        
+      
+      
+        
+        
+          <li class="excerpt__category"><a href="/branching-out/" class="excerpt__category__link magenta">Branching Out</a></li>
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+            
+    
+    
+    
+      
+      
+        
+        
+      
+        
+        
+          <li class="excerpt__tag"><a href="/in-store/" class="excerpt__tag__link">In-Store</a></li>
+        
+      
+        
+        
+      
+        
+        
+      
+    
+    
+    	<li class="excerpt__length"></li>
+    
+  </ul>
+
+	</div>
+</div>
+<!-- End Tag and Category -->
+
+<div class="row">
+<div class="small-12 columns">
+
+</div>
+</div>
+
+ 
+<div class="row post__content">
+	<div class="small-12 columns">
+		<p>Exciting news! Starting today you can now publish your sites from Siteleaf to <a href="https://pages.github.com">GitHub Pages</a>.</p>
+
+<p>GitHub Pages is a solid choice for static web hosting, especially if you already use <a href="http://github.com">GitHub</a> to manage your theme code—and it’s clear a lot of our users <a href="https://github.com/siteleaf/siteleaf-themes/wiki/Siteleaf-themes-on-Github">already do</a>.</p>
+
+<h3 id="why-github-pages">Why GitHub Pages?</h3>
+<ul>
+  <li><strong>It’s fast!</strong> Check out this comparison by <a href="http://www.jeremymorgan.com/blog/programming/how-fast-are-github-pages/">Jeremy Morgan</a>.</li>
+  <li><strong>It’s powered by a global CDN</strong>, from the folks at <a href="http://www.fastly.com/customers/github/">Fastly</a>.</li>
+  <li><strong>It’s version controlled!</strong> Every publish is a commit, so you can see revisions and revert back to any publish state.</li>
+  <li><strong>And there’s no extra cost</strong>, GitHub Pages is included with your GitHub account.</li>
+</ul>
+
+<figure>
+<img src="/uploads/github-commit.png" />
+<figcaption>Every publish from Siteleaf shows as a commit on GitHub.com</figcaption>
+</figure>
+
+<p>Siteleaf will publish your site to the <code class="highlighter-rouge">gh-pages</code> branch of your repository (private or public), and even create the required <code class="highlighter-rouge">CNAME</code> file for GitHub. For full details, visit our <a href="http://v1.siteleaf.com/help/hosting/github">GitHub Pages help page</a>.</p>
+
+<p>We’ve been quietly testing this feature out over the past couple weeks, and we’re excited to make it available to all users right now.</p>
+
+<p>GitHub Pages joins our existing publishing options—FTP, Amazon S3, Rackspace Cloud Files, and our free Siteleaf Hosting—giving you more flexibility and reaffirming our commitment that your data belongs to you. Enjoy!</p>
+
+	</div>
+</div>
+
+</div>
+</div>
+
 </section>
 <!-- End Content -->
 
@@ -161,14 +269,14 @@
 <div class="row expanded subscribe">
 <div class="small-12 columns text-center">
 <h5>Subscribe</h5>
-<p>Get our newsletter Dolor here lorem opsum</p>
+<svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg> Get our newsletter Dolor here lorem opsum
 
 <form class="subscribe__form">
 <div class="row">
 	<div class="medium-12 columns">
 		<ul class="menu align-center">
-		    <li><input type="text" placeholder="Email Address"></li>
-		    <li><button type="button" class="button hollow">Sign Up</button></li>
+		    <li><input type="text" placeholder="Email Address" class="text-center"></li>
+		    <li><button type="button" class="subscribe__button button secondary hollow">Sign Up</button></li>
 		</ul>   
 	</div>
 </div>
