@@ -166,14 +166,48 @@ img {
 
 // Category
 
+.category {
+  background: #FAFAFA;
+  height: 500px; /* set gallery height */
+}
+
+.category-cell {
+  width: 100%;
+  height: 100%; /* inherit height from gallery */
+//   margin-right: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  z-index: 1;
+}
+
+/*
 .category__header {
 	padding-top: 3rem;
 	padding-bottom: 3rem;
+}
+*/
+
+.category__header {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  width: 100%;
+  height: 100%; /* inherit height from gallery */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  z-index: 1;
+  position: relative;
 }
 
 .category__header__content {
 	background-color: $color--white;
 	padding: 3rem;
+}
+
+.category__content {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
 }
 
 .category__title {
@@ -182,20 +216,60 @@ img {
 	letter-spacing: $letter-spacing--looser;
 }
 
+.category__image img {
+ 	z-index: -1;
+ 	position: absolute; 
+ 	left: 0px; 
+ 	bottom:0px; 
+ 	width: 100%;
+ 	height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+ 	opacity: 0.9;
+}
+
 //Carousel
 
 .carousel__header {
+	font-family: $header-font-family;
  	font-size: 4rem;
 }
 
-.carousel__highlight {
-	display: inline;
-	background: $color--white;
-	color: $color--black;
-	padding: 0.25em;
-	padding-left: 0;
-	padding-right: 0;
-	box-shadow: 10px 0 0 $color--white, -10px 0 0 $color--white;
+.carousel__text {
+	padding-top: 3rem;
+ 	z-index: 1;
+}
+
+.carousel__title {
+ 	text-transform: uppercase;
+	font-family: $header-font-family-accent;
+	letter-spacing: $letter-spacing--looser;
+	background-color: $color--white;
+	padding: 1rem 1.5rem;
+}
+
+.carousel__header {
+ 	line-height: $line-height--tight;
+ 	background-color: $color--white;
+	padding: 1rem 1.5rem;
+}
+
+.carousel__subheader {
+ 	line-height: $line-height--tight;
+ 	background-color: $color--white;
+	padding: 1rem 1.5rem;
+}
+
+.carousel__image img {
+ 	z-index: -1;
+ 	position: absolute; 
+ 	left: 0px; 
+ 	bottom:0px; 
+ 	width: 100%;
+ 	height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+ 	opacity: 0.9;
 }
 
 // Sponsors
@@ -249,6 +323,11 @@ img {
 .footer__top {
 	padding-top: 2rem;
 	padding-bottom: 2rem;
+}
+
+.footer__top .menu > li > a {
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
 }
 
 .footer__bottom {

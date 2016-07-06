@@ -239,6 +239,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/icons\/android-chrome-144x144.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -13134,38 +13143,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/carousel\/ecommerce\/index.html": {
+	"\/_site\/carousel\/branching-out\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/carousel\/ecommerce\/index.html",
+		"inputAbbreviatedPath": "\/_site\/carousel\/branching-out\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/carousel\/in-store\/index.html": {
+	"\/_site\/carousel\/fine-tuning\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/carousel\/in-store\/index.html",
+		"inputAbbreviatedPath": "\/_site\/carousel\/fine-tuning\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/carousel\/inspiration\/index.html": {
+	"\/_site\/carousel\/getting-started\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/carousel\/inspiration\/index.html",
+		"inputAbbreviatedPath": "\/_site\/carousel\/getting-started\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/carousel\/marketing\/index.html": {
+	"\/_site\/carousel\/up-and-running\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/carousel\/marketing\/index.html",
+		"inputAbbreviatedPath": "\/_site\/carousel\/up-and-running\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -13514,6 +13523,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/branching-out.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 460127,
+		"inputAbbreviatedPath": "\/_site\/uploads\/branching-out.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/branching-out.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/connecting-github-and-siteleaf-title.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -13602,17 +13622,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/ecommerce.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 55647,
-		"inputAbbreviatedPath": "\/_site\/uploads\/ecommerce.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/ecommerce.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/uploads\/editor-v2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13653,6 +13662,17 @@
 		"initialSize": 80866,
 		"inputAbbreviatedPath": "\/_site\/uploads\/fancy-bio.png",
 		"outputAbbreviatedPath": "\/_site\/uploads\/fancy-bio.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/fine-tuning.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95893,
+		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14192,6 +14212,17 @@
 		"initialSize": 39568,
 		"inputAbbreviatedPath": "\/_site\/uploads\/gallery__woodshop.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/gallery__woodshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/getting-started.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 211404,
+		"inputAbbreviatedPath": "\/_site\/uploads\/getting-started.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/getting-started.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14834,28 +14865,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/inspiration.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 460127,
-		"inputAbbreviatedPath": "\/_site\/uploads\/inspiration.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/inspiration.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/instore.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 95893,
-		"inputAbbreviatedPath": "\/_site\/uploads\/instore.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/instore.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/uploads\/introducing-siteleaf.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15050,17 +15059,6 @@
 		"initialSize": 72307,
 		"inputAbbreviatedPath": "\/_site\/uploads\/markdown-in-siteleaf-ui.png",
 		"outputAbbreviatedPath": "\/_site\/uploads\/markdown-in-siteleaf-ui.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/marketing.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 211404,
-		"inputAbbreviatedPath": "\/_site\/uploads\/marketing.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/marketing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15417,6 +15415,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/up-and-running.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55647,
+		"inputAbbreviatedPath": "\/_site\/uploads\/up-and-running.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/up-and-running.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/user-roles-post.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15659,6 +15668,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/branching-out.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 460127,
+		"inputAbbreviatedPath": "\/_uploads\/branching-out.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/branching-out.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/connecting-github-and-siteleaf-title.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15747,17 +15767,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/ecommerce.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 55647,
-		"inputAbbreviatedPath": "\/_uploads\/ecommerce.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/ecommerce.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_uploads\/editor-v2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15798,6 +15807,17 @@
 		"initialSize": 80866,
 		"inputAbbreviatedPath": "\/_uploads\/fancy-bio.png",
 		"outputAbbreviatedPath": "\/_uploads\/fancy-bio.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/fine-tuning.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95893,
+		"inputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16337,6 +16357,17 @@
 		"initialSize": 39568,
 		"inputAbbreviatedPath": "\/_uploads\/gallery__woodshop.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/gallery__woodshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/getting-started.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 211404,
+		"inputAbbreviatedPath": "\/_uploads\/getting-started.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/getting-started.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16979,28 +17010,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/inspiration.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 460127,
-		"inputAbbreviatedPath": "\/_uploads\/inspiration.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/inspiration.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/instore.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 95893,
-		"inputAbbreviatedPath": "\/_uploads\/instore.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/instore.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_uploads\/introducing-siteleaf.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -17195,17 +17204,6 @@
 		"initialSize": 72307,
 		"inputAbbreviatedPath": "\/_uploads\/markdown-in-siteleaf-ui.png",
 		"outputAbbreviatedPath": "\/_uploads\/markdown-in-siteleaf-ui.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/marketing.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 211404,
-		"inputAbbreviatedPath": "\/_uploads\/marketing.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/marketing.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17558,6 +17556,17 @@
 		"initialSize": 722195,
 		"inputAbbreviatedPath": "\/_uploads\/theme__shakengrid.png",
 		"outputAbbreviatedPath": "\/_uploads\/theme__shakengrid.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/up-and-running.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55647,
+		"inputAbbreviatedPath": "\/_uploads\/up-and-running.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/up-and-running.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17974,6 +17983,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/scss\/_animate.scss",
 		"outputAbbreviatedPath": "\/assets\/css\/_animate.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/scss\/_carousel-style.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scss\/_carousel-style.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_carousel-style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

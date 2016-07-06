@@ -11,7 +11,7 @@ layout: default
 <div class="row">
 
 <!-- Content Left -->
-<div class="small-8 columns index__latest">
+<div class="small-12 medium-8 columns index__latest">
 
 <div class="row columns index__latest__title">
 <h6>All - Latest</h6>
@@ -19,7 +19,7 @@ layout: default
 
 <div class="row">
 {% for post in site.posts limit:6 %}
-<div class="small-6 columns">
+<div class="small-12 medium-6 columns">
 {% include excerpt.html %}
 </div>
 {% endfor %}
@@ -28,7 +28,7 @@ layout: default
 <!-- End Content Left -->
 
 <!-- Content Right -->
-<div class="small-4 columns">
+<div class="small-12 medium-4 columns">
 
 <!-- Content Right Connect -->
 <div class="row columns index__connect">
