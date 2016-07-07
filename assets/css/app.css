@@ -7008,6 +7008,12 @@ img {
   background-color: #ffffff;
   padding: 1rem 1.5rem; }
 
+.carousel__button {
+  line-height: 1.16;
+  background-color: #222222;
+  padding: 1rem 1.5rem;
+  margin-top: 1rem; }
+
 .carousel__image img {
   z-index: -1;
   position: absolute;
