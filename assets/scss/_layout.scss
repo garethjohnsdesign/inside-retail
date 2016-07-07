@@ -8,12 +8,30 @@ svg {
 	max-width: 100%;
 }
 
+
 img {
 	display: block;
 	max-width: 100%;
 	height: auto
 }
 
+input::-webkit-input-placeholder {
+color: $color--white !important;
+}
+
+.no-js {
+  @include breakpoint(small only) {
+    .top-bar {
+      display: none;
+    }
+  }
+
+  @include breakpoint(medium) {
+    .title-bar {
+      display: none;
+    }
+  }
+}
 
 // Typography
 
@@ -21,9 +39,12 @@ img {
 	text-transform: uppercase;
 }
 
-.accent {
+@mixin accent-text {
 	text-transform: uppercase;
+	font-family: $header-font-family-accent;
+	letter-spacing: $letter-spacing--looser;
 }
+
 // Layout
 
 
@@ -34,6 +55,13 @@ img {
 	padding-top: 0.5rem;
 	padding-bottom: 0.5rem;
 }
+
+.announcement__location {
+	@include accent-text;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
 
 // Header
 .header__logo {
@@ -49,16 +77,35 @@ img {
 
 .top-bar-left {
 	text-transform: uppercase;
-	letter-spacing: $letter-spacing--looser;
+	letter-spacing: 0.1em;
 }
 
 .top-bar-right {
 	text-transform: uppercase;
-	letter-spacing: $letter-spacing--looser;
+	letter-spacing: 0.1em;
 }
 
 .top-bar-right__subscribe {
 	padding-left: 1rem;
+}
+
+#top-bar__logo__desktop {
+  --teal-color: $color--teal;
+  --purple-color: $color--purple;
+  --magenta-color: $color--magenta;
+  --yellow-color: $color--yellow;
+  --black-color: $color--black;
+  --orange-color: $color--orange;
+  transition: $primary-transition;
+}
+
+.header__home:hover #top-bar__logo__desktop {
+  --teal-color: $color--gray;
+  --purple-color: $color--gray;
+  --magenta-color: $color--gray;
+  --yellow-color: $color--gray;
+  --black-color: $color--gray;
+  --orange-color: $color--gray;
 }
 
 //Index
@@ -69,9 +116,7 @@ img {
 }
 
 .index__latest__title h6 {
-	text-transform: uppercase;
-	font-family: $header-font-family-accent;
-	letter-spacing: $letter-spacing--looser;
+	@include accent-text;
 }
 
 .index__connect {
@@ -79,27 +124,21 @@ img {
 }
 
 .index__connect h6 {
-	text-transform: uppercase;
-	font-family: $header-font-family-accent;
-	letter-spacing: $letter-spacing--looser;
+	@include accent-text;
 }
 
 .index__top__title h6 {
-	text-transform: uppercase;
-	font-family: $header-font-family-accent;
-	padding-bottom: 0rem;
-	letter-spacing: $letter-spacing--looser;
+	@include accent-text;
+	margin-bottom: 0rem;
 }
 
 
 
 // Excerpt
+
 .excerpt__image {
 	margin-top: 1rem;
 	margin-bottom: 1rem;
-}
-
-.excerpt__image {
     position:relative;
 }
 
@@ -110,11 +149,65 @@ img {
     top:0; left:0;
     background:rgba(0,0,0,0.6);
     opacity:0;
+    transition: $primary-transition;
+}
+
+.excerpt__image:hover:after {
+    opacity:1;
+}
+
+.excerpt__image__top {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+    position:relative;
+}
+
+/*
+.excerpt__image__top:after {
+    content:'\A';
+    position:absolute;
+    width:100%; height:100%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.6);
+    opacity:0;
     transition: all 0.5s;
     -webkit-transition: all 0.5s;
 }
-.excerpt__image:hover:after {
+
+.excerpt__image__top:hover:after {
     opacity:1;
+}
+*/
+
+.excerpt__image__top img {
+    filter: grayscale(1);
+    -webkit-backface-visibility: hidden;
+    transition: $primary-transition;
+}
+
+.excerpt__image__top img:hover {
+	-webkit-backface-visibility: hidden;
+    filter: grayscale(0);
+}
+
+.excerpt__image__top__number__background {
+	position: absolute;
+	top: 0;
+	left:0;
+	border: 2rem solid transparent;
+	border-top-color: $color--dark-orange;
+	border-right-color: transparent;
+	border-bottom-color: transparent;
+	border-left-color: $color--orange;
+}
+
+.excerpt__image__top__number {
+	position: absolute;
+	top: 0;
+	left: 0.5rem;
+	color: $color--white;
+	font-family: $header-font-family;
+ 	font-size: 1.5rem;
 }
 
 .excerpt__tag {
@@ -216,6 +309,10 @@ img {
 	letter-spacing: $letter-spacing--looser;
 }
 
+.category__link .icon:hover {
+	fill: $color--dark-gray;
+}
+
 .category__image img {
  	z-index: -1;
  	position: absolute; 
@@ -245,7 +342,7 @@ img {
 	font-family: $header-font-family-accent;
 	letter-spacing: $letter-spacing--looser;
 	background-color: $color--white;
-	padding: 1rem 1.5rem;
+	padding: 1rem 1.5rem 0rem 1.5rem;
 }
 
 .carousel__header {
@@ -265,6 +362,10 @@ img {
  	background-color: $color--black;
 	padding: 1rem 1.5rem;
 	margin-top: 1rem;
+	&:hover {
+      background-color: $color--white;
+      color: $color--black;
+    }
 }
 
 .carousel__image img {
@@ -278,6 +379,8 @@ img {
     overflow: hidden;
  	opacity: 0.9;
 }
+
+
 
 // Sponsors
 .sponsors {
@@ -294,8 +397,20 @@ img {
   }
 }
 
+/*
+.sponsors__menu {
+	@include menu-direction(vertical);
+	@include breakpoint(medium) {
+    @include menu-direction(horizontal);
+  	}
+}
+*/
+
 .sponsors .icon {
-	font-size: 5rem;
+	font-size: 3rem;
+	@include breakpoint(medium) {
+    font-size: 5rem;
+  	}
 }
 
 .sponsors h5 {
@@ -347,3 +462,5 @@ img {
 	text-transform: uppercase;
 	letter-spacing: $letter-spacing--looser;
 }
+
+// Testing

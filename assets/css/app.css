@@ -4402,13 +4402,13 @@ textarea {
   width: 100%;
   height: 2.4375rem;
   padding: 0.5rem;
-  border: 1px solid #cacaca;
+  border: 1px solid #ffffff;
   margin: 0 0 1rem;
   font-family: inherit;
   font-size: 1rem;
   color: #0a0a0a;
-  background-color: #fefefe;
-  box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0.1);
+  background-color: transparent;
+  box-shadow: inset 0 1px 2px rgba(10, 10, 10, 0);
   border-radius: 0;
   transition: box-shadow 0.5s, border-color 0.25s ease-in-out;
   -webkit-appearance: none;
@@ -4554,7 +4554,7 @@ legend {
 select {
   height: 2.4375rem;
   padding: 0.5rem;
-  border: 1px solid #cacaca;
+  border: 1px solid #ffffff;
   margin: 0 0 1rem;
   font-size: 1rem;
   font-family: inherit;
@@ -6804,6 +6804,13 @@ Example showing how to change the color/size of the icons:
 .index__connect .icon {
   font-size: 1.5rem; }
 
+.icon-logo {
+  width: 2.1357421875em; }
+
+.icon-logo {
+  font-size: 3rem;
+  color: red; }
+
 :focus {
   outline: 0; }
 
@@ -6815,10 +6822,17 @@ img {
   max-width: 100%;
   height: auto; }
 
-.uppercase {
-  text-transform: uppercase; }
+input::-webkit-input-placeholder {
+  color: #ffffff !important; }
 
-.accent {
+@media screen and (max-width: 39.9375em) {
+  .no-js .top-bar {
+    display: none; } }
+@media screen and (min-width: 40em) {
+  .no-js .title-bar {
+    display: none; } }
+
+.uppercase {
   text-transform: uppercase; }
 
 .announcement {
@@ -6826,6 +6840,13 @@ img {
   color: #ffffff;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem; }
+
+.announcement__location {
+  text-transform: uppercase;
+  font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
+  letter-spacing: 0.15em;
+  padding-left: 1rem;
+  padding-right: 1rem; }
 
 .header__logo {
   width: 4rem;
@@ -6838,14 +6859,31 @@ img {
 
 .top-bar-left {
   text-transform: uppercase;
-  letter-spacing: 0.027em; }
+  letter-spacing: 0.1em; }
 
 .top-bar-right {
   text-transform: uppercase;
-  letter-spacing: 0.027em; }
+  letter-spacing: 0.1em; }
 
 .top-bar-right__subscribe {
   padding-left: 1rem; }
+
+#top-bar__logo__desktop {
+  --teal-color: #00A69D;
+  --purple-color: #91278F;
+  --magenta-color: #EB008B;
+  --yellow-color: #F8EC31;
+  --black-color: #222222;
+  --orange-color: #F6931D;
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+
+.header__home:hover #top-bar__logo__desktop {
+  --teal-color: #B1B8C4;
+  --purple-color: #B1B8C4;
+  --magenta-color: #B1B8C4;
+  --yellow-color: #B1B8C4;
+  --black-color: #B1B8C4;
+  --orange-color: #B1B8C4; }
 
 .index__content {
   background: linear-gradient(to right bottom, #ffffff 50%, #E9ECF0 50%, #ffffff 75%, #E9ECF0 75%);
@@ -6855,7 +6893,7 @@ img {
 .index__latest__title h6 {
   text-transform: uppercase;
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
-  letter-spacing: 0.027em; }
+  letter-spacing: 0.15em; }
 
 .index__connect {
   padding-bottom: 2rem; }
@@ -6863,19 +6901,17 @@ img {
 .index__connect h6 {
   text-transform: uppercase;
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
-  letter-spacing: 0.027em; }
+  letter-spacing: 0.15em; }
 
 .index__top__title h6 {
   text-transform: uppercase;
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
-  padding-bottom: 0rem;
-  letter-spacing: 0.027em; }
+  letter-spacing: 0.15em;
+  margin-bottom: 0rem; }
 
 .excerpt__image {
   margin-top: 1rem;
-  margin-bottom: 1rem; }
-
-.excerpt__image {
+  margin-bottom: 1rem;
   position: relative; }
 
 .excerpt__image:after {
@@ -6887,11 +6923,58 @@ img {
   left: 0;
   background: rgba(0, 0, 0, 0.6);
   opacity: 0;
-  transition: all 0.5s;
-  -webkit-transition: all 0.5s; }
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
 
 .excerpt__image:hover:after {
   opacity: 1; }
+
+.excerpt__image__top {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  position: relative; }
+
+/*
+.excerpt__image__top:after {
+    content:'\A';
+    position:absolute;
+    width:100%; height:100%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.6);
+    opacity:0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+.excerpt__image__top:hover:after {
+    opacity:1;
+}
+*/
+.excerpt__image__top img {
+  filter: grayscale(1);
+  -webkit-backface-visibility: hidden;
+  transition: all 0.35s cubic-bezier(0.39, 0.575, 0.565, 1); }
+
+.excerpt__image__top img:hover {
+  -webkit-backface-visibility: hidden;
+  filter: grayscale(0); }
+
+.excerpt__image__top__number__background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 2rem solid transparent;
+  border-top-color: #CC7A1F;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: #F6931D; }
+
+.excerpt__image__top__number {
+  position: absolute;
+  top: 0;
+  left: 0.5rem;
+  color: #ffffff;
+  font-family: "GothamCondensed-Bold", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1.5rem; }
 
 .excerpt__tag {
   font-size: 80%;
@@ -6970,7 +7053,10 @@ img {
 .category__title {
   text-transform: uppercase;
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
-  letter-spacing: 0.027em; }
+  letter-spacing: 0.15em; }
+
+.category__link .icon:hover {
+  fill: #8C95A3; }
 
 .category__image img {
   z-index: -1;
@@ -6994,9 +7080,9 @@ img {
 .carousel__title {
   text-transform: uppercase;
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
-  letter-spacing: 0.027em;
+  letter-spacing: 0.15em;
   background-color: #ffffff;
-  padding: 1rem 1.5rem; }
+  padding: 1rem 1.5rem 0rem 1.5rem; }
 
 .carousel__header {
   line-height: 1.16;
@@ -7013,6 +7099,9 @@ img {
   background-color: #222222;
   padding: 1rem 1.5rem;
   margin-top: 1rem; }
+  .carousel__button:hover {
+    background-color: #ffffff;
+    color: #222222; }
 
 .carousel__image img {
   z-index: -1;
@@ -7036,13 +7125,24 @@ img {
   .sponsors a:hover {
     color: black; }
 
+/*
+.sponsors__menu {
+	@include menu-direction(vertical);
+	@include breakpoint(medium) {
+    @include menu-direction(horizontal);
+  	}
+}
+*/
 .sponsors .icon {
-  font-size: 5rem; }
+  font-size: 3rem; }
+  @media screen and (min-width: 40em) {
+    .sponsors .icon {
+      font-size: 5rem; } }
 
 .sponsors h5 {
   text-transform: uppercase;
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
-  letter-spacing: 0.027em; }
+  letter-spacing: 0.15em; }
 
 .subscribe {
   background-color: #F6931D;
@@ -7059,7 +7159,7 @@ img {
 .subscribe h5 {
   text-transform: uppercase;
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
-  letter-spacing: 0.027em; }
+  letter-spacing: 0.15em; }
 
 .footer__top {
   padding-top: 2rem;
@@ -7076,4 +7176,4 @@ img {
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
-  letter-spacing: 0.027em; }
+  letter-spacing: 0.15em; }

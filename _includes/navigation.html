@@ -1,22 +1,25 @@
-<div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
+<div class="title-bar" data-responsive-toggle="primary-menu" data-hide-for="medium">
   <button class="menu-icon" type="button" data-toggle></button>
-  <div class="title-bar-title"><a href="/" class="header__home"><img src="{{ site.logo }}" class="header__logo" alt="{{ site.title }}" /></a></div>
+  <div class="title-bar-title"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg></a></div>
 </div>
 
-<div class="top-bar" id="example-menu">
+<div class="top-bar" id="primary-menu">
   <div class="top-bar-left">
-    <ul class="dropdown menu" data-dropdown-menu>
-      <li><a href="/" class="header__home"><img src="{{ site.logo }}" class="header__logo" alt="{{ site.title }}" /></a></li>
-      {% for item in site.data.navigation.header %}
-  <li>
-    <a href="{{ item.url }}" class="">{{ item.title }}</a>
-  </li>
-  {% endfor %}
-    </ul>
+	<ul class="dropdown menu" data-dropdown-menu>
+	<li class="hide-for-small-only"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg></a></li>
+	<li class="hide-for-medium-only">
+	<a href="/about" class="">About</a>
+	</li>
+	{% for item in site.data.navigation.header %}
+	<li>
+	<a href="{{ item.url }}" class="">{{ item.title }}</a>
+	</li>
+	{% endfor %}
+	</ul>
   </div>
-  <div class="top-bar-right">
+  <div class="top-bar-right hide-for-small-only">
     <ul class="menu align-right">
-	  <li><a href="/">Subscribe<span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
+	  <li><a href="/"><span class="show-for-large">Subscribe</span><span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
       <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
     </ul>
   </div>

@@ -12,6 +12,7 @@ $color--black: #222222;
 $color--yellow: #F8EC31;
 $color--teal: #00A69D; // Getting Started
 $color--orange: #F6931D; // Up and Running
+$color--dark-orange: #CC7A1F;
 $color--magenta: #EB008B; // Branching Out
 $color--purple: #91278F; // Fine Tuning
 
@@ -28,23 +29,21 @@ $color--lightest-gray: #F7F8FA;
 // Typography
 // ----------
 
-$font-weight--normal: 400;
-$font-weight--medium: 500;
-$font-weight--bold:   700;
-
 $line-height--tighter: 1;
 $line-height--tight: 1.16;
 $line-height--base:  1.6;
 
 $letter-spacing--tighter: -0.027em;
 $letter-spacing--tight:   -0.018em;
-$letter-spacing--looser: 0.027em;
+$letter-spacing--looser: 0.15em;
 $letter-spacing--loose:  0.018em;
 
 // Miscellaneous
 // -------------
 
-$width--logo: 3.75rem;
+// $width--logo: 3.75rem;
 
 $opacity--hover: 0.6;
 $darken--button: 5%;
+
+$primary-transition: all .35s cubic-bezier(.39, .575, .565, 1);
