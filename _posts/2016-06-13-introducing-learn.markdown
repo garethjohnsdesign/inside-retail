@@ -4,7 +4,7 @@ date: 2016-06-13 21:03:00 Z
 categories:
 - fine-tuning
 tags:
-- marketing
+- ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-10.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 image: "/uploads/learn.siteleaf.com.png"

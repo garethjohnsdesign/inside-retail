@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<!-- Sub Navigation -->
+{% include sub-navigation.html %}
+<!-- End Sub Navigation -->
+
 <div class="category__header" style="background-image: url({{page.image}})">
 
 
@@ -21,6 +25,7 @@ layout: default
 
 </div>
 
+<div class="category__content__wrap">
 <div class="row category__content" id="category__content">
 {% assign category = page.title | downcase | replace: ' ', '-' %}
 {% assign category_posts = site.categories[category] %}
@@ -29,4 +34,5 @@ layout: default
 {% include excerpt.html %}
 </div>
 {% endfor %}
+</div>
 </div>

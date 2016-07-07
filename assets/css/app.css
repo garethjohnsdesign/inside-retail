@@ -2389,6 +2389,84 @@ a.bg--gray:hover {
   src: url("../fonts/Gotham-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Gotham-Black.otf") format("opentype"), url("../fonts/Gotham-Black.woff") format("woff"), url("../fonts/Gotham-Black.ttf") format("truetype"), url("../fonts/Gotham-Black.svg#Gotham-Black") format("svg");
   font-weight: normal;
   font-style: normal; }
+/*!
+ * Hamburgers
+ * @description Tasty CSS-animated hamburgers
+ * @author Jonathan Suh @jonsuh
+ * @site https://jonsuh.com/hamburgers
+ * @link https://github.com/jonsuh/hamburgers
+ */
+.hamburger {
+  padding: 15px 15px;
+  display: inline-block;
+  cursor: pointer;
+  transition-property: opacity, filter;
+  transition-duration: 0.1s;
+  transition-timing-function: linear;
+  font: inherit;
+  color: inherit;
+  text-transform: none;
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  overflow: visible; }
+  .hamburger:hover {
+    opacity: 0.5; }
+
+.hamburger-box {
+  width: 40px;
+  height: 21px;
+  display: inline-block;
+  position: relative; }
+
+.hamburger-inner {
+  display: block;
+  top: 50%;
+  margin-top: -1.5px; }
+  .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    width: 40px;
+    height: 3px;
+    background-color: #000;
+    border-radius: 0px;
+    position: absolute;
+    transition-property: transform;
+    transition-duration: 0.15s;
+    transition-timing-function: ease; }
+  .hamburger-inner::before, .hamburger-inner::after {
+    content: "";
+    display: block; }
+  .hamburger-inner::before {
+    top: -9px; }
+  .hamburger-inner::after {
+    bottom: -9px; }
+
+/*
+ * Collapse
+ */
+.hamburger--collapse .hamburger-inner {
+  top: auto;
+  bottom: 0;
+  transition-duration: 0.15s;
+  transition-delay: 0.15s;
+  transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19); }
+  .hamburger--collapse .hamburger-inner::after {
+    top: -18px;
+    transition: top 0.3s 0.3s cubic-bezier(0.33333, 0.66667, 0.66667, 1), opacity 0.1s linear; }
+  .hamburger--collapse .hamburger-inner::before {
+    transition: top 0.12s 0.3s cubic-bezier(0.33333, 0.66667, 0.66667, 1), transform 0.15s cubic-bezier(0.55, 0.055, 0.675, 0.19); }
+.hamburger--collapse.is-active .hamburger-inner {
+  transform: translate3d(0, -9px, 0) rotate(-45deg);
+  transition-delay: 0.32s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  .hamburger--collapse.is-active .hamburger-inner::after {
+    top: 0;
+    opacity: 0;
+    transition: top 0.3s cubic-bezier(0.33333, 0, 0.66667, 0.33333), opacity 0.1s 0.27s linear; }
+  .hamburger--collapse.is-active .hamburger-inner::before {
+    top: 0;
+    transform: rotate(-90deg);
+    transition: top 0.12s 0.18s cubic-bezier(0.33333, 0, 0.66667, 0.33333), transform 0.15s 0.42s cubic-bezier(0.215, 0.61, 0.355, 1); }
+
 /*! Flickity v1.2.1
 http://flickity.metafizzy.co
 ---------------------------------------------- */
@@ -6885,6 +6963,15 @@ input::-webkit-input-placeholder {
   --black-color: #B1B8C4;
   --orange-color: #B1B8C4; }
 
+.sub-navigation {
+  background-color: #F7F8FA;
+  font-family: "GothamCondensed-Bold", Helvetica, Roboto, Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  letter-spacing: 0.1em;
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
 .index__content {
   background: linear-gradient(to right bottom, #ffffff 50%, #E9ECF0 50%, #ffffff 75%, #E9ECF0 75%);
   padding-top: 2rem;
@@ -7007,6 +7094,9 @@ input::-webkit-input-placeholder {
   background-color: #ffffff;
   padding: 4rem; }
 
+.post__hero {
+  padding-top: 3rem; }
+
 .post__content {
   padding-top: 3rem; }
 
@@ -7031,8 +7121,6 @@ input::-webkit-input-placeholder {
 }
 */
 .category__header {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
   width: 100%;
   height: 100%;
   /* inherit height from gallery */
@@ -7041,10 +7129,23 @@ input::-webkit-input-placeholder {
   background-position: top center;
   z-index: 1;
   position: relative; }
+  @media screen and (min-width: 40em) {
+    .category__header {
+      padding: 3rem; } }
+  @media screen and (min-width: 64em) {
+    .category__header {
+      padding-top: 3rem;
+      padding-bottom: 3rem; } }
 
 .category__header__content {
   background-color: #ffffff;
-  padding: 3rem; }
+  padding: 1rem; }
+  @media screen and (min-width: 40em) {
+    .category__header__content {
+      padding: 3rem; } }
+
+.category__content__wrap {
+  background: linear-gradient(to right bottom, #ffffff 50%, #E9ECF0 50%, #ffffff 75%, #E9ECF0 75%); }
 
 .category__content {
   padding-top: 3rem;
@@ -7177,3 +7278,6 @@ input::-webkit-input-placeholder {
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.15em; }
+
+.current a {
+  color: #8C95A3; }

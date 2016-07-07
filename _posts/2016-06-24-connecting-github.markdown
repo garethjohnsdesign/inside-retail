@@ -1,5 +1,5 @@
 ---
-title: The online Challenge
+title: Connecting Github
 date: 2016-06-24 17:00:00 Z
 categories:
 - getting-started
@@ -7,10 +7,11 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-01.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero-video: "/uploads/inside-retail-test-content-01.jpg"
+hero-video:
 hero-image: "/uploads/inside-retail-test-content-01.jpg"
 hero-text: Maecenas faucibus mollis interdum
-hero-quote: 
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
 length: Short Read
 image: "/uploads/connecting-github-and-siteleaf-title.png"
 description: This tutorial will show you how to connect and sync an existing Jekyll

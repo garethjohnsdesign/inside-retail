@@ -7,7 +7,8 @@ tags:
 - marketing
 excerpt-image: "/uploads/inside-retail-test-content-07.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-vimeo: '69301083'
+hero-video: '69301083'
+hero-image: "/uploads/inside-retail-test-content-07.jpg"
 ---
 
 Watch <a href="http://vimeo.com/69301083">Introducing Siteleaf</a>.

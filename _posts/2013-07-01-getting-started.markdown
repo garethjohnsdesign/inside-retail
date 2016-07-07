@@ -2,11 +2,9 @@
 title: Getting started
 date: 2013-07-01 22:00:00 Z
 categories:
-- up-and-running
+- fine-tuning
 tags:
-- video
-- tutorial
-- v1
+- ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-08.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 vimeo: '69294068'

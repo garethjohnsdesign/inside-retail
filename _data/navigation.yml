@@ -1,4 +1,6 @@
 header:
+- title: About
+  url: /about/
 - title: Getting Started
   url: /getting-started/
 - title: Up and running
@@ -34,3 +36,12 @@ tags:
   url: /in-store/
 - title: Inspiration
   url: /inspiration/
+sub-tags:
+- title: eCommerce
+  url: ecommerce/
+- title: Marketing
+  url: marketing/
+- title: In-Store
+  url: in-store/
+- title: Inspiration
+  url: inspiration/
