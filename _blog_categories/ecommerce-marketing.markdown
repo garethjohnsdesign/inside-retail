@@ -1,11 +1,11 @@
 ---
 title: Fine Tuning | Marketing
 permalink: "/fine-tuning/marketing/"
-layout: default
 categories:
 - fine-tuning
 tags:
 - marketing
+layout: default
 color: purple
 image: "/uploads/fine-tuning.jpg"
 shape: "/uploads/fine-tuning.svg"

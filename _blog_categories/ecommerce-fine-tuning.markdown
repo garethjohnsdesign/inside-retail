@@ -1,11 +1,11 @@
 ---
 title: Fine Tuning | eCommerce
 permalink: "/fine-tuning/ecommerce/"
-layout: default
 categories:
 - fine-tuning
 tags:
 - ecommerce
+layout: default
 color: purple
 image: "/uploads/fine-tuning.jpg"
 shape: "/uploads/fine-tuning.svg"
