@@ -1,21 +1,19 @@
 ---
 layout: default
 ---
-
-<article class="page">
 	
 <!-- Title -->
-<div class="row">
+<div class="row page__title">
 	<div class="small-12 columns">
-		<h2 class="article__title">{{ page.title }}</h2>
+		<h2>{{ page.title }}</h2>
 	</div>
 </div>
 <!-- End Title -->
 
-<div class="row">
+<!-- Content -->
+<div class="row page__content">
 	<div class="small-12 columns">
 		{{ page.content | markdownify }}
 	</div>
 </div>
-
-</article>
+<!-- End Content -->
