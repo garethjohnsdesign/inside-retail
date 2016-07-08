@@ -3,7 +3,6 @@ title: Terms and Conditions
 layout: page
 ---
 
-
 i2i Events Limited Terms of Use
 
 1.1 This website (“the Website”) is operated by i2i Events Limited, Company Number 7925964 (England) and whose registered address is at The Prow, 1 Wilder Walk, London W1B 5AP ("i2i").
