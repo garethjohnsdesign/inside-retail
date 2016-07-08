@@ -2401,7 +2401,7 @@ a.bg--gray:hover {
   display: inline-block;
   cursor: pointer;
   transition-property: opacity, filter;
-  transition-duration: 0.1s;
+  transition-duration: 0.05s;
   transition-timing-function: linear;
   font: inherit;
   color: inherit;
@@ -6946,6 +6946,9 @@ input::-webkit-input-placeholder {
 .top-bar-right__subscribe {
   padding-left: 1rem; }
 
+.top-bar .menu > li > a {
+  padding: 0.7rem 0.7rem; }
+
 #top-bar__logo__desktop {
   --teal-color: #00A69D;
   --purple-color: #91278F;
@@ -7084,6 +7087,13 @@ input::-webkit-input-placeholder {
 
 .excerpt__title {
   line-height: 1.16; }
+
+.page__title {
+  padding-top: 3rem; }
+
+.page__content {
+  padding-top: 3rem;
+  padding-bottom: 3rem; }
 
 .post__wrapper {
   background-color: #00A69D;
@@ -7278,6 +7288,18 @@ input::-webkit-input-placeholder {
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.15em; }
+
+.footer__bottom__copyright {
+  text-align: center; }
+  @media screen and (min-width: 40em) {
+    .footer__bottom__copyright {
+      text-align: left; } }
+
+.footer__bottom__socials {
+  justify-content: center; }
+  @media screen and (min-width: 40em) {
+    .footer__bottom__socials {
+      justify-content: flex-end; } }
 
 .current a {
   color: #8C95A3; }

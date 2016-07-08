@@ -89,6 +89,10 @@ color: $color--white !important;
 	padding-left: 1rem;
 }
 
+.top-bar .menu > li > a {
+	padding: 0.7rem 0.7rem;
+}
+
 #top-bar__logo__desktop {
   --teal-color: $color--teal;
   --purple-color: $color--purple;
@@ -248,6 +252,17 @@ color: $color--white !important;
 
 .excerpt__title {
 	line-height: $line-height--tight
+}
+
+// Page
+
+.page__title {
+	padding-top: 3rem;
+}
+
+.page__content {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
 }
 
 // Post
@@ -489,6 +504,20 @@ color: $color--white !important;
 	font-weight: $global-weight-normal;
 	text-transform: uppercase;
 	letter-spacing: $letter-spacing--looser;
+}
+
+.footer__bottom__copyright {
+	text-align: center;
+	@include breakpoint(medium) {
+    text-align: left;
+  	}
+}
+
+.footer__bottom__socials {
+	@include flex-align(center, null);
+	@include breakpoint(medium) {
+    @include flex-align(right, null);
+  	}
 }
 
 // Testing

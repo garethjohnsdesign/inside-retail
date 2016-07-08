@@ -3,20 +3,10 @@ title: About
 layout: page
 ---
 
-Aqualis represents the nature of experience itself. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
-Aqualis fragrances are created to stimulate a familiar, blissful primal sense. 
+Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
-While the senses map our experience of the world, a carefully selected fragrance can acutely dominate and lift ambience, in a tangible yet immeasurable way that we can only experience.
+Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Aqualis fragrances unfold and transport the senses, not just to a field of roses, but to a universe of light and dark; of warm and cool; of beginnings and endings; of night and day. The true primal experiences that make us feel alive.
-
-Evolution is the inaugural collection in the Aqualis range. 
-
-EVOLUTION appropriately reverberates a story of evolution and time, and is made up of four fragrances; Origin, Utopia, Freedom and Coda. From the quiet of the early universe and the origins of light, to the closing passage of a musical piece, the names and artworks of these finely tuned fragrances track and provide a sensory journey. A step away from conventional perfumery, with a pioneering use of meticulously selected ingredients of the highest quality, the fragrances evolve on the wearer along with their own chemistry and environment.
-
-
-Aqualis was founded by Steyn Grobler and Leonardo DellAgli. They combine a knowledge and vast exposure in the perfume and product design industries, and matched these resources with a shared passion to produce inspirational and stimulating consumer experiences through their fragrances. The very natures and spirits of the founders are embodied in the stunning fragrances, led aptly by the EVOLUTION collection.
-
-# Contact
-<a href="mailto:info@aqualis.co">info@aqualis.co</a>
+Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
