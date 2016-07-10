@@ -7,7 +7,7 @@ layout: page
 
 1. Introduction
 
-1.This Privacy and Cookies Policy sets out the privacy and cookies policy of i2i Events Limited, Company Number 7925964 (England) whose registered address is at The Prow, 1 Wilder Walk, London W1B 5AP and its subsidiary companies (“i2i”), who controls this website. For the purpose of the Data Protection Act, the data controller is i2i EventsLimited.
+1.This Privacy and Cookies Policy sets out the privacy and cookies policy for i2i Events Limited, Company Number 7925964 (England) whose registered address is at The Prow, 1 Wilder Walk, London W1B 5AP and its subsidiary companies (“i2i”), who controls this website. For the purpose of the Data Protection Act, the data controller is i2i EventsLimited.
 
 2.i2iis committed to protecting the privacy of its users and the purpose of this Privacy Policy is to describe to you how i2iwill use personal information about you that is submitted to i2i.
 
