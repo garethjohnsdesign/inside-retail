@@ -248,6 +248,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/all.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/all.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/all\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -622,15 +631,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/_site\/blog.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/_site\/blog\/advanced-liquid-group-by\/index.html": {
 		"fileType": 8192,
@@ -17774,6 +17774,36 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
+	"\/all.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/all.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/all.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/all.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/all.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
 	"\/archive.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
@@ -18320,36 +18350,6 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
-		},
-	"\/blog.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/blog.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/blog.md": {
-		"criticStyle": 0,
-		"enableFootnotes": 1,
-		"enableLabels": 1,
-		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
-		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/blog.md",
-		"maskEmailAddresses": 1,
-		"outputAbbreviatedPath": "\/blog.html",
-		"outputFormat": 0,
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"parseMetadata": 1,
-		"processHTML": 0,
-		"randomFootnoteNumbers": 0,
-		"useCompatibilityMode": 0
 		},
 	"\/bower.json": {
 		"fileType": 524288,
