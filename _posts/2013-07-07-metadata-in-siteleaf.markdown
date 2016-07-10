@@ -7,7 +7,7 @@ tags:
 - marketing
 excerpt-image: "/uploads/inside-retail-test-content-10.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero-video:
+hero-video: 
 hero-image: "/uploads/inside-retail-test-content-10.jpg"
 hero-text: Maecenas faucibus mollis interdum
 hero-quote: Lorem Ipsum Quote
