@@ -19,8 +19,6 @@ description: This tutorial will show you how to connect and sync an existing Jek
   cloud.
 ---
 
-<iframe src="https://player.vimeo.com/video/171941124?title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 Watch <a href="https://vimeo.com/171941124">Connecting GitHub and Siteleaf</a> on Vimeo
 {: .caption}
 

@@ -7,10 +7,12 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-10.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-image: "/uploads/learn.siteleaf.com.png"
-description: We're excited to officially launch our new help site learn.siteleaf.com.
-  Learn about developing themes, managing content, using the API, how to migrate your
-  legacy site, and more!
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-10.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 [![learn.siteleaf.com](/uploads/badges.svg)](http://learn.siteleaf.com)

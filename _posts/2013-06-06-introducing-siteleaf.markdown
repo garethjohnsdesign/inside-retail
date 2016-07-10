@@ -5,10 +5,9 @@ categories:
 - getting-started
 tags:
 - marketing
-- v1
 excerpt-image: "/uploads/inside-retail-test-content-04.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero-video: 
+hero-video: '69294068'
 hero-image: "/uploads/inside-retail-test-content-04.jpg"
 hero-text: Maecenas faucibus mollis interdum
 hero-quote: Lorem Ipsum Quote

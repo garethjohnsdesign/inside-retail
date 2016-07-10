@@ -7,7 +7,12 @@ tags:
 - inspiration
 excerpt-image: "/uploads/inside-retail-test-content-17.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: 
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-17.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 We are seeking a talented **Backend Developer** to join our small, tight-knit team and contribute to the future of Siteleaf in a meaningful and rewarding way.

@@ -7113,6 +7113,11 @@ li.excerpt__tag.align-right {
 .post__content {
   padding-top: 3rem; }
 
+.post__share {
+  text-transform: uppercase;
+  font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
+  letter-spacing: 0.15em; }
+
 .category {
   background: #FAFAFA;
   height: 500px;

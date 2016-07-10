@@ -292,6 +292,10 @@ li.excerpt__tag.align-right {
 	padding-top: 3rem;
 }
 
+.post__share {
+	@include accent-text;
+}
+
 // Category
 
 .category {

@@ -8,16 +8,11 @@ tags:
 excerpt-image: "/uploads/inside-retail-test-content-02.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero-video: 
-hero-image: "/uploads/inside-retail-test-content-01.jpg"
+hero-image: "/uploads/inside-retail-test-content-02.jpg"
 hero-text: Maecenas faucibus mollis interdum
 hero-quote: Lorem Ipsum Quote
 hero-cite: Jeremy Corbs
 length: Short Read
-image: "/uploads/jekyll-from-scratch-title.png"
-description: In this tutorial, we’ll show you how to get set up and develop websites
-  locally using Jekyll, a static website generator built on Ruby. We'll cover installing
-  Jekyll, creating a new site, file structure, and finally we'll commit our new site
-  to GitHub.
 is-sponsored: true
 ---
 

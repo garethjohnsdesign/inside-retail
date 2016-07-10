@@ -7,9 +7,12 @@ tags:
 - marketing
 excerpt-image: "/uploads/inside-retail-test-content-11.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-button:
-  title: Try for free
-  url: https://manage.siteleaf.com/signup
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-11.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 <iframe src="https://player.vimeo.com/video/169542999?title=0&byline=0&portrait=0" width="680" height="383" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
