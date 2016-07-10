@@ -4,14 +4,15 @@ date: 2013-06-22 17:00:00 Z
 categories:
 - up-and-running
 tags:
-- tutorial
-- liquid
-- v1
+- inspiration
 excerpt-image: "/uploads/inside-retail-test-content-06.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/an-introduction-to-siteleaf-collaboration.png"
-Docs:
-- getting started
+hero-video: 
+hero-image: "/uploads/inside-retail-test-content-06.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Short Read
 ---
 
 Recently, we at [Oak](http://oak.is) launched a new website publishing platform, called [Siteleaf](http://siteleaf.com). In short, Siteleaf lets you build your website locally, edit its content in the cloud, and publish to static. In between, it’s so much more. Let me tell you about it.

@@ -7,9 +7,12 @@ tags:
 - marketing
 excerpt-image: "/uploads/inside-retail-test-content-10.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/metadata-in-siteleaf-ui.png"
-Docs:
-- metadata
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-10.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 In [Siteleaf](http://siteleaf.com), metadata is pure key/value data attached to a site, page, or post. It provides a way to interact with templates beyond the basic usage of injecting title or body copy. Metadata can be used to set inline CSS values or specify the number of posts on a given page—the uses are endless. It’s also very flexible, down to a per-entity level. A post could have a completely unique set of metadata compared to that of its siblings. Let’s look at a few examples.

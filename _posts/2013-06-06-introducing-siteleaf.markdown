@@ -4,11 +4,16 @@ date: 2013-06-06 02:47:00 Z
 categories:
 - getting-started
 tags:
-- announcement
+- marketing
 - v1
 excerpt-image: "/uploads/inside-retail-test-content-04.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/introducing-siteleaf.jpg"
+hero-video: 
+hero-image: "/uploads/inside-retail-test-content-04.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Short Read
 ---
 
 **Approach** — Managing content on sites can be a precarious task. We wanted to build a lean tool that would integrate easily into your workflow, yet provide everything necessary to maintain your content.

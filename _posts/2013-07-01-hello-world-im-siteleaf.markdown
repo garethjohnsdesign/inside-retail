@@ -8,7 +8,12 @@ tags:
 - v1
 excerpt-image: "/uploads/inside-retail-test-content-09.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/hello-world-im-siteleaf-create-site.png"
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-09.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 Last week, [I ran through](/blog/overview) a number of [Siteleaf’s](http://siteleaf.com) most compelling features and provided a general overview of the service. This week, I’ll hold your hand through creating a basic website using Siteleaf.

@@ -7,7 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-33.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/header-post.jpg"
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-33.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 If you're a heavy Siteleaf user, you might notice a few tweaks here and there that we recently introduced. 

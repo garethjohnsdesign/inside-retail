@@ -1,5 +1,5 @@
 ---
-title: Fine Tuning | Marketing
+title: Fine Tuning - Marketing
 permalink: "/fine-tuning/marketing/"
 categories:
 - fine-tuning
@@ -15,25 +15,29 @@ lead-paragraph: Aenean lacinia bibendum nulla sed consectetur.
 ---
 
 <!-- Sub Navigation -->
-<div class="sub-navigation show-for-medium">
+<div class="sub-navigation">
 <div class="row">
 <div class="small-12 columns">
-<ul class="vertical medium-horizontal dropdown menu" data-dropdown-menu="qjv9ir-dropdown-menu" role="menubar">
+<ul class="vertical medium-horizontal dropdown menu">
 	
-	<li role="menuitem">
-	<a href="../ecommerce/" class="" tabindex="0">eCommerce</a>
+	<li>
+	<a href="/{% for category in page.categories %}{{ category }}{% endfor %}/">All</a>
 	</li>
 	
-	<li role="menuitem" class="current">
-	<a href="" class="">Marketing</a>
+	<li>
+	<a href="../ecommerce/">eCommerce</a>
 	</li>
 	
-	<li role="menuitem">
-	<a href="../in-store/" class="">In-Store</a>
+	<li class="active">
+	<a href="../marketing/">Marketing</a>
 	</li>
 	
-	<li role="menuitem">
-	<a href="../inspiration/" class="">Inspiration</a>
+	<li>
+	<a href="../in-store/">In-Store</a>
+	</li>
+	
+	<li>
+	<a href="../inspiration/">Inspiration</a>
 	</li>
 	
 </ul>
@@ -44,6 +48,7 @@ lead-paragraph: Aenean lacinia bibendum nulla sed consectetur.
 
 <div class="category__content__wrap">
 <div class="row category__content" id="category__content">
+
 
 {% assign category_posts = site.categories.fine-tuning %}
 {% for post in category_posts %}

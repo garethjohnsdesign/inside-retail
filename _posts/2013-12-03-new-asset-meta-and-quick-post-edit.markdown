@@ -7,10 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-24.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/asset-metadata.png"
-Docs:
-- metadata
-- assets
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-24.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 We're constantly working on improving the Siteleaf experience and making it as flexible as possible. Today we're happy to introduce two new features:

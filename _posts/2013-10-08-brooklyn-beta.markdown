@@ -7,7 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-18.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/beta.jpg"
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-18.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 Hello Brooklyn! This week the Siteleaf team will be at our favorite web conference, [Brooklyn Beta](http://brooklynbeta.org).

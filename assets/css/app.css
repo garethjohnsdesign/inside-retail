@@ -5005,8 +5005,8 @@ select {
   .menu.nested {
     margin-left: 1rem; }
   .menu .active > a {
-    color: #fefefe;
-    background: #222222; }
+    color: #222222;
+    background: #B1B8C4; }
 
 .menu-text {
   font-weight: bold;
@@ -7069,6 +7069,9 @@ input::-webkit-input-placeholder {
 .excerpt__tag {
   font-size: 80%;
   text-align: right; }
+
+li.excerpt__tag.align-right {
+  margin-right: 0rem; }
 
 .excerpt__length {
   font-size: 80%;

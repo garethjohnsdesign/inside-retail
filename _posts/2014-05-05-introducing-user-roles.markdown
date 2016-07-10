@@ -7,7 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-26.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/user-roles-post.jpg"
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-25.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 Today we're happy to introduce a highly requested feature: user roles. Since day one you've been able to invite collaborators to your site. With the introduction of user roles, you can now set the level of control each collaborator has over your site content. You can now set a collaborator's role to one of the following:

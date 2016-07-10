@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: All
 date: 2015-11-04 20:45:00 Z
-permalink: "/blog/"
+permalink: "/all/"
 layout: blog
 ---
 

@@ -7,7 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-22.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/gallery.jpg"
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-22.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 At Siteleaf, nothing makes us happier than seeing our customers build amazing websites. We proudly showcase these in our ever-growing [Gallery](http://www.siteleaf.com/gallery) for inspiration.

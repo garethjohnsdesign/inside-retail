@@ -7,9 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-16.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/porting-a-theme-to-siteleaf-martin.png"
-Docs:
-- getting started
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-16.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 Today, I ported [another theme](http://martin.siteleaf.net) to [Siteleaf](http://siteleaf.com)—[Allison House's](http://twitter.com/house) [Martin theme](http://house.github.io/martin/). I started porting themes to Siteleaf earlier this month as a self-imposed challenge. A friend of mine asked if a particular theme was possible to implement using Siteleaf and rather than answer with a simple 'yes', I responded with [the ported theme](http://balzac.siteleaf.net). This was a great way of demonstrating Siteleaf's adaptability, but also a useful exercise for myself to see where Siteleaf excels and where it falls short. In this post, I'll walk through porting the Martin theme and show you just how easy it can be.

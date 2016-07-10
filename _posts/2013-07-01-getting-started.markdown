@@ -7,9 +7,12 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-08.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-vimeo: '69294068'
-Docs:
-- getting started
+hero-video: '69294068'
+hero-image: "/uploads/inside-retail-test-content-08.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Short Read
 ---
 
 In this video, we show you around the Siteleaf interface and create a simple website.

@@ -7,8 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-21.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-Docs:
-- metadata
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-21.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 In previous posts, we talked about using [Markdown](http://www.siteleaf.com/blog/markdown-in-siteleaf/) for text formatting and [Metadata](http://www.siteleaf.com/blog/metadata-in-siteleaf/) for extending your content in Siteleaf.

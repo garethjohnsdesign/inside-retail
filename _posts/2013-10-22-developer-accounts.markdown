@@ -7,6 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-19.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-19.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 Today, we’re announcing developer accounts. At launch, we required a subscription in order to use Siteleaf, unless you were invited to a site. Now, you can sign up for free, test the waters, and get a feel for the service before subscribing. If you want to publish your site, simply upgrade to one of our [plans](/plans) and publish away.

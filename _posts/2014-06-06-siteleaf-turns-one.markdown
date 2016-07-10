@@ -7,7 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-28.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: 
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-28.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 It's time to <a href="http://giphy.com/gifs/YTbZzCkRQCEJa" target="_blank">celebrate</a>, today is Siteleaf's first birthday!

@@ -7,10 +7,12 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-09.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/group_by.svg"
-Docs:
-- filters and tags
-- group
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-09.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 Following [`sort`](/blog/advanced-liquid-sort/) and [`where`](/blog/advanced-liquid-where/), this [Advanced Liquid](/blog/tags/liquid) post introduces another handy new filter to Siteleaf: `group_by`.

@@ -4,7 +4,7 @@ date: 2016-06-06 04:00:00 Z
 categories:
 - branching-out
 tags:
-- in-store
+- inspiration
 excerpt-image: "/uploads/inside-retail-test-content-17.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero: 

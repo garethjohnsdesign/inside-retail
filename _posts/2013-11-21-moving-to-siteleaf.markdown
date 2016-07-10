@@ -2,12 +2,17 @@
 title: Moving to Siteleaf
 date: 2013-11-21 06:22:00 Z
 categories:
-- branching-out
+- fine-tuning
 tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-23.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: 
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-23.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read 
 ---
 
 Forget the CMS headaches of yesteryear, moving your website to Siteleaf is surprisingly easy. Since Siteleaf publishes to static files, it's also a great way to speed up your site, reduce server costs, and have a permanent archive of your site. Bring your content with you using a simple [JSON import script](https://gist.github.com/sskylar/5824224) powered by the [Siteleaf API](https://github.com/siteleaf/siteleaf-api) (also available for [Jekyll](https://gist.github.com/sskylar/5834451)).

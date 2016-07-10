@@ -7,7 +7,12 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-32.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: 
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-32.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 In addition to the [Markdown basics](http://daringfireball.net/projects/markdown/syntax), Siteleaf supports some advanced syntax to make formatting your content easier. Here is a sentence showing off a <mark>highlight</mark> and also a footnote[^1]. 

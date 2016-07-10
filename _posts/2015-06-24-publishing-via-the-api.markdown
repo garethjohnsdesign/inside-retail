@@ -7,7 +7,12 @@ tags:
 - inspiration
 excerpt-image: "/uploads/inside-retail-test-content-05.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: 
+hero-video:
+hero-image:
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 For the last week publishing in the Siteleaf interface has been powered by our API. This has been a requested feature by some of our users and ourselves. Its behavior is bit different than some of our other API endpoints, so let's go over it.

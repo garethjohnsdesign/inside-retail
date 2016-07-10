@@ -1,13 +1,21 @@
-<div class="sub-navigation show-for-medium">
+<!-- Sub Navigation -->
+<div class="sub-navigation">
 <div class="row">
 <div class="small-12 columns">
-<ul class="vertical medium-horizontal dropdown menu" data-dropdown-menu>
+<ul class="vertical medium-horizontal dropdown menu">
+	
+	<li class="active">
+	<a href="" class="">All</a>
+	</li>
+	
 	{% for item in site.data.navigation.sub-tags %}
 	<li>
 	<a href="{{ item.url }}" class="">{{ item.title }}</a>
 	</li>
 	{% endfor %}
+	
 </ul>
 </div>
 </div>
 </div>
+<!-- End Sub Navigation -->

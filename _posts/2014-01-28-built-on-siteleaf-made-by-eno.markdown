@@ -7,7 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-25.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/erin-nolan.jpg"
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-25.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 We always love hearing the experiences of others who have built their site with Siteleaf. [Jessica Harllee](http://jessicaharllee.com/), Siteleaf Hackday MVP and all around cool person, was nice enough to write about how she used Siteleaf to rebuild [Erin Nolan's personal site](http://www.madebyeno.com/). Some great takeaways from her post include how she used Siteleaf [metadata](http://www.siteleaf.com/blog/metadata-in-siteleaf/) fields on posts and assets to achieve a unique color palette for each page and to control how images were displayed throughout the layout. 

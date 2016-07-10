@@ -231,6 +231,10 @@ color: $color--white !important;
 	text-align: right;
 }
 
+li.excerpt__tag.align-right {
+	margin-right: 0rem;
+}
+
 .excerpt__length {
 	font-size: $small-font-size;
 	text-align: right;

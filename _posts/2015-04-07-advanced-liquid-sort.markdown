@@ -7,10 +7,12 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-35.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/sort.svg"
-Docs:
-- filters and tags
-- sort
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-35.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 [Liquid](http://v1.siteleaf.com/help/themes/getting-started/) is the flexible templating language that powers themes on Siteleaf. While simple at first glance, there’s a lot of power under the hood for those wanting a greater level of control. In this new blog series, we’ll dive deeper and take a look at some advanced Liquid code and examples.

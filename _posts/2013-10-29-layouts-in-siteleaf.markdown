@@ -7,10 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-20.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/layouts-in-siteleaf.svg"
-Docs:
-- naming your files
-- includes
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-20.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 In my last article about [Siteleaf](http://siteleaf.com), I wrote about what goes into [porting a theme](/blog/porting-a-theme-to-siteleaf/) to Siteleaf from another CMS. This time around, I’ll show you how to write cleaner, less redundant templates through the use of layouts.

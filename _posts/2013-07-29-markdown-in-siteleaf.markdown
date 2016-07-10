@@ -7,7 +7,12 @@ tags:
 - inspiration
 excerpt-image: "/uploads/inside-retail-test-content-14.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/markdown-in-siteleaf-ui.png"
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-14.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 In the last [Siteleaf](http://siteleaf.com) post, we explored [taxonomy](/blog/taxonomy-in-siteleaf) and the many ways you could use it to extend your website. This time, we’ll break from templating and take a closer look at content—specifically, Markdown’s role in Siteleaf.

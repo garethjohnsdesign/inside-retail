@@ -7,7 +7,12 @@ tags:
 - in-store
 excerpt-image: "/uploads/inside-retail-test-content-27.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: "/uploads/github.svg"
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-27.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 Exciting news! Starting today you can now publish your sites from Siteleaf to [GitHub&nbsp;Pages](https://pages.github.com).

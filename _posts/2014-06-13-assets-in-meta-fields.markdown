@@ -7,7 +7,12 @@ tags:
 - marketing
 excerpt-image: "/uploads/inside-retail-test-content-29.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero: 
+hero-video:
+hero-image: "/uploads/inside-retail-test-content-29.jpg"
+hero-text: Maecenas faucibus mollis interdum
+hero-quote: Lorem Ipsum Quote
+hero-cite: Jeremy Corbs
+length: Long Read
 ---
 
 ![](/uploads/pdf.gif) 
