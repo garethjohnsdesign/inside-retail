@@ -7,8 +7,8 @@ tags:
 - inspiration
 excerpt-image: "/uploads/inside-retail-test-content-05.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero-video:
-hero-image:
+hero-video: 
+hero-image: 
 hero-text: Maecenas faucibus mollis interdum
 hero-quote: Lorem Ipsum Quote
 hero-cite: Jeremy Corbs

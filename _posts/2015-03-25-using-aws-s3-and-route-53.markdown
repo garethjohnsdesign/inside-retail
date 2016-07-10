@@ -7,12 +7,12 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-34.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
-hero-video:
+hero-video: 
 hero-image: "/uploads/inside-retail-test-content-34.jpg"
 hero-text: Maecenas faucibus mollis interdum
 hero-quote: Lorem Ipsum Quote
 hero-cite: Jeremy Corbs
-length: Long Read 
+length: Long Read
 ---
 
 After building Siteleaf we took it upon ourselves to each rebuild our site using the service. I had previously used S3 with Jeykll and wanted to continue using it, but getting set up can be a bit of a mystery.
