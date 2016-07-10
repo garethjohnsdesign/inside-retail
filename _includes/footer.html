@@ -2,28 +2,51 @@
 <div class="footer__top">
 	
 <!-- Footer Top__Logo -->
-<div class="row expanded columns">
-  <ul class="menu">
-	<li><a href="/" class="header__home"><img src="{{ site.logo }}" class="header__logo" alt="{{ site.title }}" /></a></li>
-  </ul>
+<div class="row expanded">
+<div class="small-12 medium-4 large-3 columns">
+<div class="footer__top__logo">
+<svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg>
+</div>
+</div>
 </div>
 <!-- End Footer Top__Logo -->
 
+<!-- Footer Top__Menu__Mobile -->
+<div class="row expanded show-for-small-only">
+  
+  <div class="small-12 columns text-center">
+  {% for item in site.data.navigation.details %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  {% endfor %}
+  <hr>
+  {% for item in site.data.navigation.categories %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  {% endfor %}
+  <hr>
+  {% for item in site.data.navigation.tags %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  {% endfor %}
+  
+  </div>
+  
+</div>
+<!-- End Footer Top__Menu__Mobile -->
+
 <!-- Footer Top__Menu -->
-<div class="row expanded">
+<div class="row expanded show-for-medium">
   
   <div class="small-12 medium-4 large-3 columns">
   <ul class="menu vertical">
   {% for item in site.data.navigation.details %}
-  <li><a href="{{ item.url }}" class="">{{ item.title }}</a></li>
+  <li class=""><a href="{{ item.url }}">{{ item.title }}</a></li>
   {% endfor %}
   </ul>
   </div>
   
   <div class="small-12 medium-4 large-3 columns">
-  <ul class="menu vertical">
+  <ul class="menu vertical align-center">
   {% for item in site.data.navigation.categories %}
-  <li><a href="{{ item.url }}" class="">{{ item.title }}</a></li>
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
   {% endfor %}
   </ul>
   </div>
@@ -31,7 +54,7 @@
   <div class="small-12 medium-4 large-3 columns">
   <ul class="menu vertical">
   {% for item in site.data.navigation.tags %}
-  <li><a href="{{ item.url }}" class="">{{ item.title }}</a></li>
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
   {% endfor %}
   </ul>
   </div>

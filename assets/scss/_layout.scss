@@ -112,6 +112,10 @@ color: $color--white !important;
   --orange-color: $color--gray;
 }
 
+.current a {
+  color: $color--dark-gray;
+}
+
 // Sub Navigation
 
 .sub-navigation {
@@ -151,6 +155,11 @@ color: $color--white !important;
 
 
 // Excerpt
+
+.excerpt-top {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
 
 .excerpt__image {
 	margin-top: 1rem;
@@ -271,14 +280,19 @@ li.excerpt__tag.align-right {
 
 // Post
 .post__wrapper {
-	background-color: $color--teal;
 	padding-top: 3rem;
 	padding-bottom: 3rem;
 }
 
 .post__panel {
 	background-color: $color--white;
-	padding: 4rem;
+	padding: 2rem;
+	@include breakpoint(medium) {
+  padding: 3rem;
+  }
+  @include breakpoint(large) {
+    padding: 7rem;
+  }
 }
 
 .post__title {
@@ -294,6 +308,15 @@ li.excerpt__tag.align-right {
 
 .post__share {
 	@include accent-text;
+}
+
+.post__share__bottom {
+	padding-top: 2rem;
+	@include accent-text;
+}
+
+.post__pagination {
+	padding-top: 2rem;
 }
 
 // Category
@@ -498,9 +521,17 @@ li.excerpt__tag.align-right {
 	padding-bottom: 2rem;
 }
 
+.footer__top__logo {
+	padding: 0.7rem 1rem;
+	text-align: center;
+	@include breakpoint(medium) {
+    text-align: left;
+  	}
+}
+
 .footer__top .menu > li > a {
-	padding-top: 0.5rem;
-	padding-bottom: 0.5rem;
+	padding-top: 0.35rem;
+	padding-bottom: 0.35rem;
 }
 
 .footer__bottom {
@@ -529,7 +560,3 @@ li.excerpt__tag.align-right {
 }
 
 // Testing
-
-.current a {
-  color: $color--dark-gray;
-}

@@ -2281,8 +2281,7 @@ Copyright (c) 2015 Daniel Eden
   color: #ffffff; }
 
 .bg--orange {
-  background: #F6931D;
-  color: #ffffff; }
+  background: #F6931D; }
 
 .bg--purple {
   background: #91278F;
@@ -2358,6 +2357,22 @@ a.bg--gray:hover {
 
 .category--bg--purple {
   background: #91278F; }
+
+.post--bg--magenta {
+  background: linear-gradient(to right bottom, transparent 50%, #E9ECF0 50%, #ffffff 75%, #E9ECF0 75%);
+  background-color: #EB008B; }
+
+.post--bg--teal {
+  background: linear-gradient(to right bottom, transparent 50%, #E9ECF0 50%, #ffffff 75%, #E9ECF0 75%);
+  background-color: #00A69D; }
+
+.post--bg--orange {
+  background: linear-gradient(to right bottom, transparent 50%, #E9ECF0 50%, #ffffff 75%, #E9ECF0 75%);
+  background-color: #F6931D; }
+
+.post--bg--purple {
+  background: linear-gradient(to right bottom, transparent 50%, #E9ECF0 50%, #ffffff 75%, #E9ECF0 75%);
+  background-color: #91278F; }
 
 @font-face {
   font-family: 'GothamCondensed-Bold';
@@ -6966,6 +6981,9 @@ input::-webkit-input-placeholder {
   --black-color: #B1B8C4;
   --orange-color: #B1B8C4; }
 
+.current a {
+  color: #8C95A3; }
+
 .sub-navigation {
   background-color: #F7F8FA;
   font-family: "GothamCondensed-Bold", Helvetica, Roboto, Arial, sans-serif;
@@ -6998,6 +7016,10 @@ input::-webkit-input-placeholder {
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
   letter-spacing: 0.15em;
   margin-bottom: 0rem; }
+
+.excerpt-top {
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
 
 .excerpt__image {
   margin-top: 1rem;
@@ -7099,13 +7121,18 @@ li.excerpt__tag.align-right {
   padding-bottom: 3rem; }
 
 .post__wrapper {
-  background-color: #00A69D;
   padding-top: 3rem;
   padding-bottom: 3rem; }
 
 .post__panel {
   background-color: #ffffff;
-  padding: 4rem; }
+  padding: 2rem; }
+  @media screen and (min-width: 40em) {
+    .post__panel {
+      padding: 3rem; } }
+  @media screen and (min-width: 64em) {
+    .post__panel {
+      padding: 7rem; } }
 
 .post__hero {
   padding-top: 3rem; }
@@ -7117,6 +7144,15 @@ li.excerpt__tag.align-right {
   text-transform: uppercase;
   font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
   letter-spacing: 0.15em; }
+
+.post__share__bottom {
+  padding-top: 2rem;
+  text-transform: uppercase;
+  font-family: "Gotham-Medium", Helvetica, Roboto, Arial, sans-serif;
+  letter-spacing: 0.15em; }
+
+.post__pagination {
+  padding-top: 2rem; }
 
 .category {
   background: #FAFAFA;
@@ -7284,9 +7320,16 @@ li.excerpt__tag.align-right {
   padding-top: 2rem;
   padding-bottom: 2rem; }
 
+.footer__top__logo {
+  padding: 0.7rem 1rem;
+  text-align: center; }
+  @media screen and (min-width: 40em) {
+    .footer__top__logo {
+      text-align: left; } }
+
 .footer__top .menu > li > a {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem; }
+  padding-top: 0.35rem;
+  padding-bottom: 0.35rem; }
 
 .footer__bottom {
   background-color: #F7F8FA; }
@@ -7308,6 +7351,3 @@ li.excerpt__tag.align-right {
   @media screen and (min-width: 40em) {
     .footer__bottom__socials {
       justify-content: flex-end; } }
-
-.current a {
-  color: #8C95A3; }

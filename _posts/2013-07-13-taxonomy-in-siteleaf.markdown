@@ -13,6 +13,8 @@ hero-text: Maecenas faucibus mollis interdum
 hero-quote: Lorem Ipsum Quote
 hero-cite: Jeremy Corbs
 length: Long Read
+is-top: true
+top-image: "/uploads/inside-retail-test-content-13-top.jpg"
 ---
 
 Last week, I wrote about [metadata](/blog/metadata-in-siteleaf) in [Siteleaf](http://siteleaf.com) and the variety of ways you could use it to customize your website. In this post, I’ll do the same, but with metadata’s much cooler, older brother—taxonomy.

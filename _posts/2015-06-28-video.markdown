@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - marketing
+color: orange
 excerpt-image: "/uploads/inside-retail-test-content-07.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero-video: '69294068'

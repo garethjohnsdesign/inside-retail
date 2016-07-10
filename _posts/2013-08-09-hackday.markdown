@@ -13,6 +13,8 @@ hero-text: Maecenas faucibus mollis interdum
 hero-quote: Lorem Ipsum Quote
 hero-cite: Jeremy Corbs
 length: Long Read
+is-top: true
+top-image: "/uploads/inside-retail-test-content-15-top.jpg"
 ---
 
 Introducing the very first [Siteleaf Hackday](http://siteleaf.eventbrite.com), August 24 in Brooklyn, NY. If you are new to Siteleaf, have questions, or just need some motivation to finally make that new blog, here's your chance to sit down with the Siteleaf team and talk one-on-one.

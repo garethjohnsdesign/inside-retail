@@ -114,7 +114,6 @@
 }
 .bg--orange {
   background: $color--orange;
-  color: $color--white;
 }
 .bg--purple {
   background: $color--purple;
@@ -191,3 +190,22 @@ a.bg--gray:hover {
 .category--bg--purple {
   background: $color--purple;
 }
+
+.post--bg--magenta {
+  background: linear-gradient(to right bottom, transparent 50%, $color--lighter-gray 50%, $color--white 75%, $color--lighter-gray 75%);
+  background-color: $color--magenta;
+}
+.post--bg--teal {
+  background: linear-gradient(to right bottom, transparent 50%, $color--lighter-gray 50%, $color--white 75%, $color--lighter-gray 75%);
+  background-color: $color--teal;
+}
+.post--bg--orange {
+  background: linear-gradient(to right bottom, transparent 50%, $color--lighter-gray 50%, $color--white 75%, $color--lighter-gray 75%);
+  background-color: $color--orange;
+}
+.post--bg--purple {
+  background: linear-gradient(to right bottom, transparent 50%, $color--lighter-gray 50%, $color--white 75%, $color--lighter-gray 75%);
+  background-color: $color--purple;
+}
+
+

@@ -22,7 +22,7 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
+    permalink: "/:title/"
     layout: post
     image: 
     description: 

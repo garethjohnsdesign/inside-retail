@@ -2,7 +2,10 @@
 layout: default
 ---
 
-<div class="post__wrapper">
+<div class="post__wrapper post--bg--{% for page_category in page.categories %}{% assign page_category_downcase = page_category | downcase | replace: ' ', '-' %}{% for site_category in site.blog_categories %}{% assign site_category_title = site_category.title | downcase | replace: ' ', '-' %}{% if site_category_title == page_category_downcase %}{{site_category.color}}{% endif %}{% endfor %}{% endfor %}">
+
+
+	
 <div class="row columns post__panel">
 	
 <!-- Post Share -->
@@ -10,11 +13,10 @@ layout: default
 	<div class="small-12 columns">
 	<ul class="menu simple">
 	<li>Share</li>
-	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
-	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
-	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
-	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
-  </ul>
+	 
+	{% include sharing.html %} 
+	 
+  	</ul>
 	</div>
 </div>
 <!-- End Post Share -->
@@ -81,6 +83,33 @@ layout: default
 	<div class="small-12 columns">
 		{{ page.content }}
 	</div>
+</div>
+
+<!-- Post Share Bottom -->
+<div class="row post__share__bottom">
+	<div class="small-12 columns text-center">
+		<p>Share<p>
+		<ul class="menu simple align-center">
+			{% include sharing.html %}
+	  	</ul>
+	</div>
+</div>
+<!-- End Post Share Bottom -->
+
+
+<div class="post__pagination">
+<div class="row">
+  <div class="small-6 columns">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> {{page.previous.title}}</a>
+  {% endif %}
+  </div>
+  <div class="small-6 columns text-right">
+  {% if page.next.url %}
+    <a class="next text-right" href="{{page.next.url}}">{{page.next.title}} <svg class="icon icon-arrow-right8"><use xlink:href="#icon-arrow-right8"></use></svg></a>
+   </div>
+  {% endif %}
+</div>
 </div>
 
 </div>

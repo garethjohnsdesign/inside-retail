@@ -19,6 +19,17 @@
             <a href="{{ link.url }}">{{ link.title }}</a>
         </li>
     {% endfor %}
+    
+    
+    {% for link in site.data.navigation.tags %}
+        {% assign current = nil %}
+        {% if page.url contains link.url %}
+            {% assign current = 'current' %}
+        {% endif %}
+        <li class="element show-for-small-only {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
+    {% endfor %}
 	
 
 	</ul>
