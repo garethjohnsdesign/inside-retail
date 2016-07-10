@@ -9,7 +9,7 @@ color: orange
 excerpt-image: "/uploads/inside-retail-test-content-07.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero-video: '69294068'
-hero-image:
+hero-image: 
 hero-text: Maecenas faucibus mollis interdum
 hero-quote: Lorem Ipsum Quote
 hero-cite: Jeremy Corbs
