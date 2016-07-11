@@ -6,7 +6,6 @@
 @import 'colors';
 @import 'fonts';
 @import 'hamburgers';
-@import 'carousel';
 @import 'settings';
 @import 'foundation';
 @import 'motion-ui';
@@ -56,5 +55,6 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
+@import 'carousel';
 @import 'icons';
 @import 'layout';

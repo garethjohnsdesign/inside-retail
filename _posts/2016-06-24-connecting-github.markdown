@@ -13,6 +13,7 @@ hero-text: Maecenas faucibus mollis interdum
 hero-quote: Lorem Ipsum Quote
 hero-cite: Jeremy Corbs
 length: Short Read
+is-sponsored:
 image: "/uploads/connecting-github-and-siteleaf-title.png"
 description: This tutorial will show you how to connect and sync an existing Jekyll
   site from GitHub to Siteleaf, so you can edit content and preview your site in the

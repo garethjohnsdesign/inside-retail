@@ -47,10 +47,17 @@ color: $color--white !important;
 
 // Layout
 
+a {
+	color: $color--black;
+	transition: $primary-transition;
+	&:hover {
+      color: $color--gray;
+    }
+}
 
 // Announcement
 .announcement {
-	background-color: $color--light-gray;
+	background-color: $color--darkest-gray;
 	color: $color--white;
 	padding-top: 0.5rem;
 	padding-bottom: 0.5rem;
@@ -70,17 +77,18 @@ color: $color--white !important;
 }
 
 .top-bar {
-	font-family: $header-font-family;
-	text-transform: uppercase;
-	font-size: 1.3rem;
+	font-family: $body-font-family;
+// 	text-transform: uppercase;
+	font-size: 1rem;
 }
 
 .top-bar-left {
-	text-transform: uppercase;
-	letter-spacing: 0.1em;
+// 	text-transform: uppercase;
+	letter-spacing: 0.0em;
 }
 
 .top-bar-right {
+	font-family: $header-font-family-accent;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
 }
@@ -104,26 +112,47 @@ color: $color--white !important;
 }
 
 .header__home:hover #top-bar__logo__desktop {
-  --teal-color: $color--gray;
-  --purple-color: $color--gray;
-  --magenta-color: $color--gray;
-  --yellow-color: $color--gray;
-  --black-color: $color--gray;
-  --orange-color: $color--gray;
+  --teal-color: $color--darkest-gray;
+  --purple-color: $color--darkest-gray;
+  --magenta-color: $color--darkest-gray;
+  --yellow-color: $color--darkest-gray;
+  --black-color: $color--darkest-gray;
+  --orange-color: $color--darkest-gray;
 }
 
 .current a {
-  color: $color--dark-gray;
+  color: $color--gray;
+}
+
+.primary-menu {
+  @include breakpoint(small only) {
+   border-top: 1px solid $color--gray;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+}
+
+.secondary-menu {
+  @include breakpoint(small only) {
+   border-top: 1px solid $color--gray;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+}
+
+.social-menu {
+  @include breakpoint(small only) {
+   border-top: 1px solid $color--gray;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
 }
 
 // Sub Navigation
 
 .sub-navigation {
 	background-color: $color--lightest-gray;
-	font-family: $header-font-family;
-	text-transform: uppercase;
-	font-size: 1.3rem;
-	letter-spacing: 0.1em;
+	font-family: $body-font-family;
 	padding-top: 1rem;
 	padding-bottom: 1rem;
 }
@@ -145,6 +174,7 @@ color: $color--white !important;
 
 .index__connect h6 {
 	@include accent-text;
+	padding-bottom: 0.5rem;
 }
 
 .index__top__title h6 {
@@ -152,19 +182,57 @@ color: $color--white !important;
 	margin-bottom: 0rem;
 }
 
+.button.hollow, .button.hollow {
+	border-color: $color--black;
+	color: $color--black;
+	transition: $primary-transition;
+}
+
+.button.hollow:hover, .button.hollow:focus {
+	border-color: $color--gray;
+	color: $color--gray;
+}
+
 
 
 // Excerpt
 
 .excerpt-top {
-	margin-top: 2rem;
-	margin-bottom: 2rem;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
 }
 
 .excerpt__image {
 	margin-top: 1rem;
 	margin-bottom: 1rem;
     position:relative;
+}
+
+.excerpt__sponsored {
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+}
+
+.excerpt__video {
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	color: $color--white;
+	font-size: 2rem;
+}
+
+.button {
+	transition: $primary-transition;
+}
+
+.excerpt__sponsored {
+	@include button(false, $color--white, $color--black, $color--white, solid);
+	text-transform: uppercase;
+	font-size: 0.75rem;
+	background-color: $color--white;
+	color: $color--black;
+	transition: $primary-transition;
 }
 
 .excerpt__image:after {
@@ -322,7 +390,7 @@ li.excerpt__tag.align-right {
 // Category
 
 .category {
-  background: #FAFAFA;
+  background: $color--white;
   height: 500px; /* set gallery height */
 }
 
@@ -355,17 +423,20 @@ li.excerpt__tag.align-right {
   padding: 3rem;
   }
   @include breakpoint(large) {
-  padding-top: 3rem;
-  padding-bottom: 3rem
+  padding: 5rem;
   }
 }
 
 .category__header__content {
 	background-color: $color--white;
-	padding: 1rem;
+	padding: 3rem 2rem 2rem 2rem;
 	@include breakpoint(medium) {
-  padding: 3rem;
+	padding: 3rem;
   }
+}
+
+.category__header__content h1 {
+	line-height: 1;
 }
 
 .category__content__wrap {
@@ -373,8 +444,11 @@ li.excerpt__tag.align-right {
 }
 
 .category__content {
+	padding: 0rem;
+	@include breakpoint(medium) {
 	padding-top: 3rem;
 	padding-bottom: 3rem;
+  	}
 }
 
 .category__title {
@@ -422,11 +496,12 @@ li.excerpt__tag.align-right {
 .carousel__header {
  	line-height: $line-height--tight;
  	background-color: $color--white;
-	padding: 1rem 1.5rem;
+	padding: 0.5rem 1.5rem;
+	line-height: 1;
 }
 
 .carousel__subheader {
- 	line-height: $line-height--tight;
+ 	line-height: $line-height--base;
  	background-color: $color--white;
 	padding: 1rem 1.5rem;
 }
@@ -434,6 +509,7 @@ li.excerpt__tag.align-right {
 .carousel__button {
  	line-height: $line-height--tight;
  	background-color: $color--black;
+ 	color: $color--white;
 	padding: 1rem 1.5rem;
 	margin-top: 1rem;
 	&:hover {
@@ -459,13 +535,13 @@ li.excerpt__tag.align-right {
 // Sponsors
 .sponsors {
 	background-color: $color--light-gray;
-	color: $color--dark-gray;
+	color: $color--darkest-gray;
 	padding-top: 2rem;
 	padding-bottom: 2rem;
 }
 
 .sponsors a {
-	color: $color--dark-gray;
+	color: $color--darkest-gray;
 	&:hover {
     color: black;
   }
@@ -530,12 +606,26 @@ li.excerpt__tag.align-right {
 }
 
 .footer__top .menu > li > a {
+	font-size: 80%;
 	padding-top: 0.35rem;
 	padding-bottom: 0.35rem;
 }
 
+.footer__top .show-for-small-only {
+	font-size: 80%;
+}
+
 .footer__bottom {
-	background-color: $color--lightest-gray;
+	color: $color--black;
+	border-bottom: 1rem solid $color--black;
+}
+
+.footer__bottom a {
+	color: $color--black;
+	transition: $primary-transition;
+	&:hover {
+      color: $color--gray;
+    }
 }
 
 .footer__bottom .menu-text {

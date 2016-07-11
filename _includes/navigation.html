@@ -1,13 +1,13 @@
 <div class="title-bar" data-responsive-toggle="primary-menu" data-hide-for="medium">
+  <div class="title-bar-title"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg></a></div>
   <button class="hamburger hamburger--collapse" id="menuBar" data-toggler=".is-active" type="button" data-toggle="menuBar"><span class="hamburger-box">
     <span class="hamburger-inner"></span>
   </span></button>
-  <div class="title-bar-title"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg></a></div>
 </div>
 
 <div class="top-bar" id="primary-menu">
   <div class="top-bar-left">
-	<ul class="vertical medium-horizontal dropdown menu" data-dropdown-menu>
+	<ul class="vertical medium-horizontal dropdown menu primary-menu" data-dropdown-menu>
 	<li class="hide-for-small-only"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg></a></li>
 	
 	{% for link in site.data.navigation.header %}
@@ -19,9 +19,10 @@
             <a href="{{ link.url }}">{{ link.title }}</a>
         </li>
     {% endfor %}
-    
-    
-    {% for link in site.data.navigation.tags %}
+	</ul>
+	
+	<ul class="vertical medium-horizontal dropdown menu secondary-menu" data-dropdown-menu>
+	{% for link in site.data.navigation.tags %}
         {% assign current = nil %}
         {% if page.url contains link.url %}
             {% assign current = 'current' %}
@@ -30,9 +31,15 @@
             <a href="{{ link.url }}">{{ link.title }}</a>
         </li>
     {% endfor %}
-	
-
+    </ul>
+    
+    <ul class="menu simple social-menu show-for-small-only">
+	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
 	</ul>
+    
   </div>
   <div class="top-bar-right hide-for-small-only">
     <ul class="menu align-right">

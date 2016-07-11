@@ -108,13 +108,14 @@ $block-grid-max: 8;
 // $header-font-family: $body-font-family;
 $header-font-family: 'GothamCondensed-Bold', Helvetica, Roboto, Arial, sans-serif;
 $header-font-family-accent: 'Gotham-Medium', Helvetica, Roboto, Arial, sans-serif;
+$header-font-family-light: 'GothamCondensed-Book', Helvetica, Roboto, Arial, sans-serif;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
 $header-sizes: (
   small: (
-    'h1': 48,
-    'h2': 36,
+    'h1': 42,
+    'h2': 30,
     'h3': 19,
     'h4': 18,
     'h5': 17,
@@ -122,8 +123,8 @@ $header-sizes: (
   ),
   medium: (
 //     'h1': 48,
-    'h1': 72,
-    'h2': 40,
+    'h1': 50,
+    'h2': 36,
     'h3': 31,
     'h4': 25,
     'h5': 20,
@@ -243,8 +244,8 @@ $breadcrumbs-item-slash: true;
 $button-padding: 0.85em 1em;
 $button-margin: 0 0 $global-margin 0;
 $button-fill: solid;
-$button-background: $primary-color;
-$button-background-hover: scale-color($button-background, $lightness: -15%);
+$button-background: $color--black;
+$button-background-hover: $color--gray;
 $button-color: $white;
 $button-color-alt: $black;
 $button-radius: $global-radius;

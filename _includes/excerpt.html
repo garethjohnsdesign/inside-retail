@@ -2,9 +2,23 @@
 
 <!-- Image -->
 <a href="{{post.url}}">
-<section class="excerpt__image">
+<div class="excerpt__image">
 <img src="{{post.excerpt-image}}" alt="{{post.title}}" />
-</section>
+
+{% if post.is-sponsored %}
+<div class="excerpt__sponsored">
+Sponsored
+</div>
+{% endif %}
+
+{% if post.hero-video %}
+<div class="excerpt__video">
+<svg class="icon icon-play3"><use xlink:href="#icon-play3"></use></svg>
+</div>
+{% endif %}
+
+
+</div>
 </a>
 <!-- End Image -->
 

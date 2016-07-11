@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Siteleaf, http://siteleaf.com" />
 
-<title>Introducing Siteleaf</title>
+<title>Video</title>
 <meta name="description" content="Watch Introducing Siteleaf.">
 
 <!-- Twitter -->
@@ -19,7 +19,7 @@
 <meta name="twitter:image:src" content="http://aqualis.co/assets/img/meta/meta-image.png">
 
 <!-- Open Graph -->
-<meta property="og:title" content="Introducing Siteleaf" />
+<meta property="og:title" content="Video" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="en_GB" />
 <meta property="og:url" content="/video/" />
@@ -84,6 +84,10 @@
 <path class="path19" fill="#f9ed32" style="fill: var(--yellow-color, #f9ed32)" d="M26.624 0l-6.304 3.328h-12.672v6.72l-3.36 1.76v-11.808z"></path>
 <path class="path20" fill="#00a79d" style="fill: var(--teal-color, #00a79d)" d="M32 0v3.328h-11.68l6.304-3.328z"></path>
 <path class="path21" fill="#00a79d" style="fill: var(--teal-color, #00a79d)" d="M7.648 10.048v14.304h-7.648l4.288-3.328v-9.216z"></path>
+</symbol>
+<symbol id="icon-play3" viewBox="0 0 16 16">
+<title>play3</title>
+<path class="path1" d="M8 0c-4.418 0-8 3.582-8 8s3.582 8 8 8 8-3.582 8-8-3.582-8-8-8zM8 14.5c-3.59 0-6.5-2.91-6.5-6.5s2.91-6.5 6.5-6.5 6.5 2.91 6.5 6.5-2.91 6.5-6.5 6.5zM6 4.5l6 3.5-6 3.5z"></path>
 </symbol>
 <symbol id="icon-mastercard" viewBox="0 0 32 32">
 <title>mastercard</title>
@@ -264,15 +268,15 @@
 
 <!-- Navigation -->
 <div class="title-bar" data-responsive-toggle="primary-menu" data-hide-for="medium">
+  <div class="title-bar-title"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg></a></div>
   <button class="hamburger hamburger--collapse" id="menuBar" data-toggler=".is-active" type="button" data-toggle="menuBar"><span class="hamburger-box">
     <span class="hamburger-inner"></span>
   </span></button>
-  <div class="title-bar-title"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg></a></div>
 </div>
 
 <div class="top-bar" id="primary-menu">
   <div class="top-bar-left">
-	<ul class="vertical medium-horizontal dropdown menu" data-dropdown-menu>
+	<ul class="vertical medium-horizontal dropdown menu primary-menu" data-dropdown-menu>
 	<li class="hide-for-small-only"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg></a></li>
 	
 	
@@ -306,9 +310,10 @@
             <a href="/fine-tuning/">Fine-tuning</a>
         </li>
     
-    
-    
-    
+	</ul>
+	
+	<ul class="vertical medium-horizontal dropdown menu secondary-menu" data-dropdown-menu>
+	
         
         
         <li class="element show-for-small-only first  ">
@@ -333,9 +338,15 @@
             <a href="/inspiration/">Inspiration</a>
         </li>
     
-	
-
+    </ul>
+    
+    <ul class="menu simple social-menu show-for-small-only">
+	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
 	</ul>
+    
   </div>
   <div class="top-bar-right hide-for-small-only">
     <ul class="menu align-right">
@@ -392,7 +403,7 @@
 <!-- Post Title -->
 <div class="row post__title">
 	<div class="small-12 columns">
-		<h1>Introducing Siteleaf</h1>
+		<h1>Video</h1>
 	</div>
 </div>
 
@@ -554,13 +565,10 @@
 <div class="row">
   <div class="small-6 columns">
   
-    <a class="prev" href="/publishing-via-the-api/"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> Publishing via the API</a>
+    <a class="prev" href="/connecting-github/"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> Connecting Github</a>
   
   </div>
   <div class="small-6 columns text-right">
-  
-    <a class="next text-right" href="/join-our-team/">Join our team <svg class="icon icon-arrow-right8"><use xlink:href="#icon-arrow-right8"></use></svg></a>
-   </div>
   
 </div>
 </div>
@@ -599,7 +607,7 @@
 <div class="row expanded subscribe">
 <div class="small-12 columns text-center">
 <h5>Subscribe</h5>
-<svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg> Get our newsletter Dolor here lorem opsum
+<div class="align-middle"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg> Get our newsletter Dolor here lorem opsum</div>
 
 <form class="subscribe__form">
 <div class="row">
@@ -674,7 +682,7 @@
 <!-- Footer Top__Menu -->
 <div class="row expanded show-for-medium">
   
-  <div class="small-12 medium-4 large-3 columns">
+  <div class="small-12 medium-3 large-2 columns">
   <ul class="menu vertical">
   
   <li class=""><a href="/about/">About</a></li>
@@ -688,7 +696,7 @@
   </ul>
   </div>
   
-  <div class="small-12 medium-4 large-3 columns">
+  <div class="small-12 medium-3 large-2 columns">
   <ul class="menu vertical align-center">
   
   <li><a href="/getting-started/">Getting Started</a></li>
@@ -702,7 +710,7 @@
   </ul>
   </div>
   
-  <div class="small-12 medium-4 large-3 columns">
+  <div class="small-12 medium-3 large-2 columns">
   <ul class="menu vertical">
   
   <li><a href="/ecommerce/">eCommerce</a></li>
@@ -732,10 +740,10 @@
   <div class="small-12 medium-6 columns">
   <ul class="menu footer__bottom__socials">
 	<li class="menu-text show-for-medium"><small>Connect</small></li>
-	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
 	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li>
-    <li><a href="#"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
-    <li><a href="#"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li>
   </ul>
   </div>
   
