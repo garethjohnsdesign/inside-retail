@@ -147,7 +147,13 @@ http://flickity.metafizzy.co
 
 .gallery {
   background: #FAFAFA;
-  height: 500px; /* set gallery height */
+  height: 80vh;
+  @include breakpoint(medium) {
+  height: 60vh;
+  }
+  @include breakpoint(large) {
+  height: 50vh;
+  }
 }
 
 .gallery-cell {
