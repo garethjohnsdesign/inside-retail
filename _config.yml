@@ -25,15 +25,15 @@ defaults:
     permalink: "/:title/"
     layout: post
     excerpt-image: 
-    excerpt-text:
-    hero-video:
-    hero-image:
-    hero-text:
-    hero-quote:
-    hero-cite:
-    length:
-    is-top:
-    top-image:
+    excerpt-text: 
+    hero-video: 
+    hero-image: 
+    hero-text: 
+    hero-quote: 
+    hero-cite: 
+    length: 
+    is-top: 
+    top-image: 
 - scope:
     path: ''
     type: blog_tags
