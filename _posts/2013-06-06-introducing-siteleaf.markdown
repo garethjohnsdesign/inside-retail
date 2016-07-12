@@ -5,7 +5,6 @@ categories:
 - getting-started
 tags:
 - marketing
-color: orange
 excerpt-image: "/uploads/inside-retail-test-content-04.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero-video: '69294068'

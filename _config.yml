@@ -24,8 +24,16 @@ defaults:
   values:
     permalink: "/:title/"
     layout: post
-    image: 
-    description: 
+    excerpt-image: 
+    excerpt-text:
+    hero-video:
+    hero-image:
+    hero-text:
+    hero-quote:
+    hero-cite:
+    length:
+    is-top:
+    top-image:
 - scope:
     path: ''
     type: blog_tags

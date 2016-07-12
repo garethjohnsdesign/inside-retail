@@ -4,8 +4,7 @@ date: 2013-07-01 14:43:00 Z
 categories:
 - branching-out
 tags:
-- tutorial
-- v1
+- ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-09.jpg"
 excerpt-text: Maecenas faucibus mollis interdum
 hero-video: 
