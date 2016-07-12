@@ -302,6 +302,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/are-pop-ups-a-smarter-way-to-set-up-shop\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/are-pop-ups-a-smarter-way-to-set-up-shop\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets-in-meta-fields\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13480,6 +13489,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/Are pop ups a smarter way to set up shop.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.87528e+06,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Are pop ups a smarter way to set up shop.jpeg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Are pop ups a smarter way to set up shop.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/asset-metadata.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15703,6 +15723,17 @@
 		"initialSize": 40469,
 		"inputAbbreviatedPath": "\/_uploads\/an-introduction-to-siteleaf-publish.png",
 		"outputAbbreviatedPath": "\/_uploads\/an-introduction-to-siteleaf-publish.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/Are pop ups a smarter way to set up shop.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.87528e+06,
+		"inputAbbreviatedPath": "\/_uploads\/Are pop ups a smarter way to set up shop.jpeg",
+		"outputAbbreviatedPath": "\/_uploads\/Are pop ups a smarter way to set up shop.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

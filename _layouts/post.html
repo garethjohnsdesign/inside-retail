@@ -48,7 +48,7 @@ layout: default
       {% for site_tag in site.blog_tags %}
         {% assign site_tag_title = site_tag.title | downcase %}
         {% if site_tag_title == page_tag_downcase %}
-          <li class="excerpt__tag"><a href="{{ site_tag.permalink }}" class="excerpt__tag__link{% if site_tag.color %} {{site_tag.color}}{% endif %}">{{ site_tag.title }}</a></li>
+          <li class="excerpt__tag"><a href="{{ site_tag.permalink }}" class="excerpt__tag__link">{{ site_tag.title }}</a></li>
         {% endif %}
       {% endfor %}
     {% endfor %}
