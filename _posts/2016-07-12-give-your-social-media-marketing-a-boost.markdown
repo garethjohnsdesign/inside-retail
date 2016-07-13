@@ -1,5 +1,5 @@
 ---
-title: Give Your Social Media Marketing a Boost 
+title: Give Your Social Media Marketing a Boost
 date: 2016-07-12 17:25:00 Z
 categories:
 - up-and-running
@@ -7,10 +7,11 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/give-your-social-media-marketing-a-boost.jpg"
 excerpt-text: Facebook shares its top tips for indies
-hero-video: "m9qtLCgYEhw"
-hero-image:
+hero-video: m9qtLCgYEhw
+hero-image: 
 hero-text: Facebook shares its top tips for indies
-hero-quote: Smaller businesses could use their smartphones more to engage in more in-the-moment and one-to-one personal connections
+hero-quote: Smaller businesses could use their smartphones more to engage in more
+  in-the-moment and one-to-one personal connections
 hero-cite: Courtney McNally
 length: 23 Minute Watch
 ---

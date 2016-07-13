@@ -7,7 +7,7 @@ tags:
 - in-store
 excerpt-image: "/uploads/why-tell-your-finacial-story.jpg"
 excerpt-text: Five tips to get started
-hero-video:
+hero-video: 
 hero-image: "/uploads/why-tell-your-finacial-story.jpg"
 hero-text: Five tips to get started
 hero-quote: Lorem Ipsum Quote

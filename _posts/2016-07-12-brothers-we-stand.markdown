@@ -7,10 +7,11 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/brothers-we-stand.jpg"
 excerpt-text: Creating a successful and ethical menswear offering
-hero-video:
+hero-video: 
 hero-image: "/uploads/brothers-we-stand.jpg"
 hero-text: Creating a successful and ethical menswear offering
-hero-quote: If you can hustle and do things without spending too much money, it's a good way to learn how things work and test things
+hero-quote: If you can hustle and do things without spending too much money, it's
+  a good way to learn how things work and test things
 hero-cite: Jonathan Mitchell
 length: Four Minute Read
 ---

@@ -7,10 +7,11 @@ tags:
 - in-store
 excerpt-image: "/uploads/lessons-from-mountain-warehouse.jpg"
 excerpt-text: Seize opportunities, manage risk and be open-minded
-hero-video:
+hero-video: 
 hero-image: "/uploads/lessons-from-mountain-warehouse.jpg"
 hero-text: Seize opportunities, manage risk and be open-minded
-hero-quote: Many people don’t pursue their dream of opening a shop because they’re waiting for the perfect idea but it often never comes along
+hero-quote: Many people don’t pursue their dream of opening a shop because they’re
+  waiting for the perfect idea but it often never comes along
 hero-cite: Mark Neale
 length: Three Minute Read
 ---

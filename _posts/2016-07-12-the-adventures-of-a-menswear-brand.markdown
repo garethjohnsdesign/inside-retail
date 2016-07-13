@@ -1,5 +1,5 @@
 ---
-title: The Adventures of a Menswear Brand 
+title: The Adventures of a Menswear Brand
 date: 2016-07-12 17:24:00 Z
 categories:
 - getting-started
@@ -7,10 +7,11 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/adventures-of-a-menswear.jpg"
 excerpt-text: Shackleton’s journey from banjos to brand building
-hero-video:
+hero-video: 
 hero-image: "/uploads/adventures-of-a-menswear.jpg"
 hero-text: Shackleton’s journey from banjos to brand building
-hero-quote: We raised £50,000 in advance orders which gave us money in the bank, confidence and market testing
+hero-quote: We raised £50,000 in advance orders which gave us money in the bank, confidence
+  and market testing
 hero-cite: Simon Middleton
 length: Six Minute Read
 ---

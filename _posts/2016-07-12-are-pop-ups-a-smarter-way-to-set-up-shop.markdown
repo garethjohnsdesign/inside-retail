@@ -7,7 +7,7 @@ tags:
 - in-store
 excerpt-image: "/uploads/are-pop-ups-a-smarter-way-to-set-up-shop.jpg"
 excerpt-text: Your pop-up questions answered
-hero-video:
+hero-video: 
 hero-image: "/uploads/are-pop-ups-a-smarter-way-to-set-up-shop.jpg"
 hero-text: Your pop-up questions answered
 hero-quote: Lorem Ipsum Quote

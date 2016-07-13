@@ -7,7 +7,7 @@ tags:
 - in-store
 excerpt-image: "/uploads/how-to-expand-from-your-first-store.jpg"
 excerpt-text: Guidance from a property expert
-hero-video:
+hero-video: 
 hero-image: "/uploads/how-to-expand-from-your-first-store.jpg"
 hero-text: Guidance from a property expert
 hero-quote: Lorem Ipsum Quote

@@ -6,11 +6,12 @@ categories:
 tags:
 - ecommerce
 excerpt-image: "/uploads/inside-retail-test-content-04.jpg"
-excerpt-text: A beginner’s ecommerce checklist 
-hero-video:
-hero-image:
-hero-text: A beginner’s ecommerce checklist 
-hero-quote: You’re not limited by physical space therefore you can potentially offer a broader range of products online
+excerpt-text: A beginner’s ecommerce checklist
+hero-video: 
+hero-image: 
+hero-text: A beginner’s ecommerce checklist
+hero-quote: You’re not limited by physical space therefore you can potentially offer
+  a broader range of products online
 hero-cite: Martin Newman
 length: 5 Minute Read
 is-sponsored: true
