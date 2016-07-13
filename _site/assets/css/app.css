@@ -8184,8 +8184,7 @@ Example showing how to change the color/size of the icons:
   width: 2.1357421875em; }
 
 .icon-logo {
-  font-size: 3rem;
-  color: red; }
+  font-size: 3rem; }
 
 svg.icon.icon-envelop2 {
   vertical-align: text-bottom; }
