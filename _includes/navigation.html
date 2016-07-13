@@ -15,7 +15,7 @@
         {% if page.url contains link.url %}
             {% assign current = 'current' %}
         {% endif %}
-        <li class="element {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+        <li class="element element-{{ link.color }} {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
             <a href="{{ link.url }}">{{ link.title }}</a>
         </li>
     {% endfor %}

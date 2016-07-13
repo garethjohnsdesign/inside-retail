@@ -1,14 +1,19 @@
 header:
 - title: About
   url: /about/
+  color: black
 - title: Getting Started
   url: /getting-started/
+  color: teal
 - title: Up and Running
   url: /up-and-running/
+  color: orange
 - title: Branching Out
   url: /branching-out/
+  color: magenta
 - title: Fine-tuning
   url: /fine-tuning/
+  color: purple
 details:
 - title: About
   url: /about/
