@@ -12,6 +12,7 @@ layout: default
 <div class="row post__share">
 	<div class="small-12 columns">
 	<ul class="menu simple">
+	<li><button type="button" class="hollow button" onclick="history.back(-1)"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> Back</button></li>
 	<li>Share</li>
 	 
 	{% include sharing.html %} 
@@ -72,6 +73,11 @@ layout: default
 
 {% elsif page.hero-image %}
 <img src="{{page.hero-image}}" alt="{{page.title}}" />
+
+{% if page.hero-image-credit %}
+<small class="dark-gray">Photo: {{ page.hero-image-credit }}</small>
+{% endif %}
+
 {% endif %}
 
 </div>
