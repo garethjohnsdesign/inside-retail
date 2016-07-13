@@ -10,8 +10,8 @@ excerpt-text: Your pop-up questions answered
 hero-video: 
 hero-image: "/uploads/are-pop-ups-a-smarter-way-to-set-up-shop.jpg"
 hero-text: Your pop-up questions answered
-hero-quote: Lorem Ipsum Quote
-hero-cite: Jeremy Corbs
+hero-quote:
+hero-cite:
 length: Two Minute Read
 ---
 

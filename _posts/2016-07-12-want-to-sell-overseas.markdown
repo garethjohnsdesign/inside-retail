@@ -10,8 +10,8 @@ excerpt-text: Google shares its top tips
 hero-video: 
 hero-image: "/uploads/want-to-sell-overseas.jpg"
 hero-text: Google shares its top tips
-hero-quote: Lorem Ipsum Quote
-hero-cite: Jeremy Corbs
+hero-quote:
+hero-cite:
 length: Three Minute Read
 ---
 

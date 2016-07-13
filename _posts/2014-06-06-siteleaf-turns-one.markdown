@@ -10,8 +10,8 @@ excerpt-text: Maecenas faucibus mollis interdum
 hero-video: 
 hero-image: "/uploads/inside-retail-test-content-28.jpg"
 hero-text: Maecenas faucibus mollis interdum
-hero-quote: Lorem Ipsum Quote
-hero-cite: Jeremy Corbs
+hero-quote:
+hero-cite:
 length: Long Read
 ---
 

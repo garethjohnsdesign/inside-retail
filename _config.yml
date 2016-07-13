@@ -22,7 +22,7 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/:title/"
+    permalink: "articles/:title/"
     layout: post
     excerpt-image: 
     excerpt-text: 
