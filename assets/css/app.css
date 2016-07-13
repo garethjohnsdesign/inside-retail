@@ -8201,9 +8201,13 @@ input::-webkit-input-placeholder {
 
 @media screen and (max-width: 39.9375em) {
   .no-js .top-bar {
+    display: none; }
+  .no-js .gallery {
     display: none; } }
 @media screen and (min-width: 40em) {
   .no-js .title-bar {
+    display: none; }
+  .no-js .gallery {
     display: none; } }
 
 .uppercase {

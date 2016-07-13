@@ -24,10 +24,16 @@ color: $color--white !important;
     .top-bar {
       display: none;
     }
+    .gallery {
+      display: none;
+    }
   }
 
   @include breakpoint(medium) {
     .title-bar {
+      display: none;
+    }
+    .gallery {
       display: none;
     }
   }
