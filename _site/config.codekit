@@ -1042,6 +1042,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/_site\/assets\/js\/min\/app-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-min.js",
+		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/app-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/_site\/assets\/js\/min\/fade-min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -13842,6 +13853,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/branching-out.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230816,
+		"inputAbbreviatedPath": "\/_site\/uploads\/branching-out.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/branching-out.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/brothers-we-stand.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13981,6 +14003,17 @@
 		"initialSize": 80866,
 		"inputAbbreviatedPath": "\/_site\/uploads\/fancy-bio.png",
 		"outputAbbreviatedPath": "\/_site\/uploads\/fancy-bio.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/fine-tuning.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72381,
+		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14520,6 +14553,17 @@
 		"initialSize": 39568,
 		"inputAbbreviatedPath": "\/_site\/uploads\/gallery__woodshop.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/gallery__woodshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/getting-started.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97124,
+		"inputAbbreviatedPath": "\/_site\/uploads\/getting-started.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/getting-started.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15811,6 +15855,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/up-and-running.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225471,
+		"inputAbbreviatedPath": "\/_site\/uploads\/up-and-running.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/up-and-running.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/user-roles-post.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16108,6 +16163,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/branching-out.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 230816,
+		"inputAbbreviatedPath": "\/_uploads\/branching-out.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/branching-out.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/brothers-we-stand.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16247,6 +16313,17 @@
 		"initialSize": 80866,
 		"inputAbbreviatedPath": "\/_uploads\/fancy-bio.png",
 		"outputAbbreviatedPath": "\/_uploads\/fancy-bio.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/fine-tuning.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72381,
+		"inputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16786,6 +16863,17 @@
 		"initialSize": 39568,
 		"inputAbbreviatedPath": "\/_uploads\/gallery__woodshop.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/gallery__woodshop.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/getting-started.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97124,
+		"inputAbbreviatedPath": "\/_uploads\/getting-started.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/getting-started.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18073,6 +18161,17 @@
 		"initialSize": 722195,
 		"inputAbbreviatedPath": "\/_uploads\/theme__shakengrid.png",
 		"outputAbbreviatedPath": "\/_uploads\/theme__shakengrid.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/up-and-running.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 225471,
+		"inputAbbreviatedPath": "\/_uploads\/up-and-running.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/up-and-running.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
