@@ -1,5 +1,6 @@
 ---
 title: Up and Running
+position: 1
 image: "/uploads/up-and-running.jpg"
 shape: "/uploads/up-and-running.svg"
 header: Risus Condi Sit Ferme Ullam

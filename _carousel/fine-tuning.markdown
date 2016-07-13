@@ -1,5 +1,6 @@
 ---
 title: Fine-Tuning
+position: 3
 image: "/uploads/fine-tuning.jpg"
 shape: "/uploads/fine-tuning.svg"
 header: Aenean Tortor Quam Elit Tristique

@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+position: 0
 image: "/uploads/getting-started.jpg"
 shape: "/uploads/getting-started.svg"
 header: Vulputate Euismod Cursus Fringilla
