@@ -4,6 +4,10 @@
 {% include head.html %}
 
 <body>
+	
+{% if page.url == "/" %}
+<script>document.body.className += ' fade-out';</script>
+{% endif %}
 
 <!-- Announcement -->
 {% include announcement.html %}

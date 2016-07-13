@@ -1,5 +1,9 @@
 $(document).foundation();
 
+
+$('body').removeClass('fade-out');
+
+
 $('.gallery').flickity({
   // options
   imagesLoaded: true,

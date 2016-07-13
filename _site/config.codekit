@@ -725,6 +725,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/icons\/android-chrome-144x144.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1028,17 +1037,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/assets\/js\/app.js",
 		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/assets\/js\/min\/app-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/app-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -13844,17 +13842,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/branching-out.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 252264,
-		"inputAbbreviatedPath": "\/_site\/uploads\/branching-out.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/branching-out.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/uploads\/brothers-we-stand.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13994,17 +13981,6 @@
 		"initialSize": 80866,
 		"inputAbbreviatedPath": "\/_site\/uploads\/fancy-bio.png",
 		"outputAbbreviatedPath": "\/_site\/uploads\/fancy-bio.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/fine-tuning.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 77307,
-		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14544,17 +14520,6 @@
 		"initialSize": 39568,
 		"inputAbbreviatedPath": "\/_site\/uploads\/gallery__woodshop.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/gallery__woodshop.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/getting-started.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117832,
-		"inputAbbreviatedPath": "\/_site\/uploads\/getting-started.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/getting-started.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15846,17 +15811,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/up-and-running.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 261895,
-		"inputAbbreviatedPath": "\/_site\/uploads\/up-and-running.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/up-and-running.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/uploads\/user-roles-post.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16154,17 +16108,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/branching-out.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 460127,
-		"inputAbbreviatedPath": "\/_uploads\/branching-out.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/branching-out.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_uploads\/brothers-we-stand.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16304,17 +16247,6 @@
 		"initialSize": 80866,
 		"inputAbbreviatedPath": "\/_uploads\/fancy-bio.png",
 		"outputAbbreviatedPath": "\/_uploads\/fancy-bio.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/fine-tuning.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 77307,
-		"inputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16854,17 +16786,6 @@
 		"initialSize": 39568,
 		"inputAbbreviatedPath": "\/_uploads\/gallery__woodshop.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/gallery__woodshop.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/getting-started.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117832,
-		"inputAbbreviatedPath": "\/_uploads\/getting-started.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/getting-started.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18156,17 +18077,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/up-and-running.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 261895,
-		"inputAbbreviatedPath": "\/_uploads\/up-and-running.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/up-and-running.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_uploads\/user-roles-post.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18784,7 +18694,7 @@
 		"outputAbbreviatedPath": "\/assets\/css\/app.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 0
