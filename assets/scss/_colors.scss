@@ -192,20 +192,16 @@ a.bg--gray:hover {
 }
 
 .post--bg--magenta {
-  background: linear-gradient(to right bottom, transparent 50%, $color--lighter-gray 50%, $color--white 75%, $color--lighter-gray 75%);
-  background-color: $color--magenta;
+  background: linear-gradient(to right bottom, $color--light-magenta 50%, $color--magenta 50%, $color--magenta 75%, $color--dark-magenta 75%);
 }
 .post--bg--teal {
-  background: linear-gradient(to right bottom, transparent 50%, $color--lighter-gray 50%, $color--white 75%, $color--lighter-gray 75%);
-  background-color: $color--teal;
+  background: linear-gradient(to right bottom, $color--light-teal 50%, $color--teal 50%, $color--teal 75%, $color--dark-teal 75%);
 }
 .post--bg--orange {
-  background: linear-gradient(to right bottom, transparent 50%, $color--lighter-gray 50%, $color--white 75%, $color--lighter-gray 75%);
-  background-color: $color--orange;
+  background: linear-gradient(to right bottom, $color--light-orange 50%, $color--orange 50%, $color--orange 75%, $color--dark-orange 75%);
 }
 .post--bg--purple {
-  background: linear-gradient(to right bottom, transparent 50%, $color--lighter-gray 50%, $color--white 75%, $color--lighter-gray 75%);
-  background-color: $color--purple;
+  background: linear-gradient(to right bottom, $color--light-purple 50%, $color--purple 50%, $color--purple 75%, $color--dark-purple 75%);
 }
 
 

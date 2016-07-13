@@ -1,0 +1,70 @@
+<!-- Sub Navigation -->
+<div class="sub-navigation show-for-medium">
+<div class="row">
+<div class="small-12 columns">
+<ul class="vertical medium-horizontal dropdown menu">
+	
+	<li>
+	<a href="/{% for category in page.categories %}{{ category }}{% endfor %}/">All</a>
+	</li>
+	
+	<li>
+	<a href="../ecommerce/">eCommerce</a>
+	</li>
+	
+	<li>
+	<a href="../marketing/">Marketing</a>
+	</li>
+	
+	<li class="active">
+	<a href="../in-store/">In-Store</a>
+	</li>
+	
+	<li>
+	<a href="../inspiration/">Inspiration</a>
+	</li>
+	
+</ul>
+</div>
+</div>
+</div>
+<!-- End Sub Navigation -->
+
+<!-- Sub Navigation Mobile -->
+<div class="sub-navigation show-for-small-only">
+<div class="row">
+<div class="small-12 columns">
+	<ul class="accordion sub-navigation__accordion" data-accordion data-allow-all-closed="true">
+		<li class="accordion-item" data-accordion-item>
+			<a href="#" class="accordion-title">Filter</a>
+			<div class="accordion-content" data-tab-content>
+			<ul class="menu vertical">
+			
+			<li>
+			<a href="/{% for category in page.categories %}{{ category }}{% endfor %}/">All</a>
+			</li>
+			
+			<li>
+			<a href="../ecommerce/">eCommerce</a>
+			</li>
+			
+			<li>
+			<a href="../marketing/">Marketing</a>
+			</li>
+			
+			<li class="active">
+			<a href="../in-store/">In-Store</a>
+			</li>
+			
+			<li>
+			<a href="../inspiration/">Inspiration</a>
+			</li>
+			
+			</ul>
+			</div>
+		</li>
+	</ul>
+</div>
+</div>
+</div>
+<!-- End Sub Navigation Mobile -->

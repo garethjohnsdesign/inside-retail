@@ -7,9 +7,15 @@
 	.st1{fill:#9B0064;}
 </style>
 <g id="Layer_1_2_">
-	<polygon id="XMLID_3_" class="st0" points="242,124 242,-64.9 742,0.1 742,33.1 376,124 	"/>
+	<polygon class="st0" points="742,-2.9 612,-107.9 698.3,-107.9 	"/>
 </g>
 <g id="Layer_2_1_">
-	<polygon id="XMLID_2_" class="st1" points="376,124 742,33.1 742,124 	"/>
+	<polygon id="XMLID_2_" class="st1" points="742,-2.9 698.3,-107.9 742,-107.9 	"/>
+</g>
+<g id="Layer_1_1_">
+	<polygon id="XMLID_4_" class="st0" points="312.4,77.4 242,-42.9 481,13.7 574,124 	"/>
+</g>
+<g id="Layer_2">
+	<polygon id="XMLID_1_" class="st1" points="242,124 242,-42.9 312.4,77.4 574,124 	"/>
 </g>
 </svg>

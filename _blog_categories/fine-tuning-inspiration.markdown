@@ -14,37 +14,7 @@ subheader: Etiam porta sem malesuada magna mollis euismod
 lead-paragraph: Aenean lacinia bibendum nulla sed consectetur.
 ---
 
-<!-- Sub Navigation -->
-<div class="sub-navigation">
-<div class="row">
-<div class="small-12 columns">
-<ul class="vertical medium-horizontal dropdown menu">
-	
-	<li>
-	<a href="/{% for category in page.categories %}{{ category }}{% endfor %}/">All</a>
-	</li>
-	
-	<li>
-	<a href="../ecommerce/">eCommerce</a>
-	</li>
-	
-	<li>
-	<a href="../marketing/">Marketing</a>
-	</li>
-	
-	<li>
-	<a href="../in-store/">In-Store</a>
-	</li>
-	
-	<li class="active">
-	<a href="../inspiration/">Inspiration</a>
-	</li>
-	
-</ul>
-</div>
-</div>
-</div>
-<!-- End Sub Navigation -->
+{% include sub-navigation-inspiration.html %}
 
 <div class="category__content__wrap">
 <div class="row category__content" id="category__content">
