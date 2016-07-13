@@ -445,13 +445,14 @@ li.excerpt__tag.align-right {
 .post__title {
 }
 
-blockquote {
+.post__content__quote blockquote {
 	font-family: $header-font-family;
 	font-size: 2rem;
 	line-height: 1.2;
+	color: $color--black;
 }
 
-cite {
+.post__content__quote cite {
 	padding-top: 1rem;
 }
 
