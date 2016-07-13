@@ -10,8 +10,8 @@ excerpt-text: Maecenas faucibus mollis interdum
 hero-video: '69294068'
 hero-image: "/uploads/inside-retail-test-content-04.jpg"
 hero-text: Maecenas faucibus mollis interdum
-hero-quote:
-hero-cite:
+hero-quote: 
+hero-cite: 
 length: Short Read
 ---
 

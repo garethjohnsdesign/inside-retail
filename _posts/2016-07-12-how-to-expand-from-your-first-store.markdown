@@ -10,8 +10,8 @@ excerpt-text: Guidance from a property expert
 hero-video: 
 hero-image: "/uploads/how-to-expand-from-your-first-store.jpg"
 hero-text: Guidance from a property expert
-hero-quote:
-hero-cite:
+hero-quote: 
+hero-cite: 
 length: One Minute Read
 ---
 

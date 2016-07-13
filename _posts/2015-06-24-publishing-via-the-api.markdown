@@ -10,8 +10,8 @@ excerpt-text: Maecenas faucibus mollis interdum
 hero-video: 
 hero-image: 
 hero-text: Maecenas faucibus mollis interdum
-hero-quote:
-hero-cite:
+hero-quote: 
+hero-cite: 
 length: Long Read
 ---
 

@@ -10,8 +10,8 @@ excerpt-text: Google shares its top tips
 hero-video: 
 hero-image: "/uploads/want-to-sell-overseas.jpg"
 hero-text: Google shares its top tips
-hero-quote:
-hero-cite:
+hero-quote: 
+hero-cite: 
 length: Three Minute Read
 ---
 

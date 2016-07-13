@@ -10,8 +10,8 @@ excerpt-text: Five tips to get started
 hero-video: 
 hero-image: "/uploads/why-tell-your-finacial-story.jpg"
 hero-text: Five tips to get started
-hero-quote:
-hero-cite:
+hero-quote: 
+hero-cite: 
 length: Three Minute Read
 ---
 
