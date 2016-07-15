@@ -7,21 +7,20 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/brothers-we-stand.jpg"
 excerpt-text: Creating a successful and ethical menswear offering
-hero-video: 
 hero-image: "/uploads/brothers-we-stand.jpg"
-hero-image-credit: Joe Bloggs
 hero-text: Creating a successful and ethical menswear offering
 hero-quote: If you can hustle and do things without spending too much money, it's
   a good way to learn how things work and test things
 hero-cite: Jonathan Mitchell
 length: Four Minute Read
+hero-image-credit: Joe Bloggs
 ---
 
 Brothers We Stand is an online menswear retailer that sells a curated range of ethical designer collections. Here, Inside Retail hears founder Jonathan Mitchell’s startup story. We began by asking him to describe the business in his own words:
 
 **Mitchell:** [Brothers We Stand](http://www.brotherswestand.com) is a platform for different designers designing sustainably and ethically. We search out amazing designers who are really innovating in how they make their product and bring them together into one special collection and sell directly to consumers.
 
-### You haven’t come in via the fashion school route, so how come you’re the founder of a fashion business?
+### You haven’t come in via the fashion school route, so how come you’re the founder of a fashion business? Test
 
 It just sort of happened, I've always been interested in business so when I graduated from university with a degree in international development, I noticed there were a growing number of sustainable designers producing really nice stuff. I thought it would be cool to bring them together, so I chatted it through with friends and spent about a year planning. I got a loan of £3,100 from The Prince’s Trust to start it.
 
