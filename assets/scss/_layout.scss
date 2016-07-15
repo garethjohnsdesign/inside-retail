@@ -664,6 +664,18 @@ li.excerpt__tag.align-right {
 	letter-spacing: $letter-spacing--looser;
 }
 
+// Subscribe Top
+.subscribe-top {
+	background-color: $color--gray;
+	color: $color--white;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.subscribe-top .subscribe__form {
+	padding-top: 0rem;
+}
+
 // Subscribe
 .subscribe {
 	background-color: $color--orange;
