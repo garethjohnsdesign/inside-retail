@@ -4,25 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Siteleaf, http://siteleaf.com" />
 
-<title>{% if page.layout == 'index' %}{{ site.title | escape }}{% else %}{{ page.title | escape }}{% endif %}</title>
-<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-<!-- Twitter -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="{{site.description}}">
-<meta name="twitter:title" content="{{site.title}}">
-<meta name="twitter:description" content="{{ site.description }}">
-<meta name="twitter:creator" content="{{site.twitter}}">
-<meta name="twitter:image:src" content="http://aqualis.co/assets/img/meta/meta-image.png">
-
-<!-- Open Graph -->
-<meta property="og:title" content="{{page.title}}" />
-<meta property="og:type" content="website" />
-<meta property="og:locale" content="en_GB" />
-<meta property="og:url" content="{{site.url}}{{page.url}}" />
-<meta property="og:image" content="http://aqualis.co/assets/img/meta/meta-image.png" />
-<meta property="og:description" content="{{ site.description }}" />
-<meta property="og:site_name" content="{{ site.title }}" />
+{% seo title=false %}
+<title>{{ page.title }}{% if page.url != '/' %} - {{ site.title }}{% endif %}</title>
 
 <!-- Icons -->
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
