@@ -11,10 +11,10 @@
 <meta property="og:title" content="Fine Tuning - Inspiration" />
 <meta name="description" content="			All				eCommerce				Marketing				In-Store				Inspiration								Filter															All												eCommerce												Marketing												In-Store												Inspiration															" />
 <meta property="og:description" content="			All				eCommerce				Marketing				In-Store				Inspiration								Filter															All												eCommerce												Marketing												In-Store												Inspiration															" />
-<link rel="canonical" href="http://garethjohnsdesign.github.io/inside-retail/fine-tuning/inspiration/" />
-<meta property="og:url" content="http://garethjohnsdesign.github.io/inside-retail/fine-tuning/inspiration/" />
+<link rel="canonical" href="http://inside-retail.garethjohnsdesign.com/fine-tuning/inspiration/" />
+<meta property="og:url" content="http://inside-retail.garethjohnsdesign.com/fine-tuning/inspiration/" />
 <meta property="og:site_name" content="Inside Retail" />
-<meta property="og:image" content="http://garethjohnsdesign.github.io/inside-retail/uploads/fine-tuning.jpg" />
+<meta property="og:image" content="http://inside-retail.garethjohnsdesign.com/uploads/fine-tuning.jpg" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@" />
 <script type="application/ld+json">
@@ -22,10 +22,10 @@
     "@context": "http://schema.org",
     "@type": "WebPage",
     "headline": "Fine Tuning - Inspiration",
-    "image": "http://garethjohnsdesign.github.io/inside-retail/uploads/fine-tuning.jpg",
+    "image": "http://inside-retail.garethjohnsdesign.com/uploads/fine-tuning.jpg",
     "description": "\t\t\tAll\t\t\t\teCommerce\t\t\t\tMarketing\t\t\t\tIn-Store\t\t\t\tInspiration\t\t\t\t\t\t\t\tFilter\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAll\t\t\t\t\t\t\t\t\t\t\t\teCommerce\t\t\t\t\t\t\t\t\t\t\t\tMarketing\t\t\t\t\t\t\t\t\t\t\t\tIn-Store\t\t\t\t\t\t\t\t\t\t\t\tInspiration\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-    "logo": "http://garethjohnsdesign.github.io/inside-retail/assets/img/layout/logo.svg",
-    "url": "http://garethjohnsdesign.github.io/inside-retail/fine-tuning/inspiration/"
+    "logo": "http://inside-retail.garethjohnsdesign.com/assets/img/layout/logo.svg",
+    "url": "http://inside-retail.garethjohnsdesign.com/fine-tuning/inspiration/"
   }
 </script>
 <!-- End Jekyll SEO tag -->
@@ -43,8 +43,8 @@
 
 <link rel="stylesheet" type="text/css" href="/assets/css/app.css">
 		
-<link rel="canonical" href="/fine-tuning/inspiration/">
-<link rel="alternate" type="application/rss+xml" title="Inside Retail" href="/feed.xml">
+<link rel="canonical" href="http://inside-retail.garethjohnsdesign.com/fine-tuning/inspiration/">
+<link rel="alternate" type="application/rss+xml" title="Inside Retail" href="http://inside-retail.garethjohnsdesign.com/feed.xml">
 
 <!--
 <link rel="stylesheet" href="https://i.icomoon.io/public/0d0b2f3d01/InsideRetail/style-svg.css">
@@ -343,15 +343,45 @@
     
   </div>
   <div class="top-bar-right hide-for-small-only">
-    <ul class="menu align-right" id="menuBar" data-toggler=".expanded">
-	  <li><a href="/"><span class="show-for-large">Subscribe</span><span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
-      <li class="menu-text"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></li>
+    <ul class="menu align-right">
+	  <li><a data-toggle="form-callout"><span class="show-for-large">Subscribe</span><span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
+      <li class="menu-text"><a href="javascript:void(0)" onclick="superSearch.toggle()"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></a></li>
     </ul>
   </div>
 </div>
 <!-- End Navigation -->
 
+<!-- Subscribe Top -->
+<div class="row expanded subscribe-top" style="display: none" id="form-callout" data-toggler data-animate="fade-in fade-out">
+<div class="small-12 columns text-center">
+
+<form class="subscribe__form" action="//garethjohnsdesign.us2.list-manage.com/subscribe/post?u=e039fb7155e1e79ced51e3aff&amp;id=2832c68920" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div class="row">
+	<div class="medium-12 columns">
+		<ul class="menu align-center">
+		    <li><input type="email" value="" name="EMAIL" placeholder="Email Address" class="text-center"></li>
+		    <li><button type="submit" value="Subscribe" name="subscribe" class="subscribe__button button secondary hollow">Sign Up</button></li>
+		</ul>   
+	</div>
+</div>
+</form>
+
+
+</div>
+</div>
+<!-- End Subscribe Top -->
+
+<!-- Search -->
+<div class="super-search" id="js-super-search">
+    <a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
+    <input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
+    <ul class="super-search__results" id="js-super-search__results"></ul>
+</div>
+<!-- End Search -->
+
+
 <div class="animated fadeIn">
+
 	
 <!-- Content -->
 <section class="content">
@@ -1110,7 +1140,14 @@
 <!-- End Footer -->
 
 </div>
-
+ 
 </body>
 <script src="/assets/js/min/app-min.js"></script>
+
+<script>superSearch({
+    searchSelector: '#js-super-search', // CSS Selector for search container element.
+    inputSelector: '#js-super-search__input', // CSS selector for <input>
+    resultsSelector: '#js-super-search__results' // CSS selector for results container
+});</script>
+
 </html>

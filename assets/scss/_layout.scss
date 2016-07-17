@@ -271,7 +271,29 @@ a {
 	color: $color--gray;
 }
 
+// Subscribe Top
+.subscribe-top {
+	background-color: $color--gray;
+	color: $color--white;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
 
+.subscribe-top .subscribe__form {
+	padding-top: 0rem;
+}
+
+// Search Top
+.search-top {
+	background-color: $color--gray;
+	color: $color--white;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.search__input {
+	margin-bottom: 0rem;
+}
 
 // Excerpt
 
@@ -662,18 +684,6 @@ li.excerpt__tag.align-right {
 	text-transform: uppercase;
 	font-family: $header-font-family-accent;
 	letter-spacing: $letter-spacing--looser;
-}
-
-// Subscribe Top
-.subscribe-top {
-	background-color: $color--gray;
-	color: $color--white;
-	padding-top: 2rem;
-	padding-bottom: 2rem;
-}
-
-.subscribe-top .subscribe__form {
-	padding-top: 0rem;
 }
 
 // Subscribe

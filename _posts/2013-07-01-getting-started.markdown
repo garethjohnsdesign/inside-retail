@@ -15,6 +15,6 @@ hero-cite:
 length: Short Read
 ---
 
-In this video, we show you around the Siteleaf interface and create a simple website.
+In this video, we show you around the Siteleaf interface and create a simple website. Test
 
 Watch <a href="http://vimeo.com/69294068">Getting started with Siteleaf</a>.
