@@ -5,9 +5,9 @@ categories:
 - branching-out
 tags:
 - ecommerce
-excerpt-image: "/uploads/bo-the-relationship-is-the-most-important-thing.jpg"
+excerpt-image: "/uploads/bo-the-relationship.jpg"
 excerpt-text: Supply chain lessons from Simon Belsham
-hero-image: "/uploads/bo-the-relationship-is-the-most-important-thing.jpg"
+hero-image: "/uploads/bo-the-relationship.jpg"
 length: 30 second read
 ---
 
