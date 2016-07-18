@@ -96,7 +96,7 @@ MIT Licensed
 			searchResultsEl.classList.remove('is-hidden');
 			searchResultsEl.innerHTML = matchingPosts.map(function (post) {
 				d = new Date(post.pubDate);
-				return '<li><a href="' + post.id + '">' + post.title + '</a></li>';
+				return '<li><p><a href="' + post.id + '">' + post.title + '</a><p class="small"><a href="' + post.id + '">' + post.title + '</a></li>';
 			}).join('');
 		}
 		lastSearchResultHash = currentResultHash;
