@@ -8,6 +8,7 @@ tags:
 excerpt-image: "/uploads/advice-from-the-export-experts.jpg"
 excerpt-text: Looking to export? Then spend 1m 49s watching this
 hero-video: w3YvWZPBOFI
+hero-image: "/uploads/advice-from-the-export-experts.jpg"
 hero-quote: Don’t just trust what people tell you
 length: Two minute watch
 is-top: false

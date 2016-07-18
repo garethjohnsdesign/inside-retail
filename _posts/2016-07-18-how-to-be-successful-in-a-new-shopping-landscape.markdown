@@ -7,6 +7,7 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg"
 excerpt-text: Six winning retail ways
+hero-image: "/uploads/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg"
 hero-quote: 'The mantra has to be: Always do what is right for the customer, not what
   is easy for the business.'
 hero-cite: Dr Alan Treadgold
