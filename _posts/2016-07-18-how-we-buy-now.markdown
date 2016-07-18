@@ -7,6 +7,7 @@ tags:
 - in-store
 excerpt-image: "/uploads/report5-how-we-buy-now.jpg"
 excerpt-text: What do buyers say?
+hero-image: "/uploads/report5-how-we-buy-now.jpg"
 length: 30 second read
 ---
 
