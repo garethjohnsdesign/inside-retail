@@ -1,6 +1,10 @@
 ---
 title: How to Maximize Supplier Relationships
 date: 2016-07-18 23:10:00 Z
+categories:
+- up-and-running
+tags:
+- inspiration
 excerpt-image: "/uploads/how-to-maximize-supplier-relationship.jpg"
 excerpt-text: 'It’s a crucial partnership, so what can you ask for?   '
 hero-video: N0rd_TsfSMg
