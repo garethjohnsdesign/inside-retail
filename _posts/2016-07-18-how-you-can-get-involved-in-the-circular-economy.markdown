@@ -8,6 +8,7 @@ tags:
 excerpt-image: "/uploads/how-you-can-get-involved-in-the-circular-economy-1.jpg"
 excerpt-text: 'Beyond Retro’s Stephen Bethell explains how we can all make the most
   of a virtuous approach '
+hero-image: "/uploads/how-you-can-get-involved-in-the-circular-economy-1.jpg"
 hero-quote: You win by getting bodies in – and by demonstrating to community you are
   a part of it – and even better helping a charity.
 hero-cite: Stephen Bethell
