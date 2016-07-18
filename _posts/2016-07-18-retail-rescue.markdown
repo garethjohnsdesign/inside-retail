@@ -7,6 +7,7 @@ tags:
 - in-store
 excerpt-image: "/uploads/ft-bira.jpg"
 excerpt-text: BIRA’s top tips on improving business performance
+hero-image: "/uploads/ft-bira.jpg"
 hero-quote: Good businesses don’t become successful by accident. A motivated staff
   is the best asset you can have.
 hero-cite: Alan Hawkins
