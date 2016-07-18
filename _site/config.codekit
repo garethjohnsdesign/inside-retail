@@ -338,6 +338,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/3-tops-tips-for-attending-trade-shows\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/3-tops-tips-for-attending-trade-shows\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/7-setting-up-shop-essentials\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/7-setting-up-shop-essentials\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/advanced-liquid-group-by\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -365,6 +383,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/advice-from-the-export-experts\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/advice-from-the-export-experts\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/are-pop-ups-a-smarter-way-to-set-up-shop\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -379,6 +406,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/assets-in-meta-fields\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/branding-lessons-from-a-retail-legend\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/branding-lessons-from-a-retail-legend\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -437,11 +473,47 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/dig-deep-for-inspiration-martin-holland\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/dig-deep-for-inspiration-martin-holland\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/e-commerce-vital-for-new-markets\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/e-commerce-vital-for-new-markets\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/footnotes-and-highlights\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/footnotes-and-highlights\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/from-recession-to-success\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/from-recession-to-success\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/from-wish-list-to-website\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/from-wish-list-to-website\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -473,6 +545,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/go-for-the-cheap-option-martin-holland\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/go-for-the-cheap-option-martin-holland\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/go-international-as-quickly-as-possible\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/go-international-as-quickly-as-possible\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/hackday\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -491,11 +581,56 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/how-to-be-successful-in-a-new-shopping-landscape\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/how-to-be-successful-in-a-new-shopping-landscape\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/how-to-expand-from-your-first-store\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/how-to-expand-from-your-first-store\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/how-to-use-social-media-for-your-business-part-i\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/how-to-use-social-media-for-your-business-part-i\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/how-to-use-social-media-for-your-business-part-ii\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/how-to-use-social-media-for-your-business-part-ii\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/how-we-buy-now\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/how-we-buy-now\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/how-you-can-get-involved-in-the-circular-economy\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/how-you-can-get-involved-in-the-circular-economy\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -536,6 +671,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/is-it-time-to-change-our-buying-habits\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/is-it-time-to-change-our-buying-habits\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/jekyll-from-scratch\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -554,6 +698,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/know-your-customers\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/know-your-customers\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/layouts-in-siteleaf\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -568,6 +721,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/lessons-from-mountain-warehouse\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/listen-to-customers-just-as-much-as-you-talk-to-them-notonthehighstreet-dot-com\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/listen-to-customers-just-as-much-as-you-talk-to-them-notonthehighstreet-dot-com\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/making-sense-of-new-buying-habits\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/making-sense-of-new-buying-habits\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -626,6 +797,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/on-being-a-better-independent-retailer\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/on-being-a-better-independent-retailer\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/overview\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -658,6 +838,24 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/publishing-via-the-api\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/retail-rescue\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/retail-rescue\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/retailers-can-be-trend-setters-in-their-own-right-martin-holland\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/retailers-can-be-trend-setters-in-their-own-right-martin-holland\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -703,6 +901,42 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/the-adventures-of-a-menswear-brand\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/the-commercial-world-is-the-trendsetter-martin-holland\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/the-commercial-world-is-the-trendsetter-martin-holland\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/the-e-tail-success-checklist-for-small-businesses\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/the-e-tail-success-checklist-for-small-businesses\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/the-relationship-is-the-most-important-thing-notonthehighstreet-dot-com\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/the-relationship-is-the-most-important-thing-notonthehighstreet-dot-com\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/try-not-to-be-too-beige-martin-holland\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/try-not-to-be-too-beige-martin-holland\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -13418,6 +13652,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/advice-from-the-export-experts.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41426,
+		"inputAbbreviatedPath": "\/_site\/uploads\/advice-from-the-export-experts.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/advice-from-the-export-experts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/an-introduction-to-siteleaf-anvil.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13671,6 +13916,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_site\/uploads\/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/bo-listen-to-your-customers-notonthehighstreet-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91421,
+		"inputAbbreviatedPath": "\/_site\/uploads\/bo-listen-to-your-customers-notonthehighstreet-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/bo-listen-to-your-customers-notonthehighstreet-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/bo-listen-to-your-customers-notonthehighstreet-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 437455,
+		"inputAbbreviatedPath": "\/_site\/uploads\/bo-listen-to-your-customers-notonthehighstreet-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/bo-listen-to-your-customers-notonthehighstreet-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/branching-out.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -13678,6 +13956,17 @@
 		"initialSize": 230816,
 		"inputAbbreviatedPath": "\/_site\/uploads\/branching-out.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/branching-out.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/branding-lesons-from-a-retail-legend.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315858,
+		"inputAbbreviatedPath": "\/_site\/uploads\/branding-lesons-from-a-retail-legend.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/branding-lesons-from-a-retail-legend.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -13814,6 +14103,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/etail-success-checklist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295769,
+		"inputAbbreviatedPath": "\/_site\/uploads\/etail-success-checklist.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/etail-success-checklist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/fancy-bio.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -13832,6 +14132,39 @@
 		"initialSize": 72381,
 		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/ft-bira.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 333361,
+		"inputAbbreviatedPath": "\/_site\/uploads\/ft-bira.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/ft-bira.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/ft-on-being-a-better-independent-retailer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78565,
+		"inputAbbreviatedPath": "\/_site\/uploads\/ft-on-being-a-better-independent-retailer.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/ft-on-being-a-better-independent-retailer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/ft_wrc-video.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 286240,
+		"inputAbbreviatedPath": "\/_site\/uploads\/ft_wrc-video.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/ft_wrc-video.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -14430,6 +14763,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/gs-from-wish-list-to-website-aubeterre-blue.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 264005,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-from-wish-list-to-website-aubeterre-blue.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-from-wish-list-to-website-aubeterre-blue.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275056,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384091,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.41542e+06,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-4.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs-rom-recession-to-success-young-ideas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 536959,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs_setting-up-shop-essentials.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 304296,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs_setting-up-shop-essentials.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs_setting-up-shop-essentials.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/header-assets.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14657,6 +15056,39 @@
 		"initialSize": 178878,
 		"inputAbbreviatedPath": "\/_site\/uploads\/how-to-expand-from-your-first-store.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/how-to-expand-from-your-first-store.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/how-to-use-social-media-for-your-business-part-II.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315376,
+		"inputAbbreviatedPath": "\/_site\/uploads\/how-to-use-social-media-for-your-business-part-II.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/how-to-use-social-media-for-your-business-part-II.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/how-to-use-social-media-for-your-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246128,
+		"inputAbbreviatedPath": "\/_site\/uploads\/how-to-use-social-media-for-your-business.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/how-to-use-social-media-for-your-business.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/how-you-can-get-involved-in-the-circular-economy-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 698643,
+		"inputAbbreviatedPath": "\/_site\/uploads\/how-you-can-get-involved-in-the-circular-economy-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/how-you-can-get-involved-in-the-circular-economy-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15310,6 +15742,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/Martin-Holland-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/Martin-Holland-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/Martin-Holland-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/Martin-Holland-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-4.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/Martin-Holland-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-5.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Martin-Holland-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/meta-markdown.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -15460,6 +15947,61 @@
 		"initialSize": 53135,
 		"inputAbbreviatedPath": "\/_site\/uploads\/quick-post-edit.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/quick-post-edit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/report1-ime-to-change-buying-habits-comment.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 287837,
+		"inputAbbreviatedPath": "\/_site\/uploads\/report1-ime-to-change-buying-habits-comment.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/report1-ime-to-change-buying-habits-comment.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/report2-seasonalbuying-surveyresults.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78537,
+		"inputAbbreviatedPath": "\/_site\/uploads\/report2-seasonalbuying-surveyresults.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/report2-seasonalbuying-surveyresults.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/report3-know-your-customer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 450580,
+		"inputAbbreviatedPath": "\/_site\/uploads\/report3-know-your-customer.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/report3-know-your-customer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/report4-3-quick-tips-for-attending-trade-shows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78603,
+		"inputAbbreviatedPath": "\/_site\/uploads\/report4-3-quick-tips-for-attending-trade-shows.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/report4-3-quick-tips-for-attending-trade-shows.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/report5-how-we-buy-now.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78603,
+		"inputAbbreviatedPath": "\/_site\/uploads\/report5-how-we-buy-now.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/report5-how-we-buy-now.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15717,6 +16259,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/william-kim.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 298059,
+		"inputAbbreviatedPath": "\/_site\/uploads\/william-kim.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/william-kim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing-444bf5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing-444bf5.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing-444bf5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing-6003a2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing-6003a2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing-6003a2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/adventures-of-a-menswear.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15724,6 +16310,17 @@
 		"initialSize": 91593,
 		"inputAbbreviatedPath": "\/_uploads\/adventures-of-a-menswear.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/adventures-of-a-menswear.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/advice-from-the-export-experts.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41426,
+		"inputAbbreviatedPath": "\/_uploads\/advice-from-the-export-experts.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/advice-from-the-export-experts.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15981,6 +16578,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_uploads\/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/bo-listen-to-your-customers-notonthehighstreet-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 91421,
+		"inputAbbreviatedPath": "\/_uploads\/bo-listen-to-your-customers-notonthehighstreet-1.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/bo-listen-to-your-customers-notonthehighstreet-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/bo-listen-to-your-customers-notonthehighstreet-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 437455,
+		"inputAbbreviatedPath": "\/_uploads\/bo-listen-to-your-customers-notonthehighstreet-2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/bo-listen-to-your-customers-notonthehighstreet-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/branching-out.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15988,6 +16618,17 @@
 		"initialSize": 230816,
 		"inputAbbreviatedPath": "\/_uploads\/branching-out.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/branching-out.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/branding-lesons-from-a-retail-legend.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315858,
+		"inputAbbreviatedPath": "\/_uploads\/branding-lesons-from-a-retail-legend.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/branding-lesons-from-a-retail-legend.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16124,6 +16765,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/etail-success-checklist.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295769,
+		"inputAbbreviatedPath": "\/_uploads\/etail-success-checklist.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/etail-success-checklist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/fancy-bio.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -16142,6 +16794,39 @@
 		"initialSize": 72381,
 		"inputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/ft-bira.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 333361,
+		"inputAbbreviatedPath": "\/_uploads\/ft-bira.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/ft-bira.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/ft-on-being-a-better-independent-retailer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78565,
+		"inputAbbreviatedPath": "\/_uploads\/ft-on-being-a-better-independent-retailer.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/ft-on-being-a-better-independent-retailer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/ft_wrc-video.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 286240,
+		"inputAbbreviatedPath": "\/_uploads\/ft_wrc-video.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/ft_wrc-video.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16740,6 +17425,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/gs-from-wish-list-to-website-aubeterre-blue.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 264005,
+		"inputAbbreviatedPath": "\/_uploads\/gs-from-wish-list-to-website-aubeterre-blue.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs-from-wish-list-to-website-aubeterre-blue.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/gs-rom-recession-to-success-young-ideas-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 275056,
+		"inputAbbreviatedPath": "\/_uploads\/gs-rom-recession-to-success-young-ideas-2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs-rom-recession-to-success-young-ideas-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/gs-rom-recession-to-success-young-ideas-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 384091,
+		"inputAbbreviatedPath": "\/_uploads\/gs-rom-recession-to-success-young-ideas-3.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs-rom-recession-to-success-young-ideas-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/gs-rom-recession-to-success-young-ideas-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.41542e+06,
+		"inputAbbreviatedPath": "\/_uploads\/gs-rom-recession-to-success-young-ideas-4.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs-rom-recession-to-success-young-ideas-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/gs-rom-recession-to-success-young-ideas.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 536959,
+		"inputAbbreviatedPath": "\/_uploads\/gs-rom-recession-to-success-young-ideas.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs-rom-recession-to-success-young-ideas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/gs_setting-up-shop-essentials.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 304296,
+		"inputAbbreviatedPath": "\/_uploads\/gs_setting-up-shop-essentials.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs_setting-up-shop-essentials.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/header-assets.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16967,6 +17718,39 @@
 		"initialSize": 178878,
 		"inputAbbreviatedPath": "\/_uploads\/how-to-expand-from-your-first-store.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/how-to-expand-from-your-first-store.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/how-to-use-social-media-for-your-business-part-II.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315376,
+		"inputAbbreviatedPath": "\/_uploads\/how-to-use-social-media-for-your-business-part-II.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/how-to-use-social-media-for-your-business-part-II.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/how-to-use-social-media-for-your-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246128,
+		"inputAbbreviatedPath": "\/_uploads\/how-to-use-social-media-for-your-business.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/how-to-use-social-media-for-your-business.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/how-you-can-get-involved-in-the-circular-economy-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 698643,
+		"inputAbbreviatedPath": "\/_uploads\/how-you-can-get-involved-in-the-circular-economy-1.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/how-you-can-get-involved-in-the-circular-economy-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17620,6 +18404,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/Martin-Holland-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_uploads\/Martin-Holland-1.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Martin-Holland-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/Martin-Holland-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_uploads\/Martin-Holland-2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Martin-Holland-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/Martin-Holland-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_uploads\/Martin-Holland-3.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Martin-Holland-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/Martin-Holland-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_uploads\/Martin-Holland-4.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Martin-Holland-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/Martin-Holland-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13195,
+		"inputAbbreviatedPath": "\/_uploads\/Martin-Holland-5.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/Martin-Holland-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/meta-markdown.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -17770,6 +18609,61 @@
 		"initialSize": 53135,
 		"inputAbbreviatedPath": "\/_uploads\/quick-post-edit.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/quick-post-edit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/report1-ime-to-change-buying-habits-comment.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 287837,
+		"inputAbbreviatedPath": "\/_uploads\/report1-ime-to-change-buying-habits-comment.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/report1-ime-to-change-buying-habits-comment.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/report2-seasonalbuying-surveyresults.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78537,
+		"inputAbbreviatedPath": "\/_uploads\/report2-seasonalbuying-surveyresults.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/report2-seasonalbuying-surveyresults.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/report3-know-your-customer.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 450580,
+		"inputAbbreviatedPath": "\/_uploads\/report3-know-your-customer.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/report3-know-your-customer.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/report4-3-quick-tips-for-attending-trade-shows.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78603,
+		"inputAbbreviatedPath": "\/_uploads\/report4-3-quick-tips-for-attending-trade-shows.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/report4-3-quick-tips-for-attending-trade-shows.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/report5-how-we-buy-now.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78603,
+		"inputAbbreviatedPath": "\/_uploads\/report5-how-we-buy-now.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/report5-how-we-buy-now.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18027,6 +18921,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/william-kim.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 298059,
+		"inputAbbreviatedPath": "\/_uploads\/william-kim.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/william-kim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/ bo-the-relationship-is-the-most-important-thing-444bf5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_uploads\/ bo-the-relationship-is-the-most-important-thing-444bf5.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/ bo-the-relationship-is-the-most-important-thing-444bf5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/ bo-the-relationship-is-the-most-important-thing-6003a2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_uploads\/ bo-the-relationship-is-the-most-important-thing-6003a2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/ bo-the-relationship-is-the-most-important-thing-6003a2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/ bo-the-relationship-is-the-most-important-thing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_uploads\/ bo-the-relationship-is-the-most-important-thing.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/ bo-the-relationship-is-the-most-important-thing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/about.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
@@ -18222,7 +19160,7 @@
 		},
 	"\/assets\/js\/super-search.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/super-search.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/super-search-min.js",
@@ -32182,14 +33120,8 @@
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/super-search.js",
-			"position": 3,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.min.js",
-			"position": 4,
+			"position": 3,
 			"type": 0
 			}
 		]

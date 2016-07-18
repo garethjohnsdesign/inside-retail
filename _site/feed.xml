@@ -1,275 +1,340 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://inside-retail.garethjohnsdesign.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://inside-retail.garethjohnsdesign.com/" rel="alternate" type="text/html" /><updated>2016-07-18T13:35:45+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/</id><title>Inside Retail</title><subtitle>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.</subtitle><entry><title>Nine Things to Consider Before Setting up Online</title><link href="http://inside-retail.garethjohnsdesign.com/articles/nine-things-to-consider-before-setting-up-online/" rel="alternate" type="text/html" title="Nine Things to Consider Before Setting up Online" /><published>2016-07-12T17:26:00+00:00</published><updated>2016-07-12T17:26:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/nine-things-to-consider-before-setting-up-online</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/nine-things-to-consider-before-setting-up-online/">&lt;p&gt;Before building your first website, retail expert Martin Newman of Practicology outlines the key things you need to consider to ensure you win your share of business.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://inside-retail.garethjohnsdesign.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://inside-retail.garethjohnsdesign.com/" rel="alternate" type="text/html" /><updated>2016-07-18T16:02:03+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/</id><title>Inside Retail</title><subtitle>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.</subtitle><entry><title>From Wish List to Website</title><link href="http://inside-retail.garethjohnsdesign.com/articles/from-wish-list-to-website/" rel="alternate" type="text/html" title="From Wish List to Website" /><published>2016-07-18T15:51:00+00:00</published><updated>2016-07-18T15:51:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/from-wish-list-to-website</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/from-wish-list-to-website/">&lt;p&gt;Founded early 2014, and named after the owners’ favourite French town Aubeterre Blue was created with a vision to provide everything for successful home entertaining from a perfectly laid table, a well-dressed room or a garden party.&lt;/p&gt;
 
-&lt;p&gt;It is important to let customers choose how they shop with you, which is why it’s key to have a website alongside your first store as a channel for customers to engage with you. It also represents an opportunity for you to extend your reach to more customers over a broader geographical area than you can do with your local store business.&lt;/p&gt;
+&lt;p&gt;It does this through its website offer.&lt;/p&gt;
 
-&lt;h3 id=&quot;whats-the-customer-value-proposition&quot;&gt;What’s the customer value proposition?&lt;/h3&gt;
+&lt;p&gt;Founder Piers Johnson explains the process they went through:&lt;/p&gt;
 
-&lt;p&gt;You might also think of this in terms of what’s your USP? What will make your retail business stand out and why will customers want to buy from you? What’s the value to them in doing so? And how will you price in relation to your competitors?&lt;/p&gt;
+&lt;h3 id=&quot;wish-list&quot;&gt;Wish list…&lt;/h3&gt;
 
-&lt;p&gt;You also have to think about what the customer convenience proposition will be.&lt;/p&gt;
+&lt;p&gt;Both founders have experience in creating and establishing websites in a variety of industries.  When bringing that experience to retail, the first step was to create a wish list of criteria for what they wanted from the website.&lt;/p&gt;
 
-&lt;p&gt;From an online perspective, you need a clear convenience proposition. What delivery and returns options will you offer? Will you charge for these or offer them free? Much will depend upon what you sell, what your average order values are and what your competitors do.&lt;/p&gt;
+&lt;h3 id=&quot;search-and-match&quot;&gt;Search and match…&lt;/h3&gt;
 
-&lt;h3 id=&quot;will-you-offer-click-and-collect&quot;&gt;Will you offer click and collect?&lt;/h3&gt;
+&lt;p&gt;They then looked for an existing platform provider that best met this, selecting Big Commerce.&lt;/p&gt;
 
-&lt;p&gt;There are advantages to doing so if you already have your first store You’ll convert more customers, and you’ll be able to sell them more products when they come into your store to pick up.&lt;/p&gt;
+&lt;h3 id=&quot;choice-and-set-up&quot;&gt;Choice and set up…&lt;/h3&gt;
 
-&lt;h3 id=&quot;product-range&quot;&gt;Product range&lt;/h3&gt;
+&lt;p&gt;The big challenges were making the right choices with third party providers, such as payment processing systems, banking partners and then managing the set up processes for each.&lt;/p&gt;
 
-&lt;p&gt;You’re only as good as the product you sell. Are there any gaps in your local retail environment that you could fill with an independent retail store?&lt;/p&gt;
+&lt;h3 id=&quot;last-minute-challenges&quot;&gt;Last-minute challenges…&lt;/h3&gt;
 
-&lt;p&gt;The web also provides the opportunity to offer a slightly different product range. Unlike in your store, you’re not limited by physical space therefore you can potentially offer a broader range of products online.&lt;/p&gt;
+&lt;p&gt;We had to change our payment processing partners just before launch due to misinterpretation of service and processes. In addition, setting up all the product lines in the back end was another mammoth job to complete.&lt;/p&gt;
 
-&lt;h3 id=&quot;supply-chain&quot;&gt;Supply chain&lt;/h3&gt;
+&lt;h3 id=&quot;his-top-tip&quot;&gt;His top tip…&lt;/h3&gt;
 
-&lt;p&gt;Continuity of supply is absolutely crucial. So whatever, you sell, you need to know that you can replenish stock in a timely fashion, otherwise you risk disappointing customers.&lt;/p&gt;
+&lt;p&gt;Work with partners. Wherever possible work with partners and experts, calling in favours and advice, as going it alone will be a daunting experience.&lt;/p&gt;</content><category term="ecommerce" /><summary>Founded early 2014, and named after the owners’ favourite French town Aubeterre Blue was created with a vision to provide everything for successful home entertaining from a perfectly laid table, a well-dressed room or a garden party.</summary></entry><entry><title>From Recession to Success</title><link href="http://inside-retail.garethjohnsdesign.com/articles/from-recession-to-success/" rel="alternate" type="text/html" title="From Recession to Success" /><published>2016-07-18T15:47:00+00:00</published><updated>2016-07-18T15:47:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/from-recession-to-success</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/from-recession-to-success/">&lt;p&gt;After nearly 25 years in the food industry Anne Wright followed her passion for fashion and took over an ailing indie fashion retailing business in her home town.&lt;/p&gt;
 
-&lt;h3 id=&quot;technology&quot;&gt;Technology&lt;/h3&gt;
+&lt;p&gt;Just then, the recession hit…&lt;/p&gt;
 
-&lt;p&gt;If you’re going online, you need a web platform. This is the technology that sits behind the front-end customer experience and drives the functionality of the website.&lt;/p&gt;
+&lt;p&gt;…now she is an award-winning independent premium and womenswear retailer.&lt;/p&gt;
 
-&lt;p&gt;It’s the same as when thinking about the technology needs of the store: an electronic point of sale (EPOS), and how all the systems you use will talk to each other, as they will need to do so if you want to offer click and collect. There are potentially other systems you might need including systems to manage finance, stock, product information and content.&lt;/p&gt;
+&lt;h3 id=&quot;annes-story&quot;&gt;ANNE’S STORY&lt;/h3&gt;
 
-&lt;h3 id=&quot;site-design&quot;&gt;Site design&lt;/h3&gt;
+&lt;p&gt;Young Ideas was an established womenswear shop that I’d known for a long time. The owner had been running it since the late 60’s and it had a small but loyal customer base and great staff.
+But it had run out of steam and wasn’t winning new, younger customers to replace the older ones.&lt;/p&gt;
 
-&lt;p&gt;There is a saying that you shouldn’t get your creative (Site design) from technology companies (those who build your platform). You will need someone to design the front end of the website and build out your ecommerce proposition.&lt;/p&gt;
+&lt;p&gt;Even though I wasn’t starting a business from scratch, it felt that way because I came from the food industry. Although that meant I was used to dealing with retailers and understood the importance of new product, it’s very different from running a small business.&lt;/p&gt;
 
-&lt;p&gt;You also need to ensure that your site is fully optimized for mobile devices (That includes smartphones and tablets) as that is where you will reach most of your customers moving forward.&lt;/p&gt;
+&lt;p&gt;I learnt very quickly that you are at the sharp end because it’s your own money. You have to make all the decisions that matter. 
+I bought Young Ideas in 2008 and unfortunately the recession began at the end of that year. Business just melted away. Customers couldn’t or wouldn’t spend.&lt;/p&gt;
 
-&lt;h3 id=&quot;hosting-and-domain-name&quot;&gt;Hosting and domain name&lt;/h3&gt;
+&lt;p&gt;Looking back, I think it forced us to look even harder at the business and to understand it better. It meant we had to work very, very hard but the business today is very different and much stronger.&lt;/p&gt;
 
-&lt;p&gt;The website needs to be hosted somewhere. Your web development provider, sometimes known as a web development agency or system integrator, will be able to help with this.&lt;/p&gt;
+&lt;p&gt;A key lesson is that you have to completely immerse yourself in the business to understand it. This is absolutely essential for a fashion business which depends on forward ordering. I needed to be involved in everything for at least 18 months so that I could understand what customers wanted, how they were buying and who they were.&lt;/p&gt;
 
-&lt;p&gt;When you’re coming up with a name for your retail business, make sure you check the domain name availability for your website at the same time. There’s no point in coming up with a name for your store that isn’t also available for your brand online. You can acquire this from a vast number of domain name registration companies online.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/gs-rom-recession-to-success-young-ideas-2.jpg&quot; alt=&quot;gs-rom-recession-to-success-young-ideas-2.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;content-and-vm&quot;&gt;Content and VM&lt;/h3&gt;
+&lt;p&gt;It is absolutely essential to know your customers if you are going to survive as an independent retailer.&lt;/p&gt;
 
-&lt;p&gt;You will need to produce content for your website. This is also known as visual and product merchandising. Of course, you’ll also have to produce visual merchandising, also known as point of sale material for the store.&lt;/p&gt;
+&lt;p&gt;The recession also brought with it opportunities. In 2011, we opened a new store in Derby city centre in a good location and  low overhead, and we were beginning to feel confident about the brand portfolio.&lt;/p&gt;
 
-&lt;h3 id=&quot;customer-acquisition&quot;&gt;Customer acquisition&lt;/h3&gt;
+&lt;p&gt;Our next big move was forced upon us when we tried and failed buy the freehold for the original shop in Ashbourne. We knew the lease was near the end of its life when we bought the business in 2008. When the landlord wouldn’t negotiate we started looking at other options.&lt;/p&gt;
 
-&lt;p&gt;Customers can just walk into your physical store, but the same may not be true for your website. First of all you need to ensure that the website is search engine optimized (SEO). You will need your agency to advice you on this, but in essence the site should be populated with content and meta data that enables the search engine to crawl and index your site.&lt;/p&gt;
+&lt;p&gt;The big leap of faith was when my husband and I decided that the empty but iconic coaching inn at the heart of Ashbourne offered a great opportunity to refurbish and redevelop.&lt;/p&gt;
 
-&lt;p&gt;This will also include relevant keywords that relate to what you sell, a good site map that can be successfully crawled by search engines, the meta tags that tell the search engine and web users what your site is about and alt tags for images that provide a brief description of the image.&lt;/p&gt;</content><category term="ecommerce" /><summary>Before building your first website, retail expert Martin Newman of Practicology outlines the key things you need to consider to ensure you win your share of business.</summary></entry><entry><title>Give Your Social Media Marketing a Boost</title><link href="http://inside-retail.garethjohnsdesign.com/articles/give-your-social-media-marketing-a-boost/" rel="alternate" type="text/html" title="Give Your Social Media Marketing a Boost" /><published>2016-07-12T17:25:00+00:00</published><updated>2016-07-12T17:25:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/give-your-social-media-marketing-a-boost</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/give-your-social-media-marketing-a-boost/">&lt;p&gt;Time and budget constraints are a constant challenge for indies when it comes to marketing. But social media in particular offers smaller retailers some exciting ways to connect and engage with existing and new customers. What are the trends you need to be aware of? And how can you make the most of them? Here, Courtney McNally, client solutions manager at Facebook chats through ways to navigate through social media and boost your brand, sales and story as you go.&lt;/p&gt;</content><category term="ecommerce" /><summary>Time and budget constraints are a constant challenge for indies when it comes to marketing. But social media in particular offers smaller retailers some exciting ways to connect and engage with existing and new customers. What are the trends you need to be aware of? And how can you make the most of them? Here, Courtney McNally, client solutions manager at Facebook chats through ways to navigate through social media and boost your brand, sales and story as you go.</summary></entry><entry><title>The Adventures of a Menswear Brand</title><link href="http://inside-retail.garethjohnsdesign.com/articles/the-adventures-of-a-menswear-brand/" rel="alternate" type="text/html" title="The Adventures of a Menswear Brand" /><published>2016-07-12T17:24:00+00:00</published><updated>2016-07-12T17:24:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/the-adventures-of-a-menswear-brand</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/the-adventures-of-a-menswear-brand/">&lt;p&gt;Menswear brand Shackleton began life as a banjo manufacturer before almost accidentally moving into fashion. Here, Insider Retail speaks to founder Simon Middleton about this unusual journey. We began by asking him to describe the brand:&lt;/p&gt;
+&lt;p&gt;Young Ideas relocated in 2013 to a bigger shop and we have been redeveloping the site in different phases. We added menswear to our portfolio and we now have smaller units in the courtyard and we will be adding a restaurant in time. The business is now doing very well, has tripled since 2008.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Middleton:&lt;/strong&gt; We make menswear based on and inspired by imagery and the story of Ernest Shackleton, the Antarctic explorer. He’s our inspiration and his granddaughter is part owner of the business.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/gs-rom-recession-to-success-young-ideas-3.jpg&quot; alt=&quot;gs-rom-recession-to-success-young-ideas-3.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In clothing we started with knitwear that replicates the types of sweaters worn by Shackleton, before moving into outerwear, boots, and accessories – everything from socks to hats to gloves.&lt;/p&gt;
+&lt;h3 id=&quot;annes-key-lessons&quot;&gt;ANNE’S KEY LESSONS&lt;/h3&gt;
 
-&lt;p&gt;We sell direct-to-consumers through &lt;a href=&quot;www.shackletoncompany.com&quot;&gt;Shackletoncompany.com&lt;/a&gt; and are also building a trade stockist base in some really interesting places, such as the Natural History Museum, in &lt;a href=&quot;www.thebikeshed.cc/cafebarshopclub/&quot;&gt;The Bike Shed Motorcycle Club&lt;/a&gt; and some more conventional boutiques. &lt;/p&gt;
+&lt;h3 id=&quot;know-your-customer&quot;&gt;1 Know your customer&lt;/h3&gt;
 
-&lt;h3 id=&quot;youre-not-from-a-fashion-background-so-how-did-you-come-up-with-the-idea-of-creating-a-menswear-brand&quot;&gt;You’re not from a fashion background, so how did you come up with the idea of creating a menswear brand?&lt;/h3&gt;
+&lt;p&gt;Capture data on your customers all the time. When I bought the business, we had around 500 names of customers but the list hadn’t been refreshed for some time. Everyone at Young Ideas knows that they have to add new customers to our mailing lists. We now have over 7,000 names and many of them are regular customers.&lt;/p&gt;
 
-&lt;p&gt;My background is advertising, marketing and branding for about 20 years. I’d planned to start my own branded business for some time and the first one I started was oriented toward musical instruments. About two years ago I opened the first banjo factory in Britain for about 60 years and called it Shackleton because the banjo had a significant role in his adventures.&lt;/p&gt;
+&lt;h3 id=&quot;immerse-yourself-in-the-business&quot;&gt;2 Immerse yourself in the business&lt;/h3&gt;
 
-&lt;p&gt;People kept asking us what else we had inspired by the Shackleton story and aesthetic. And suddenly I found myself running a fashion brand. That’s the part that’s really grown and taken off into a much wider audience.&lt;/p&gt;
+&lt;p&gt;If you are responsible for the buying, then this is even more essential. It is the only way you get to understand who you are buying for.&lt;/p&gt;
 
-&lt;h3 id=&quot;how-did-you-finance-the-business&quot;&gt;How did you finance the business?&lt;/h3&gt;
+&lt;h3 id=&quot;you-have-to-take-online-seriously&quot;&gt;3 You have to take online seriously&lt;/h3&gt;
 
-&lt;p&gt;Going back more than three years ago, we started with a small investor who backed us before our ideas had really formed. That was enough to give us some money in the bank and some confidence.&lt;/p&gt;
+&lt;p&gt;Your customers may not always buy from your site, but they will go to it for information and to see what products are new in store.&lt;/p&gt;
 
-&lt;p&gt;Then in autumn 2013 I launched a Kickstarter campaign for the banjo factory and we raised £50,000 in advance orders which gave us money in the bank, confidence and market testing.&lt;/p&gt;
+&lt;h3 id=&quot;buy-for-your-customers-and-not-yourself&quot;&gt;4 Buy for your customers and not yourself&lt;/h3&gt;
+&lt;p&gt; I think about the different groups of customers we have and try to categorise them which makes me focus my buying.&lt;/p&gt;
 
-&lt;p&gt;It also brought us to the attention of people who loved the story of Shackleton, and that we were making in Britain, as well as to the attention of angel investors who were looking for small companies in which to invest in. We raised additional money that way.&lt;/p&gt;
+&lt;h3 id=&quot;invest-in-a-good-retail-management-system&quot;&gt;5 Invest in a good retail management system&lt;/h3&gt;
+&lt;p&gt; It is essential to know what you have in stock and what you have sold. Cash flow and understanding cash flow is probably the biggest single lesson that every small retailer has to learn.&lt;/p&gt;
 
-&lt;p&gt;A year later we did another Kickstarter campaign for the clothing brand itself, raising another £35,000 in advance orders and yet more equity funding that way.&lt;/p&gt;
+&lt;h3 id=&quot;create-excitement&quot;&gt;6 Create excitement&lt;/h3&gt;
 
-&lt;p&gt;I’m a late starter to the fashion business and at my age I had to move very fast, so we raised money fast and sold equity in the business fast. For us it’s paid off and given us traction.&lt;/p&gt;
+&lt;p&gt;We have always run events to get closer to our customers. Running events such as fashion shows is a big investment but was a powerful way of getting customers into the shop.&lt;/p&gt;
 
-&lt;h3 id=&quot;is-that-a-finance-strategy-youd-recommend&quot;&gt;Is that a finance strategy you’d recommend?&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/gs-rom-recession-to-success-young-ideas-4.jpg&quot; alt=&quot;gs-rom-recession-to-success-young-ideas-4.jpg&quot; /&gt;&lt;/p&gt;</content><category term="in-store" /><summary>After nearly 25 years in the food industry Anne Wright followed her passion for fashion and took over an ailing indie fashion retailing business in her home town.</summary></entry><entry><title>The E-tail Success Checklist for Small Businesses</title><link href="http://inside-retail.garethjohnsdesign.com/articles/the-e-tail-success-checklist-for-small-businesses/" rel="alternate" type="text/html" title="The E-tail Success Checklist for Small Businesses" /><published>2016-07-18T15:44:00+00:00</published><updated>2016-07-18T15:44:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/the-e-tail-success-checklist-for-small-businesses</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/the-e-tail-success-checklist-for-small-businesses/">&lt;p&gt;Going into ecommerce is a daunting prospect for indie retailers. But, says, Martin Newman, founder and CEO of retail consultancy Practicology, thanks to your speed and agility, you have the opportunity to out-maneuvre your larger counterparts.       Still, there is a lot to consider. Here, Martin gives us his checklist for online success:&lt;/p&gt;
 
-&lt;p&gt;It’s worked well for us but if I was younger I might do it differently. I set the goal to make an international luxury brand. It’s a big thing to do in your mid-50s and the only way was to raise a lot of money fast, you need to sell a lot of sweaters to achieve that. We knew we needed external funding so we combined equity with crowdfunding.&lt;/p&gt;
+&lt;h3 id=&quot;whats-the-customer-convenience-proposition&quot;&gt;1 WHAT’S THE CUSTOMER CONVENIENCE PROPOSITION?&lt;/h3&gt;
+&lt;p&gt; What delivery and returns options will you offer? Will you charge for these or offer them free? Think about what you sell, what your average order values are and what your competitors do.&lt;/p&gt;
 
-&lt;p&gt;As a brand-manufacturer we needed the money for development and minimum production runs. We could have made some sweaters because knitwear is relatively inexpensive, but when you get into footwear and outerwear the minimum order quantities are substantial and you need resources.&lt;/p&gt;
+&lt;h3 id=&quot;will-you-offer-click-and-collect&quot;&gt;2 WILL YOU OFFER CLICK AND COLLECT?&lt;/h3&gt;
+&lt;p&gt; You’ll convert more customers, and you’ll be able to sell them more products when they come into your store to pick up.&lt;/p&gt;
 
-&lt;h3 id=&quot;who-is-your-consumer&quot;&gt;Who is your consumer?&lt;/h3&gt;
+&lt;h3 id=&quot;product-range&quot;&gt;3 PRODUCT RANGE&lt;/h3&gt;
+&lt;p&gt; The web provides the opportunity to offer different products. You might decide to go down what we call the long tail route and extend the range by offering more options that you don’t sell instore.&lt;/p&gt;
 
-&lt;p&gt;It’s changing. We started off making folk musical instruments so the majority of our customers were middle-aged blokes aged over 45. They were also the first consumers of our knitwear, but the age is dropping as we move into boutiques which target trendy, affluent young professional men, and places like The Bike Shed Motorcycle Club. We’ve followed our demographic rather than controlled it.&lt;/p&gt;
+&lt;h3 id=&quot;supply-chain&quot;&gt;4 SUPPLY CHAIN&lt;/h3&gt;
+&lt;p&gt; Continuity of supply is absolutely crucial. So you need to know that you can replenish stock fast.&lt;/p&gt;
 
-&lt;h3 id=&quot;how-has-this-changed-your-product&quot;&gt;How has this changed your product?&lt;/h3&gt;
+&lt;h3 id=&quot;technology&quot;&gt;5 TECHNOLOGY&lt;/h3&gt;
+&lt;p&gt; You need a web platform. This is the technology that sits behind the front-end customer experience and drives the functionality of the website. You need something that will interface with, and talk to, your existing technology, which in turn will enable you to do things like click and collect, and manage stock, customer orders and content.&lt;/p&gt;
 
-&lt;p&gt;On our next iteration of knitwear and outwear our badging will be subtler. We’ve essentially moved into luxury fashion where the branding needs to be more discrete and the product itself does the talking. The feedback has come from stockists but also our new customers through individual reviews on our retailer’s websites.&lt;/p&gt;
+&lt;h3 id=&quot;site-design&quot;&gt;6 SITE DESIGN&lt;/h3&gt;
+&lt;p&gt; There is a saying that you may not want to get your creative site design from technology companies that build your platform. You will need someone to design the front end of the website and build out your ecommerce proposition.&lt;/p&gt;
 
-&lt;h3 id=&quot;how-did-you-decide-that-was-the-right-price-bracket-for-you&quot;&gt;How did you decide that was the right price bracket for you?&lt;/h3&gt;
+&lt;h3 id=&quot;mobile&quot;&gt;7 MOBILE&lt;/h3&gt;
+&lt;p&gt; You also need to ensure that your site is fully optimised for mobile devices including smartphones and tablets.&lt;/p&gt;
 
-&lt;p&gt;We’re in the premium-meets-luxury territory and made in Britain. Once you make that commitment, you have to understand there will be a price impact especially as we became more ambitious about what we wanted to make, such as outerwear which is more complex than knitwear. The only way you can succeed is by going higher up the market.&lt;/p&gt;
+&lt;h3 id=&quot;hosting-and-domain-registration&quot;&gt;8 HOSTING AND DOMAIN REGISTRATION&lt;/h3&gt;
+&lt;p&gt; The website needs to be hosted somewhere. Your web development provider will be able to help with this.&lt;/p&gt;
 
-&lt;h3 id=&quot;will-your-supply-chain-continue-to-be-in-britain-only-as-you-expand-the-business&quot;&gt;Will your supply chain continue to be in Britain only as you expand the business?&lt;/h3&gt;
+&lt;h3 id=&quot;the-name&quot;&gt;9 THE NAME&lt;/h3&gt;
+&lt;p&gt; Make sure you check the domain name availability for your website. There’s no point in coming up with a name that isn’t available. You can acquire this from a vast number of domain name registration companies online.&lt;/p&gt;
 
-&lt;p&gt;At the moment everything is made here but there may come a time in the next couple of seasons where we have to produce outside the UK as an addition.&lt;/p&gt;
+&lt;h3 id=&quot;content-&quot;&gt;10 CONTENT  &lt;/h3&gt;
+&lt;p&gt;You will need to produce content for your website. This is also known as visual and product merchandising.  Of course, you already have to produce visual merchandising and point of sale material for your stores.&lt;/p&gt;
 
-&lt;p&gt;Making everything in Britain is part of our story and we have a very short chain. In knitwear I can tell you which company produced the certified yarn and they will know which wool grower it came from, so it’s farmer to the consumer in just five or six steps.&lt;/p&gt;
+&lt;h3 id=&quot;pictures&quot;&gt;11 PICTURES&lt;/h3&gt;
+&lt;p&gt; You will need product images, lifestyle images and brand related images.&lt;/p&gt;
 
-&lt;p&gt;Making in Britain has challenges as well as virtues. I can speak directly and easily to the people making our product, and minimums are lower. I can produce 50 sweaters, or even fewer. Turnaround is faster, samples can come in the post the next day. Design meetings are much easier in the Midlands and in Scotland.&lt;/p&gt;
+&lt;h3 id=&quot;words&quot;&gt;12 WORDS&lt;/h3&gt;
+&lt;p&gt; You will need product descriptions as well as static, customer service related content, including terms and conditions and frequently asked questions. You will also need to think about how the content will influence your natural search engine ranking.&lt;/p&gt;
 
-&lt;p&gt;That’s an enormous advantage, but it comes at a cost. People get paid higher wages. There’s a much higher actual cost per unit but there are other advantages. For the moment it works well for us.&lt;/p&gt;
+&lt;h3 id=&quot;seo-&quot;&gt;13 SEO  &lt;/h3&gt;
+&lt;p&gt;Customers can just walk into your physical store, but the same may not be true for your website. First of all you need to ensure that the website is search engine optimized (SEO). An agency can advise you on this, but in essence the site should be populated with content and meta data that enables the search engine to crawl and index your site.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-are-your-future-plans-for-the-business&quot;&gt;What are your future plans for the business?&lt;/h3&gt;
+&lt;h3 id=&quot;more-seo&quot;&gt;14 MORE SEO&lt;/h3&gt;
 
-&lt;p&gt;Over the next 12 months we want to double our range of outerwear and knitwear and retailers. We’ll also expand the range and take more stories about Shackleton and similar people to develop that. In five years my ambition is to have built an internationally recognised luxury menswear brand. That’s a big ambition.&lt;/p&gt;</content><category term="ecommerce" /><summary>Menswear brand Shackleton began life as a banjo manufacturer before almost accidentally moving into fashion. Here, Insider Retail speaks to founder Simon Middleton about this unusual journey. We began by asking him to describe the brand:</summary></entry><entry><title>Lessons from Mountain Warehouse founder Mark Neale</title><link href="http://inside-retail.garethjohnsdesign.com/articles/lessons-from-mountain-warehouse/" rel="alternate" type="text/html" title="Lessons from Mountain Warehouse founder Mark Neale" /><published>2016-07-12T17:22:00+00:00</published><updated>2016-07-12T17:22:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/lessons-from-mountain-warehouse</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/lessons-from-mountain-warehouse/">&lt;p&gt;Privately-owned specialist outdoor retailer Mountain Warehouse continues to post record-breaking annual sales and pre-tax profits, recently notching up four consecutive years of growth including online sales up 49%.&lt;/p&gt;
+&lt;p&gt;This will also include relevant keywords that related to what you sell, a good site map that can be successfully crawled by search engines, the meta tags that tell the search engine and web users what your site is about and alt tags for images that provide a brief description of the image.&lt;/p&gt;
 
-&lt;p&gt;But it hasn’t always been an easy journey. Founder Mark Neale shares the lessons he’s learned on the road to success.&lt;/p&gt;
+&lt;h3 id=&quot;marketing&quot;&gt;15 MARKETING&lt;/h3&gt;
+&lt;p&gt; You can promote your website in the windows of your store as well as on all packaging. You will also need to promote it online through search engine marketing (SEM). This is where you pay or bid to acquire traffic when someone keys in a relevant keyword for your business such as black dress, cheap flights, gifts, washing machines etc.
+The other marketing opportunities include retargeting. This is where the user has been on your site, goes elsewhere but sees an advert for your business.  The other key channel is affiliates. This is where other publishers send traffic to your website and get a commission on any sales made.&lt;/p&gt;
 
-&lt;h3 id=&quot;know-your-ambitions&quot;&gt;Know your ambitions&lt;/h3&gt;
+&lt;h3 id=&quot;customer-retention&quot;&gt;16 CUSTOMER RETENTION&lt;/h3&gt;
+&lt;p&gt; It’s cheaper to retain customers than acquire new ones. You should think about how you can build a lasting relationship with your customers so that you enjoy multiple purchases from them over the course of the year.&lt;/p&gt;
 
-&lt;p&gt;Mountain Warehouse started in 1997 as a discount, clearance shop for branded outdoor clothing located in McArthur Glen’s Swindon outlet centre. A second store followed within the Cheshire Oaks outlet centre and we now have more than 240 stores.&lt;/p&gt;
+&lt;h3 id=&quot;order-fulfillment&quot;&gt;17 ORDER FULFILLMENT&lt;/h3&gt;
+&lt;p&gt; To begin with, you’re likely to fulfill from store stock. But as your web business scales, you may need to think about having stock in a warehouse. You can do this with a third party logistics company.&lt;/p&gt;
 
-&lt;p&gt;I was always thinking of a national chain of shops rather than just one or two shops. You have to have a clear idea of that early but also be very open-minded about allowing the business to evolve and finding a formula that works.&lt;/p&gt;
+&lt;h3 id=&quot;customer-service&quot;&gt;18 CUSTOMER SERVICE&lt;/h3&gt;
+&lt;p&gt; Some web customers will want to call you before and after making a purchase. So you need to be prepared for the potential of getting a lot more calls into your business that will take time to deal with. You can outsource this to a call centre, but this is not a profitable route to go down in the early stages.&lt;/p&gt;
 
-&lt;h3 id=&quot;experiment&quot;&gt;Experiment&lt;/h3&gt;
+&lt;h3 id=&quot;customer-first&quot;&gt;19 CUSTOMER FIRST&lt;/h3&gt;
+&lt;p&gt; The most important thing to think about is the customer. What can you do to optimise everything you do to meet customer needs?&lt;/p&gt;
 
-&lt;p&gt;You have to keep trying things and be open-minded. If something isn’t working, find out how to do it better or change it.&lt;/p&gt;
+&lt;h3 id=&quot;resourcing-it&quot;&gt;20 RESOURCING IT&lt;/h3&gt;
+&lt;p&gt; You’ll most likely require a different skill set from what you have currently in the business. Therefore, you might want to consider outsourcing elements where you lack the appropriate skills in your business such as acquisition and retention marketing.&lt;/p&gt;
 
-&lt;p&gt;By 2002 the business had grown to about 30 shops but was struggling, and I was forced to review everything.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Practicology is a global retail consultancy with clients including B&amp;amp;Q, Selfridges and Watch Shop&lt;/em&gt;&lt;/p&gt;</content><category term="marketing" /><summary>Going into ecommerce is a daunting prospect for indie retailers. But, says, Martin Newman, founder and CEO of retail consultancy Practicology, thanks to your speed and agility, you have the opportunity to out-maneuvre your larger counterparts.       Still, there is a lot to consider. Here, Martin gives us his checklist for online success:</summary></entry><entry><title>Branding Lessons from a Retail Legend</title><link href="http://inside-retail.garethjohnsdesign.com/articles/branding-lessons-from-a-retail-legend/" rel="alternate" type="text/html" title="Branding Lessons from a Retail Legend" /><published>2016-07-18T15:40:00+00:00</published><updated>2016-07-18T15:40:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/branding-lessons-from-a-retail-legend</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/branding-lessons-from-a-retail-legend/">&lt;p&gt;What are the building blocks for setting up an indie successfully? Retail journalist John Ryan picks his seven fundamental factors if you’re to stand a fighting chance.&lt;/p&gt;
 
-&lt;p&gt;One of the areas of the business that was successful at that time was our own brand. So the big idea was to move completely to own brand. It might not have worked but thankfully it did and we’ve never looked back since and have opened between 20 and 30 shops a year ever since.&lt;/p&gt;
+&lt;p&gt;Opening a shop is easy. You know your customers, you know what they want and you’re the person to bring the two parts of this equation together. All of this is probably the case for the great majority of wannabe independent retailers, so why do things go awry?&lt;/p&gt;
 
-&lt;h3 id=&quot;know-your-customers&quot;&gt;Know your customers&lt;/h3&gt;
+&lt;p&gt;There are any number of reasons, but here are seven to remember.&lt;/p&gt;
 
-&lt;p&gt;It seems obvious but too many small retailers set up the business they would want to buy from. I would never say I’m a hill walker or a mountain climber, but all our buyers have a clear idea about our customers who do want to take part in those pursuits.&lt;/p&gt;
+&lt;h3 id=&quot;location-are-the-right-shoppers-in-the-area&quot;&gt;1 LOCATION… are the ‘right’ shoppers in the area?&lt;/h3&gt;
 
-&lt;h3 id=&quot;manage-your-risk&quot;&gt;Manage your risk&lt;/h3&gt;
+&lt;p&gt;From the outset the single most important element is location.  It’s common sense but surprising how frequently independent retailers overlook the basics. When looking at where to rent a unit don’t make assumptions about the local demographic.&lt;/p&gt;
 
-&lt;p&gt;You can’t be afraid of risk. Many people don’t purse their dream of opening a shop because they’re waiting for the perfect idea but it often never comes along. They are also worried it might fail and put everything at risk including the family home. But it’s vital to manage your risk – you don’t have to risk everything and nor should you.&lt;/p&gt;
+&lt;p&gt;Putting cans of car engine oil on the shelves of a store in an area with very low per capita car ownership is unlikely to reap ready rewards. Equally, when it comes to fashion, towns and districts that have a more mature population are not going to favour teenwear, for example.&lt;/p&gt;
 
-&lt;h3 id=&quot;seize-opportunities&quot;&gt;Seize opportunities&lt;/h3&gt;
+&lt;h3 id=&quot;location-can-you-achieve-standout-or-will-you-be-one-of-many&quot;&gt;2 LOCATION… can you achieve standout, or will you be one of many?&lt;/h3&gt;
 
-&lt;p&gt;It is also important to recognize and react to any opportunities that present themselves to you. By 2007, the retail property market hit a big downturn and I suddenly found that landlords were very happy to talk to me about taking shops and on very favourable terms. In 2010 we’d opened our 100th shop and we continue to open on the same scale.&lt;/p&gt;
+&lt;p&gt;And don’t forget to check out the local competition. If there are three other shops like the one you are proposing, think again.&lt;/p&gt;
 
-&lt;h3 id=&quot;location&quot;&gt;Location&lt;/h3&gt;
+&lt;p&gt;Research about an area can be as simple as having a coffee at different times of day in a local café a couple of times a week for several weeks. Do this and the chances are good that you’ll understand the shoppers in an area and whether they’ll want what you intend to offer.&lt;/p&gt;
 
-&lt;p&gt;It’s absolutely critical. We might still be opening up to 30 shops a year but I will spend time standing in a high street watching shoppers and where they buy from before deciding that it is the right place to open a shop.&lt;/p&gt;</content><category term="in-store" /><summary>Privately-owned specialist outdoor retailer Mountain Warehouse continues to post record-breaking annual sales and pre-tax profits, recently notching up four consecutive years of growth including online sales up 49%.</summary></entry><entry><title>Brothers We Stand</title><link href="http://inside-retail.garethjohnsdesign.com/articles/brothers-we-stand/" rel="alternate" type="text/html" title="Brothers We Stand" /><published>2016-07-12T17:21:00+00:00</published><updated>2016-07-12T17:21:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/brothers-we-stand</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/brothers-we-stand/">&lt;p&gt;Brothers We Stand is an online menswear retailer that sells a curated range of ethical designer collections. Here, Inside Retail hears founder Jonathan Mitchell’s startup story. We began by asking him to describe the business in his own words:&lt;/p&gt;
+&lt;h3 id=&quot;location-cost-v-footfall&quot;&gt;3 LOCATION… cost v footfall&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Mitchell:&lt;/strong&gt; &lt;a href=&quot;http://www.brotherswestand.com&quot;&gt;Brothers We Stand&lt;/a&gt; is a platform for different designers designing sustainably and ethically. We search out amazing designers who are really innovating in how they make their product and bring them together into one special collection and sell directly to consumers.&lt;/p&gt;
+&lt;p&gt;There is also the tension between rental cost and footfall. It’s an inconvenient truth that shops with the highest number of people passing in front of them will be the most costly from which to operate. Yet sometimes, and particularly if a retailer operates at the lower end of the price scale, it may be worth paying more in order to enjoy the shopper volume that will be required for the business to flourish.&lt;/p&gt;
 
-&lt;h3 id=&quot;you-havent-come-in-via-the-fashion-school-route-so-how-come-youre-the-founder-of-a-fashion-business-test&quot;&gt;You haven’t come in via the fashion school route, so how come you’re the founder of a fashion business? Test&lt;/h3&gt;
+&lt;h3 id=&quot;shop-size-can-you-afford-to-have-a-meaningful-offer-in-your-chosen-unit&quot;&gt;4 SHOP SIZE… can you afford to have a meaningful offer in your chosen unit?&lt;/h3&gt;
 
-&lt;p&gt;It just sort of happened, I’ve always been interested in business so when I graduated from university with a degree in international development, I noticed there were a growing number of sustainable designers producing really nice stuff. I thought it would be cool to bring them together, so I chatted it through with friends and spent about a year planning. I got a loan of £3,100 from The Prince’s Trust to start it.&lt;/p&gt;
+&lt;p&gt;Another element is the size of unit. A large shop needs a certain minimum stock level if it is not to feel like a ballroom. Space in a store generally carries connotations of luxury, but too much space and it can feel as if a shop is under-stocked.&lt;/p&gt;
 
-&lt;p&gt;It is hard work because you have to do everything, but it’s achievable and you don’t necessarily need to have a huge amount of money.&lt;/p&gt;
+&lt;h3 id=&quot;fit-out-a-good-idea-will-always-trump-expensive-shop-equipment&quot;&gt;5 FIT-OUT… a good idea will always trump expensive shop equipment.&lt;/h3&gt;
 
-&lt;h3 id=&quot;how-did-you-manage-the-financial-perspective-during-the-early-days-of-the-business&quot;&gt;How did you manage the financial perspective during the early days of the business?&lt;/h3&gt;
+&lt;p&gt;Once all the location boxes are ticked and stock can be afforded, what else is vital? The answer is ‘fit-out’. Just buying a few fixtures and some second-hand mannequins may seem like the right thing, but unless all of the parts equate to a themed whole, then this is a dog that won’t bark.&lt;/p&gt;
 
-&lt;p&gt;I think we were quite smart in having a business model that didn’t require much investment - we don’t produce anything and our product comes direct from designers.  Our biggest expense was the website, but even now I wouldn’t spend as much on it. You can use templates to set one up for free, and design it well enough to get your initial sales.&lt;/p&gt;
+&lt;p&gt;Sometimes rough and ready, when set against carefully crafted stock can make for an interesting juxtaposition. There’s more to store design and layout than just ensuring everything has a place – shoppers need to feel a sense of difference and that they are welcome – and don’t forget that lighting can be the difference between very good and less so.&lt;/p&gt;
 
-&lt;p&gt;Because I’m new to this I would have burned a lot of money and wasted it at the beginning as we going through that learning curve. It was invaluable to go slowly. I was fortunate to have friends to help out but also found that if you can hustle and do things without spending too much money, it’s a good way to learn how things work and test things.&lt;/p&gt;
+&lt;p&gt;Think of an in-store theme and run with it…&lt;/p&gt;
 
-&lt;h3 id=&quot;how-did-you-decide-who-your-customer-is&quot;&gt;How did you decide who your customer is?&lt;/h3&gt;
+&lt;h3 id=&quot;name-your-shop-this-is-your-brand&quot;&gt;6 NAME YOUR SHOP… this is your brand.&lt;/h3&gt;
 
-&lt;p&gt;It’s been a process of working it out and evolving over time. We stock quite a varied range of brands and we therefore have a broad range of customers. But what they have in common is that they want really nice products made in a production process that is conscious about the impact on people and the environment.&lt;/p&gt;
+&lt;p&gt;Finally, time spent thinking about what your new venture might be called is essential. The name above a shop door is part of your brand and if this isn’t instantly recognisable, retail oblivion may await.&lt;/p&gt;
 
-&lt;h3 id=&quot;given-most-people-would-expect-ethical-to-mean-more-expensive-how-have-you-and-your-suppliers-set-about-achieving-such-reasonable-price-brackets&quot;&gt;Given most people would expect ethical to mean more expensive, how have you and your suppliers set about achieving such reasonable price brackets?&lt;/h3&gt;
+&lt;p&gt;Your own name may not be enough…&lt;/p&gt;</content><category term="inspiration" /><summary>What are the building blocks for setting up an indie successfully? Retail journalist John Ryan picks his seven fundamental factors if you’re to stand a fighting chance.</summary></entry><entry><title>7 Setting up Shop Essentials</title><link href="http://inside-retail.garethjohnsdesign.com/articles/7-setting-up-shop-essentials/" rel="alternate" type="text/html" title="7 Setting up Shop Essentials" /><published>2016-07-18T15:38:00+00:00</published><updated>2016-07-18T15:38:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/7-setting-up-shop-essentials</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/7-setting-up-shop-essentials/">&lt;p&gt;What are the building blocks for setting up an indie successfully? Retail journalist John Ryan picks his seven fundamental factors if you’re to stand a fighting chance.&lt;/p&gt;
 
-&lt;p&gt;It’s hard to find brands that meet our high standards and that innovate for the future in a sustainable way. But all the brands we worked with have spent a lot of time working with their supply chain with a real clear focus on the price they want the garment to be and the community they want to reach. All of their stories are different: some use end-of-line materials, which are cheaper to get hold of; or a great factory in India and they’re working together to make great products.&lt;/p&gt;
+&lt;p&gt;Opening a shop is easy. You know your customers, you know what they want and you’re the person to bring the two parts of this equation together. All of this is probably the case for the great majority of wannabe independent retailers, so why do things go awry?&lt;/p&gt;
 
-&lt;p&gt;It takes time to find those good factories but it’s worth putting the time in so that you have a product with a great story that you’re proud of and that differentiate you from the bigger brands.&lt;/p&gt;
+&lt;p&gt;There are any number of reasons, but here are seven to remember.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-are-your-next-steps&quot;&gt;What are your next steps?&lt;/h3&gt;
+&lt;h3 id=&quot;location-are-the-right-shoppers-in-the-area&quot;&gt;1 LOCATION… are the ‘right’ shoppers in the area?&lt;/h3&gt;
 
-&lt;p&gt;To continue taking it forward step by step. I want the way our products are made to become more and more important to our society. I want to be part of that through what I’m doing with the business and grow the product range and increase our impact step by step.&lt;/p&gt;
+&lt;p&gt;From the outset the single most important element is location.  It’s common sense but surprising how frequently independent retailers overlook the basics. When looking at where to rent a unit don’t make assumptions about the local demographic.&lt;/p&gt;
 
-&lt;p&gt;[Ethical] is niche at the moment, but that’s where all mainstream things start. I’d love to see sustainable production go mainstream.&lt;/p&gt;</content><category term="ecommerce" /><summary>Brothers We Stand is an online menswear retailer that sells a curated range of ethical designer collections. Here, Inside Retail hears founder Jonathan Mitchell’s startup story. We began by asking him to describe the business in his own words:</summary></entry><entry><title>Want to sell overseas?</title><link href="http://inside-retail.garethjohnsdesign.com/articles/want-to-sell-overseas/" rel="alternate" type="text/html" title="Want to sell overseas?" /><published>2016-07-12T17:20:00+00:00</published><updated>2016-07-12T17:20:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/want-to-sell-overseas</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/want-to-sell-overseas/">&lt;p&gt;The internet has created new opportunities for smaller, independent retail businesses to sell to customers outside of the UK. If you’re ready to start exporting, Google’s country sales director Peter Fitzgerald highlights some of the tools available and things to consider.&lt;/p&gt;
+&lt;p&gt;Putting cans of car engine oil on the shelves of a store in an area with very low per capita car ownership is unlikely to reap ready rewards. Equally, when it comes to fashion, towns and districts that have a more mature population are not going to favour teenwear, for example.&lt;/p&gt;
 
-&lt;h3 id=&quot;digital-first-for-flexibility&quot;&gt;Digital-first for flexibility&lt;/h3&gt;
+&lt;h3 id=&quot;location-can-you-achieve-standout-or-will-you-be-one-of-many&quot;&gt;2 LOCATION… can you achieve standout, or will you be one of many?&lt;/h3&gt;
 
-&lt;p&gt;Even if you use a multi-channel retail strategy for your operations in the UK, consider a digital-first model for new markets. A light ecommerce presence instead of a more intensive physical one means retailers can change and internationalise more flexibly and more quickly.&lt;/p&gt;
+&lt;p&gt;And don’t forget to check out the local competition. If there are three other shops like the one you are proposing, think again.&lt;/p&gt;
 
-&lt;p&gt;Consider, too, setting up an agile team within your business devoted to international exports. If it can operate quickly and autonomously as a separate entity, it can make appropriate decisions for new markets quickly and projects can evolve faster and more fluidly.&lt;/p&gt;
+&lt;p&gt;Research about an area can be as simple as having a coffee at different times of day in a local café a couple of times a week for several weeks. Do this and the chances are good that you’ll understand the shoppers in an area and whether they’ll want what you intend to offer.&lt;/p&gt;
 
-&lt;h3 id=&quot;researching-your-new-markets&quot;&gt;Researching your new markets&lt;/h3&gt;
+&lt;h3 id=&quot;location-cost-v-footfall&quot;&gt;3 LOCATION… cost v footfall&lt;/h3&gt;
 
-&lt;p&gt;When researching your target markets have a look at available data to prioritise the countries where your products or services will appeal most. Some of the online tools available for exploring potential markets include the Google Global Market Finder. This uses worldwide internet search data to show country keyword searches, estimates for bids and competition for each keyword by market and language.&lt;/p&gt;
+&lt;p&gt;There is also the tension between rental cost and footfall. It’s an inconvenient truth that shops with the highest number of people passing in front of them will be the most costly from which to operate. Yet sometimes, and particularly if a retailer operates at the lower end of the price scale, it may be worth paying more in order to enjoy the shopper volume that will be required for the business to flourish.&lt;/p&gt;
 
-&lt;p&gt;Once you’ve identified markets, drill down to discover your target customers’ expectations and ways to exceed them. Make sure you understand how consumers use the internet in their path to purchase. Research data from free export tools will allow you to better understand different target markets.&lt;/p&gt;
+&lt;h3 id=&quot;shop-size-can-you-afford-to-have-a-meaningful-offer-in-your-chosen-unit&quot;&gt;4 SHOP SIZE… can you afford to have a meaningful offer in your chosen unit?&lt;/h3&gt;
 
-&lt;p&gt;When it comes to customers abroad, don’t rely on hunches. Instead, employ data analytics tools and analyst research to localise your offer according to market suitability and performance. This will enable you to not only alter to your site, product, marketing and pricing appropriately, but also to keep your finger on the pulse of market changes.&lt;/p&gt;
+&lt;p&gt;Another element is the size of unit. A large shop needs a certain minimum stock level if it is not to feel like a ballroom. Space in a store generally carries connotations of luxury, but too much space and it can feel as if a shop is under-stocked.&lt;/p&gt;
 
-&lt;h3 id=&quot;localising-your-website&quot;&gt;Localising your website&lt;/h3&gt;
+&lt;h3 id=&quot;fit-out-a-good-idea-will-always-trump-expensive-shop-equipment&quot;&gt;5 FIT-OUT… a good idea will always trump expensive shop equipment.&lt;/h3&gt;
 
-&lt;p&gt;Localising your website for different languages and currencies was once seen as a hurdle, but a range of tools now makes this far easier. For example, the UK’s largest independent online beauty retailer Beautybay.com used Google’s free translator tool to translate its website into 80 languages for overseas consumers.&lt;/p&gt;
+&lt;p&gt;Once all the location boxes are ticked and stock can be afforded, what else is vital? The answer is ‘fit-out’. Just buying a few fixtures and some second-hand mannequins may seem like the right thing, but unless all of the parts equate to a themed whole, then this is a dog that won’t bark.&lt;/p&gt;
 
-&lt;h3 id=&quot;use-marketplaces-to-test-and-learn&quot;&gt;Use marketplaces to test and learn&lt;/h3&gt;
+&lt;p&gt;Sometimes rough and ready, when set against carefully crafted stock can make for an interesting juxtaposition. There’s more to store design and layout than just ensuring everything has a place – shoppers need to feel a sense of difference and that they are welcome – and don’t forget that lighting can be the difference between very good and less so.&lt;/p&gt;
 
-&lt;p&gt;If you’re not quite ready to set up your own website, marketplaces such as Amazon, eBay or Alibaba can provide a cost-effective first step into a market, providing the opportunity to test and learn with limited investment.&lt;/p&gt;
+&lt;p&gt;Think of an in-store theme and run with it…&lt;/p&gt;
 
-&lt;p&gt;Many businesses are reaping the benefits of using services such as these which provide access to localised marketing, supply chain and payment options that can boost the uptake of your products. And because they hold information about consumer demand and supply, marketplaces can furnish valuable advice on gaps in the market.&lt;/p&gt;
+&lt;h3 id=&quot;name-your-shop-this-is-your-brand&quot;&gt;6 NAME YOUR SHOP… this is your brand.&lt;/h3&gt;
 
-&lt;p&gt;If or when you later develop a website, your marketplace presence will have established valuable exposure among an extensive customer base.&lt;/p&gt;
+&lt;p&gt;Finally, time spent thinking about what your new venture might be called is essential. The name above a shop door is part of your brand and if this isn’t instantly recognisable, retail oblivion may await.&lt;/p&gt;
 
-&lt;h3 id=&quot;move-fast&quot;&gt;Move fast&lt;/h3&gt;
+&lt;p&gt;Your own name may not be enough…&lt;/p&gt;</content><category term="in-store" /><summary>What are the building blocks for setting up an indie successfully? Retail journalist John Ryan picks his seven fundamental factors if you’re to stand a fighting chance.</summary></entry><entry><title>E-commerce: Vital for New Markets</title><link href="http://inside-retail.garethjohnsdesign.com/articles/e-commerce-vital-for-new-markets/" rel="alternate" type="text/html" title="E-commerce: Vital for New Markets" /><published>2016-07-18T15:23:00+00:00</published><updated>2016-07-18T15:23:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/e-commerce-vital-for-new-markets</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/e-commerce-vital-for-new-markets/">&lt;p&gt;E-commerce is increasingly playing a central role in retailers’ plans when expanding into new markets and reaching new customers. As John Scott, Director of International for department stores Debenhams, says: “Whereas before [expansion] was all about franchise, it’s now going to be about local partners who can distribute our brands on an e-platform.”&lt;/p&gt;
 
-&lt;p&gt;Whatever you do, it’s essential you act fast. First-mover advantage matters to business success, so don’t be afraid to test your offering in a number of different markets quickly. In ecommerce the cost of entry is marginal compared to traditional bricks-and-mortar businesses.&lt;/p&gt;</content><category term="ecommerce" /><summary>The internet has created new opportunities for smaller, independent retail businesses to sell to customers outside of the UK. If you’re ready to start exporting, Google’s country sales director Peter Fitzgerald highlights some of the tools available and things to consider.</summary></entry><entry><title>Why You Should Tell Your Financial Story</title><link href="http://inside-retail.garethjohnsdesign.com/articles/why-tell-your-finacial-story/" rel="alternate" type="text/html" title="Why You Should Tell Your Financial Story" /><published>2016-07-12T17:19:00+00:00</published><updated>2016-07-12T17:19:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/why-tell-your-finacial-story</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/why-tell-your-finacial-story/">&lt;p&gt;For small and medium-sized independent retailers, the idea of telling the outside world your business story is daunting. Retail investor relations expert Paul Barker explains why you should consider it.&lt;/p&gt;
+&lt;p&gt;Hear more from senior retailers on the importance of e-commerce here: LINK: https://www.youtube.com/watch?v=mXhFpkF9JO8&lt;/p&gt;</content><category term="ecommerce" /><summary>E-commerce is increasingly playing a central role in retailers’ plans when expanding into new markets and reaching new customers. As John Scott, Director of International for department stores Debenhams, says: “Whereas before [expansion] was all about franchise, it’s now going to be about local partners who can distribute our brands on an e-platform.”</summary></entry><entry><title>How We Buy Now</title><link href="http://inside-retail.garethjohnsdesign.com/articles/how-we-buy-now/" rel="alternate" type="text/html" title="How We Buy Now" /><published>2016-07-18T15:21:00+00:00</published><updated>2016-07-18T15:21:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/how-we-buy-now</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/how-we-buy-now/">&lt;p&gt;How has buying changed?&lt;/p&gt;
 
-&lt;p&gt;Even if your company isn’t publicly quoted or doesn’t have institutional or retail shareholders there are potential gains for independent retailers in sharing your corporate story. Nowhere more so than differentiating in a highly competitive market, and raising finance for the purpose of accelerating business growth.&lt;/p&gt;
+&lt;h3 id=&quot;shorter-attention-spans&quot;&gt;1 Shorter attention spans&lt;/h3&gt;
 
-&lt;p&gt;There is less of a need today to sell equity in your business as non-traditional sources of debt finance emerge, bolstered by the emergence of crowdsourcing, credit funds and mini-bonds.&lt;/p&gt;
+&lt;p&gt;The customer’s attention span is now shorter, there used to be a 13-week product cycle, now she’s bored after four.&lt;/p&gt;
 
-&lt;p&gt;In these cases, independent retailers need to tell their corporate stories in a more compelling and transparent way and to a wider audience than they might have done in the past.&lt;/p&gt;
+&lt;h3 id=&quot;agile-supplier-relations&quot;&gt;2 Agile supplier relations&lt;/h3&gt;
 
-&lt;p&gt;Both mini-bonds and crowdfunding, for example, are typically offered to private investors who are also existing customers. This, in turn, increases interest and awareness in the success of the brand. In effect, the lines that used to be drawn between corporate and customer communication aren’t just becoming blurred; they’re ceasing to exist.&lt;/p&gt;
+&lt;p&gt;You need to trade together weekly with suppliers to be agile.&lt;/p&gt;
 
-&lt;p&gt;This doesn’t mean independent retailers have to start quarterly corporate reporting, but regular content and media engagement which is both relevant and appropriate for the size and profile of the business can be useful.&lt;/p&gt;
+&lt;h3 id=&quot;multiple-sourcing-strategy&quot;&gt;3 Multiple sourcing strategy&lt;/h3&gt;
 
-&lt;p&gt;Developing a richer corporate narrative also brings the potential to unlock ‘softer’ business benefits, including promoting the business as a great place to work and attracting the best new talent.&lt;/p&gt;
+&lt;p&gt;You have to buy for the channel, if you sell through wholesale and direct you need a dual sourcing strategy to manage big volume orders and in season drops.&lt;/p&gt;
 
-&lt;p&gt;Here are five easy-wins that will help you on the road to effective corporate communications:&lt;/p&gt;
+&lt;h3 id=&quot;seasonless&quot;&gt;4 Seasonless&lt;/h3&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Develop the About Us section of your company’s website. Management profiles, company vision and strategy, case studies and, where possible, bring your ‘investment case’ to life by using visuals and video.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Speak to your PR agency, if you have one, to ask for specialist corporate advice to help plan a programme of corporate engagement.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Debate with your board and senior management what metrics and level of financial information you are prepared to disclose to and how frequently – headline performance combined with a succinct narrative about strategic and operational highlights during the period under review are your starting point.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Consider an online annual report (hard copies are often an unnecessary expense for independent businesses) which reflects your brand and headline financial performance and will be of interest to employees, suppliers, landlords, funders, customers and other stakeholders.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The media is increasingly interested in trends and commentary on the wider market, rather than just individual financial performance, so before you engage develop some interesting narratives about your business and the markets in which it operates.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><category term="in-store" /><summary>For small and medium-sized independent retailers, the idea of telling the outside world your business story is daunting. Retail investor relations expert Paul Barker explains why you should consider it.</summary></entry><entry><title>How to Expand from Your First Store</title><link href="http://inside-retail.garethjohnsdesign.com/articles/how-to-expand-from-your-first-store/" rel="alternate" type="text/html" title="How to Expand from Your First Store" /><published>2016-07-12T17:18:00+00:00</published><updated>2016-07-12T17:18:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/how-to-expand-from-your-first-store</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/how-to-expand-from-your-first-store/">&lt;p&gt;Expanding beyond your first store is one of the biggest decisions an independent will ever have to make. Retail property expert Tom Stanbury, Director of Central London Retail for CBRE answers some key questions.&lt;/p&gt;
+&lt;p&gt;There aren’t really seasons anymore – just a financial half year.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-first-store-has-worked-what-are-the-triggers-to-establish-a-second-or-more&quot;&gt;The first store has worked, what are the triggers to establish a second or more?&lt;/h3&gt;
+&lt;h3 id=&quot;black-friday&quot;&gt;5 Black Friday&lt;/h3&gt;
 
-&lt;p&gt;It is rare that an independent retailer would open a second store without the first store already making a profit. Independent retailers are rightly cautious because it is their money they are investing. Is a retailer seeing consistent growth in sales, do they have good accounts which show profit, do they have the supply lines to expand?&lt;/p&gt;
+&lt;p&gt;Black Friday changed the world, it has changed the shape of Christmas and you’ve got to do it.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-tips-can-you-share-on-how-an-indie-can-best-time-branching-out&quot;&gt;What tips can you share on how an indie can best time branching out?&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Views shared by: John Stockton, CEO, Weird Fish; Nicky Elson, former Trading Director, The White Company; and leading department store buyers.&lt;/em&gt;&lt;/p&gt;</content><category term="in-store" /><summary>How has buying changed?</summary></entry><entry><title>3 Tops Tips for Attending Trade Shows</title><link href="http://inside-retail.garethjohnsdesign.com/articles/3-tops-tips-for-attending-trade-shows/" rel="alternate" type="text/html" title="3 Tops Tips for Attending Trade Shows" /><published>2016-07-18T15:18:00+00:00</published><updated>2016-07-18T15:18:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/3-tops-tips-for-attending-trade-shows</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/3-tops-tips-for-attending-trade-shows/">&lt;h3 id=&quot;prepare&quot;&gt;1 Prepare&lt;/h3&gt;
 
-&lt;p&gt;Investigate where there are more flexible lease terms available, so that you are not tied in to an unsustainable lease length and cost. It is also worth approaching landlords around the terms of the lease – are these based on the performance of the store to try and share the risk? Also instructing a property agent can be useful. They can advise on market conditions and speak to other retailers who have been there before and grown successfully.&lt;/p&gt;
+&lt;p&gt;Being at a trade show can be a bit like a deer caught in headlights; it’s vital to prepare, social networks and high end style blogs can be a great source of new product ideas.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-internal-changes-do-you-need-to-make-as-you-start-expanding&quot;&gt;What internal changes do you need to make as you start expanding?&lt;/h3&gt;
+&lt;h3 id=&quot;filter&quot;&gt;2 Filter&lt;/h3&gt;
 
-&lt;p&gt;You’ll need to try and keep your overheads to a minimum so look out for cost-saving opportunities. When fitting a space out, it’s possible to gain relief from business rates payments and much of your expenditure in relation to fitting a store out would be tax deductible if you ensure you apply for the right capital allowances. You’ll also need to recruit staff who have distinct and different roles. Indies are usually good generalists but as things expand you will benefit from specialists.&lt;/p&gt;
+&lt;p&gt;Finding new suppliers is not a big issue, it’s filtering them that’s important, ensuring you get unique and differentiated product.&lt;/p&gt;
 
-&lt;h3 id=&quot;how-do-you-choose-between-a-regional-or-national-strategy&quot;&gt;How do you choose between a regional or national strategy?&lt;/h3&gt;
+&lt;h3 id=&quot;walk&quot;&gt;3 Walk&lt;/h3&gt;
 
-&lt;p&gt;In my opinion it is easier logistically if you go for a regional strategy but arguably with on-line the next market could be another major city rather than the nearest town.&lt;/p&gt;</content><category term="in-store" /><summary>Expanding beyond your first store is one of the biggest decisions an independent will ever have to make. Retail property expert Tom Stanbury, Director of Central London Retail for CBRE answers some key questions.</summary></entry><entry><title>Are Pop Ups a Smarter Way to Set Up Shop</title><link href="http://inside-retail.garethjohnsdesign.com/articles/are-pop-ups-a-smarter-way-to-set-up-shop/" rel="alternate" type="text/html" title="Are Pop Ups a Smarter Way to Set Up Shop" /><published>2016-07-12T17:17:00+00:00</published><updated>2016-07-12T17:17:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/are-pop-ups-a-smarter-way-to-set-up-shop</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/are-pop-ups-a-smarter-way-to-set-up-shop/">&lt;p&gt;For many brands starting out, a first foray into a physical space can be a daunting prospect. Ilona Taillade, Chief Marketing Officer, &lt;a href=&quot;https://wearepopup.com&quot;&gt;We Are Pop Up&lt;/a&gt; explains why the humble pop-up could be a good first step.&lt;/p&gt;
+&lt;p&gt;You’ve got to be able to ‘sniff out’ the right suppliers at a trade fair, you’ve got to work hard and walk all the aisles, see how busy they are, how they approach you.&lt;/p&gt;
 
-&lt;p&gt;What is pop-up and how does it differ from a stall in a market or a stand in a shopping centre?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Advice courtesy of: Amanda Burrows, former Brand Director and Head of Buying, Whistles, House of Fraser; John Stockton, CEO, Weird Fish; and Paul Middlemiss, Trading Director, Robert Dyas&lt;/em&gt;&lt;/p&gt;</content><category term="in-store" /><summary>1 Prepare</summary></entry><entry><title>Know Your Customers</title><link href="http://inside-retail.garethjohnsdesign.com/articles/know-your-customers/" rel="alternate" type="text/html" title="Know Your Customers" /><published>2016-07-18T15:16:00+00:00</published><updated>2016-07-18T15:16:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/know-your-customers</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/know-your-customers/">&lt;p&gt;If changing consumer behaviour is driving the move away from traditional seasons, it is even more important to be able to understand data and trends. Retail marketing expert Stella Hartley sets out the key rules.&lt;/p&gt;
 
-&lt;p&gt;We classify pop-up space as any short-term, empty retail space. This can be anything from an empty shop on a high street, to an entire building, a gallery, a warehouse, or a more quirky space such as a boat or a disused bus depot. It’s also possible to book ‘ShopShare’ space, which is concession space within an existing store.&lt;/p&gt;
+&lt;p&gt;The customer has always been King (or Queen) to retailers, now with the growth of e-commerce and digital media it seems we are sometimes overwhelmed with customer data, not only what customers have bought or spent but what they are thinking and feeling and how they are living their lives.&lt;/p&gt;
 
-&lt;h3 id=&quot;what-are-pop-ups-good-for&quot;&gt;What are pop-ups good for?&lt;/h3&gt;
+&lt;p&gt;The vital thing for retailers is to focus on what all this data actually means for them and to think about WHY customers behave in the way they do and how retailers can influence this behaviour.&lt;/p&gt;
 
-&lt;p&gt;Think about a pop-up as an excellent way to test your business concept, build awareness of your brand and meet customers. We’ve worked with hundreds of designers who started out over a weekend or a few days and have grown to established, successful companies.&lt;/p&gt;
+&lt;p&gt;It’s about getting to what marketers call ‘insights’, key information about your customers that you can use to shape your offer and gain competitive advantage whatever channels you sell through.&lt;/p&gt;
 
-&lt;p&gt;The beauty of a pop-up is that you can test different locations easily – don’t be afraid to experiment, and try something unusual or unexpected.&lt;/p&gt;
+&lt;h3 id=&quot;talking-helps&quot;&gt;1 TALKING HELPS&lt;/h3&gt;
 
-&lt;h3 id=&quot;what-tips-do-you-have-about-choosing-a-space&quot;&gt;What tips do you have about choosing a space?&lt;/h3&gt;
+&lt;p&gt;There’s no substitute to actually talking to customers, preferably physically when they are shopping, in focus groups or virtually through Social Media, product reviews or SurveyMonkey. Conversations and listening can help you make sense of and provide rationales for the sales data you are analysing.&lt;/p&gt;
 
-&lt;p&gt;Choose somewhere that complements your unique brand and your style. When you’re picking a space, look at what’s going on in the surrounding area – what brands are you near to, is the passing foot traffic the right demographic for you, does the culture fit your brand?&lt;/p&gt;
+&lt;h3 id=&quot;speed&quot;&gt;2 SPEED&lt;/h3&gt;
 
-&lt;p&gt;If you’re doing to a ShopShare, is there an exciting brand clash you can do that will draw attention to your story? Why not pop-up your floral prints in a florists or your menswear in a barber’s shop?&lt;/p&gt;
+&lt;p&gt;A key trend most retailers have spotted is that customers are more demanding, the internet has sped everything up, customers want more newness, they have a shorter attention span, one seasonal range isn’t going to excite them.&lt;/p&gt;
 
-&lt;h3 id=&quot;how-do-you-make-a-pop-up-work&quot;&gt;How do you make a pop-up work?&lt;/h3&gt;
+&lt;h3 id=&quot;added-value&quot;&gt;3 ADDED VALUE&lt;/h3&gt;
 
-&lt;p&gt;People pop-up for a number of reasons, so to make a pop-up work, really think about what success looks like you. Is it purely sales? Is it purely awareness of your brand? Is it educating customers about your product range? It could be any or all of these, but keep the aim in mind.&lt;/p&gt;
+&lt;p&gt;They can price compare instantly online so it’s better to have exclusive product or an added value shopping experience and a strong brand reputation that customers trust. If they buy online they want deliveries faster and to be able to return products quickly and easily (and preferably at no cost!)&lt;/p&gt;
 
-&lt;p&gt;We like to encourage brands to use the ‘lean start-up methodology’ of measure, test, learn as you go along. We encourage our customers to not be afraid to experiment and take risks. Collaborate with like-minded brands to build your networks and tap into each-others’ customer base, and make use of all the incredible social media tools at your fingertips, to tell your current customers where you are, and to reach out to new ones.&lt;/p&gt;
+&lt;h3 id=&quot;segmentation&quot;&gt;4 SEGMENTATION&lt;/h3&gt;
 
-&lt;h3 id=&quot;once-youve-tried-it-what-can-you-do-next&quot;&gt;Once you’ve tried it, what can you do next?&lt;/h3&gt;
+&lt;p&gt;Customer segmentation can be a really useful tool to help you understand customer types, who is buying what, which segment is commercially more valuable, which segment is growing. Make sure your range reflects the segments but importantly not too many segments or the offer will look too fragmented and your brand will lack focus. Sometimes deciding who your customer isn’t is as important as deciding who it is.&lt;/p&gt;
 
-&lt;p&gt;Again, this depends on what your original objectives were. Do you want to be a global brand? In which case why not plot a city-by-city pop-up tour? Or do you want to be an ecommerce business, in which case plan for a few pop-ups in key locations at key seasonal moments (for example at a design/fashion/ craft week or Christmas). Or perhaps you’d like to plot a series of collaborations.&lt;/p&gt;</content><category term="in-store" /><summary>For many brands starting out, a first foray into a physical space can be a daunting prospect. Ilona Taillade, Chief Marketing Officer, We Are Pop Up explains why the humble pop-up could be a good first step.</summary></entry><entry><title>Video</title><link href="http://inside-retail.garethjohnsdesign.com/articles/video/" rel="alternate" type="text/html" title="Video" /><published>2016-06-28T21:50:00+00:00</published><updated>2016-06-28T21:50:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/video</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/video/">&lt;p&gt;Watch &lt;a href=&quot;http://vimeo.com/69301083&quot;&gt;Introducing Siteleaf&lt;/a&gt;.&lt;/p&gt;</content><category term="marketing" /><summary>Watch Introducing Siteleaf.</summary></entry></feed>
+&lt;h3 id=&quot;discounting&quot;&gt;5 DISCOUNTING&lt;/h3&gt;
+
+&lt;p&gt;Customers are increasingly savvy about promotions and special offers, the recession has taught them to wait for the discounts which now are more frequent and less likely to be twice yearly big sales.&lt;/p&gt;
+
+&lt;h3 id=&quot;events&quot;&gt;6 EVENTS&lt;/h3&gt;
+
+&lt;p&gt;Instead, Black Friday has become the most anticipated retail event of the year which has made both customers and retailers rethink the crucial lead up to Christmas. Customers now feel that if they don’t shop that weekend or don’t get some amazing buys they have somehow failed! Even small businesses can create relevant offers that add value rather than succumb to big discounts.&lt;/p&gt;
+
+&lt;h3 id=&quot;have-a-point-of-view&quot;&gt;7 HAVE A POINT OF VIEW&lt;/h3&gt;
+
+&lt;p&gt;Having a clear point of view is crucial to creating a strong brand and building a relationship with customers. Importantly, it also gives you a framework within which to develop your range. Some retailers can rely on suppliers to do all the work and come up with a constant stream of new ideas, but it depends on the sector you are in and the quality of your supply base.&lt;/p&gt;
+
+&lt;h3 id=&quot;tread-carefully-with-trends&quot;&gt;8 TREAD CAREFULLY WITH TRENDS&lt;/h3&gt;
+
+&lt;p&gt;Advice from seasoned designers and buyers is don’t slavishly follow trends, use the good forecasting tools that are available but look everywhere (markets, vintage, blogs, cool brands) for ideas and inspiration. Sometimes originality is in the ability to edit. WGSN, Style.com, Premier Vision, Pitti Filati, Pitti Uomo, Maison et Objets and Heimtextil can all provide good research opportunities but everyone follows everyone else – how to break out and be different is a real skill, particularly when you want to have a POV but not get caught with stock you can’t shift!&lt;/p&gt;
+
+&lt;h3 id=&quot;be-culturally-aware&quot;&gt;9 BE CULTURALLY AWARE&lt;/h3&gt;
+
+&lt;p&gt;If you are a major department store business you can more easily monitor macro economic and lifestyle trends with hired experts, if not you have to be aware of what’s going on around you. Be aware that the popularity of the Great British Bake Off and the growing interest in gardening and knitting means that alongside technology there is a consumer trend which is about more authentic, homespun, tactile activities and relaxation.&lt;/p&gt;
+
+&lt;h3 id=&quot;filter-the-information&quot;&gt;10 FILTER THE INFORMATION&lt;/h3&gt;
+
+&lt;p&gt;In a world that’s shrinking with global communications and transport networks it’s not difficult to find lots of potential suppliers to help with product development, but it’s the filtering of those suppliers, whether on ethical grounds, style, fashionability, price, quality, reliability and crucially fit with your brand and POV, that is the challenge.&lt;/p&gt;
+
+&lt;h3 id=&quot;remember-to-look-up&quot;&gt;11 REMEMBER TO LOOK UP&lt;/h3&gt;
+
+&lt;p&gt;It’s about being aware of what’s happening outside your business, it’s all too easy to be very inwardly focused particularly when running a small business with little resource.&lt;/p&gt;</content><category term="in-store" /><summary>If changing consumer behaviour is driving the move away from traditional seasons, it is even more important to be able to understand data and trends. Retail marketing expert Stella Hartley sets out the key rules.</summary></entry><entry><title>Making Sense of New Buying Habits</title><link href="http://inside-retail.garethjohnsdesign.com/articles/making-sense-of-new-buying-habits/" rel="alternate" type="text/html" title="Making Sense of New Buying Habits" /><published>2016-07-18T15:09:00+00:00</published><updated>2016-07-18T15:09:00+00:00</updated><id>http://inside-retail.garethjohnsdesign.com/articles/making-sense-of-new-buying-habits</id><content type="html" xml:base="http://inside-retail.garethjohnsdesign.com/articles/making-sense-of-new-buying-habits/">&lt;p&gt;Traditional buying seasons and patterns are under increasing pressure as consumer demand and expectations change. There is less certainty in how customers will feel and spend in 12 or even 6 months’ time so there is little logic in committing vital budget that far ahead.&lt;/p&gt;
+
+&lt;p&gt;How can retailers best serve their customers and plan well for key seasonal promotions and events in the new consumer landscape? Inside Retail surveyed a range of independent, multiples and pure-play retailers in the home and gift sectors to find out.&lt;/p&gt;
+
+&lt;p&gt;This is what they told us.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-changing-consumer&quot;&gt;THE CHANGING CONSUMER&lt;/h3&gt;
+
+&lt;p&gt;Retailing has always been about change and attracting customers with new products and looks. But today’s retail world is changing in a way we have never seen before.&lt;/p&gt;
+
+&lt;p&gt;Customers are behaving differently and believe they are empowered to shop wherever and whenever they want. They are no longer being dictated to by retailers curating collections put together by their buyers.&lt;/p&gt;
+
+&lt;p&gt;A staggering 49% of retailers said that is now difficult or very difficult to predict how their customers will spend over the next 12 months.&lt;/p&gt;
+
+&lt;p&gt;As a result, the traditional buying seasons make less commercial sense when the real requirement is for retailers to be able to respond faster and closer to the season. Retail buyers are more and more inclined to buy stock frequently and reactively throughout the year.&lt;/p&gt;
+
+&lt;p&gt;Unsurprisingly, Christmas is the most important trading period for 65% of respondents but even this most important and predictable season is being changed with the rise of pre-Christmas sales and discounting and Black Friday. For online-only retailers, a large group within the survey, Christmas is shown to be even more important for them.&lt;/p&gt;
+
+&lt;p&gt;Easter, Valentine’s Day, Halloween and the school holidays are all cited strongly as promotional opportunities.&lt;/p&gt;
+
+&lt;p&gt;It is also important for retailers to capitalise on popular, one-off events. The Centre for Retail Research showed for example that the birth of the new Royal baby, Princess Charlotte, generated more than £80 million in retail sales with £27 million of that total being driven by souvenirs. It demanded a very fast response from suppliers and then retailers to meet this opportunity and special occasion which consumers wanted to commemorate.&lt;/p&gt;
+
+&lt;h3 id=&quot;meeting-changing-demand&quot;&gt;MEETING CHANGING DEMAND&lt;/h3&gt;
+
+&lt;p&gt;So how are retailers responding to these changing consumer spending patterns? The difficulty in predicting how consumers are going to react makes for difficult buying decisions and planning.&lt;/p&gt;
+
+&lt;p&gt;31% of respondents say that with customers now always looking for new products they are having to change their buying pattern and bring it closer to season.&lt;/p&gt;
+
+&lt;p&gt;When this is translated into actual retail buying, the survey underlines the extent to which retailers are becoming more flexible. It shows for example that 15% of those responding will now leave up to 60% of their budgets to buy closer to the season. 21% – the biggest percentage of respondents – say that they will allocate 30% of their budgets closer to season. 
+Compared with three years ago, 27% of retailers said that they had reduced their forward ordering. The reasons, apart from having to find new products to appeal to customers, reinforce the changing consumer picture by citing the fact that it is now important to manage budgets, the fact that there is better availability of stock closer to season and to be able to forecast better.&lt;/p&gt;
+
+&lt;p&gt;The improved availability of stock would seem to be a crucial factor in helping retailers manage their buying closer to season. A staggering 70% of respondents said that suppliers have made it easier to stagger buying patterns across the year.&lt;/p&gt;</content><category term="in-store" /><summary>Traditional buying seasons and patterns are under increasing pressure as consumer demand and expectations change. There is less certainty in how customers will feel and spend in 12 or even 6 months’ time so there is little logic in committing vital budget that far ahead.</summary></entry></feed>
