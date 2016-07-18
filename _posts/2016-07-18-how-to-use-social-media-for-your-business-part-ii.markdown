@@ -7,6 +7,7 @@ tags:
 - marketing
 excerpt-image: "/uploads/how-to-use-social-media-for-your-business-part-II.jpg"
 excerpt-text: 'Tips for beginners, from an expert   '
+hero-video: 33DA1hp7_LY
 hero-image: "/uploads/how-to-use-social-media-for-your-business-part-II.jpg"
 hero-quote: Give it a go. If it doesn’t work, don’t worry about it, shut it down.
 hero-cite: Rachel Arthurs
