@@ -1,7 +1,6 @@
 ---
 title: Inside Retail
 timezone: UTC
-url: http://inside-retail.garethjohnsdesign.com
 collections:
   carousel:
     title: Carousel
@@ -45,6 +44,7 @@ defaults:
     type: blog_categories
   values:
     layout: category
+url: http://inside-retail.garethjohnsdesign.com
 permalink: pretty
 gems:
 - jekyll-seo-tag
