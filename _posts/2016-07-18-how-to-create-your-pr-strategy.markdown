@@ -33,7 +33,8 @@ Kevin Read is the executive chairman of Bell Pottinger Corporate, Brand and Digi
 
 **10** “Carefully planned communications – in classic or digital form - will be a vital ingredient for your business to get noticed and be trusted. But my advice is listen, learn, adapt and be persistent.”
 
-### ((CROSSHEAD)) In a nutshell
+###In a nutshell
+
 
 • Work out what challenge your business addresses
  • Be clear about the solution your product or service provides. This is your point of difference
