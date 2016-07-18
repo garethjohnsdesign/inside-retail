@@ -10,6 +10,7 @@ excerpt-text: 'Retail buying survey: results '
 hero-image: "/uploads/report2-seasonalbuying-surveyresults.jpg"
 hero-quote: Customer buying patterns are changing radically, the good news is that
   suppliers are accommodating for that change.
+length: Five minute read
 ---
 
 Traditional buying seasons and patterns are under increasing pressure as consumer demand and expectations change. There is less certainty in how customers will feel and spend in 12 or even 6 months’ time so there is little logic in committing vital budget that far ahead.
