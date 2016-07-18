@@ -1,5 +1,5 @@
 ---
-title: 'Listen to customers just as much as you talk to them: Notonthehighstreet.com'
+title: 'Listen to Customers Just as Much as You Talk to Them: Notonthehighstreet.com'
 date: 2016-07-18 14:23:00 Z
 categories:
 - branching-out

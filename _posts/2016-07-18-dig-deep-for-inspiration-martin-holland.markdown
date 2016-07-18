@@ -1,5 +1,5 @@
 ---
-title: 'Dig deep for inspiration: Martin Holland'
+title: 'Dig Deep For Inspiration: Martin Holland'
 date: 2016-07-18 14:27:00 Z
 categories:
 - up-and-running
