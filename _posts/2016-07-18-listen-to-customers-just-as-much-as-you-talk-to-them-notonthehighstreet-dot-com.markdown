@@ -7,6 +7,7 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/bo-listen-to-your-customers-notonthehighstreet-1.jpg"
 excerpt-text: Marketing lessons from Simon Belsham
+hero-image: "/uploads/bo-listen-to-your-customers-notonthehighstreet-1.jpg"
 ---
 
 What should your ecommerce marketing plan look like? Notonthehighstreet.com CEO Simon Belsham shares his tips on how to get started. 
