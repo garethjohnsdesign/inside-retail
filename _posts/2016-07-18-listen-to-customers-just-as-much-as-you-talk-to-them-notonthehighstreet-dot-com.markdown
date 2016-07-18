@@ -18,7 +18,9 @@ What should your ecommerce marketing plan look like? Notonthehighstreet.com CEO 
 3. Find which marketing channels will help you reach your customers. Understand how they use channels and how you can reach and influence them at different parts of their lives.
 
 4. Identify which are the most relevant for your customers and focus on doing the best job you can on them.  For us, Pinterest and Facebook work as they’re about sharing.
+
 ![bo-listen-to-your-customers-notonthehighstreet-2.jpg](/uploads/bo-listen-to-your-customers-notonthehighstreet-2.jpg)
+
 5. Listen to customers just as much as you talk to them. Use pull channels such as content, inbound, social media marketing to influence customers to come to you.
 
 6. Be consistent in how you talk to customers and how they experience your brand whichever channel mix you use.
