@@ -585,6 +585,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/lessons-from-mountain-warehouse-founder-mark-neale\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/lessons-from-mountain-warehouse-founder-mark-neale\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/listen-to-customers-just-as-much-as-you-talk-to-them-notonthehighstreet-dot-com\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -13601,6 +13610,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/gs-mountain-warehouse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87196,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-mountain-warehouse.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-mountain-warehouse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14257,6 +14277,17 @@
 		"initialSize": 245842,
 		"inputAbbreviatedPath": "\/_uploads\/gs-mindful-expansion-aria-crafts.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/gs-mindful-expansion-aria-crafts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/gs-mountain-warehouse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87196,
+		"inputAbbreviatedPath": "\/_uploads\/gs-mountain-warehouse.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs-mountain-warehouse.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
