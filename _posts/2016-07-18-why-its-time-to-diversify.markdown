@@ -6,6 +6,7 @@ categories:
 tags:
 - inspiration
 excerpt-image: "/uploads/why-its-time-to-diversify.jpg"
+excerpt-text: If you want to keep your customers interested, surprise them
 hero-image: "/uploads/why-its-time-to-diversify.jpg"
 hero-quote: The pure product-based retailer, whether independent or multiple, is in
   long term decline.
