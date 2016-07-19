@@ -4,7 +4,8 @@ timezone: UTC
 collections:
   carousel:
     title: Carousel
-    output: true
+  annoucement:
+    title: Annoucement
   blog_categories:
     title: Categories
     output: true

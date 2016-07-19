@@ -72,6 +72,13 @@ a {
 	padding-bottom: 0.5rem;
 }
 
+.announcement a {
+	color: $color--white;
+	&:hover {
+      color: $color--black;
+    }
+}
+
 .announcement__location {
 	@include accent-text;
 	padding-left: 1rem;
