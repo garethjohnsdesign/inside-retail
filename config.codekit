@@ -23,14 +23,16 @@
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
 		},
-	"\/_includes\/analytics.html": {
-		"fileType": 8192,
+	"\/_includes\/analytics.js": {
+		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_includes\/analytics.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/_includes\/analytics.js",
+		"outputAbbreviatedPath": "\/_includes\/min\/analytics-min.js",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/_includes\/announcement.html": {
 		"fileType": 8192,
@@ -94,6 +96,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_includes\/min\/analytics-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/min\/analytics-min.js",
+		"outputAbbreviatedPath": "\/_includes\/min\/min\/analytics-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/_includes\/navigation.html": {
 		"fileType": 8192,
@@ -410,6 +423,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/being-a-buyer-and-leader-in-a-multichannel-world\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/being-a-buyer-and-leader-in-a-multichannel-world\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/branding-lessons-from-a-retail-legend\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -451,6 +473,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/connecting-github\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/customer-appeal\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/customer-appeal\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -590,11 +621,47 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/how-to-create-your-pr-strategy\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/how-to-create-your-pr-strategy\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/how-to-expand-from-your-first-store\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/how-to-expand-from-your-first-store\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/how-to-get-started-online\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/how-to-get-started-online\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/how-to-maximize-supplier-relationships\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/how-to-maximize-supplier-relationships\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/how-to-shake-up-a-sector-dot-dot-dot-and-succeed\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/how-to-shake-up-a-sector-dot-dot-dot-and-succeed\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -770,6 +837,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/mindful-expansion\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/mindful-expansion\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/moving-to-siteleaf\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -878,6 +954,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/small-and-local-wins-the-race\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/small-and-local-wins-the-race\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/stickers\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -892,6 +977,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/taxonomy-in-siteleaf\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/the-abcs-of-creating-a-successful-gifting-business\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/the-abcs-of-creating-a-successful-gifting-business\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -977,11 +1071,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/why-its-time-to-diversify\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/why-its-time-to-diversify\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/why-tell-your-finacial-story\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/why-tell-your-finacial-story\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/you-must-deliver-newness-and-surprise\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/you-must-deliver-newness-and-surprise\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1083,12 +1195,12 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/assets\/js\/min\/app-min.js": {
+	"\/_site\/assets\/js\/min\/analytics-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/app-min.js",
-		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/app-min-min.js",
+		"inputAbbreviatedPath": "\/_site\/assets\/js\/min\/analytics-min.js",
+		"outputAbbreviatedPath": "\/_site\/assets\/js\/min\/min\/analytics-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -13949,6 +14061,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/bo-the-relationship.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_site\/uploads\/bo-the-relationship.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/bo-the-relationship.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/branching-out.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14774,6 +14897,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/gs-how-to-get-started-online-Martin-Newman.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 632124,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-how-to-get-started-online-Martin-Newman.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-how-to-get-started-online-Martin-Newman.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs-mindful-expansion-aria-crafts-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 422946,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-mindful-expansion-aria-crafts-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-mindful-expansion-aria-crafts-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs-mindful-expansion-aria-crafts.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 300312,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-mindful-expansion-aria-crafts.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-mindful-expansion-aria-crafts.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/gs-rom-recession-to-success-young-ideas-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -14814,6 +14970,39 @@
 		"initialSize": 536959,
 		"inputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/gs-rom-recession-to-success-young-ideas.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs-small-and-local.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97275,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-small-and-local.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-small-and-local.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47272,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75024,
+		"inputAbbreviatedPath": "\/_site\/uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15049,6 +15238,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/how-to-create-your-pr-strategy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97101,
+		"inputAbbreviatedPath": "\/_site\/uploads\/how-to-create-your-pr-strategy.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/how-to-create-your-pr-strategy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/how-to-expand-from-your-first-store.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15056,6 +15256,17 @@
 		"initialSize": 178878,
 		"inputAbbreviatedPath": "\/_site\/uploads\/how-to-expand-from-your-first-store.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/how-to-expand-from-your-first-store.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/how-to-maximize-supplier-relationship.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_site\/uploads\/how-to-maximize-supplier-relationship.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/how-to-maximize-supplier-relationship.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15940,6 +16151,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/prezola-how-to-shake-up-a-sector.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 486865,
+		"inputAbbreviatedPath": "\/_site\/uploads\/prezola-how-to-shake-up-a-sector.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/prezola-how-to-shake-up-a-sector.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/quick-post-edit.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16215,6 +16437,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/uar-customer-appeal-martin-butler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_site\/uploads\/uar-customer-appeal-martin-butler.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/uar-customer-appeal-martin-butler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/uar-hof-hangout.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_site\/uploads\/uar-hof-hangout.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/uar-hof-hangout.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/up-and-running.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16248,6 +16492,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/why-its-time-to-diversify.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_site\/uploads\/why-its-time-to-diversify.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/why-its-time-to-diversify.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/why-tell-your-finacial-story.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -16266,6 +16521,17 @@
 		"initialSize": 298059,
 		"inputAbbreviatedPath": "\/_site\/uploads\/william-kim.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/william-kim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/you-must-deliver-newness-and-surprise.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_site\/uploads\/you-must-deliver-newness-and-surprise.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/you-must-deliver-newness-and-surprise.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16299,6 +16565,17 @@
 		"initialSize": 53048,
 		"inputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship-is-the-most-important-thing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/ bo-the-relationship.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -16607,6 +16884,17 @@
 		"initialSize": 437455,
 		"inputAbbreviatedPath": "\/_uploads\/bo-listen-to-your-customers-notonthehighstreet-2.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/bo-listen-to-your-customers-notonthehighstreet-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/bo-the-relationship.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_uploads\/bo-the-relationship.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/bo-the-relationship.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -17513,6 +17801,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/gs-small-and-local.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97275,
+		"inputAbbreviatedPath": "\/_uploads\/gs-small-and-local.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs-small-and-local.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47272,
+		"inputAbbreviatedPath": "\/_uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75024,
+		"inputAbbreviatedPath": "\/_uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/gs-the-abcs-of-creating-a-successful-online-gifting-business.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/gs_setting-up-shop-essentials.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -17762,6 +18083,17 @@
 		"initialSize": 178878,
 		"inputAbbreviatedPath": "\/_uploads\/how-to-expand-from-your-first-store.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/how-to-expand-from-your-first-store.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/how-to-maximize-supplier-relationship.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_uploads\/how-to-maximize-supplier-relationship.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/how-to-maximize-supplier-relationship.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -18932,6 +19264,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/uar-customer-appeal-martin-butler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_uploads\/uar-customer-appeal-martin-butler.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/uar-customer-appeal-martin-butler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/uar-hof-hangout.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_uploads\/uar-hof-hangout.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/uar-hof-hangout.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/up-and-running.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18965,6 +19319,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/why-its-time-to-diversify.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_uploads\/why-its-time-to-diversify.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/why-its-time-to-diversify.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/why-tell-your-finacial-story.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18983,6 +19348,17 @@
 		"initialSize": 298059,
 		"inputAbbreviatedPath": "\/_uploads\/william-kim.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/william-kim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/you-must-deliver-newness-and-surprise.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13206,
+		"inputAbbreviatedPath": "\/_uploads\/you-must-deliver-newness-and-surprise.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/you-must-deliver-newness-and-surprise.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19016,6 +19392,17 @@
 		"initialSize": 53048,
 		"inputAbbreviatedPath": "\/_uploads\/ bo-the-relationship-is-the-most-important-thing.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/ bo-the-relationship-is-the-most-important-thing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/ bo-the-relationship.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53048,
+		"inputAbbreviatedPath": "\/_uploads\/ bo-the-relationship.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/ bo-the-relationship.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -19169,12 +19556,34 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/js\/analytics.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/analytics.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/analytics-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/assets\/js\/app.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/app.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/min\/analytics-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/analytics-min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/analytics-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -19215,7 +19624,7 @@
 		},
 	"\/assets\/js\/super-search.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/super-search.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/super-search-min.js",
@@ -33163,20 +33572,32 @@
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/foundation.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/analytics.js",
 			"position": 1,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/what-input.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/super-search.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.min.js",
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/foundation.js",
 			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/what-input.js",
+			"position": 4,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.min.js",
+			"position": 5,
 			"type": 0
 			}
 		]
