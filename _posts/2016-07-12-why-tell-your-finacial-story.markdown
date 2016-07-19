@@ -7,11 +7,8 @@ tags:
 - in-store
 excerpt-image: "/uploads/why-tell-your-finacial-story.jpg"
 excerpt-text: Five tips to get started
-hero-video: 
 hero-image: "/uploads/why-tell-your-finacial-story.jpg"
 hero-text: Five tips to get started
-hero-quote: 
-hero-cite: 
 length: Three Minute Read
 ---
 
@@ -31,12 +28,12 @@ Developing a richer corporate narrative also brings the potential to unlock ‘s
 
 Here are five easy-wins that will help you on the road to effective corporate communications:
 
-1. Develop the About Us section of your company’s website. Management profiles, company vision and strategy, case studies and, where possible, bring your ‘investment case’ to life by using visuals and video.
+**1.** Develop the About Us section of your company’s website. Management profiles, company vision and strategy, case studies and, where possible, bring your ‘investment case’ to life by using visuals and video.
 
-2. Speak to your PR agency, if you have one, to ask for specialist corporate advice to help plan a programme of corporate engagement.
+**2.** Speak to your PR agency, if you have one, to ask for specialist corporate advice to help plan a programme of corporate engagement.
 
-3. Debate with your board and senior management what metrics and level of financial information you are prepared to disclose to and how frequently – headline performance combined with a succinct narrative about strategic and operational highlights during the period under review are your starting point.
+**3.** Debate with your board and senior management what metrics and level of financial information you are prepared to disclose to and how frequently – headline performance combined with a succinct narrative about strategic and operational highlights during the period under review are your starting point.
 
-4. Consider an online annual report (hard copies are often an unnecessary expense for independent businesses) which reflects your brand and headline financial performance and will be of interest to employees, suppliers, landlords, funders, customers and other stakeholders.
+**4.** Consider an online annual report (hard copies are often an unnecessary expense for independent businesses) which reflects your brand and headline financial performance and will be of interest to employees, suppliers, landlords, funders, customers and other stakeholders.
 
-5. The media is increasingly interested in trends and commentary on the wider market, rather than just individual financial performance, so before you engage develop some interesting narratives about your business and the markets in which it operates. 
+**5.** The media is increasingly interested in trends and commentary on the wider market, rather than just individual financial performance, so before you engage develop some interesting narratives about your business and the markets in which it operates.
