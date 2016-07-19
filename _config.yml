@@ -2,10 +2,12 @@
 title: Inside Retail
 timezone: UTC
 collections:
-  carousel:
-    title: Carousel
   annoucement:
     title: Annoucement
+    output: false
+  carousel:
+    title: Carousel
+    output: false
   blog_categories:
     title: Categories
     output: true
