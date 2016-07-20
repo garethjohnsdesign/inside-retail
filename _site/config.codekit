@@ -734,6 +734,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/icons\/android-chrome-192x192.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1347,6 +1356,17 @@
 		"initialSize": 132218,
 		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/fine-tunings.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 269481,
+		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tunings.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tunings.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2117,6 +2137,17 @@
 		"initialSize": 132218,
 		"inputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/fine-tunings.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 269481,
+		"inputAbbreviatedPath": "\/_uploads\/fine-tunings.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/fine-tunings.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
