@@ -5,13 +5,13 @@ categories:
 - branching-out
 tags:
 - inspiration
-layout: default
 color: magenta
 image: "/uploads/branching-out.jpg"
 shape: "/uploads/branching-out.svg"
-header: Fusce Pellentesque Purus Inceptos Tellus
-subheader: Etiam porta sem malesuada magna mollis euismod
-lead-paragraph: Aenean lacinia bibendum nulla sed consectetur.
+header: Want to expand your business?
+subheader: How Tos, expert advice and top tips
+lead-paragraph: Explore our articles and videos below
+layout: default
 ---
 
 {% include sub-navigation-inspiration.html %}
