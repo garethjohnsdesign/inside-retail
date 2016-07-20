@@ -1,6 +1,6 @@
 ---
 title: Inside Retail
-image: "/assets/og-image.png"
+image: "/assets/img/meta/meta-image.png"
 layout: index
 ---
 
