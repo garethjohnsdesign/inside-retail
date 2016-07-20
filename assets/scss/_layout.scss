@@ -671,15 +671,6 @@ li.excerpt__tag.align-right {
   }
 }
 
-/*
-.sponsors__menu {
-	@include menu-direction(vertical);
-	@include breakpoint(medium) {
-    @include menu-direction(horizontal);
-  	}
-}
-*/
-
 .sponsors .icon {
 	font-size: 4rem;
 	@include breakpoint(medium) {
@@ -714,6 +705,17 @@ li.excerpt__tag.align-right {
 	font-family: $header-font-family-accent;
 	letter-spacing: $letter-spacing--looser;
 }
+
+//Sitemap
+.sitemap {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+.sitemap p {
+	font-size: 90%;
+}
+
 
 // Footer
 .footer__top {
