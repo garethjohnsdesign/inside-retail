@@ -1,6 +1,6 @@
 ---
 title: Branching Out
-position: 2
+position: 3
 image: "/uploads/branching-out.jpg"
 shape: "/uploads/branching-out.svg"
 header: Porta Mattis Amet Tortor

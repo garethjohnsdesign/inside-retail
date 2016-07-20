@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-position: 0
+position: 1
 image: "/uploads/getting-started.jpg"
 shape: "/uploads/getting-started.svg"
 header: Welcome to Inside Retail

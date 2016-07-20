@@ -1,6 +1,6 @@
 ---
 title: About
-position: 4
+position: 0
 image: "/uploads/about.svg"
 shape: 
 header: Cras justo odio
