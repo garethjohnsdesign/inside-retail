@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning
 position: 4
-image: "/uploads/fine-tuning-614eb7.jpg"
+image: "/uploads/fine-tunings.jpg"
 shape: "/uploads/fine-tuning.svg"
 header: Aenean Tortor Quam Elit Tristique
 subheader: Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing
