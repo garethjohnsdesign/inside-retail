@@ -36,7 +36,12 @@ defaults:
     hero-cite: 
     length: 
     is-top: 
-    top-image: 
+    top-image:
+- scope:
+    path: ''
+    type: annoucement
+  values:
+    period: 
 - scope:
     path: ''
     type: blog_tags
