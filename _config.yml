@@ -36,7 +36,7 @@ defaults:
     hero-cite: 
     length: 
     is-top: 
-    top-image:
+    top-image: 
 - scope:
     path: ''
     type: annoucement
