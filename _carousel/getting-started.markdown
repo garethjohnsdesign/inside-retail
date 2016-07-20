@@ -3,10 +3,9 @@ title: Getting Started
 position: 1
 image: "/uploads/getting-started.jpg"
 shape: "/uploads/getting-started.svg"
-header: Lorem ipsum dolor sit amet
-subheader: Maecenas diam eget risus varius blandit sit amet non magna. Nullam quis
-  risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis
-  dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur
-  adipiscing elit, sed do eiusmod tempor incididunt.
+header: 'At the Drawing Board? '
+subheader: "When planning a new retail business, it’s tough to find information and
+  inspiration to help you get up and running. Explore our guides and tips for indie
+  success, videos and stories from people who have been in your shoes. \n"
 ---
 
