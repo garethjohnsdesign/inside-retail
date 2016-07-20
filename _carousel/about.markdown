@@ -3,7 +3,10 @@ title: About
 position: 0
 image: "/uploads/about.svg"
 shape: 
-header: Cras justo odio
-subheader: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum
+header: Welcome to Inside Retail
+subheader: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem
+  ipsum dolor sit amet, consectetur adipiscing elit.
 ---
 
