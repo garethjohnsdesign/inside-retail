@@ -5,7 +5,7 @@ categories:
 - up-and-running
 tags:
 - inspiration
-excerpt-image: "/uploads/you-must-deliver-newness-and-surprise.jpg"
+excerpt-image: "/uploads/you-must-deliver-newness-and-surprise_2.jpg"
 excerpt-text: Whatever the product, the UK’s retailers agree on this must-do action
 hero-image: "/uploads/you-must-deliver-newness-and-surprise_2.jpg"
 length: 'Three minute read  '
