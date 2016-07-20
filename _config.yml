@@ -41,7 +41,11 @@ defaults:
     path: ''
     type: annoucement
   values:
-    period: 
+    period:
+    prepend:
+    location:
+    link:
+    is-shown:
 - scope:
     path: ''
     type: blog_tags
