@@ -1,12 +1,12 @@
 ---
 title: Fine Tuning
 permalink: "/fine-tuning/"
-layout: category
 color: purple
 image: "/uploads/fine-tuning.jpg"
 shape: "/uploads/fine-tuning.svg"
-header: Fusce Pellentesque Purus Inceptos Tellus
-subheader: Etiam porta sem malesuada magna mollis euismod
-lead-paragraph: Aenean lacinia bibendum nulla sed consectetur.
+header: 'How to make your business even better '
+subheader: How Tos, expert advice and top tips
+lead-paragraph: Explore our articles and videos below
+layout: category
 ---
 
