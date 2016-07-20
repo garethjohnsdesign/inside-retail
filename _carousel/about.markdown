@@ -4,9 +4,9 @@ position: 0
 image: "/uploads/about.svg"
 shape: 
 header: Welcome to Inside Retail
-subheader: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem
-  ipsum dolor sit amet, consectetur adipiscing elit.
+subheader: |-
+  The online destination for independent retailers.
+
+  Whether you sell on the high street or online, are just getting started or tweaking the dream, you can find stories, tips, interviews and inspiration to help accelerate the growth of your business. Explore below or browse through to find content that’s right for you.
 ---
 
