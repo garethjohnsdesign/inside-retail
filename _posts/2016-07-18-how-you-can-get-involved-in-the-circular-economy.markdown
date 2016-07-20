@@ -1,5 +1,5 @@
 ---
-title: How You Can Get Involved in the Circular Economy
+title: How to Benefit from An Ethical Angle
 date: 2016-07-18 14:07:00 Z
 categories:
 - branching-out
