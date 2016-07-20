@@ -13,6 +13,8 @@ hero-quote: I think about the different groups of customers we have and try to c
   them, which makes me focus my buying.
 hero-cite: Anne Wright
 length: Four minute read
+is-top: true
+top-image: "/uploads/gs-rom-recession-to-success-young-ideas-940f87.jpg"
 ---
 
 
