@@ -2,7 +2,7 @@
 title: About
 position: 0
 image: "/uploads/about.jpg"
-shape: "/uploads/about_layer.svg"
+shape: "/uploads/about-layer.svg"
 header: Welcome to Inside Retail
 subheader: |-
   The online destination for independent retailers.
