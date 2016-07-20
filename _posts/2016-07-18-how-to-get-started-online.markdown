@@ -11,6 +11,8 @@ hero-image: "/uploads/gs-how-to-get-started-online-Martin-Newman.jpg"
 hero-quote: There’s not always a need to reinvent the wheel.
 hero-cite: Martin Newman
 length: 2 minute read
+is-top: true
+top-image: "/uploads/gs-how-to-get-started-online-martin-newman-top.jpg"
 ---
 
 
