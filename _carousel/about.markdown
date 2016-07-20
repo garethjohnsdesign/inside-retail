@@ -1,7 +1,7 @@
 ---
 title: About
 position: 0
-image: "/uploads/about.svg"
+image: "/uploads/about.jpg"
 shape: 
 header: Welcome to Inside Retail
 subheader: |-
