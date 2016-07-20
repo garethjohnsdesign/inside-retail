@@ -11,6 +11,8 @@ hero-image: "/uploads/ft-on-being-a-better-independent-retailer.jpg"
 hero-quote: Any shopper passing a store has to be given a reason to enter it.
 hero-cite: John Ryan
 length: Three minute read
+is-top: true
+top-image: "/uploads/ft-on-being-a-better-independent-retailer-top.jpg"
 ---
 
 How do you turn your store into a magnet for customers? Retail journalist John Ryan sets out the five unbreakable rules. 
