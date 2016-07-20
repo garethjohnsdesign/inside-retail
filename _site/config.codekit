@@ -734,6 +734,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/assets\/css\/app.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/assets\/icons\/android-chrome-192x192.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1659,6 +1668,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/how-to-maximize-supplier-relationship-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88495,
+		"inputAbbreviatedPath": "\/_site\/uploads\/how-to-maximize-supplier-relationship-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/how-to-maximize-supplier-relationship-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/how-to-maximize-supplier-relationship.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1912,6 +1932,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/why-its-time-to-diversify-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78265,
+		"inputAbbreviatedPath": "\/_site\/uploads\/why-its-time-to-diversify-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/why-its-time-to-diversify-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/why-its-time-to-diversify.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1952,6 +1983,17 @@
 		"initialSize": 12266,
 		"inputAbbreviatedPath": "\/_site\/uploads\/you-must-deliver-newness-and-surprise.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/you-must-deliver-newness-and-surprise.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/you-must-deliver-newness-and-surprise_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80169,
+		"inputAbbreviatedPath": "\/_site\/uploads\/you-must-deliver-newness-and-surprise_2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/you-must-deliver-newness-and-surprise_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2451,6 +2493,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/how-to-maximize-supplier-relationship-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88495,
+		"inputAbbreviatedPath": "\/_uploads\/how-to-maximize-supplier-relationship-2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/how-to-maximize-supplier-relationship-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/how-to-maximize-supplier-relationship.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2704,6 +2757,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/why-its-time-to-diversify-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78265,
+		"inputAbbreviatedPath": "\/_uploads\/why-its-time-to-diversify-2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/why-its-time-to-diversify-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/why-its-time-to-diversify.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2744,6 +2808,17 @@
 		"initialSize": 12266,
 		"inputAbbreviatedPath": "\/_uploads\/you-must-deliver-newness-and-surprise.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/you-must-deliver-newness-and-surprise.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/you-must-deliver-newness-and-surprise_2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80169,
+		"inputAbbreviatedPath": "\/_uploads\/you-must-deliver-newness-and-surprise_2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/you-must-deliver-newness-and-surprise_2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
