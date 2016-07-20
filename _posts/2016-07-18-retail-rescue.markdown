@@ -12,6 +12,8 @@ hero-quote: Good businesses don’t become successful by accident. A motivated s
   is the best asset you can have.
 hero-cite: Alan Hawkins
 length: Five minute read 
+is-top: true
+top-image: "/uploads/ft-bira-top.jpg"
 ---
 
 
