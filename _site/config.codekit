@@ -734,15 +734,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/assets\/css\/app.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/assets\/css\/app.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/assets\/icons\/android-chrome-192x192.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1216,6 +1207,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/uploads\/about.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44903,
+		"inputAbbreviatedPath": "\/_site\/uploads\/about.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/about.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/_site\/uploads\/adventures-of-a-menswear.jpg": {
 		"fileType": 16384,
@@ -1994,6 +1996,17 @@
 		"initialSize": 52119,
 		"inputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/ bo-the-relationship.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/about.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44903,
+		"inputAbbreviatedPath": "\/_uploads\/about.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/about.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
