@@ -6,6 +6,7 @@ categories:
 tags:
 - inspiration
 excerpt-image: "/uploads/geoff-quinn.jpg"
+excerpt-text: From a CEO who has grown a brand from one London store to 160 globally.
 hero-video: oWspyZPD-eY
 hero-image: "/uploads/geoff-quinn.jpg"
 hero-quote: If the staff are trained with some basic styling skills, they get more
