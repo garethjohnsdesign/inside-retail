@@ -5,9 +5,9 @@ categories:
 - getting-started
 tags:
 - in-store
-excerpt-image: "/uploads/gs-small-and-local.jpg"
+excerpt-image: "/uploads/gs-small-and-local-2.jpg"
 excerpt-text: A 20-point checklist for indie retail success
-hero-image: "/uploads/gs-small-and-local.jpg"
+hero-image: "/uploads/gs-small-and-local-2.jpg"
 hero-quote: Remember - you can never be too local when fighting for customers!
 hero-cite: Martin Butler
 length: Four minute read
