@@ -257,6 +257,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/events.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/events.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1050,6 +1059,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/events.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/events.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/events\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/events\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/fine-tuning\/ecommerce\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1324,6 +1351,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/autumn-fair.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 126720,
+		"inputAbbreviatedPath": "\/_site\/uploads\/autumn-fair.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/autumn-fair.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1434,35 +1472,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/uploads\/fine-tuning-614eb7.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 269481,
-		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tuning-614eb7.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tuning-614eb7.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/uploads\/fine-tuning.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 132218,
+		"initialSize": 269481,
 		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tuning.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/uploads\/fine-tunings.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 123183,
-		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tunings.jpg",
-		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tunings.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1562,6 +1578,17 @@
 		"initialSize": 41422,
 		"inputAbbreviatedPath": "\/_site\/uploads\/give-your-social-media-marketing-a-boost.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/give-your-social-media-marketing-a-boost.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/glee.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30429,
+		"inputAbbreviatedPath": "\/_site\/uploads\/glee.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/glee.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1885,6 +1912,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/jewellery-and-watch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21669,
+		"inputAbbreviatedPath": "\/_site\/uploads\/jewellery-and-watch.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/jewellery-and-watch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/lessons-from-mountain-warehouse.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1962,6 +2000,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/pure-london.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48793,
+		"inputAbbreviatedPath": "\/_site\/uploads\/pure-london.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/pure-london.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/report1-ime-to-change-buying-habits-comment.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2035,6 +2084,17 @@
 		"initialSize": 94799,
 		"inputAbbreviatedPath": "\/_site\/uploads\/shackleton.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/shackleton.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/spring-fair.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21104,
+		"inputAbbreviatedPath": "\/_site\/uploads\/spring-fair.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/spring-fair.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2314,6 +2374,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/autumn-fair.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 126720,
+		"inputAbbreviatedPath": "\/_uploads\/autumn-fair.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/autumn-fair.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2424,35 +2495,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_uploads\/fine-tuning-614eb7.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 269481,
-		"inputAbbreviatedPath": "\/_uploads\/fine-tuning-614eb7.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/fine-tuning-614eb7.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_uploads\/fine-tuning.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 132218,
+		"initialSize": 269481,
 		"inputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/fine-tuning.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_uploads\/fine-tunings.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 123183,
-		"inputAbbreviatedPath": "\/_uploads\/fine-tunings.jpg",
-		"outputAbbreviatedPath": "\/_uploads\/fine-tunings.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2552,6 +2601,17 @@
 		"initialSize": 41422,
 		"inputAbbreviatedPath": "\/_uploads\/give-your-social-media-marketing-a-boost.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/give-your-social-media-marketing-a-boost.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/glee.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30429,
+		"inputAbbreviatedPath": "\/_uploads\/glee.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/glee.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2875,6 +2935,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/jewellery-and-watch.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21669,
+		"inputAbbreviatedPath": "\/_uploads\/jewellery-and-watch.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/jewellery-and-watch.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/lessons-from-mountain-warehouse.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2952,6 +3023,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/pure-london.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48793,
+		"inputAbbreviatedPath": "\/_uploads\/pure-london.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/pure-london.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/report1-ime-to-change-buying-habits-comment.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3025,6 +3107,17 @@
 		"initialSize": 94799,
 		"inputAbbreviatedPath": "\/_uploads\/shackleton.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/shackleton.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/spring-fair.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21104,
+		"inputAbbreviatedPath": "\/_uploads\/spring-fair.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/spring-fair.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8057,6 +8150,36 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/events.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/events.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/events.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/events.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/events.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
 		},
 	"\/index.md": {
 		"criticStyle": 0,

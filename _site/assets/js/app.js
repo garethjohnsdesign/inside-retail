@@ -27,3 +27,16 @@ if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && lo
   }
 }
 });
+
+function subscribe() {
+
+if (document.getElementById("form-callout").style.height == "0px" || document.getElementById("form-callout").style.height == "") {
+document.getElementById("form-callout").style.height= "auto";
+document.getElementById("form-callout").style.padding= "20px";
+}
+
+else {
+document.getElementById("form-callout").style.height= "0px";
+document.getElementById("form-callout").style.padding= "0px";
+}
+}
