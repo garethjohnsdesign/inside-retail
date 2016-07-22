@@ -2,7 +2,7 @@
 title: Don’t Just Sell to Your Customers, Style Them
 date: 2016-07-21 16:01:00 Z
 categories:
-- branching-out
+- fine-tuning
 tags:
 - marketing
 excerpt-image: "/uploads/style-them.jpg"
