@@ -2,7 +2,7 @@
 title: Go International as Quickly as Possible
 date: 2016-07-18 14:53:00 Z
 categories:
-- branching-out
+- fine-tuning
 tags:
 - inspiration
 excerpt-image: "/uploads/william-kim.jpg"
