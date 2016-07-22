@@ -8,12 +8,12 @@ collections:
   carousel:
     title: Carousel
     output: false
-  events:
-    title: Events
-    output: false
   blog_categories:
     title: Categories
     output: true
+  events:
+    title: Events
+    output: false
   posts:
     title: Posts
     output: true
