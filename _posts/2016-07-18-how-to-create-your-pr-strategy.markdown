@@ -15,7 +15,9 @@ is-top: true
 top-image: "/uploads/how-to-create-your-pr-strategy-top.jpg"
 ---
 
-Kevin Read is the executive chairman of Bell Pottinger Corporate, Brand and Digital. He’s one of the UK’s top PR experts and here he reveals the secrets of successful communications – and how your business can use them, whatever its size.   **1** “There is no single answer to how to ensure, you, your business and your products and services become better known, trialled and trusted. But, there are a number of core PR and social media approaches that can be adopted on a modest basis and pursued with enthusiasm and focus.”
+Kevin Read is the executive chairman of Bell Pottinger Corporate, Brand and Digital. He’s one of the UK’s top PR experts and here he reveals the secrets of successful communications – and how your business can use them, whatever its size.
+
+  **1** “There is no single answer to how to ensure, you, your business and your products and services become better known, trialled and trusted. But, there are a number of core PR and social media approaches that can be adopted on a modest basis and pursued with enthusiasm and focus.”
 
 **2** “Before devising your plan of action you must be clear about your market. You need to understand the profiles of the customers you want to appeal to, and ideally the media they consume and the social media they use.”
 
