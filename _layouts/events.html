@@ -33,7 +33,9 @@ layout: default
 	<div class="small-12 medium-5 columns">
 		<h1>{{event.title}}</h1>
 		<p>{{event.period}}, {{event.location}}</p>
+		{% if event.has-content %}
 		<p>Don't Miss</p>
+		{% endif %}
 		{{event.content}}
 		<a href="{{event.link}}" class="button">Find Out More</a>
 	</div>

@@ -5,6 +5,7 @@ location: Olympia London
 period: 24 - 26 July 2016
 link: http://www.purelondon.com
 image: "/uploads/pure-london.jpg"
+has-content: true
 ---
 
 [Using in-store technology to move your business forward – Interview with Vend and Number Six](http://www.purelondon.com/seminar/Using-in-store-technology-to-move-your-business-forward)

@@ -5,6 +5,7 @@ location: NEC Birmingham
 period: 4-7 September 2016
 link: http://www.autumnfair.com
 image: "/uploads/autumn-fair.jpg"
+has-content: true
 ---
 
 [From bricks & mortar to ecommerce: embracing omni-channel retail to take your business further – Lisa Cooney, One World Trading Company](http://www.autumnfair.com/page.cfm/action=seminar/libID=1/libEntryID=3/listID=1)
