@@ -3,10 +3,16 @@ title: About
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Aenean lacinia bibendum nulla sed consectetur. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Inside Retail is designed to deliver insight and inspiration to the UK’s brilliant retail sector and its thousands of independent businesses.
 
-Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Donec sed odio dui. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+We know that starting, running and growing a retail business are all daunting tasks, and ones that have never been more complicated. That’s why this website is here - to help you with the knowledge, insight and confidence you need to succeed.
 
-Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui. Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Explore the site and you will find articles and analysis from retail experts, industry leaders and thought pioneers. We aim to bring you the resources, ideas, examples and tips you need to make your business decisions easier.
 
-Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+So whether you are running an established business, thinking of starting one up, or simply working in retail, this is the place for you.
+
+Inside Retail is powered by Ascential Events, the organisers of retail trade shows Pure London, Spring Fair, Autumn Fair, Jewellery and Watch and Glee.
+
+Want to partner with us and bring more great content to the indie retailer community? We’d love to hear from you.
+
+Email us: [insideretail@ascential.com](mailto://insideretail@ascential.com)
