@@ -1,4 +1,7 @@
 header:
+- title: About
+  url: /about/
+  color: black
 - title: Getting Started
   url: /getting-started/
   color: teal
@@ -11,9 +14,6 @@ header:
 - title: Fine-tuning
   url: /fine-tuning/
   color: purple
-- title: About
-  url: /about/
-  color: black
 - title: Events
   url: /events/
   color: black
