@@ -73,7 +73,7 @@ Here, along with NHJ style and training director Isobel Kershaw, she gives us he
 
  “That way you will make more sales, and remember to buy colour. People say their customers do not want to buy colour. Well, that’s because you’re not buying it properly. And it stands out more and people talk.”
 
-### 15 Create energy and movement in store
+### 15 Create energy and movement in store 
 
  “No-one will go into a shop when there’s no one in there. Encourage your staff to look a bit like they’re customers, maybe even trying things on. And put the music on. Just not too loud.” 
 
