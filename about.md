@@ -15,4 +15,4 @@ Inside Retail is powered by Ascential Events, the organisers of retail trade sho
 
 Want to partner with us and bring more great content to the indie retailer community? We’d love to hear from you.
 
-Email us: [insideretail@ascential.com](mailto://insideretail@ascential.com)
+Email us: [insideretail@ascential.com](mailto:insideretail@ascential.com)
