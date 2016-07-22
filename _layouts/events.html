@@ -30,10 +30,10 @@ layout: default
 	<div class="small-12 medium-7 columns">
 		<img class="event__image" src="{{event.image}}" alt="{{page.title}}" />
 	</div>
-	<div class="small-12 small-5 columns">
+	<div class="small-12 medium-5 columns">
 		<h1>{{event.title}}</h1>
 		<p>{{event.period}}, {{event.location}}</p>
-		<a href="about.html" class="button">Find Out More</a>
+		<a href="{{event.link}}" class="button">Find Out More</a>
 	</div>
 </div>
 {% endfor %}
