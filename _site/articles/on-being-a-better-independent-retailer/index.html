@@ -343,7 +343,7 @@
   </div>
   <div class="top-bar-right hide-for-small-only">
     <ul class="menu align-right">
-	  <li><a data-toggle="form-callout"><span class="show-for-large">Subscribe</span><span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
+	  <li><a href="#subscribe__bottom"><span class="show-for-large">Subscribe</span><span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg></span></a></li>
       <li class="menu-text"><a href="javascript:void(0)" onclick="superSearch.toggle()"><svg class="icon icon-search3"><use xlink:href="#icon-search3"></use></svg></a></li>
     </ul>
   </div>
@@ -676,21 +676,25 @@ Any shopper passing a store has to be given a reason to enter it.
 
 
 <!-- Subscribe -->
-<div class="row expanded subscribe">
+<div class="row expanded subscribe" id="subscribe__bottom">
 <div class="small-12 columns text-center">
-<h5>Subscribe</h5>
-<div class="align-middle"><svg class="icon icon-envelop2"><use xlink:href="#icon-envelop2"></use></svg> Get our newsletter</div>
+<h5><svg class="icon icon-envelop2" style="top: -2px; position: relative;"><use xlink:href="#icon-envelop2"></use></svg> Subscribe</h5>
+<div class="align-middle">
 
-<form class="subscribe__form" action="//garethjohnsdesign.us2.list-manage.com/subscribe/post?u=e039fb7155e1e79ced51e3aff&amp;id=2832c68920" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-<div class="row">
-	<div class="medium-12 columns">
-		<ul class="menu align-center">
-		    <li><input type="email" value="" name="EMAIL" placeholder="Email Address" class="text-center"></li>
-		    <li><button type="submit" value="Subscribe" name="subscribe" class="subscribe__button button secondary hollow">Sign Up</button></li>
-		</ul>   
-	</div>
+<script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
+<script>
+MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 5010, function (form){
+  form.onSuccess(function(values, followUpUrl){
+   form.getFormElem().hide();
+   document.getElementById('confirmformbottom').style.display = 'block';
+   return false;
+ });
+});
+</script>
+
+<div id="confirmformbottom" style="display:none;">Thank you for subscribing. Look out for our email newsletter coming to you soon.</div>
+<form id="mktoForm_5010" novalidate="novalidate" class="mktoForm mktoHasWidth mktoLayoutLeft" style="font-family: Helvetica, Arial, sans-serif; font-size: 13px; color: rgb(51, 51, 51); width: 293px;">
 </div>
-</form>
 </div>
 </div>
 <!-- End Subscribe -->
