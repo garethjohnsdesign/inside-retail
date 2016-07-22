@@ -67,15 +67,15 @@ Here, along with NHJ style and training director Isobel Kershaw, she gives us he
 
 “I’ve heard pushy shop assistants saying ‘that looks amazing you’ve got to buy it’ and the customer comes out and is busting out. You can get customers to buy things that don’t really work but they’ll never wear it and be less likely to come back.”
 
-13 Give your staff confidence
+### 13 Give your staff confidence
 
 “If the staff are trained with some basic styling skills, they get more confidence to engage with the customer and say let me get you a size down or that shape’s not working. They’re still going to make a sale and the customer is going to come back for more.”
 
-14 Buy with complete outfits in mind
+### 14 Buy with complete outfits in mind
 
 “That way you will make more sales, and remember to buy colour. People say their customers do not want to buy colour. Well, that’s because you’re not buying it properly. And it stands out more and people talk.”
 
-15 Create energy and movement in store
+### 15 Create energy and movement in store
 
 “No-one will go into a shop when there’s no one in there. Encourage your staff to look a bit like they’re customers, maybe even trying things on. And put the music on. Just not too loud.”
 
