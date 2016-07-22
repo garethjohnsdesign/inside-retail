@@ -1,5 +1,5 @@
 ---
-title: How to Create Your Pr Strategy
+title: How to Create Your PR Strategy
 date: 2016-07-18 15:54:00 Z
 categories:
 - getting-started
