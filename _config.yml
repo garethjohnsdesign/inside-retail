@@ -8,6 +8,9 @@ collections:
   carousel:
     title: Carousel
     output: false
+  events:
+    title: Events
+    output: false
   blog_categories:
     title: Categories
     output: true
