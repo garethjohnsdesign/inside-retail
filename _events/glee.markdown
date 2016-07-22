@@ -1,5 +1,6 @@
 ---
 title: Glee
+position: 2
 location: NEC Birmingham
 period: 12–14 September 2016
 link: http://www.gleebirmingham.com
