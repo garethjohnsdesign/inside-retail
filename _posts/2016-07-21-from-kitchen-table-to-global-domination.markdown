@@ -2,7 +2,7 @@
 title: From Kitchen Table to Global Domination
 date: 2016-07-21 15:58:00 Z
 categories:
-- getting-started
+- up-and-running
 tags:
 - marketing
 excerpt-image: "/uploads/from-kitchen-table.jpg"
