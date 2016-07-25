@@ -59,7 +59,7 @@ defaults:
     type: blog_categories
   values:
     layout: category
-url: http://inside-retail.garethjohnsdesign.com
+url: http://insideretail.com
 permalink: pretty
 gems:
 - jekyll-seo-tag
