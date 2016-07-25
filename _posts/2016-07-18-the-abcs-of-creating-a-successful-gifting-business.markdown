@@ -7,7 +7,7 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg"
 excerpt-text: 'The Letteroom: From personalisation to partnership '
-hero-video: https://youtu.be/yMl-JsHJ1ZQ
+hero-video: yMl-JsHJ1ZQ
 hero-image: "/uploads/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg"
 hero-quote: We are now nimble enough as a company to work close to the market as well
   as plan ahead.
