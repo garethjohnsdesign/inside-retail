@@ -20,7 +20,7 @@ Geoff Quinn is CEO of TMLewin, the Jermyn Street shirt retailer founded in 1898.
 
  We’ve gone from £179,000 turnover to £110m. It’s taken 35 years.
 
-  ### 2 You need a clear idea
+### 2 You need a clear idea
 
  Ours was to sell lovely quality Jermyn Street shirts at great prices.
 
