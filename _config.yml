@@ -70,9 +70,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus,
-  porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur
-  ac, vestibulum at eros. Nullam id dolor id nibh ultricies vehicula ut id elit.
+description: The online destination for independent retailers. Whether you sell on the high street or online, are just getting started or tweaking the dream, you can find stories, tips, interviews and inspiration to help accelerate the growth of your business.
 domain: http://insideretail.com
 company: i2i Events Group
 email: insideretail@ascential.com
