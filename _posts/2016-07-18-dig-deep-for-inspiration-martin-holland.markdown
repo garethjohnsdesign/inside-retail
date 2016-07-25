@@ -8,7 +8,7 @@ tags:
 excerpt-image: "/uploads/Martin-Holland-1.jpg"
 excerpt-text: 'Shop redesign: advice from the winner of the Great Interior Design
   Challenge'
-hero-video: wM6lp2zelj4
+hero-video: 47z15nvXVnY
 length: '30 seconds '
 ---
 
