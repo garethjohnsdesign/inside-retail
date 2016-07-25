@@ -7,6 +7,7 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg"
 excerpt-text: 'The Letteroom: From personalisation to partnership '
+hero-video: https://youtu.be/yMl-JsHJ1ZQ
 hero-image: "/uploads/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg"
 hero-quote: We are now nimble enough as a company to work close to the market as well
   as plan ahead.
@@ -67,4 +68,3 @@ Both Jackson and Mead are also adamant that not going it alone has given them th
 “[Having a business partner] gives you a sounding board and if have an off day, you know someone else is there. It would be lonely on your own, it’s a warm feeling and it’s important,” says Jackson. 
 
 Mead agrees: “I’d recommend a business partner to anybody. We’re very different and alike at the same time. It shouldn’t all be serious either, there should be fun.” 
-
