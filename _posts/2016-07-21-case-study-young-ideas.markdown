@@ -5,11 +5,12 @@ categories:
 - getting-started
 tags:
 - inspiration
-excerpt-image: "/uploads/young-ideas.jpg"
+excerpt-image: "/uploads/Young-Ideas-Ashbourne-store-excerpt-and-hero.jpg"
 excerpt-text: Uncertain economy? Society in turmoil? You can still start a business.
-hero-image: "/uploads/young-ideas.jpg"
+hero-image: "/uploads/Young-Ideas-Ashbourne-store-excerpt-and-hero.jpg"
 hero-quote: The recession also brought opportunities.
 length: 90 second read
+top-image: "/uploads/Young-Ideas-Ashbourne-top%20image.jpg"
 ---
 
 If you think that the recent strains of political, economic and social upheaval are reason enough to put off that stellar business plan, think again. 
