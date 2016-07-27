@@ -1,5 +1,6 @@
 ---
 title: Pure London
+published: false
 position: 0
 location: Olympia London
 period: 24 - 26 July 2016
