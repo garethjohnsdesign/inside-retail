@@ -2275,6 +2275,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/Young-Ideas-Ashbourne-store-excerpt-and-hero.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 153974,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Young-Ideas-Ashbourne-store-excerpt-and-hero.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Young-Ideas-Ashbourne-store-excerpt-and-hero.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/Young-Ideas-Ashbourne-top image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124303,
+		"inputAbbreviatedPath": "\/_site\/uploads\/Young-Ideas-Ashbourne-top image.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/Young-Ideas-Ashbourne-top image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/young-ideas.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
