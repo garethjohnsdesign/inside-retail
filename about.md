@@ -13,6 +13,9 @@ So whether you are running an established business, thinking of starting one up,
 
 Inside Retail is powered by Ascential Events, the organisers of retail trade shows Pure London, Spring Fair, Autumn Fair, Jewellery and Watch and Glee.
 
-Want to partner with us and bring more great content to the indie retailer community? We’d love to hear from you.
+Want to partner with us and bring more great content to the indie retailer community? Or maybe you'd like to collaborate with us to build your lead generation and engagement campaigns? 
+We’d love to hear from you.
+Download our brochure for more information or contact us via the email below. 
+
 
 Email us: [insideretail@ascential.com](mailto:insideretail@ascential.com)
