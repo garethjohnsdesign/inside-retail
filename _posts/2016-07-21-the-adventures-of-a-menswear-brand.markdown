@@ -14,7 +14,7 @@ hero-cite: Simon Middleton
 length: Six minute read
 ---
 
-Menswear brand Shackleton began life as a banjo manufacturer before almost accidentally moving into fashion. Here, Insider Retail speaks to founder Simon Middleton about this unusual journey. We began by asking him to describe the brand: 
+Menswear brand Shackleton began life as a banjo manufacturer before almost accidentally moving into fashion. Here, Inside Retail speaks to founder Simon Middleton about this unusual journey. We began by asking him to describe the brand: 
 Middleton: We make menswear based on and inspired by imagery and the story of Ernest Shackleton, the Antarctic explorer. He's our inspiration and his granddaughter is part owner of the business. 
 In clothing we started with knitwear that replicates the types of sweaters worn by Shackleton, before moving into outerwear, boots, and accessories – everything from socks to hats to gloves. 
 We sell direct-to-consumers through Shackletoncompany.com and are also building a trade stockist base in some really interesting places, such as the Natural History Museum, in The Bike Shed Motorcycle Club and some more conventional boutiques. 
@@ -48,5 +48,6 @@ At the moment everything is made here but there may come a time in the next coup
 Making everything in Britain is part of our story and we have a very short chain. In knitwear I can tell you which company produced the certified yarn and they will know which wool grower it came from, so it’s farmer to the consumer in just five or six steps. 
 Making in Britain has challenges as well as virtues. I can speak directly and easily to the people making our product, and minimums are lower. I can produce 50 sweaters, or even fewer. Turnaround is faster, samples can come in the post the next day. Design meetings are much easier in the Midlands and in Scotland. 
 That's an enormous advantage, but it comes at a cost. People get paid higher wages. There's a much higher actual cost per unit but there are other advantages. For the moment it works well for us. 
+
 ### What are your future plans for the business?
 Over the next 12 months we want to double our range of outerwear and knitwear and retailers. We’ll also expand the range and take more stories about Shackleton and similar people to develop that. In five years my ambition is to have built an internationally recognised luxury menswear brand. That's a big ambition. 
