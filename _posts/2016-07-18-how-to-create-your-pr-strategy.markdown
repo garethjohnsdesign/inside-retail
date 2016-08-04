@@ -12,7 +12,7 @@ hero-quote: You need to find ways for influencers, critics and followers of fash
   to try your products.
 length: One minute read
 is-top: true
-is-top-position: 2
+top-position: 4
 top-image: "/uploads/how-to-create-your-pr-strategy-top.jpg"
 ---
 

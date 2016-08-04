@@ -14,7 +14,7 @@ hero-quote: I think about the different groups of customers we have and try to c
 hero-cite: Anne Wright
 length: Four minute read
 is-top: true
-is-top-position: 4
+top-position: 6
 top-image: "/uploads/gs-rom-recession-to-success-young-ideas-top.jpg"
 ---
 
@@ -42,7 +42,8 @@ A key lesson is that you have to completely immerse yourself in the business to 
 
 It is absolutely essential to know your customers if you are going to survive as an independent retailer.
 
-The recession also brought with it opportunities. In 2011, we opened a new store in Derby city centre in a good location and  low overhead, and we were beginning to feel confident about the brand portfolio.
+The recession also brought with it opportunities. In 2011, we opened a new store in Derby city centre in a good location and 
+low overhead, and we were beginning to feel confident about the brand portfolio.
 
 Our next big move was forced upon us when we tried and failed buy the freehold for the original shop in Ashbourne. We knew the lease was near the end of its life when we bought the business in 2008. When the landlord wouldn’t negotiate we started looking at other options.
 
@@ -67,10 +68,12 @@ If you are responsible for the buying, then this is even more essential. It is t
 Your customers may not always buy from your site, but they will go to it for information and to see what products are new in store.
 
 ### 4 Buy for your customers and not yourself
- I think about the different groups of customers we have and try to categorise them which makes me focus my buying.
+
+I think about the different groups of customers we have and try to categorise them which makes me focus my buying.
  
 ### 5 Invest in a good retail management system
- It is essential to know what you have in stock and what you have sold. Cash flow and understanding cash flow is probably the biggest single lesson that every small retailer has to learn.
+
+It is essential to know what you have in stock and what you have sold. Cash flow and understanding cash flow is probably the biggest single lesson that every small retailer has to learn.
 
 ### 6 Create excitement
 

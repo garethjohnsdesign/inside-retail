@@ -5,6 +5,13 @@
 <div class="excerpt__image__top">
 <img src="{{post.top-image}}" alt="{{post.title}}" />
 
+{% if post.is-partner %}
+<div class="excerpt__sponsored">
+Partner
+</div>
+{% endif %}
+
+
 <div class="excerpt__image__top__number__background">
 </div>
 

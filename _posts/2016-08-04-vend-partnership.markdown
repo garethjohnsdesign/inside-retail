@@ -13,7 +13,7 @@ hero-quote:
 length: 
 top-image: "/uploads/vend-partnership-top.jpg"
 is-top: true
-is-top-position: 0
+top-position: 1
 is-partner: true
 ---
 
