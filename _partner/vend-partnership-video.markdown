@@ -15,10 +15,5 @@ top-image:
 is-top: 
 is-partner: 
 layout: partner
-<<<<<<< HEAD
 noindex: true
 ---
-=======
----
-
->>>>>>> origin/master
