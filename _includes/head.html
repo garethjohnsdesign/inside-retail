@@ -7,6 +7,10 @@
 {% seo title=false %}
 <title>{{ page.title }}{% if page.url != '/' %} - {{ site.title }}{% endif %}</title>
 
+{% if page.noindex %}
+ 	<meta name="robots" content="noindex" />
+ {% endif %}
+
 <!-- Icons -->
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" href="/assets/icons/favicon-32x32.png" sizes="32x32">

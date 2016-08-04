@@ -15,4 +15,5 @@ top-image:
 is-top:
 is-partner:
 layout: partner
+noindex: true
 ---
