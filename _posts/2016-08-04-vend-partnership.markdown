@@ -26,7 +26,7 @@ MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 4966, function(form)
     //Add an onSuccess handler
     form.onSuccess(function(values, followUpUrl) {
         // Take the lead to a different page on successful submit, ignoring the form's configured followUpUrl
-        location.href = "https://5773d42c0bf79d1b9f598394.preview.siteleaf.com/partner/vend-partnership-video";
+        location.href = "http://insideretail.com/articles/vend-partnership/";
         // Return false to prevent the submission handler continuing with its own processing
         return false;
     });
