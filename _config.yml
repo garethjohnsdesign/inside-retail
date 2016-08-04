@@ -41,8 +41,8 @@ defaults:
     hero-quote: 
     hero-cite: 
     length: 
-    is-top:
-    top-position:
+    is-top: 
+    top-position: 
     top-image: 
     is-partner: 
 - scope:
