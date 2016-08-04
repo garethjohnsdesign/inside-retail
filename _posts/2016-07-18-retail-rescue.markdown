@@ -17,7 +17,6 @@ is-top-position: 2
 top-image: "/uploads/ft-bira-top.jpg"
 ---
 
-
 What do you do if you think your business isn’t performing or expanding quite as you’d like? Alan Hawkins, CEO of British Independent Retailers Association (BIRAƒ) provides some useful advice and support. 
 
 ### STEP ONE, STEP BACK

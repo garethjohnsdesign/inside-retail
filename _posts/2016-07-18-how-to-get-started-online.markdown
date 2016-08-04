@@ -16,7 +16,6 @@ is-top-position: 1
 top-image: "/uploads/gs-how-to-get-started-online-martin-newman-top.jpg"
 ---
 
-
 Retail expert Martin Newman of Practicology answers your starter questions. 
 
 ### 1 What’s my starting point?
