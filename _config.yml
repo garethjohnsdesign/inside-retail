@@ -17,6 +17,9 @@ collections:
   posts:
     title: Posts
     output: true
+  partner:
+    title: Partner
+    output: true
   blog_tags:
     title: Tags
     output: true
@@ -38,8 +41,9 @@ defaults:
     hero-quote: 
     hero-cite: 
     length: 
-    is-top: 
-    top-image: 
+    is-top:
+    top-image:
+    is-partner:
 - scope:
     path: ''
     type: annoucement

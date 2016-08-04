@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://insideretail.com/articles/vend-partnership/</loc>
+<lastmod>2016-08-04T12:21:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://insideretail.com/articles/case-study-young-ideas/</loc>
 <lastmod>2016-07-21T16:21:00+00:00</lastmod>
 </url>
@@ -281,6 +285,9 @@
 <loc>http://insideretail.com/getting-started/</loc>
 </url>
 <url>
+<loc>http://insideretail.com/up-and-running/</loc>
+</url>
+<url>
 <loc>http://insideretail.com/up-and-running/ecommerce/</loc>
 </url>
 <url>
@@ -306,6 +313,9 @@
 </url>
 <url>
 <loc>http://insideretail.com/marketing/</loc>
+</url>
+<url>
+<loc>http://insideretail.com/partner/vend-partnership-video/</loc>
 </url>
 <url>
 <loc>http://insideretail.com/events.html</loc>
