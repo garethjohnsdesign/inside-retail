@@ -7,13 +7,9 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/vend-partnership.jpg"
 excerpt-text: How to use customer and sales info to grow your business
-hero-video: 
-hero-image: 
-hero-quote: 
-length: 
-top-image: "/uploads/vend-partnership-top.jpg"
 is-top: true
 top-position: 1
+top-image: "/uploads/vend-partnership-top.jpg"
 is-partner: true
 ---
 
@@ -30,7 +26,7 @@ MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 4966, function(form)
     //Add an onSuccess handler
     form.onSuccess(function(values, followUpUrl) {
         // Take the lead to a different page on successful submit, ignoring the form's configured followUpUrl
-        location.href = "http://gareths-studio-imac.local:5757/articles/vend-partnership/";
+        location.href = "https://5773d42c0bf79d1b9f598394.preview.siteleaf.com/partner/vend-partnership-video";
         // Return false to prevent the submission handler continuing with its own processing
         return false;
     });
