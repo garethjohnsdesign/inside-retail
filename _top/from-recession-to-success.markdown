@@ -17,7 +17,6 @@ is-top: true
 top-image: "/uploads/gs-rom-recession-to-success-young-ideas-top.jpg"
 ---
 
-
 After nearly 25 years in the food industry Anne Wright followed her passion for fashion and took over an ailing indie fashion retailing business in her home town.
 
 Just then, the recession hit... 

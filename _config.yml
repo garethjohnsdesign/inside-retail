@@ -11,21 +11,21 @@ collections:
   blog_categories:
     title: Categories
     output: true
-  top:
-    title: Top
-    output: false
   events:
     title: Events
     output: false
-  posts:
-    title: Posts
-    output: true
   partner:
     title: Partner
+    output: true
+  posts:
+    title: Posts
     output: true
   blog_tags:
     title: Tags
     output: true
+  top:
+    title: Top
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -44,9 +44,9 @@ defaults:
     hero-quote: 
     hero-cite: 
     length: 
-    is-top:
-    top-image:
-    is-partner:
+    is-top: 
+    top-image: 
+    is-partner: 
 - scope:
     path: ''
     type: annoucement
