@@ -1,5 +1,5 @@
 ---
-title: 'Vend Partnership'
+title: Vend Partnership
 date: 2016-08-04 12:21:00 Z
 categories:
 - getting-started
@@ -7,10 +7,10 @@ tags:
 - ecommerce
 excerpt-image: "/uploads/vend-partnership.jpg"
 excerpt-text: How to use customer and sales info to grow your business
-hero-video:
-hero-image:
-hero-quote:
-length:
+hero-video: 
+hero-image: 
+hero-quote: 
+length: 
 top-image: "/uploads/vend-partnership-top.jpg"
 is-top: true
 is-partner: true
