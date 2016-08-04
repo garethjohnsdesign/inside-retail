@@ -23,9 +23,6 @@ collections:
   blog_tags:
     title: Tags
     output: true
-  top:
-    title: Top
-    output: false
   uploads:
     title: Uploads
     output: true

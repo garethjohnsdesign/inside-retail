@@ -12,4 +12,3 @@ is-partner:
 layout: partner
 noindex: true
 ---
-

@@ -12,12 +12,15 @@ hero-quote: You need to find ways for influencers, critics and followers of fash
   to try your products.
 length: One minute read
 is-top: true
+is-top-position: 2
 top-image: "/uploads/how-to-create-your-pr-strategy-top.jpg"
 ---
 
 Kevin Read is the executive chairman of Bell Pottinger Corporate, Brand and Digital. He’s one of the UK’s top PR experts and here he reveals the secrets of successful communications – and how your business can use them, whatever its size.
 
-  **1** “There is no single answer to how to ensure, you, your business and your products and services become better known, trialled and trusted. But, there are a number of core PR and social media approaches that can be adopted on a modest basis and pursued with enthusiasm and focus.”
+
+
+**1** “There is no single answer to how to ensure, you, your business and your products and services become better known, trialled and trusted. But, there are a number of core PR and social media approaches that can be adopted on a modest basis and pursued with enthusiasm and focus.”
 
 **2** “Before devising your plan of action you must be clear about your market. You need to understand the profiles of the customers you want to appeal to, and ideally the media they consume and the social media they use.”
 
@@ -25,7 +28,8 @@ Kevin Read is the executive chairman of Bell Pottinger Corporate, Brand and Digi
 
 **4** “But before you pick–up the phone, post an article or send a tweet you need to think very carefully about your story. You might consider working with a specialist to finalise your story and to package it for the media and the social media world.”
 
-**5** “You need to find ways for influencers, critics and followers of fashion to try your products. Picking-out key individuals, including bloggers, for either free or discounted trails will be important.”
+**5** “You need to find ways for influencers, critics and followers of fashion to try your products. Picking-out key individuals,
+including bloggers, for either free or discounted trails will be important.”
 
 **6** “Securing local or trade media coverage can also provide a perfect platform for encouraging people to discover more about your business, possibly through your website where you might host a time limited offer.”
 
@@ -41,7 +45,8 @@ Kevin Read is the executive chairman of Bell Pottinger Corporate, Brand and Digi
 
 
 • Work out what challenge your business addresses
- 
+
+
 • Be clear about the solution your product or service provides. This is your point of difference
 
 • Highlight the benefits that flow from your offer
@@ -50,4 +55,4 @@ Kevin Read is the executive chairman of Bell Pottinger Corporate, Brand and Digi
 
 • Prepare content for distribution in print and digital forms
 
-• Consider working with a specialist to get your story out 
+• Consider working with a specialist to get your story out

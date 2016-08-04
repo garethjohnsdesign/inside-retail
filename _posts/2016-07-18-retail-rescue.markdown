@@ -13,6 +13,7 @@ hero-quote: Good businesses don’t become successful by accident. A motivated s
 hero-cite: Alan Hawkins
 length: Five minute read 
 is-top: true
+is-top-position: 2
 top-image: "/uploads/ft-bira-top.jpg"
 ---
 

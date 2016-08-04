@@ -14,6 +14,7 @@ hero-quote: I think about the different groups of customers we have and try to c
 hero-cite: Anne Wright
 length: Four minute read
 is-top: true
+is-top-position: 4
 top-image: "/uploads/gs-rom-recession-to-success-young-ideas-top.jpg"
 ---
 
