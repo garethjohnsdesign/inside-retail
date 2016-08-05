@@ -13,9 +13,11 @@ top-image: "/uploads/vend-partnership-top.jpg"
 is-partner: true
 ---
 
-Looking for solutions to help drive your business forward? At Pure London we are dedicated to helping retailers grow.
+### Looking for solutions to help drive your business forward?
 
 Jake Hardy, owner of successful menswear retailer, Number Six, shares how he gathers and uses customer information to offer them exactly what they’ve asked for. Interviewed by Sophy Searight, Content Editor, Pure London, in partnership with Vend and Inside Retail.
+
+Fill out the short form below to watch the video.
 
 <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
 
@@ -32,14 +34,3 @@ MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 4966, function(form)
     });
 });
 </script>
-
-Tune in to hear about and better understand: 
-
-- How to gather information about your customers? 
-- What do you use it for? 
-- What difference does it make to the business? 
-- How do you gather data about your sales? 
-- How does that data affect your decisions? 
-- What contribution does that make towards your business success?
-
-Fill out the short form below to proceed for these video insights.
