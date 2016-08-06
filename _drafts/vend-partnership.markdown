@@ -15,7 +15,7 @@ is-partner: true
 
 ### Looking for solutions to help drive your business forward?
 
-Jake Hardy, owner of successful menswear retailer, Number Six, shares how he gathers and uses customer information to offer them exactly what they’ve asked for. Interviewed by Sophy Searight, Content Editor, Pure London, in partnership with Vend and Inside Retail.
+Jake Hardy, owner of successful menswear retailer, Number Six, shares how he gathers and uses customer information to offer them exactly what they’ve asked for. Interviewed by Sophy Searight, Editor at Inside Retail, in partnership with Vend.
 
 Fill out the short form below to watch the video.
 
