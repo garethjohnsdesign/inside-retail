@@ -4,8 +4,6 @@ date: 2016-08-04 12:21:00 Z
 categories:
 - getting-started
 - up-and-running
-- branching-out
-- fine-tuning
 tags:
 - ecommerce
 - in-store
