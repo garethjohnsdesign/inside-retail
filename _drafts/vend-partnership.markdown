@@ -1,5 +1,5 @@
 ---
-title: Vend Partnership
+title: Video Interview with Number Six & Vend
 date: 2016-08-04 12:21:00 Z
 categories:
 - getting-started
