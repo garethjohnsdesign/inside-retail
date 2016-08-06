@@ -3,8 +3,12 @@ title: Video Interview with Number Six & Vend
 date: 2016-08-04 12:21:00 Z
 categories:
 - getting-started
+- up-and-running
+- branching-out
+- fine-tuning
 tags:
 - ecommerce
+- in-store
 excerpt-image: "/uploads/vend-partnership.jpg"
 excerpt-text: How to use customer and sales info to grow your business
 is-top: true
