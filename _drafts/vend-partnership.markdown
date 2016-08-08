@@ -5,11 +5,12 @@ categories:
 - up-and-running
 tags:
 - in-store
-excerpt-image: "/uploads/vend-partnership.jpg"
+excerpt-image: "/uploads/partner-video-excert.jpg"
 excerpt-text: How to use customer and sales info to grow your business
+hero-image: "/uploads/partner-video.jpg"
 is-top: true
 top-position: 1
-top-image: "/uploads/vend-partnership-top.jpg"
+top-image: "/uploads/partner-video-top.jpg"
 is-partner: true
 ---
 
