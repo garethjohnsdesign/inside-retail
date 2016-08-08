@@ -7,7 +7,7 @@ tags:
 - in-store
 excerpt-image: "/uploads/partner-video-excert.jpg"
 excerpt-text: How to use customer and sales info to grow your business
-hero-image: "/uploads/partner-video.jpg"
+hero-image: "/uploads/partner-video-submit.jpg"
 is-top: true
 top-position: 1
 top-image: "/uploads/partner-video-top.jpg"
