@@ -47,14 +47,17 @@ OR
 Prize 1: A trip to Rome for 2 adults, consisting of:
 Return transport between home and the London airport chosen by the Promoter (total allowance £300).
 Return economy flights from London to Rome on an airline chosen by the Promoter
+
 Private return airport to hotel transfers
 2 nights 5* hotel accommodation (double/twin occupancy) at a hotel chosen by the Promoter with daily breakfast 
 10 course tasting menu at 3 Michelin starred La Pergola 
 Rome Hop-On Hop-Off Sightseeing Tour 
 Comprehensive travel insurance (please see clause 17 for full details) 
 £250 Mastercard Prepaid Card
-Prize 2: 4 x tickets to one of SEA LIFE London Aquarium, The London Dungeon or Madame Tussauds and a £250 Mastercard Prepaid Card. 
-Prize 3: £120 worth of Theatre Tokens and a £250 Mastercard Prepaid Card. 
+
+1. Prize 2: 4 x tickets to one of SEA LIFE London Aquarium, The London Dungeon or Madame Tussauds and a £250 Mastercard Prepaid Card. 
+
+1. Prize 3: £120 worth of Theatre Tokens and a £250 Mastercard Prepaid Card. 
 Transport and accommodation are not included in Prize 2 or Prize 3. All other costs and expenses in taking up the prizes, including but not limited to, spending money as required, are the winners’ and guests’ own. The prizes are as stated and nothing else is included.
 
 1. Winner Notification: The prize draw will take place under the supervision of an independent adjudicator who will randomly select the winners. The winners will be notified by email or phone within 7 days of the Closing Date. Winners will have 14 days from first being contacted to accept the prize by following the instructions provided in the winning notification. Failure to do this will result in the prize being forfeit and the Promoter may at its absolute discretion award the prize to a reserve selected at the same time as the original winner or dispose of the prize at its discretion without liability to the winner. The decision of the Promoter is final. 
