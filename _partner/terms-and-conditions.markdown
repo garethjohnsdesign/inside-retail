@@ -10,19 +10,26 @@ layout: partner
 
 By entering the promotion, entrants will be deemed to be bound by and have accepted these terms and conditions. These Terms and Conditions prevail in the event of any conflict or inconsistency with any other communications, including advertising or promotional materials.
 
-Promoter: Mastercard Europe Services Limited, 10 Upper Bank Street, Canary Wharf, London, E14 5NP
+## Promoter: Mastercard Europe Services Limited, 10 Upper Bank Street, Canary Wharf, London, E14 5NP
 
 ## Eligibility
 
-This prize draw is open to United Kingdom (England, Scotland, Wales and Northern Ireland) residents aged 18 or over who operate as retailers and have downloaded digital or requested physical Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership. This excludes employees and their immediate families of Mastercard, its subsidiaries, other group companies, its agents, or anyone else professionally connected with this prize draw.
-The prize draw will run from 04/09/2016 to 23:59 on 06/10/2016 inclusive (“Promotional Period”).
-Only one entry per employee is permitted during the Promotional Period. Anyone trying to circumvent this rule by using alternative details including but not limited to email accounts, names, telephone numbers or addresses will be disqualified from this promotion. Entries (bulk or otherwise) made from trade, consumer groups or third parties will not be accepted.  If it becomes apparent that a participant is using a computer(s) to circumvent this condition by, for example, the use of ‘script’, ‘brute force’ or any other automated means, that person’s entries will be disqualified and any prize award will be void.
-Entry Requirements
-To enter the prize draw, retailers must:
+1. This prize draw is open to United Kingdom (England, Scotland, Wales and Northern Ireland) residents aged 18 or over who operate as retailers and have downloaded digital or requested physical Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership. This excludes employees and their immediate families of Mastercard, its subsidiaries, other group companies, its agents, or anyone else professionally connected with this prize draw.
+
+1. The prize draw will run from 04/09/2016 to 23:59 on 06/10/2016 inclusive (“Promotional Period”).
+
+1. Only one entry per employee is permitted during the Promotional Period. Anyone trying to circumvent this rule by using alternative details including but not limited to email accounts, names, telephone numbers or addresses will be disqualified from this promotion. Entries (bulk or otherwise) made from trade, consumer groups or third parties will not be accepted.  If it becomes apparent that a participant is using a computer(s) to circumvent this condition by, for example, the use of ‘script’, ‘brute force’ or any other automated means, that person’s entries will be disqualified and any prize award will be void.
+
+## Entry Requirements
+
+1. To enter the prize draw, retailers must:
+
 Download digital Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership AND;
 Display the digital Point of Sale branding on their website AND;
-Take a screen shot of the Point of Sale branding and send it via email with their full name, company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period. 
+Take a screen shot of the Point of Sale branding and send it via email with their full name, company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period.
+
 OR
+
 Request physical Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership AND;
 Display the physical Point of Sale branding in the retail environment AND;
 Take a photograph of the Point of Sale branding and send it via email with their full name, company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period. 
