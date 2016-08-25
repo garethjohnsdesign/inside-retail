@@ -1,7 +1,6 @@
 ---
 title: MasterCard
 date: 2016-08-25 21:28:00 Z
-published: false
 ---
 
 Advice, seminars, masterclasses and tools to support you and your business requirements.
