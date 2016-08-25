@@ -8,6 +8,8 @@ tags:
 excerpt-image: "/uploads/payments-revolution.jpg"
 excerpt-text: A special report on what the digital payments revolution means for independent
   retailers
+hero-image: "/uploads/payments-revolution.jpg"
+is-partner: true
 ---
 
 # Payments Revolution
