@@ -70,8 +70,8 @@ How to enter:
 
 1. Simply download and/or register for free digital or physical POS, display this in your retail environment (either online or instore).
 
-2. Send us a photo or a screenshot that showcases your MasterCard branded digital or physical POS in your retail environment to [MasterCardPOS@biggroup.co.uk](http://www.mastercardpos@biggroup.co.uk)
+1. Send us a photo or a screenshot that showcases your MasterCard branded digital or physical POS in your retail environment to [MasterCardPOS@biggroup.co.uk](http://www.mastercardpos@biggroup.co.uk)
 
-3. Once verified, you will be entered into a prize draw to win one the Priceless experiences available, including tickets to a London Merlin attraction, a night at the theatre, or a XXXX HERO PRIZE XXXXX. 
+1. Once verified, you will be entered into a prize draw to win one the Priceless experiences available, including tickets to a London Merlin attraction, a night at the theatre, or a XXXX HERO PRIZE XXXXX. 
 
 All submissions must be received by 23.59 on the 6th October 2016. 18+ UK only. Please see full T&Cs [INSERT LINK] and the POS T&Cs [INSERT LINK] for more details.
