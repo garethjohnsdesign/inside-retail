@@ -74,4 +74,4 @@ How to enter:
 
 1. Once verified, you will be entered into a prize draw to win one the Priceless experiences available, including tickets to a London Merlin attraction, a night at the theatre, or a XXXX HERO PRIZE XXXXX. 
 
-All submissions must be received by 23.59 on the 6th October 2016. 18+ UK only. Please see full T&Cs [INSERT LINK] and the POS T&Cs [INSERT LINK] for more details.
+All submissions must be received by 23.59 on the 6th October 2016. 18+ UK only. Please see [full T&Cs](https://5773d42c0bf79d1b9f598394.preview.siteleaf.com/partner/terms-and-conditions/)and the POS T&Cs for more details.
