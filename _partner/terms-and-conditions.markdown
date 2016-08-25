@@ -24,20 +24,26 @@ By entering the promotion, entrants will be deemed to be bound by and have accep
 
 1. To enter the prize draw, retailers must:
 
-Download digital Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership AND;
-Display the digital Point of Sale branding on their website AND;
-Take a screen shot of the Point of Sale branding and send it via email with their full name, company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period.
+* Download digital Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership AND;
+* Display the digital Point of Sale branding on their website AND;
+* Take a screen shot of the Point of Sale branding and send it via email with their full name, company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period.
 
 OR
 
-Request physical Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership AND;
-Display the physical Point of Sale branding in the retail environment AND;
-Take a photograph of the Point of Sale branding and send it via email with their full name, company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period. 
-Entrants who do not give correct details or those who make an entry on someone else’s behalf will be disqualified, at the Promoter’s discretion. 
-Incomplete, illegible, misdirected or late entries will not be accepted. Proof of sending will not be accepted as proof of delivery.  Mastercard (the “Promoter”) takes no responsibility for entries delayed, incomplete or lost due to technical reasons or otherwise.
-Prizes and Fulfilment
-Entries must be received by 23:59 on 06/10/2016 (“Closing Date”) to be entered into the prize draw. 
-3 x prizes will be available during the Promotional Period, consisting of:
+* Request physical Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership AND;
+* Display the physical Point of Sale branding in the retail environment AND;
+* Take a photograph of the Point of Sale branding and send it via email with their full name, company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period. 
+
+1. Entrants who do not give correct details or those who make an entry on someone else’s behalf will be disqualified, at the Promoter’s discretion. 
+
+1. Incomplete, illegible, misdirected or late entries will not be accepted. Proof of sending will not be accepted as proof of delivery.  Mastercard (the “Promoter”) takes no responsibility for entries delayed, incomplete or lost due to technical reasons or otherwise.
+
+## Prizes and Fulfilment
+
+1. Entries must be received by 23:59 on 06/10/2016 (“Closing Date”) to be entered into the prize draw. 
+
+1. **3 x prizes** will be available during the Promotional Period, consisting of:
+
 Prize 1: A trip to Rome for 2 adults, consisting of:
 Return transport between home and the London airport chosen by the Promoter (total allowance £300).
 Return economy flights from London to Rome on an airline chosen by the Promoter
