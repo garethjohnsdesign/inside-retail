@@ -10,7 +10,7 @@ layout: partner
 
 By entering the promotion, entrants will be deemed to be bound by and have accepted these terms and conditions. These Terms and Conditions prevail in the event of any conflict or inconsistency with any other communications, including advertising or promotional materials.
 
-## Promoter: Mastercard Europe Services Limited, 10 Upper Bank Street, Canary Wharf, London, E14 5NP
+### Promoter: Mastercard Europe Services Limited, 10 Upper Bank Street, Canary Wharf, London, E14 5NP
 
 ## Eligibility
 
