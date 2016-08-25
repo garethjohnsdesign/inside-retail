@@ -27,7 +27,7 @@ A special report on what the digital payments revolution means for independent r
 * Customer insight at your fingertips
 * Looking to the future
 
-[Download the report > ](www.autumnfair.com/Content/Mastercard-Masterclasses)
+[Download the report >](www.autumnfair.com/Content/Mastercard-Masterclasses)
 
 # Attend Masterclasses and Seminars at Autumn Fair
 
@@ -41,13 +41,13 @@ When you attend a Mastercard masterclass or seminar you will receive free Master
 
 Attend one of our 6 masterclasses to gain valuable insights into what the digital payments revolution means for your business. These masterclasses are specifically designed for Independent Retailers and small and medium sized businesses.
 
-[Apply to attend](www.autumnfair.com/Content/Mastercard-Masterclasses)
+[Apply to attend >](www.autumnfair.com/Content/Mastercard-Masterclasses)
 
 # Seminars – Free to Attend – No booking required
 
 Attend one of our three seminars to hear how the payments revolution is boosting retailers’ businesses and how to use it in yours. 
 
-[View Seminars ](www.autumnfair.com/Content/Mastercard-Masterclasses)
+[View Seminars >](www.autumnfair.com/Content/Mastercard-Masterclasses)
 
 **Download digital POS**
 
