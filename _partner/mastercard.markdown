@@ -1,6 +1,7 @@
 ---
 title: MasterCard
 date: 2016-08-25 21:28:00 Z
+hero-image: "/uploads/mastercard.jpg"
 hero-video: 
 noindex: true
 layout: partner
