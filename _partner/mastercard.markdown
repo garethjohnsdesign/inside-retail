@@ -15,6 +15,7 @@ As a market leader in digital payments and a partner of The Autumn Fair, MasterC
 
 Mastercard has partnered with Inside Retail to deliver advice, seminars and masterclasses to help small and medium sized businesses succeed.
 
+![mastercard-c7fc8a.jpg](/uploads/mastercard-c7fc8a.jpg)
 
 ## Payments Revolution Report
 
