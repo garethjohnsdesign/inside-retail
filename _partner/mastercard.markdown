@@ -23,15 +23,15 @@ As a market leader in digital payments and a partner of The Autumn Fair, MasterC
 
 A special report on what the digital payments revolution means for independent retailers.
 
-* A world of change
-* The re-invention of retail
-* The digital payments revolution
-* The cashless boost for retailers
-* Easy steps to combat cyber-crime
-* Customer insight at your fingertips
-* Looking to the future
+   * A world of change
+   * The re-invention of retail
+   * The digital payments revolution
+   * The cashless boost for retailers
+   * Easy steps to combat cyber-crime
+   * Customer insight at your fingertips
+   * Looking to the future
 
-[Download the report >](www.autumnfair.com/Content/Mastercard-Masterclasses)
+   [Download the report >](www.autumnfair.com/Content/Mastercard-Masterclasses)
 
 ## Attend Masterclasses and Seminars at Autumn Fair
 
