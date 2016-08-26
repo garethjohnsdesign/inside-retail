@@ -41,13 +41,13 @@ When you attend a Mastercard masterclass or seminar you will receive free Master
    * A tent till topper
    * A window sticker
 
-  ### Masterclasses – Limited Spaces Available – Apply today to avoid disappointment
+### Masterclasses – Limited Spaces Available – Apply today to avoid disappointment
 
 Attend one of our 6 masterclasses to gain valuable insights into what the digital         payments revolution means for your business. These masterclasses are specifically designed for Independent Retailers and small and medium sized businesses.
 
 [Apply to attend >](http://www.autumnfair.com/Content/Mastercard-Masterclasses)
 
-  ### Seminars – Free to Attend – No booking required
+### Seminars – Free to Attend – No booking required
 
 Attend one of our three seminars to hear how the payments revolution is boosting retailers’ businesses and how to use it in yours. 
 
