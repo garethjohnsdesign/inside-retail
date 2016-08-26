@@ -1,5 +1,5 @@
 ---
-title: MasterCard
+title: Driving your business forward by accepting digital payments
 date: 2016-08-25 21:28:00 Z
 hero-image: "/uploads/mastercard.jpg"
 hero-video: 
@@ -7,13 +7,16 @@ noindex: true
 layout: partner
 ---
 
-Advice, seminars, masterclasses and tools to support you and your business requirements.
+Mastercard has partnered with Inside Retail to deliver advice, seminars, masterclasses and tools to help small and medium sized businesses succeed.
 
 As a market leader in digital payments and a partner of The Autumn Fair, MasterCard is positioned to help the SME community achieve business objectives.
 
-## Driving your business forward by accepting digital payments
+* Read our special report
+* Attend exclusive masterclasses and seminars 
+* Download free Mastercard-branded point-of-sale material
+* Enter to win a Priceless experience, courtesy of Mastercard
 
-Mastercard has partnered with Inside Retail to deliver advice, seminars and masterclasses to help small and medium sized businesses succeed.
+See more information below
 
 ## Payments Revolution Report
 
@@ -37,21 +40,21 @@ When you attend a Mastercard masterclass or seminar you will receive free Master
 * A tent till topper
 * A window sticker
 
-## Masterclasses – Limited Spaces Available – Apply today to avoid disappointment
+### Masterclasses – Limited Spaces Available – Apply today to avoid disappointment
 
 Attend one of our 6 masterclasses to gain valuable insights into what the digital payments revolution means for your business. These masterclasses are specifically designed for Independent Retailers and small and medium sized businesses.
 
 [Apply to attend >](www.autumnfair.com/Content/Mastercard-Masterclasses)
 
-## Seminars – Free to Attend – No booking required
+### Seminars – Free to Attend – No booking required
 
 Attend one of our three seminars to hear how the payments revolution is boosting retailers’ businesses and how to use it in yours. 
 
-[View Seminars >](www.autumnfair.com/Content/Mastercard-Masterclasses)
+[View Seminars >](http://www.autumnfair.com/Content/Mastercard-Seminars)
 
-**Download digital POS**
+## Download digital POS
 
-Please [click here](www.autumnfair.com/Content/Mastercard-Masterclasses) to download some **free MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
+[Click here](www.autumnfair.com/Content/Mastercard-Masterclasses) to download some **free MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
 
 
 ## Register for physical POS
