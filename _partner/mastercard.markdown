@@ -12,12 +12,12 @@ Mastercard has partnered with Inside Retail to deliver advice, seminars, masterc
 
 As a market leader in digital payments and a partner of The Autumn Fair, MasterCard is positioned to help the SME community achieve business objectives.
 
-* Read our special report
-* Attend exclusive masterclasses and seminars 
-* Download free Mastercard-branded point-of-sale material
-* Enter to win a Priceless experience, courtesy of Mastercard
+   * Read our special report
+   * Attend exclusive masterclasses and seminars 
+   * Download free Mastercard-branded point-of-sale material
+   * Enter to win a Priceless experience, courtesy of Mastercard
 
-See more information below
+   See more information below to take part.
 
 ## Payments Revolution Report
 
