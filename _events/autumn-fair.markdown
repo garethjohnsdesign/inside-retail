@@ -8,9 +8,7 @@ image: "/uploads/autumn-fair.jpg"
 has-content: true
 ---
 
-[Masterclasses on “New Ways to Pay” and “Fighting Cybercrime”](http://www.autumnfair.com/Content/Mastercard-Masterclasses)
-
-Limited Spaces Available
+[Masterclasses on “New Ways to Pay” and “Fighting Cybercrime”](http://www.autumnfair.com/Content/Mastercard-Masterclasses) - Limited Spaces Available
 
 [Free Seminars on “The payments revolution” and “Understanding new payments options”](http://www.autumnfair.com/Content/Mastercard-Seminars)
 
