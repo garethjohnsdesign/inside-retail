@@ -57,7 +57,7 @@ Attend one of our three seminars to hear how the payments revolution is boosting
 
 Download **free MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
 
-[Download here](www.autumnfair.com/Content/Mastercard-Masterclasses) 
+[Download here >](www.autumnfair.com/Content/Mastercard-Masterclasses) 
 
 
 ## Register for physical POS
