@@ -31,7 +31,7 @@ A special report on what the digital payments revolution means for independent r
    * Customer insight at your fingertips
    * Looking to the future
 
-   [Download the report >](www.autumnfair.com/Content/Mastercard-Masterclasses)
+<a href="www.autumnfair.com/Content/Mastercard-Masterclasses" class="button">Download Report</a>
 
 ## Attend Masterclasses and Seminars at Autumn Fair
 
@@ -45,20 +45,19 @@ When you attend a Mastercard masterclass or seminar you will receive free Master
 
 Attend one of our 6 masterclasses to gain valuable insights into what the digital         payments revolution means for your business. These masterclasses are specifically designed for Independent Retailers and small and medium sized businesses.
 
-[Apply to attend >](http://www.autumnfair.com/Content/Mastercard-Masterclasses)
+<a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="button">Apply to Attend</a>
 
 ### Seminars – Free to Attend – No booking required
 
 Attend one of our three seminars to hear how the payments revolution is boosting retailers’ businesses and how to use it in yours. 
 
-[View Seminars >](http://www.autumnfair.com/Content/Mastercard-Seminars)
+<a href="http://www.autumnfair.com/Content/Mastercard-Seminars" class="button">View Seminars</a>
 
 ## Download digital POS
 
 Download **free MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
 
-[Download here >](www.autumnfair.com/Content/Mastercard-Masterclasses) 
-
+<a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="button">Download Here</a>
 
 ## Register for physical POS
 
@@ -80,4 +79,4 @@ How to enter:
 
 1. Once verified, you will be entered into a prize draw to win one the Priceless experiences available, including tickets to a London Merlin attraction, a night at the theatre, or a XXXX HERO PRIZE XXXXX. 
 
-All submissions must be received by 23.59 on the 6th October 2016. 18+ UK only. Please see [full T&Cs](https://5773d42c0bf79d1b9f598394.preview.siteleaf.com/partner/terms-and-conditions/)and the POS T&Cs for more details.
+All submissions must be received by 23.59 on the 6th October 2016. 18+ UK only. Please see [full T&Cs](https://5773d42c0bf79d1b9f598394.preview.siteleaf.com/partner/terms-and-conditions/) and the POS T&Cs for more details.
