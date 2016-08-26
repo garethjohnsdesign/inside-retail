@@ -37,9 +37,9 @@ A special report on what the digital payments revolution means for independent r
 
 When you attend a Mastercard masterclass or seminar you will receive free Mastercard branded point of sale material including:
 
-* A chip and pin POS
-* A tent till topper
-* A window sticker
+   * A chip and pin POS
+   * A tent till topper
+   * A window sticker
 
 ### Masterclasses – Limited Spaces Available – Apply today to avoid disappointment
 
