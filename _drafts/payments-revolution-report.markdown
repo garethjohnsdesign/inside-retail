@@ -30,7 +30,7 @@ Inside Retail has partnered with Mastercard to create this special report on wha
 
 * Looking to the future
 
-[Download report >](http://www.autumnfair.com/mastercard-partnership)
+<a href="http://www.autumnfair.com/mastercard-partnership" class="button">Download Report</a>
 
 Mastercard are also partnering with Inside Retail to bring you exclusive masterclasses and seminars, free POS material and the opportunity to win a Priceless experience.
 
