@@ -34,4 +34,4 @@ Inside Retail has partnered with Mastercard to create this special report on wha
 
 Mastercard are also partnering with Inside Retail to bring you exclusive masterclasses and seminars, free POS material and the opportunity to win a Priceless experience.
 
-[Find out more here](www.insideretail.com/articles/payments-revolution-report/)
+[Find out more here](insideretail.com/partner/mastercard/)
