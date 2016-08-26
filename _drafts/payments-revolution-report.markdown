@@ -6,8 +6,8 @@ categories:
 tags:
 - ecommerce
 excerpt-image: "/uploads/payments-revolution.jpg"
-excerpt-text: A special report on what the digital payments revolution means for independent
-  retailers
+excerpt-text: A special report, in association with Mastercard, on what the digital
+  payments revolution means for independent retailers
 hero-image: "/uploads/payments-revolution.jpg"
 is-partner: true
 ---
