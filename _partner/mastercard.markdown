@@ -62,9 +62,9 @@ Attend one of our three seminars to hear how the payments revolution is boosting
 
 If you cannot make Autumn Fair– don’t worry - register here to receive some free MasterCard branded point of sale material to display in your retail environments by post – this includes: 
 
-* A chip and pin POS
-* A tent till topper 
-* A window sticker. 
+   * A chip and pin POS
+   * A tent till topper 
+   * A window sticker. 
 
 This will demonstrate to customers that your business accepts secure digital payments which will help drive transactions. All you need to do is fill in your details below so that we can send this to you. Please allow 14 working days to receive this.
 
