@@ -34,7 +34,7 @@ Inside Retail has partnered with Mastercard to create this special report on wha
 
 Mastercard are also partnering with Inside Retail to bring you exclusive masterclasses and seminars, free POS material and the opportunity to win a Priceless experience.
 
-
+### 
 Mastercard – Autumn Retail – Priceless Surprises – Promotion
 Short Terms & Conditions
 
