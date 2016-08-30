@@ -40,7 +40,7 @@ A special report on what the digital payments revolution means for independent r
 
 * Looking to the future
 
-<a href="www.autumnfair.com/Content/Mastercard-Masterclasses" class="button">Download Report</a>
+<a href="http://www.insideretail.com/uploads/Mastercard-Special-Report.pdf" class="button">Download Report</a>
 
 ## Attend Masterclasses and Seminars at Autumn Fair
 
