@@ -212,6 +212,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/accordion.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/accordion.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/archive.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -361,6 +370,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/7-setting-up-shop-essentials\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/accordion-test\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/accordion-test\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -775,6 +793,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/articles\/try-not-to-be-too-beige-martin-holland\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/articles\/vend-partnership\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/vend-partnership\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1223,6 +1250,24 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/_site\/partner\/mastercard\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/partner\/mastercard\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/partner\/terms-and-conditions\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/partner\/terms-and-conditions\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/partner\/vend-partnership-video\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1486,6 +1531,28 @@
 		"initialSize": 60306,
 		"inputAbbreviatedPath": "\/_site\/uploads\/etail-success-checklist.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/etail-success-checklist.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/fine-tuning-3de19e.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123183,
+		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tuning-3de19e.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tuning-3de19e.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/fine-tuning-947582.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123183,
+		"inputAbbreviatedPath": "\/_site\/uploads\/fine-tuning-947582.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/fine-tuning-947582.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2007,6 +2074,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/mastercard-c7fc8a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122300,
+		"inputAbbreviatedPath": "\/_site\/uploads\/mastercard-c7fc8a.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/mastercard-c7fc8a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/mastercard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122300,
+		"inputAbbreviatedPath": "\/_site\/uploads\/mastercard.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/mastercard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/partner-video-excert.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2047,6 +2136,17 @@
 		"initialSize": 69246,
 		"inputAbbreviatedPath": "\/_site\/uploads\/partner-video.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/partner-video.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/payments-revolution.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74606,
+		"inputAbbreviatedPath": "\/_site\/uploads\/payments-revolution.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/payments-revolution.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2601,6 +2701,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/fine-tuning-3de19e.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123183,
+		"inputAbbreviatedPath": "\/_uploads\/fine-tuning-3de19e.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/fine-tuning-3de19e.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/fine-tuning-947582.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123183,
+		"inputAbbreviatedPath": "\/_uploads\/fine-tuning-947582.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/fine-tuning-947582.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/fine-tuning.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3118,6 +3240,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/mastercard-c7fc8a.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122300,
+		"inputAbbreviatedPath": "\/_uploads\/mastercard-c7fc8a.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/mastercard-c7fc8a.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/mastercard.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122300,
+		"inputAbbreviatedPath": "\/_uploads\/mastercard.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/mastercard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/partner-video-excert.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3158,6 +3302,17 @@
 		"initialSize": 69246,
 		"inputAbbreviatedPath": "\/_uploads\/partner-video.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/partner-video.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/payments-revolution.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74606,
+		"inputAbbreviatedPath": "\/_uploads\/payments-revolution.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/payments-revolution.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3554,8 +3709,8 @@
 		"enableSmartQuotes": 1,
 		"escapeLineBreaks": 0,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/about.md",
 		"maskEmailAddresses": 1,
 		"outputAbbreviatedPath": "\/about.html",
