@@ -75,7 +75,6 @@ general:
     four shifts throughout the festival period (28th June to 3rd July) You must be
     over 18. If you’re interested, please fill out the [Bar Crew Expression of Interest](https://form.jotform.co/COMMOVED/bcg16-barcrew-eoi)
     form to apply. "
-layout: accordion
 ---
 
 Mastercard has partnered with Inside Retail to deliver advice, seminars, masterclasses and tools to help small and medium sized businesses succeed.
