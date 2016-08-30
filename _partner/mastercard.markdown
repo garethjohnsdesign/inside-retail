@@ -10,7 +10,7 @@ layout: partner
 
 Mastercard has partnered with Inside Retail to deliver advice, seminars, masterclasses and tools to help small and medium sized businesses succeed.
 
-As a market leader in digital payments and a partner of The Autumn Fair, MasterCard is positioned to help the SME community achieve business objectives.
+As a market leader in digital payments and a partner of The Autumn Fair, Mastercard is positioned to help the SME community achieve business objectives.
 
    * Read our special report
    * Attend exclusive masterclasses and seminars 
@@ -35,11 +35,13 @@ A special report on what the digital payments revolution means for independent r
 
 ## Attend Masterclasses and Seminars at Autumn Fair
 
-When you attend a Mastercard masterclass or seminar you will receive free Mastercard branded point of sale material including:
+When you attend a Mastercard masterclass you will receive a complimentary pack of Mastercard branded point of sale materials to display in your retail environments, consisting of:
 
    * A chip and pin POS
    * A tent till topper
    * A window sticker
+
+500 complimentary packs of Mastercard branded point of sale materials are available across all masterclasses and seminars and will be issued on a strictly first come first served basis. 
 
 ### Masterclasses – Limited Spaces Available – Apply today to avoid disappointment
 
