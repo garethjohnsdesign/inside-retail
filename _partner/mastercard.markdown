@@ -60,6 +60,8 @@ Attend one of our 6 masterclasses to gain valuable insights into what the digita
 
 <a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="button">Apply to Attend</a>
 
+<a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="button target="_blank">Apply to Attend</a>
+
 ### Seminars – Free to Attend – No booking required
 
 Attend one of our three seminars to hear how the payments revolution is boosting retailers’ businesses and how to use it in yours.
