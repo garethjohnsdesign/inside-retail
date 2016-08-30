@@ -58,15 +58,13 @@ When you attend a Mastercard masterclass you will receive a complimentary pack o
 
 Attend one of our 6 masterclasses to gain valuable insights into what the digital         payments revolution means for your business. These masterclasses are specifically designed for Independent Retailers and small and medium sized businesses.
 
-<a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="button">Apply to Attend</a>
-
 <a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="button" target="_blank">Apply to Attend</a>
 
 ### Seminars – Free to Attend – No booking required
 
 Attend one of our three seminars to hear how the payments revolution is boosting retailers’ businesses and how to use it in yours.
 
-<a href="http://www.autumnfair.com/Content/Mastercard-Seminars" class="button">View Seminars</a>
+<a href="http://www.autumnfair.com/Content/Mastercard-Seminars" class="button" target="_blank">View Seminars</a>
 
 ## Download digital POS
 
@@ -86,10 +84,14 @@ If you cannot make Autumn Fair – don’t worry – register here to receive a 
 
 This will demonstrate to customers that your business accepts secure digital payments which will help drive transactions. All you need to do is fill in your details below so that we can send this to you. Please allow 14 working days to receive this.
 
+ 
+ 
 <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
 <form id="mktoForm_6018"></form>
 <script>MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 6018);</script>
 
+ 
+ 
 ## Enter to win a Priceless experience, courtesy of Mastercard
 
 How to enter:
