@@ -1,6 +1,7 @@
 ---
 title: Payments Revolution Report
 date: 2016-08-25 21:12:00 Z
+published: false
 categories:
 - up-and-running
 tags:
