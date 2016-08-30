@@ -57,13 +57,13 @@ Attend one of our three seminars to hear how the payments revolution is boosting
 
 ## Download digital POS
 
-Download **free MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
+Download **complimentary MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
 
 <a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="button">Download Here</a>
 
 ## Register for physical POS
 
-If you cannot make Autumn Fair– don’t worry - register here to receive some free MasterCard branded point of sale material to display in your retail environments by post – this includes: 
+If you cannot make Autumn Fair – don’t worry – register here to receive a complimentary pack of Mastercard branded point of sale materials to display in your retail environments, consisting of:
 
    * A chip and pin POS
    * A tent till topper 
@@ -83,6 +83,6 @@ How to enter:
 
 1. Send us a photo or a screenshot that showcases your MasterCard branded digital or physical POS in your retail environment to [MasterCardPOS@biggroup.co.uk](http://www.mastercardpos@biggroup.co.uk)
 
-1. Once verified, you will be entered into a prize draw to win one the Priceless experiences available, including tickets to a London Merlin attraction, a night at the theatre, or a XXXX HERO PRIZE XXXXX. 
+1. Once verified, you will be entered into a prize draw to win one the Priceless experiences available, including a Priceless Cities trip to Rome for two adults, tickets to a London Merlin attraction or a night at the theatre.
 
-All submissions must be received by 23.59 on the 6th October 2016. 18+ UK only. Please see [full T&Cs](https://5773d42c0bf79d1b9f598394.preview.siteleaf.com/partner/terms-and-conditions/) and the POS T&Cs for more details.
+All submissions must be received by 23.59 on the 6th October 2016. 18+ UK only. Please see full T&Cs
