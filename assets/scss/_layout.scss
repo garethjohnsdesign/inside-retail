@@ -471,6 +471,17 @@ li.excerpt__tag.align-right {
   }
 }
 
+.post__panel__partner {
+	background-color: $color--white;
+	padding: 1rem 2rem 1rem 2rem;
+	@include breakpoint(medium) {
+  padding: 1rem 3rem 1rem 3rem;
+  }
+  @include breakpoint(large) {
+    padding: 1rem 7rem 1rem 7rem;
+  }
+}
+
 .post__title {
 }
 
@@ -817,4 +828,36 @@ background-image: -webkit-gradient(linear, left top, left bottom, from(#75ae4c),
 background-image: -webkit-linear-gradient(top, #75ae4c, #99c47c);
 background-image: -moz-linear-gradient(top, #75ae4c, #99c47c);
 background-image: linear-gradient(to bottom, #75ae4c, #99c47c);
+}
+
+// Accordion
+
+.partner__accordion .accordion-item .accordion-title {
+	color: $color--black;
+	&:hover {
+      color: $color--dark-gray;
+    }
+}
+
+.partner__accordion .accordion-item .accordion__button {
+	color: $color--white;
+	&:hover {
+      color: $color--dark-gray;
+    }
+}
+
+.partner__accordion .accordion-title {
+	font-family: $header-font-family;
+ 	font-size: 1.75rem;
+}
+
+.partner__accordion .accordion-item accordion__button {
+	color: $color--white;
+	&:hover {
+      color: $color--dark-gray;
+    }
+}
+
+.accordion__button {
+	@include button(false, $color--black, $color--gray, white, solid);
 }
