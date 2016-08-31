@@ -8,7 +8,12 @@ noindex: true
 general:
 - title: Enter to win a Priceless experience, courtesy of Mastercard
   text: |-
-    How to enter:
+    <br><br>
+    <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
+    <form id="mktoForm_6018"></form>
+    <br><br>
+
+    ### How to enter:
 
     1. Simply download and/or register for free digital or physical POS, display this in your retail environment (either online or instore).
 
@@ -82,7 +87,3 @@ Mastercard has partnered with Inside Retail to deliver advice, seminars, masterc
 As a market leader in digital payments and a partner of The Autumn Fair, Mastercard is positioned to help the SME community achieve business objectives.
 
 See more information below to take part:
-<br><br>
-<script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
-<form id="mktoForm_6018"></form>
-<br><br>
