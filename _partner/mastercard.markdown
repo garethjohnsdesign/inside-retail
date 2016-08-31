@@ -83,6 +83,3 @@ As a market leader in digital payments and a partner of The Autumn Fair, Masterc
 
 See more information below to take part and register using the form lorem ipsum:
 
-<script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
-<form id="mktoForm_6018"></form>
-<script>MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 6018);</script>
