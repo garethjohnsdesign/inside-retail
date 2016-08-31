@@ -86,4 +86,4 @@ Mastercard has partnered with Inside Retail to deliver advice, seminars, masterc
 
 As a market leader in digital payments and a partner of The Autumn Fair, Mastercard is positioned to help the SME community achieve business objectives.
 
-See more information below to take part:
+See more information below to take part: 
