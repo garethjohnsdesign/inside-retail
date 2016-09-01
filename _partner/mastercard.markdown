@@ -8,7 +8,7 @@ noindex: true
 general:
 - title: Enter to win a Priceless experience, courtesy of Mastercard
   text: |-
-    ![insideretail-comp-image3.jpg](/uploads/insideretail-comp-image3.jpg)
+    ![insideretail-comp-image3.gif](/uploads/insideretail-comp-image3.gif)
 
     **How to enter:**
 
