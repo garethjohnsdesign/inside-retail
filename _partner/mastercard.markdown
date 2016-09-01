@@ -59,7 +59,7 @@ general:
 
     Attend one of our 6 masterclasses to gain valuable insights into what the digital         payments revolution means for your business. These masterclasses are specifically designed for Independent Retailers and small and medium sized businesses.
 
-    <a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="accordion__button" ### target="_blank">Apply to Attend</a>
+    <a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="accordion__button" target="_blank">Apply to Attend</a>
 
     Seminars – Free to Attend – No booking required
 
