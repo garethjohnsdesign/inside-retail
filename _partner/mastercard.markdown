@@ -26,6 +26,8 @@ general:
     <br><br>
 - title: Read our special report
   text: |-
+    ![insideretail-report-image.jpg](/uploads/insideretail-report-image.jpg)
+
     A special report on what the digital payments revolution means for independent retailers.
 
     * A world of change
