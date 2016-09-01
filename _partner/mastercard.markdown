@@ -7,12 +7,7 @@ hero-video:
 noindex: true
 general:
 - title: Enter to win a Priceless experience, courtesy of Mastercard
-  text: |-
-    <br><br>
-    <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
-    <form id="mktoForm_6018"></form>
-    <br><br>
-
+  text: |
     ### How to enter:
 
     1. Simply download and/or register for free digital or physical POS, display this in your retail environment (either online or instore).
@@ -22,6 +17,11 @@ general:
     3. Once verified, you will be entered into a prize draw to win one the Priceless experiences available, including a Priceless Cities trip to Rome for two adults, tickets to a London Merlin attraction or a night at the theatre.
 
     All submissions must be received by 23.59 on the 6th October 2016. 18\+ UK only. Please see [full T&Cs](http://www.insideretail.com/partner/terms-and-conditions/).
+
+    <br><br>
+    <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
+    <form id="mktoForm_6018"></form>
+    <br><br>
 - title: Read our special report
   text: |-
     A special report on what the digital payments revolution means for independent retailers.
