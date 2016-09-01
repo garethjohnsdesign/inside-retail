@@ -10,6 +10,7 @@ general:
   text: |-
     ![insideretail-comp-image3.gif](/uploads/insideretail-comp-image3.gif)
 
+    <br>
     **How to enter:**
 
     1. Simply [download](http://www.insideretail.com/uploads/Mastercard-Special-Report.pdf) and/or register below for free digital or physical POS, display this in your retail environment (either online or instore).
@@ -26,9 +27,10 @@ general:
     <br><br>
 - title: Read our special report
   text: |-
-    ![insideretail-report-image.jpg](/uploads/insideretail-report-image.jpg)
+    ![insideretail-report-image-0cb25d.jpg](/uploads/insideretail-report-image-0cb25d.jpg)
 
-    A special report on what the digital payments revolution means for independent retailers.
+    <br>
+    **A special report on what the digital payments revolution means for independent retailers:**
 
     * A world of change
 
@@ -47,7 +49,10 @@ general:
     <a href="http://www.insideretail.com/uploads/Mastercard-Special-Report.pdf" class="accordion__button">Download Report</a>
 - title: Attend Masterclasses and Seminars at Autumn Fair
   text: |-
-    When you attend a Mastercard masterclass you will receive a complimentary pack of Mastercard branded point of sale materials to display in your retail environments, consisting of:
+    ![insideretail-attend-image.jpg](/uploads/insideretail-attend-image.jpg)
+
+    <br>
+    **When you attend a Mastercard masterclass you will receive a complimentary pack of Mastercard branded point of sale materials to display in your retail environments, consisting of:**
 
     * A chip and pin POS
 
