@@ -22,6 +22,7 @@ general:
 
     <br><br>
     <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
+    <form id="mktoForm_6018"></form>
     <br><br>
 - title: Read our special report
   text: |-
@@ -87,6 +88,7 @@ general:
 
     <br><br>
     <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
+    <form id="mktoForm_6018"></form>
     <br><br>
 layout: accordion
 ---
