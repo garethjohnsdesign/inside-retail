@@ -1988,6 +1988,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/insideretail-attend-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43611,
+		"inputAbbreviatedPath": "\/_site\/uploads\/insideretail-attend-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/insideretail-attend-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/insideretail-comp-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81347,
+		"inputAbbreviatedPath": "\/_site\/uploads\/insideretail-comp-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/insideretail-comp-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/insideretail-comp-image2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130999,
+		"inputAbbreviatedPath": "\/_site\/uploads\/insideretail-comp-image2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/insideretail-comp-image2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/insideretail-comp-image3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99929,
+		"inputAbbreviatedPath": "\/_site\/uploads\/insideretail-comp-image3.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/insideretail-comp-image3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/insideretail-comp-images.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185011,
+		"inputAbbreviatedPath": "\/_site\/uploads\/insideretail-comp-images.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/insideretail-comp-images.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/insideretail-report-image-0cb25d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65111,
+		"inputAbbreviatedPath": "\/_site\/uploads\/insideretail-report-image-0cb25d.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/insideretail-report-image-0cb25d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/insideretail-report-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70716,
+		"inputAbbreviatedPath": "\/_site\/uploads\/insideretail-report-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/insideretail-report-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/jewellery-and-watch.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3150,6 +3227,83 @@
 		"initialSize": 67114,
 		"inputAbbreviatedPath": "\/_uploads\/how-you-can-get-involved-in-the-circular-economy-1.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/how-you-can-get-involved-in-the-circular-economy-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/insideretail-attend-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43611,
+		"inputAbbreviatedPath": "\/_uploads\/insideretail-attend-image.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/insideretail-attend-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/insideretail-comp-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81347,
+		"inputAbbreviatedPath": "\/_uploads\/insideretail-comp-image.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/insideretail-comp-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/insideretail-comp-image2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 130999,
+		"inputAbbreviatedPath": "\/_uploads\/insideretail-comp-image2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/insideretail-comp-image2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/insideretail-comp-image3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99929,
+		"inputAbbreviatedPath": "\/_uploads\/insideretail-comp-image3.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/insideretail-comp-image3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/insideretail-comp-images.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 185011,
+		"inputAbbreviatedPath": "\/_uploads\/insideretail-comp-images.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/insideretail-comp-images.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/insideretail-report-image-0cb25d.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65111,
+		"inputAbbreviatedPath": "\/_uploads\/insideretail-report-image-0cb25d.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/insideretail-report-image-0cb25d.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/insideretail-report-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70716,
+		"inputAbbreviatedPath": "\/_uploads\/insideretail-report-image.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/insideretail-report-image.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
