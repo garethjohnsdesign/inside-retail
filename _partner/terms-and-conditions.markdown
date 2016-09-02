@@ -14,11 +14,11 @@ By entering the promotion, entrants will be deemed to be bound by and have accep
 
 ## Eligibility
 
-1. This prize draw is open to United Kingdom (England, Scotland, Wales and Northern Ireland) residents aged 18 or over who operate as retailers and have downloaded digital or requested physical Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership. This excludes employees and their immediate families of Mastercard, its subsidiaries, other group companies, its agents, or anyone else professionally connected with this prize draw.
+1. This prize draw is open to United Kingdom (England, Scotland, Wales and Northern Ireland) residents aged 18 or over who operate as retailers and have satisfied the entry requirements at paragraph 4 below. This excludes employees and their immediate families of Mastercard, its subsidiaries, other group companies, its agents, or anyone else professionally connected with this prize draw.
 
 1. The prize draw will run from 04/09/2016 to 23:59 on 06/10/2016 inclusive (“Promotional Period”).
 
-1. Only one entry per employee is permitted during the Promotional Period. Anyone trying to circumvent this rule by using alternative details including but not limited to email accounts, names, telephone numbers or addresses will be disqualified from this promotion. Entries (bulk or otherwise) made from trade, consumer groups or third parties will not be accepted.  If it becomes apparent that a participant is using a computer(s) to circumvent this condition by, for example, the use of ‘script’, ‘brute force’ or any other automated means, that person’s entries will be disqualified and any prize award will be void.
+1. Only one entry per retailer is permitted during the Promotional Period. Anyone trying to circumvent this rule by using alternative details including but not limited to email accounts, names, telephone numbers or addresses will be disqualified from this promotion. Entries (bulk or otherwise) made from trade, consumer groups or third parties will not be accepted.  If it becomes apparent that a participant is using a computer(s) to circumvent this condition by, for example, the use of ‘script’, ‘brute force’ or any other automated means, that person’s entries will be disqualified and any prize award will be void.
 
 ## Entry Requirements
 
@@ -26,13 +26,13 @@ By entering the promotion, entrants will be deemed to be bound by and have accep
 
 * Download digital Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership AND;
 * Display the digital Point of Sale branding on their website AND;
-* Take a screen shot of the Point of Sale branding and send it via email with their full name, company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period.
+* Take a screen shot of the Point of Sale branding and send it via email with their full name, business or company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period.
 
 OR
 
 * Request physical Mastercard branded Point of Sale branding via www.autumnfair.com/content/Mastercard-partnership AND;
 * Display the physical Point of Sale branding in the retail environment AND;
-* Take a photograph of the Point of Sale branding and send it via email with their full name, company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period. 
+* Take a photograph of the Point of Sale branding and send it via email with their full name, business or company name and telephone number to MastercardPOS@biggroup.co.uk with the subject line ‘Mastercard – Inside Retail – Priceless Surprises Promotion’ during the Promotional Period. 
 
 1. Entrants who do not give correct details or those who make an entry on someone else’s behalf will be disqualified, at the Promoter’s discretion. 
 
@@ -45,14 +45,14 @@ OR
 1. **3 x prizes** will be available during the Promotional Period, consisting of:
 
 1. Prize 1: A trip to Rome for 2 adults, consisting of:
-Return transport between home and the London airport chosen by the Promoter (total allowance £300).
+Return transport between home in the U.K. and the London airport chosen by the Promoter (total allowance £300).
 Return economy flights from London to Rome on an airline chosen by the Promoter
 
 Private return airport to hotel transfers
 2 nights 5* hotel accommodation (double/twin occupancy) at a hotel chosen by the Promoter with daily breakfast 
 10 course tasting menu at 3 Michelin starred La Pergola 
-Rome Hop-On Hop-Off Sightseeing Tour 
-Comprehensive travel insurance (please see clause 17 for full details) 
+Rome Hop-On Hop-Off Sightseeing Tour
+Travel insurance (please see clause 17 for full details) 
 £250 Mastercard Prepaid Card
 
 1. Prize 2: 4 x tickets to one of SEA LIFE London Aquarium, The London Dungeon or Madame Tussauds and a £250 Mastercard Prepaid Card. 
@@ -71,7 +71,7 @@ Transport and accommodation are not included in Prize 2 or Prize 3. All other co
 
 1. The winners and their guests take part in the prizes at their own risk and to the fullest extent allowed by law; the Promoter accepts no liability with regard to such prizes whatsoever. The Promoter will have no liability in relation to the conduct of the winners or their guests, nor in connection with any circumstances outside its control with respect to the prize once delivered to the winners. 
 
-1. Prize 1: The winner and their guest must be available to travel before 30/11/2017, excluding Christmas, Easter and all bank holidays. All dates are subject to availability. Failure to be able to travel during this time will result in the prize being forfeit and the Promoter may at its absolute discretion dispose of the prize without liability to the winner.
+1. Prize 1: The winner and their guest must be available to travel before 30/11/2017, excluding Christmas, Easter and all U.K. bank holidays. All dates are subject to availability. Failure to be able to travel during this time will result in the prize being forfeit and the Promoter may at its absolute discretion dispose of the prize without liability to the winner.
 
 1. Prize 1: When contacted the winner must provide evidence that the they and their guest have the required travel documentation (including but not limited to valid passport with at least 6 months validity remaining after the return date, Visas) to be able to travel before 30/11/2017.
 
@@ -79,7 +79,7 @@ Transport and accommodation are not included in Prize 2 or Prize 3. All other co
 
 1. Prize 1: The winner and their guest must hold valid passports with at least 6 months’ validity remaining after the return date. Passports and Visas are the responsibility and cost of the prize winner. The Promoter cannot be held responsible if the prize winner or their guest fail to obtain the required travel documentation. 
 
-1. Prize 1: Comprehensive travel insurance is included in the prize; however it does not cover pre-existing medical conditions and has an upper age limit of 79 years. In the event that, upon the winner applying for the cover, cover is not granted, the winner must seek adequate cover for the travelling party from another insurer. This will be the prize winner’s responsibility and proof of such insurance will be required prior to departure. A cash contribution, equivalent to the cost of the cover declined, will be made directly to the winner upon presentation of proof of the requisite cover.
+1. Prize 1: Travel insurance is included in the prize; however it does not cover pre-existing medical conditions and has an upper age limit of 79 years. In the event that, upon the winner applying for the cover, cover is not granted, the winner must seek adequate cover for the travelling party from another insurer. This will be the prize winner’s responsibility and proof of such insurance will be required prior to departure. A cash contribution, equivalent to the cost of the cover declined, will be made directly to the winner upon presentation of proof of the requisite cover.
 
 1. Prize 2: By accepting the prize, the winner of Prize 2 agrees to adhere to the terms and conditions applicable to the venue associated with their prize package (e.g. SEA LIFE London Aquarium, The London Dungeon, Madame Tussauds).  Venue regulations can be requested at the time of prize notification.  
 
