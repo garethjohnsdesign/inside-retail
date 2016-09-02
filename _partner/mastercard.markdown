@@ -86,13 +86,9 @@ general:
 
     <a href="/uploads/mastercarddigital_posstacked1_mini.jpg" download="POS1">
       <img border="0" src="/uploads/mastercarddigital_posstacked1_mini.jpg" alt="download1">
-    </a>
-    <br>
-    <a href="/uploads/mastercarddigital_posstacked2_mini.jpg" download="POS2">
+    </a><a href="/uploads/mastercarddigital_posstacked2_mini.jpg" download="POS2">
       <img border="0" src="/uploads/mastercarddigital_posstacked2_mini.jpg" alt="download1">
-    </a>
-    <br>
-    <a href="/uploads/mastercarddigital_poshorizontal_mini.jpg" download="POS3">
+    </a><a href="/uploads/mastercarddigital_poshorizontal_mini.jpg" download="POS3">
       <img border="0" src="/uploads/mastercarddigital_poshorizontal_mini.jpg" alt="download1">
     </a>
     <br>
