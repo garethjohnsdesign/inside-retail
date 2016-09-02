@@ -80,11 +80,15 @@ general:
     Download **complimentary MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
 
     Click on the image below and your the download will automatically begin.
+
     <br>
     <br>
-    <a href="/uploads/mastercard_pos.zip" download="mastercard-pos" title="mastercard-pos">
-        <img src="/uploads/mastercard-pos.jpg" alt="mastercard-pos">
+    <a href="/uploads/mastercarddigital_posstacked1_mini.jpg" download="mastercard-pos1" title="mastercard-pos">
+        <img src="/uploads/pos-1.jpg" alt="mastercard-pos1"><a href="/uploads/mastercarddigital_posstacked1_mini.jpg" download="mastercard-pos1" title="mastercard-pos">
+        <img src="/uploads/pos-1.jpg" alt="mastercard-pos1">
     <br>
+
+
 
     ### Register for physical POS
 
