@@ -87,7 +87,16 @@ general:
     <a href="/uploads/mastercarddigital_posstacked1_mini.jpg" download="POS1">
       <img border="0" src="/uploads/mastercarddigital_posstacked1_mini.jpg" alt="download1">
     </a>
-
+    <br>
+    <a href="/uploads/mastercarddigital_posstacked1_mini.jpg" download="POS1">
+      <img border="0" src="/uploads/mastercarddigital_posstacked1_mini.jpg" alt="download1">
+    </a>
+    <br>
+    <a href="/uploads/mastercarddigital_posstacked1_mini.jpg" download="POS1">
+      <img border="0" src="/uploads/mastercarddigital_posstacked1_mini.jpg" alt="download1">
+    </a>
+    <br>
+    <br>
 
     ### Register for physical POS
 
