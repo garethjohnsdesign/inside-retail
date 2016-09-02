@@ -112,4 +112,4 @@ Transport and accommodation are not included in Prize 2 or Prize 3. All other co
 
 32. You can request access to your personal data, or have any inaccuracies rectified, by sending an email to privacy@priceless.com. Your personal data is stored in the UK and is not shared with third parties except for the above purposes with Mastercard's service provider Big Group, in accordance with applicable law. By participating in the Promotion, you agree to the use of your personal data as described here. You can withdraw your consent at any time, but will no longer be able to participate.
 
-33. For more information about Mastercard's data protection practices, see our Global Privacy Notice www.mastercard.co.uk/en-gb/about-Mastercard/what-we-do/privacy.html 
+33. For more information about Mastercard's data protection practices, see our [Global Privacy Notice](http://www.mastercard.co.uk/en-gb/about-Mastercard/what-we-do/privacy.html) 
