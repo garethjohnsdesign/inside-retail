@@ -2,7 +2,7 @@
 title: Driving your business forward by accepting digital payments - in association
   with Mastercard
 date: 2016-08-25 21:28:00 Z
-hero-image: "/uploads/mastercard.jpg"
+hero-image: "/uploads/mastercard-image-8e6fed.jpg"
 hero-video: 
 noindex: true
 general:
