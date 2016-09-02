@@ -100,6 +100,8 @@ general:
 layout: accordion
 ---
 
+![mastercardlogo100x100.png](/uploads/mastercardlogo100x100.png)
+
 Mastercard has partnered with Inside Retail to deliver advice, seminars, masterclasses and tools to help small and medium sized businesses succeed.
 
 As a market leader in digital payments and a partner of The Autumn Fair, Mastercard is positioned to help the SME community achieve business objectives.
