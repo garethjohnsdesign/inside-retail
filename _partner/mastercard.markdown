@@ -101,7 +101,6 @@ general:
     This will demonstrate to customers that your business accepts secure digital payments which will help drive transactions. All you need to do is fill in your details below so that we can send this to you. Please allow 14 working days to receive this.
 
     <br><br>
-    <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
     <form id="mktoForm_6018"></form>
     <script>MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 6018);</script>
     <br><br>
