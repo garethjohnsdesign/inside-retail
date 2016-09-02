@@ -82,9 +82,9 @@ general:
 
     Click on the image below and your the download will automatically begin.
     <br>
-
-    <a href="/uploads/mastercard_pos.zip" download="mastercard-POS">
-      <img border="0" src="/uploads/mastercard-pos.jpg" alt="download">
+    <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
+    <form id="mktoForm_6018"></form>
+    <script>MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 6018);</script>
     </a>
     <br>
 
