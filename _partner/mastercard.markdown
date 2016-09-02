@@ -92,7 +92,7 @@ general:
     <a href="/uploads/mastercarddigital_poshorizontal_mini.jpg" download="mastercard-pos3" title="mastercard-pos3">
         <img src="/uploads/mastercarddigital_poshorizontal_mini.jpg" alt="mastercard-pos3">
     <br>
-
+    <br>
 
 
     ### Register for physical POS
