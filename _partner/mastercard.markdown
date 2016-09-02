@@ -10,16 +10,18 @@ general:
   text: |-
     ![insideretail-comp-image3.gif](/uploads/insideretail-comp-image3.gif)
 
+    We have three Priceless experiences to give away including a trip to Rome for two adults!
+
     <br>
-    **How to enter:**
+    **How to enter this competition, courtesy of Mastercard:**
 
     1. Simply [download](http://www.insideretail.com/uploads/Mastercard-Special-Report.pdf) and/or register below for free digital or physical POS, display this in your retail environment (either online or instore).
 
     2. Send us a photo or a screenshot that showcases your MasterCard branded digital or physical POS in your retail environment to <a href="mailto:MasterCardPOS@biggroup.co.uk?Subject=Win a Priceless experience, courtesy of Mastercard" target="_top">MasterCardPOS@biggroup.co.uk</a>
 
-    3. Once verified, you will be entered into a prize draw to win one the Priceless experiences available, including a Priceless Cities trip to Rome for two adults, tickets to a London Merlin attraction or a night at the theatre.
+    3. Once verified, you will be entered into a prize draw to win one the Priceless experiences available, including a Priceless Cities trip to Rome for two adults, tickets to a London Merlin attraction or a night at the theatre, courtesy of Mastercard.
 
-    All submissions must be received by 23.59 on the 6th October 2016. 18\+ UK only. Please see [full T&Cs](http://www.insideretail.com/partner/terms-and-conditions/).
+    All submissions must be received by Mastercard by 23.59 on the 6th October 2016. 18\+ UK only. Please see [full T&Cs](http://www.insideretail.com/partner/terms-and-conditions/).
 
     <br><br>
     <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
