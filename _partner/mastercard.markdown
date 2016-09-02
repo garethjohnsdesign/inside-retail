@@ -76,7 +76,7 @@ general:
 
     <a href="http://www.autumnfair.com/Content/Mastercard-Seminars" class="accordion__button" target="_blank">View Seminars</a>
 - title: Download free Mastercard-branded point-of-sale material
-  text: |-
+  text: |+
     ### Download digital POS
     <br>
     Download **complimentary MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
@@ -97,6 +97,8 @@ general:
     <br>
 
 
+- title: Register for free physical point-of-sale material
+  text: |-
     ### Register for physical POS
 
     If you cannot make Autumn Fair – don’t worry – register here to receive a complimentary pack of Mastercard branded point of sale materials to display in your retail environments, consisting of:
