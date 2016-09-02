@@ -75,12 +75,21 @@ general:
 
     <a href="http://www.autumnfair.com/Content/Mastercard-Seminars" class="accordion__button" target="_blank">View Seminars</a>
 - title: Download free Mastercard-branded point-of-sale material
-  text: |-
+  text: |2-
+
+
     ### Download digital POS
 
     Download **complimentary MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
 
-    <a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="secondary hollow accordion__button">Download Here</a>
+    Click on the image you would like to use and the download will automatically begin.
+
+    ![mastercarddigital_posstacked2_mini.jpg](/uploads/mastercarddigital_posstacked2_mini.jpg)
+
+    ![mastercarddigital_posstacked1_mini.jpg](/uploads/mastercarddigital_posstacked1_mini.jpg)
+
+    ![mastercarddigital_poshorizontal_mini.jpg](/uploads/mastercarddigital_poshorizontal_mini.jpg)
+
 
     ### Register for physical POS
 
