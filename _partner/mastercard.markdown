@@ -84,11 +84,9 @@ general:
 
     Click on the image you would like to use and the download will automatically begin.
 
-    ![mastercarddigital_posstacked2_mini.jpg](/uploads/mastercarddigital_posstacked2_mini.jpg)
-
-    ![mastercarddigital_posstacked1_mini.jpg](/uploads/mastercarddigital_posstacked1_mini.jpg)
-
-    ![mastercarddigital_poshorizontal_mini.jpg](/uploads/mastercarddigital_poshorizontal_mini.jpg)
+    <a href="/uploads/mastercarddigital_posstacked1_mini.jpg" download="POS1">
+      <img border="0" src="/uploads/mastercarddigital_posstacked1_mini.jpg" alt="download1">
+    </a>
 
 
     ### Register for physical POS
