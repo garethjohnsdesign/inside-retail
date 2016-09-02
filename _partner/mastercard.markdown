@@ -95,7 +95,6 @@ general:
       <img border="0" src="/uploads/mastercarddigital_poshorizontal_mini.jpg" alt="download1">
     </a>
     <br>
-    <br>
 
     ### Register for physical POS
 
