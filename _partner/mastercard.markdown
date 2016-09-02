@@ -83,7 +83,8 @@ general:
     Click on the image below and your the download will automatically begin.
     <br>
 
-    <a href="/uploads/mastercard_pos.zip" download="mastercard-POS">
+
+    <a href="/uploads/mastercard-pos.jpg" download="mastercard-POS">
       <img border="0" src="/uploads/mastercard_pos.zip" alt="download">
     </a>
     <br>
