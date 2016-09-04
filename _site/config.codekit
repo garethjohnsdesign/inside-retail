@@ -707,6 +707,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/articles\/payments-revolution-report\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/articles\/payments-revolution-report\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/articles\/retail-rescue\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2153,6 +2162,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/uploads\/mastercard-image-8e6fed.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89770,
+		"inputAbbreviatedPath": "\/_site\/uploads\/mastercard-image-8e6fed.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/mastercard-image-8e6fed.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/mastercard-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89770,
+		"inputAbbreviatedPath": "\/_site\/uploads\/mastercard-image.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/mastercard-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/mastercard-pos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76279,
+		"inputAbbreviatedPath": "\/_site\/uploads\/mastercard-pos.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/mastercard-pos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/mastercard.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2160,6 +2202,50 @@
 		"initialSize": 122300,
 		"inputAbbreviatedPath": "\/_site\/uploads\/mastercard.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/mastercard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/mastercarddigital_poshorizontal_mini.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37742,
+		"inputAbbreviatedPath": "\/_site\/uploads\/mastercarddigital_poshorizontal_mini.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/mastercarddigital_poshorizontal_mini.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/mastercarddigital_posstacked1_mini.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16768,
+		"inputAbbreviatedPath": "\/_site\/uploads\/mastercarddigital_posstacked1_mini.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/mastercarddigital_posstacked1_mini.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/mastercarddigital_posstacked2_mini.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18041,
+		"inputAbbreviatedPath": "\/_site\/uploads\/mastercarddigital_posstacked2_mini.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/mastercarddigital_posstacked2_mini.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/mastercardlogo100x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8218,
+		"inputAbbreviatedPath": "\/_site\/uploads\/mastercardlogo100x100.png",
+		"outputAbbreviatedPath": "\/_site\/uploads\/mastercardlogo100x100.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2215,6 +2301,39 @@
 		"initialSize": 74606,
 		"inputAbbreviatedPath": "\/_site\/uploads\/payments-revolution.jpg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/payments-revolution.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/pos-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8378,
+		"inputAbbreviatedPath": "\/_site\/uploads\/pos-1.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/pos-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/pos-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9235,
+		"inputAbbreviatedPath": "\/_site\/uploads\/pos-2.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/pos-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/pos-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19353,
+		"inputAbbreviatedPath": "\/_site\/uploads\/pos-3.jpg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/pos-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3396,6 +3515,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_uploads\/mastercard-image-8e6fed.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89770,
+		"inputAbbreviatedPath": "\/_uploads\/mastercard-image-8e6fed.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/mastercard-image-8e6fed.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/mastercard-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89770,
+		"inputAbbreviatedPath": "\/_uploads\/mastercard-image.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/mastercard-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/mastercard-pos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76279,
+		"inputAbbreviatedPath": "\/_uploads\/mastercard-pos.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/mastercard-pos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_uploads\/mastercard.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3403,6 +3555,50 @@
 		"initialSize": 122300,
 		"inputAbbreviatedPath": "\/_uploads\/mastercard.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/mastercard.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/mastercarddigital_poshorizontal_mini.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37742,
+		"inputAbbreviatedPath": "\/_uploads\/mastercarddigital_poshorizontal_mini.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/mastercarddigital_poshorizontal_mini.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/mastercarddigital_posstacked1_mini.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16768,
+		"inputAbbreviatedPath": "\/_uploads\/mastercarddigital_posstacked1_mini.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/mastercarddigital_posstacked1_mini.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/mastercarddigital_posstacked2_mini.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18041,
+		"inputAbbreviatedPath": "\/_uploads\/mastercarddigital_posstacked2_mini.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/mastercarddigital_posstacked2_mini.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/mastercardlogo100x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8218,
+		"inputAbbreviatedPath": "\/_uploads\/mastercardlogo100x100.png",
+		"outputAbbreviatedPath": "\/_uploads\/mastercardlogo100x100.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3458,6 +3654,39 @@
 		"initialSize": 74606,
 		"inputAbbreviatedPath": "\/_uploads\/payments-revolution.jpg",
 		"outputAbbreviatedPath": "\/_uploads\/payments-revolution.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/pos-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8378,
+		"inputAbbreviatedPath": "\/_uploads\/pos-1.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/pos-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/pos-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9235,
+		"inputAbbreviatedPath": "\/_uploads\/pos-2.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/pos-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/pos-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19353,
+		"inputAbbreviatedPath": "\/_uploads\/pos-3.jpg",
+		"outputAbbreviatedPath": "\/_uploads\/pos-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
