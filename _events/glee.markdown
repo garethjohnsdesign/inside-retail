@@ -1,5 +1,6 @@
 ---
 title: Glee
+published: false
 position: 2
 location: NEC Birmingham
 period: 12–14 September 2016
