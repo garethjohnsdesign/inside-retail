@@ -93,3 +93,5 @@ date_format: "%b %d, %Y"
 future: true
 exclude:
 - bower_components
+twitter:
+  username: InsideRetailUK
