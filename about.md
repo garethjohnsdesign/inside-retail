@@ -17,6 +17,6 @@ Want to partner with us and bring more great content to the indie retailer commu
 We’d love to hear from you.
 Download our brochure for more information or contact us via the email below. 
 
-[**Download Partnership Opportunities Brochure >**](/uploads/Inside%20Retail%20Partnership%20Opportunities%20-%20Final_25Aug16.pdf)
+<a href="/uploads/Inside%20Retail%20Partnership%20Opportunities%20-%20Final_25Aug16.pdf" class="button">Download Partnership Opportunities Brochure</a>
 
 **Email us:** [insideretail@ascential.com](mailto:insideretail@ascential.com)
