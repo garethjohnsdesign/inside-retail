@@ -49,32 +49,6 @@ general:
     * Looking to the future
 
     <a href="http://www.insideretail.com/uploads/Mastercard-Special-Report.pdf" class="accordion__button">Download Report</a>
-- title: Attend Masterclasses and Seminars at Autumn Fair
-  text: |-
-    ![insideretail-attend-image.jpg](/uploads/insideretail-attend-image.jpg)
-
-    <br>
-    **When you attend a Mastercard masterclass you will receive a complimentary pack of Mastercard branded point of sale materials to display in your retail environments, consisting of:**
-
-    * A chip and pin POS
-
-    * A tent till topper
-
-    * A window sticker
-
-    500 complimentary packs of Mastercard branded point of sale materials are available across all masterclasses and seminars and will be issued on a strictly first come first served basis.
-
-    ### Masterclasses – Limited Spaces Available – Apply today to avoid disappointment
-
-    Attend one of our 6 masterclasses to gain valuable insights into what the digital payments revolution means for your business. These masterclasses are specifically designed for Independent Retailers and small and medium sized businesses.
-
-    <a href="http://www.autumnfair.com/Content/Mastercard-Masterclasses" class="accordion__button" target="_blank">Apply to Attend</a>
-
-    ### Seminars – Free to Attend – No booking required
-
-    Attend one of our three seminars to hear how the payments revolution is boosting retailers’ businesses and how to use it in yours.
-
-    <a href="http://www.autumnfair.com/Content/Mastercard-Seminars" class="accordion__button" target="_blank">View Seminars</a>
 - title: Download free Mastercard-branded point-of-sale material
   text: |+
     ### Download digital POS
