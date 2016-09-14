@@ -1,5 +1,6 @@
 ---
 title: Autumn Fair
+published: false
 position: 1
 location: NEC Birmingham
 period: 4-7 September 2016
