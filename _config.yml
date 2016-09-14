@@ -84,7 +84,8 @@ company: i2i Events Group
 email: insideretail@ascential.com
 facebook: https://www.facebook.com/InsideRetailUK
 instagram: https://www.instagram.com/insideretail
-twitter: https://twitter.com/InsideRetailUK
+twitter:
+  username: InsideRetailUK
 linkedin: https://www.linkedin.com/insideretail
 googleplus: https://plus.google.com/+InsideRetail
 logo: "/assets/img/layout/logo.svg"
@@ -93,5 +94,3 @@ date_format: "%b %d, %Y"
 future: true
 exclude:
 - bower_components
-twitter:
-  username: InsideRetailUK
