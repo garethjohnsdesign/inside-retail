@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - ecommerce
+image: "/uploads/brothers-we-stand-3.jpg"
 excerpt-image: "/uploads/brothers-we-stand-3.jpg"
 excerpt-text: Creating a successful and ethical menswear offering
 hero-image: "/uploads/brothers-we-stand-3.jpg"
