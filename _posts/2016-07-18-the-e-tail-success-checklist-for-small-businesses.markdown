@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - marketing
+image: "/uploads/etail-success-checklist.jpg"
 excerpt-image: "/uploads/etail-success-checklist.jpg"
 excerpt-text: Online retail guru Martin Newman reveals how indies can beat the big
   boys online

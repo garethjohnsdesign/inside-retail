@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - ecommerce
+image: "/uploads/ft_wrc-video.jpg"
 excerpt-image: "/uploads/ft_wrc-video.jpg"
 excerpt-text: Senior retailers speak (video)
 hero-video: mXhFpkF9JO8

@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - marketing
+image: "/uploads/how-to-create-your-pr-strategy.jpg"
 excerpt-image: "/uploads/how-to-create-your-pr-strategy.jpg"
 excerpt-text: 'Even the smallest businesses can benefit from well-thought out communications.  '
 hero-image: "/uploads/how-to-create-your-pr-strategy.jpg"

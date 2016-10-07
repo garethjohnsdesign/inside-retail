@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - inspiration
+image: "/uploads/Young-Ideas-Ashbourne-store-excerpt-and-hero.jpg"
 excerpt-image: "/uploads/Young-Ideas-Ashbourne-store-excerpt-and-hero.jpg"
 excerpt-text: Uncertain economy? Society in turmoil? You can still start a business.
 hero-image: "/uploads/Young-Ideas-Ashbourne-store-excerpt-and-hero.jpg"

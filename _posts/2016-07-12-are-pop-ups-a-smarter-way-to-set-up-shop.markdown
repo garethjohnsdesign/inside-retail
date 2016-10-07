@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - in-store
+image: "/uploads/are-pop-ups-a-smarter-way-to-set-up-shop.jpg"
 excerpt-image: "/uploads/are-pop-ups-a-smarter-way-to-set-up-shop.jpg"
 excerpt-text: Your pop-up questions answered
 hero-video: 

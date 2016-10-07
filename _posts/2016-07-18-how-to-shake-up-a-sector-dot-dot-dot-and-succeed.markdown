@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - inspiration
+image: "/uploads/prezola-how-to-shake-up-a-sector.jpg"
 excerpt-image: "/uploads/prezola-how-to-shake-up-a-sector.jpg"
 excerpt-text: 'Going digital in a traditional market to thrive '
 hero-image: "/uploads/prezola-how-to-shake-up-a-sector.jpg"

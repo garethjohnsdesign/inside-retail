@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - inspiration
+image: "/uploads/how-you-can-get-involved-in-the-circular-economy-1.jpg"
 excerpt-image: "/uploads/how-you-can-get-involved-in-the-circular-economy-1.jpg"
 excerpt-text: 'Beyond Retro’s Stephen Bethell explains how we can all make the most
   of a virtuous approach '

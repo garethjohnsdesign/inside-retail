@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - in-store
+image: "/uploads/how-to-expand-from-your-first-store.jpg"
 excerpt-image: "/uploads/how-to-expand-from-your-first-store.jpg"
 excerpt-text: Guidance from a property expert
 hero-video: 

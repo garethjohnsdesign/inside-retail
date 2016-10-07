@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - in-store
+image: "/uploads/gs-mindful-expansion-aria-crafts.jpg"
 excerpt-image: "/uploads/gs-mindful-expansion-aria-crafts.jpg"
 excerpt-text: 'How Aria Crafts moved from supplier to retailer '
 hero-image: "/uploads/gs-mindful-expansion-aria-crafts.jpg"

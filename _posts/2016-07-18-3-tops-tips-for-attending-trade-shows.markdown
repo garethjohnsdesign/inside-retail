@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - in-store
+image: "/uploads/report4-3-quick-tips-for-attending-trade-shows.jpg"
 excerpt-image: "/uploads/report4-3-quick-tips-for-attending-trade-shows.jpg"
 excerpt-text: What do buyers advise?
 hero-image: "/uploads/report4-3-quick-tips-for-attending-trade-shows.jpg"

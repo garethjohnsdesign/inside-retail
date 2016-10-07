@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - inspiration
+image: "/uploads/why-its-time-to-diversify-3.jpg"
 excerpt-image: "/uploads/why-its-time-to-diversify-3.jpg"
 excerpt-text: If you want to keep your customers interested, surprise them
 hero-image: "/uploads/why-its-time-to-diversify-3.jpg"

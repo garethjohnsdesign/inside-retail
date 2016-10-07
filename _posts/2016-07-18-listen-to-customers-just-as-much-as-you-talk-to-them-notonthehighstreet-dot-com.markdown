@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - ecommerce
+image: "/uploads/bo-listen-to-your-customers-notonthehighstreet-1.jpg"
 excerpt-image: "/uploads/bo-listen-to-your-customers-notonthehighstreet-1.jpg"
 excerpt-text: Marketing lessons from Simon Belsham
 hero-image: "/uploads/bo-listen-to-your-customers-notonthehighstreet-1.jpg"

@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - in-store
+image: "/uploads/Martin-Holland-2.jpg"
 excerpt-image: "/uploads/Martin-Holland-2.jpg"
 excerpt-text: 'Shop redesign: advice from the winner of the Great Interior Design
   Challenge'

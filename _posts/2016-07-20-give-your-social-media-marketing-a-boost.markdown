@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - ecommerce
+image: "/uploads/uar-give-your-social-media-marketing-a-boost.jpg"
 excerpt-image: "/uploads/uar-give-your-social-media-marketing-a-boost.jpg"
 excerpt-text: 'Video: Facebook shares its top tips for indies'
 hero-video: m9qtLCgYEhw

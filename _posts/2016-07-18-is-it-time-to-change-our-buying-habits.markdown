@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - in-store
+image: "/uploads/report1-ime-to-change-buying-habits-comment.jpg"
 excerpt-image: "/uploads/report1-ime-to-change-buying-habits-comment.jpg"
 excerpt-text: 'Flexible thinking '
 hero-image: "/uploads/report1-ime-to-change-buying-habits-comment.jpg"

@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - in-store
+image: "/uploads/gs-small-and-local-2.jpg"
 excerpt-image: "/uploads/gs-small-and-local-2.jpg"
 excerpt-text: A 20-point checklist for indie retail success
 hero-image: "/uploads/gs-small-and-local-2.jpg"

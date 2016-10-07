@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - ecommerce
+image: "/uploads/payments-revolution.jpg"
 excerpt-image: "/uploads/payments-revolution.jpg"
 excerpt-text: A special report, in association with Mastercard, on what the digital
   payments revolution means for independent retailers

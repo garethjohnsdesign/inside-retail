@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - inspiration
+image: "/uploads/william-kim.jpg"
 excerpt-image: "/uploads/william-kim.jpg"
 excerpt-text: Why wait, says William Kim, All Saints global CEO
 hero-video: T5YeUcDcyKM

@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - in-store
+image: "/uploads/uar-hof-hangout.jpg"
 excerpt-image: "/uploads/uar-hof-hangout.jpg"
 excerpt-text: 'Thoughts from House of Fraser’s Claudia Batistall '
 hero-image: "/uploads/uar-hof-hangout.jpg"

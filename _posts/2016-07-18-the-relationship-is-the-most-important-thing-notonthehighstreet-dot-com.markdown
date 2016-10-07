@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - ecommerce
+image: "/uploads/bo-the-relationship.jpg"
 excerpt-image: "/uploads/bo-the-relationship.jpg"
 excerpt-text: Supply chain lessons from Simon Belsham
 hero-image: "/uploads/bo-the-relationship.jpg"

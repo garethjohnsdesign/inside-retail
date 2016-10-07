@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - marketing
+image: "/uploads/style-them.jpg"
 excerpt-image: "/uploads/style-them.jpg"
 excerpt-text: 'TV stylist: how indie retailers can beat the high street'
 hero-video: q3GWzTAtFmI

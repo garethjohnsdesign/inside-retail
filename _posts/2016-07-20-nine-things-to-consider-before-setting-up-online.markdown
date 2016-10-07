@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - ecommerce
+image: "/uploads/uar-nine-things-to-consider-before-setting-up-online.jpg"
 excerpt-image: "/uploads/uar-nine-things-to-consider-before-setting-up-online.jpg"
 excerpt-text: 'A beginner’s ecommerce checklist '
 hero-image: "/uploads/uar-nine-things-to-consider-before-setting-up-online.jpg"

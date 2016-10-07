@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - ecommerce
+image: "/uploads/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg"
 excerpt-image: "/uploads/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg"
 excerpt-text: Six winning retail ways
 hero-image: "/uploads/bo-how-to-be-successful-in-a-new-shopping-landscape.jpg"

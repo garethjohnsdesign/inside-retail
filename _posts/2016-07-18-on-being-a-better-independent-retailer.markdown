@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - in-store
+image: "/uploads/ft-on-being-a-better-independent-retailer.jpg"
 excerpt-image: "/uploads/ft-on-being-a-better-independent-retailer.jpg"
 excerpt-text: '5 unbreakable rules '
 hero-image: "/uploads/ft-on-being-a-better-independent-retailer.jpg"

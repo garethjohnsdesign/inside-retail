@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - ecommerce
+image: "/uploads/gs-how-to-get-started-online-Martin-Newman.jpg"
 excerpt-image: "/uploads/gs-how-to-get-started-online-Martin-Newman.jpg"
 excerpt-text: Martin Newman answers your 7 ecommerce starter questions
 hero-image: "/uploads/gs-how-to-get-started-online-Martin-Newman.jpg"

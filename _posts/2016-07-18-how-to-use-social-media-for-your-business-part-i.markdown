@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - marketing
+image: "/uploads/how-to-use-social-media-for-your-business.jpg"
 excerpt-image: "/uploads/how-to-use-social-media-for-your-business.jpg"
 excerpt-text: 'Confused? Don’t be. Read this and get started   '
 hero-video: 33DA1hp7_LY

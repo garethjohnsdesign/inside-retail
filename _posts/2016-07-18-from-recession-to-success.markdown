@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - in-store
+image: "/uploads/gs-rom-recession-to-success-young-ideas.jpg"
 excerpt-image: "/uploads/gs-rom-recession-to-success-young-ideas.jpg"
 excerpt-text: 'Anne Wright, owner of award-winning Young Ideas, shares her story and
   tips '

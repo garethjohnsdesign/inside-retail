@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - inspiration
+image: "/uploads/geoff-quinn.jpg"
 excerpt-image: "/uploads/geoff-quinn.jpg"
 excerpt-text: From a CEO who has grown a brand from one London store to 160 globally.
 hero-video: oWspyZPD-eY

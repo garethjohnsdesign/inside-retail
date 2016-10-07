@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - inspiration
+image: "/uploads/branding-lesons-from-a-retail-legend.jpg"
 excerpt-image: "/uploads/branding-lesons-from-a-retail-legend.jpg"
 excerpt-text: The man who made Mulberry talks branding
 hero-video: sYATjkmUw0M

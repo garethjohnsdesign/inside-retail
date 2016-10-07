@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - inspiration
+image: "/uploads/advice-from-the-export-experts.jpg"
 excerpt-image: "/uploads/advice-from-the-export-experts.jpg"
 excerpt-text: Looking to export? Then spend 1m 49s watching this
 hero-video: w3YvWZPBOFI

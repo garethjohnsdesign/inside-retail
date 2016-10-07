@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - in-store
+image: "/uploads/why-tell-your-finacial-story.jpg"
 excerpt-image: "/uploads/why-tell-your-finacial-story.jpg"
 excerpt-text: Five tips to get started
 hero-image: "/uploads/why-tell-your-finacial-story.jpg"

@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - in-store
+image: "/uploads/report2-seasonalbuying-surveyresults.jpg"
 excerpt-image: "/uploads/report2-seasonalbuying-surveyresults.jpg"
 excerpt-text: 'Retail buying survey: results '
 hero-image: "/uploads/report2-seasonalbuying-surveyresults.jpg"

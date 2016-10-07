@@ -5,6 +5,7 @@ categories:
 - branching-out
 tags:
 - inspiration
+image: "/uploads/saxa.jpg"
 excerpt-image: "/uploads/saxa.jpg"
 excerpt-text: 'Saxa Stores is making a business out of virtue '
 hero-video: LNgTXaMaN-8

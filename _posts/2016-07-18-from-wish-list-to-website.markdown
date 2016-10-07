@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - ecommerce
+image: "/uploads/gs-from-wish-list-to-website-aubeterre-blue.jpg"
 excerpt-image: "/uploads/gs-from-wish-list-to-website-aubeterre-blue.jpg"
 excerpt-text: Aubeterre Blue co-founder Piers Johnson talks process
 hero-image: "/uploads/gs-from-wish-list-to-website-aubeterre-blue.jpg"

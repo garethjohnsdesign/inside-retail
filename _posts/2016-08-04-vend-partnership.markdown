@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - in-store
+image: "/uploads/partner-video-excert.jpg"
 excerpt-image: "/uploads/partner-video-excert.jpg"
 excerpt-text: How to use customer and sales info to grow your business
 hero-image: "/uploads/partner-video-submit.jpg"

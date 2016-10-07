@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - ecommerce
+image: "/uploads/shackleton.jpg"
 excerpt-image: "/uploads/shackleton.jpg"
 excerpt-text: 'Shackleton’s journey from banjos to brand building '
 hero-image: "/uploads/shackleton.jpg"

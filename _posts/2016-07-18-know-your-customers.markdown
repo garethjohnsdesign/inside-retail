@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - in-store
+image: "/uploads/report3-know-your-customer.jpg"
 excerpt-image: "/uploads/report3-know-your-customer.jpg"
 excerpt-text: '11 ways to work through data and trends '
 hero-image: "/uploads/report3-know-your-customer.jpg"

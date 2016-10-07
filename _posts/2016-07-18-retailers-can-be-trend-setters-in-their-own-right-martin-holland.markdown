@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - in-store
+image: "/uploads/Martin-Holland-4.jpg"
 excerpt-image: "/uploads/Martin-Holland-4.jpg"
 hero-video: 9KTJTTMTnIE
 length: 40 seconds

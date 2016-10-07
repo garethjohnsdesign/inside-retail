@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - inspiration
+image: "/uploads/how-to-maximize-supplier-relationship-3.jpg"
 excerpt-image: "/uploads/how-to-maximize-supplier-relationship-3.jpg"
 excerpt-text: 'It’s a crucial partnership, so what can you ask for?   '
 hero-video: N0rd_TsfSMg

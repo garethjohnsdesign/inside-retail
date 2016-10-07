@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - in-store
+image: "/uploads/gs-mountain-warehouse.jpg"
 excerpt-image: "/uploads/gs-mountain-warehouse.jpg"
 excerpt-text: Seize opportunities, manage risk and be open-minded
 hero-image: "/uploads/gs-mountain-warehouse.jpg"

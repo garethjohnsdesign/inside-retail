@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - in-store
+image: "/uploads/uar-customer-appeal-martin-butler.jpg"
 excerpt-image: "/uploads/uar-customer-appeal-martin-butler.jpg"
 excerpt-text: '5 ways to ensure your business is ‘the chosen one’ '
 hero-image: "/uploads/uar-customer-appeal-martin-butler.jpg"
@@ -50,9 +51,11 @@ Keep it passionate, and change the world for the better by knowing exactly why y
 
 Hey big surprise, customers are 100 per cent human beings... so always keep it appropriate and personal. 
 
-Most importantly remember, according to various statistics, women control over 85 per cent of customer spending including 60 per cent of boys’ toys and incredibly they influence 70 per cent of male fashions. 
+Most importantly remember, according to various statistics, women control over 85 per cent of customer spending including 60 per cent of boys’ toys and incredibly they influence 70 per cent of male
+fashions. 
 
-It doesn’t really matterhow accurate these actual figures are in your particular village, city or country - you get my point. When it comes to customers, women are significantly more important than the 51 per cent they represent numerically! 
+It doesn’t really matterhow accurate these actual
+figures are in your particular village, city or country - you get my point. When it comes to customers, women are significantly more important than the 51 per cent they represent numerically! 
 
 ### 4 TRUST
 

@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - in-store
+image: "/uploads/gs_setting-up-shop-essentials.jpg"
 excerpt-image: "/uploads/gs_setting-up-shop-essentials.jpg"
 excerpt-text: 'The all-important basics for indie success '
 hero-image: "/uploads/gs_setting-up-shop-essentials.jpg"
@@ -24,11 +25,12 @@ There are any number of reasons, but here are seven to remember.
 
 From the outset the single most important element is location.  It’s common sense but surprising how frequently independent retailers overlook the basics. When looking at where to rent a unit don’t make assumptions about the local demographic. 
 
-Putting cans of car engine oil on the shelves of a store in an area with very low per capita car ownership is unlikely to reap ready rewards. Equally, when it comes to fashion, towns and districts that have a more mature population are not going to favour teenwear, for example. 
+Putting cans of car engine oil on the shelves of a store in an area with very low per capita car ownership is unlikely to reap ready rewards. Equally, when it comes to fashion, towns and districts that have a more mature population are not going to favour teenwear, for example. 
 
 ### 2 LOCATION… can you achieve standout, or will you be one of many?
 
-And don’t forget to check out the local competition. If there are three other shops like the one you are proposing, think again. 
+And don’t forget to check out
+the local competition. If there are three other shops like the one you are proposing, think again. 
 
 Research about an area can be as simple as having a coffee at different times of day in a local café a couple of times a week for several weeks. Do this and the chances are good that you’ll understand the shoppers in an area and whether they’ll want what you intend to offer. 
 
@@ -42,7 +44,8 @@ Another element is the size of unit. A large shop needs a certain minimum stock 
 
 ### 5 FIT-OUT… a good idea will always trump expensive shop equipment. 
 
-Once all the location boxes are ticked and stock can be afforded, what else is vital? The answer is ‘fit-out’. Just buying a few fixtures and some second-hand mannequins may seem like the right thing, but unless all of the parts equate to a themed whole, then this is a dog that won’t bark. 
+Once all the location boxes are ticked and stock can be afforded, what else is vital? The answer is ‘fit-out’.
+Just buying a few fixtures and some second-hand mannequins may seem like the right thing, but unless all of the parts equate to a themed whole, then this is a dog that won’t bark. 
 
 Sometimes rough and ready, when set against carefully crafted stock can make for an interesting juxtaposition. There’s more to store design and layout than just ensuring everything has a place – shoppers need to feel a sense of difference and that they are welcome – and don’t forget that lighting can be the difference between very good and less so. 
 

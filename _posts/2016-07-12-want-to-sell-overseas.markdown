@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - ecommerce
+image: "/uploads/want-to-sell-overseas.jpg"
 excerpt-image: "/uploads/want-to-sell-overseas.jpg"
 excerpt-text: Google shares its top tips
 hero-video: 

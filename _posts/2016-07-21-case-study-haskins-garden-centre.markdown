@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - inspiration
+image: "/uploads/haskins-diversify-high.jpg"
 excerpt-image: "/uploads/haskins-diversify-high.jpg"
 excerpt-text: How new services and products have helped this business bloom
 hero-image: "/uploads/haskins-diversify-high.jpg"

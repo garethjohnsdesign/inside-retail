@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - in-store
+image: "/uploads/report5-how-we-buy-now.jpg"
 excerpt-image: "/uploads/report5-how-we-buy-now.jpg"
 excerpt-text: What do buyers say?
 hero-image: "/uploads/report5-how-we-buy-now.jpg"

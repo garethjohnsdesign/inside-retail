@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - marketing
+image: "/uploads/from-kitchen-table.jpg"
 excerpt-image: "/uploads/from-kitchen-table.jpg"
 excerpt-text: Julie Deane made the Cambridge Satchel Company a £40m business. Hear
   how

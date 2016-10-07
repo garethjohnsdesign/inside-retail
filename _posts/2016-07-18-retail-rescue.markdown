@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - in-store
+image: "/uploads/ft-bira.jpg"
 excerpt-image: "/uploads/ft-bira.jpg"
 excerpt-text: BIRA’s top tips on improving business performance
 hero-image: "/uploads/ft-bira.jpg"

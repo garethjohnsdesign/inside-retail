@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - ecommerce
+image: "/uploads/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg"
 excerpt-image: "/uploads/gs-the-abcs-of-creating-a-successful-online-gifting-business-2.jpg"
 excerpt-text: 'The Letteroom: From personalisation to partnership '
 hero-video: yMl-JsHJ1ZQ
