@@ -14,7 +14,6 @@ hero-cite: Martin Butler
 length: Four minute read
 ---
 
-
 Martin Butler is an author and lecturer specialising in how retail businesses can serve their customers better. 
 
 Here he shares his top 20 checklist for small and local business success: 

@@ -16,7 +16,6 @@ hero-cite: Jackie Jackson
 length: Four minute read
 ---
 
-
 The Letteroom started life in 2009 by sometimes operating out of a bathroom. Since then founders Jackie Jackson and Sherrie Mead have grown the online gifting retailer into a 
 a business with a raft of loyal customers and a full-time team. Here they explain how they did it and what they’ve learned along the way.
 

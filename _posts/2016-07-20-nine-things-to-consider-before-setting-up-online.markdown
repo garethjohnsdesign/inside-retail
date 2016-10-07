@@ -15,7 +15,6 @@ hero-cite: Martin Newman
 length: Five minute read
 ---
 
-
 Before building your first website, retail expert Martin Newman of Practicology outlines the key things you need to consider to ensure you win your share of business. 
 
 It is important to let customers choose how they shop with you, which is why it’s key to have a website alongside your first store as a channel for customers to engage with you. It also represents an opportunity for you to extend your reach to more customers over a broader geographical area than you can do with your local store business.

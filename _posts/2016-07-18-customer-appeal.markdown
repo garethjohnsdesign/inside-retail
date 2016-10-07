@@ -15,7 +15,6 @@ hero-cite: Martin Butler
 length: Four minute read
 ---
 
-
 There’s good news for small retailers. Customers prefer local. Author and lecturer Martin Butler explains why, and what you can do to boost your customer appeal.
 
 The future of retail is local! Not only does my global research indicate this... but Wal-Mart, the largest retailer on the planet, is on the record agreeing with it too. 

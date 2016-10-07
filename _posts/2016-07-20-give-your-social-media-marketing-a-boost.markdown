@@ -16,6 +16,5 @@ hero-cite: Courtney McNally
 length: 23 minute watch
 ---
 
-
 Time and budget constraints are a constant challenge for indies when it comes to marketing. But social media in particular offers smaller retailers some exciting ways to connect and engage with existing and new customers. What are the trends you need to be aware of? And how can you make the most of them? Here, Courtney McNally, client solutions manager at Facebook chats through ways to navigate through social media and boost your brand, sales and story as you go. 
  

@@ -16,7 +16,6 @@ hero-cite: Stella Hartley
 length: Five minute read
 ---
 
-
 If changing consumer behaviour is driving the move away from traditional seasons, it is even more important to be able to understand data and trends. Retail marketing expert Stella Hartley sets out the key rules. 
 
 The customer has always been King (or Queen) to retailers, now with the growth of e-commerce and digital media it seems we are sometimes overwhelmed with customer data, not only what customers have bought or spent but what they are thinking and feeling and how they are living their lives. 
