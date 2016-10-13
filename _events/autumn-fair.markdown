@@ -6,7 +6,7 @@ location: NEC Birmingham
 period: 4-7 September 2016
 link: http://www.autumnfair.com/mastercard-partnership
 image: "/uploads/autumn-fair.jpg"
-has-content: true
+has-content:
 ---
 
 [Masterclasses on “New Ways to Pay” and “Fighting Cybercrime”](http://www.autumnfair.com/Content/Mastercard-Masterclasses) - Limited Spaces Available
