@@ -6,7 +6,7 @@ location: NEC Birmingham
 period: 12–14 September 2016
 link: http://www.gleebirmingham.com
 image: "/uploads/glee.jpg"
-has-content:
+has-content: 
 ---
 
 [Keynote: Insights and Advice from Diarmuid Gavin, Diarmuid Gavin Designs](http://www.gleebirmingham.com/seminar/KEYNOTE-Insights-and-Advice)
