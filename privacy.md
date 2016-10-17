@@ -90,7 +90,7 @@ layout: page
 5\.3.Some of the cookies used by Ascential websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on an Ascential website(s) you may not be able to take full advantage of the website(s) if you do so.
 
 \
- 5.4.Certain cookies are either set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website. In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.\
+5\.4.Certain cookies are either set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website. In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.\\
 
 5\.5.In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.
 
@@ -103,8 +103,8 @@ Please be aware that Ascential does not control and is not responsible for websi
 7\.1.To access certain parts of the Ascential websites, Ascential may require you to register and provide certain information about yourself.
 
 7\.2.You are reminded that in addition to the provisions of this Privacy and Cookies Policy, where you register you also agree to:\
- (a) provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and\
- (b) maintain and promptly update the Registration Data to keep it fully up to date.
+\(a) provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and\
+\(b) maintain and promptly update the Registration Data to keep it fully up to date.
 
 **8. Call Monitoring for Quality Control**
 
