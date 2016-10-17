@@ -5,3 +5,19 @@ permalink: "/copyright/"
 layout: page
 ---
 
+Copyright (c) 2012 Ascential Events Limited. All rights reserved. Reprinted with the permission of Ascential Events Limited. Except for these specified uses, no part of the materials available in any the Ascential Events Limited website may be copied, photocopied, reproduced translated or reduced to any electronic medium or machine-readable form, in whole or in part, without prior written consent of Ascential Events Limited. Any other reproduction in any form without the permission of Ascential Events Limited is prohibited. Distribution for commercial purposes is prohibited.
+
+Written requests for reprint should be mailed or faxed to: Ascential Events Limited
+
+The Prow\
+ 1 Wilder Walk\
+ London\
+ W1B 5AP - UK
+
+T: \+44 (0) 20 7516 5000\
+ F: \+44 (0) 20 7516 5001
+
+**Disclaimer of warranties and limitation of liability**\
+ Ascential Events Limited uses reasonable care in publishing materials available in Ascential Events Limited websites. However, Ascential Events Limited does not guarantee their accuracy or completeness.
+
+Materials available in Ascential Events Limited websites are provided "as is" with no warranty, express or implied, and all such warranties hereby disclaimed. Ascential Events Limited assumes no liability for any loss, damage or expense from errors or omissions in the materials available in Ascential Events Limited websites, whether arising in contract or otherwise.
