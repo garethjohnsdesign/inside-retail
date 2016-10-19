@@ -24,7 +24,7 @@ general:
     All submissions must be received by Mastercard by 23.59 on the 6th October 2016. 18\+ UK only. Please see [full T&Cs](http://www.insideretail.com/partner/terms-and-conditions/).
 
     <br><br>
-    <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
+    <script src="///app-sj17.marketo.com/js/forms2/js/forms2.min.js"></script>
     <form id="mktoForm_6018"></form>
     <br><br>
 - title: Read our special report
@@ -86,7 +86,7 @@ general:
 
     <br><br>
     <form id="mktoForm_6018"></form>
-    <script>MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 6018);</script>
+    <script>MktoForms2.loadForm("///app-sj17.marketo.com", "324-QRH-396", 6018);</script>
     <br><br>
 layout: accordion
 ---
