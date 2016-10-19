@@ -50,8 +50,9 @@ general:
 
     <a href="http://www.insideretail.com/uploads/Mastercard-Special-Report.pdf" class="accordion__button">Download Report</a>
 - title: Download free Mastercard-branded point-of-sale material
-  text: |+
+  text: |-
     ### Download digital POS
+
     <br>
     Download **complimentary MasterCard branded digital point of sale material** to display in your digital retail environments and/or on your digital communications. This will demonstrate to customers that your business accepts digital payments which will help drive transactions.
 
@@ -60,17 +61,15 @@ general:
     <br>
     <br>
     <a href="/uploads/mastercarddigital_posstacked1_mini.jpg" download="mastercard-pos1" title="mastercard-pos1">
-        <img src="/uploads/mastercarddigital_posstacked1_mini.jpg" alt="mastercard-pos1">
+    <img src="/uploads/mastercarddigital_posstacked1_mini.jpg" alt="mastercard-pos1">
 
     <a href="/uploads/mastercarddigital_posstacked2_mini.jpg" download="mastercard-pos2" title="mastercard-pos2">
-        <img src="/uploads/mastercarddigital_posstacked2_mini.jpg" alt="mastercard-pos2">
+    <img src="/uploads/mastercarddigital_posstacked2_mini.jpg" alt="mastercard-pos2">
 
     <a href="/uploads/mastercarddigital_poshorizontal_mini.jpg" download="mastercard-pos3" title="mastercard-pos3">
-        <img src="/uploads/mastercarddigital_poshorizontal_mini.jpg" alt="mastercard-pos3">
+    <img src="/uploads/mastercarddigital_poshorizontal_mini.jpg" alt="mastercard-pos3">
     <br>
     <br>
-
-
 - title: Register for free physical point-of-sale material
   text: |-
     ### Register for physical POS
@@ -85,10 +84,9 @@ general:
 
     This will demonstrate to customers that your business accepts secure digital payments which will help drive transactions. All you need to do is fill in your details below so that we can send this to you. Please allow 14 working days to receive this.
 
-    <br><br>
+    <script src="//app-sjg.marketo.com/js/forms2/js/forms2.min.js"></script>
     <form id="mktoForm_6018"></form>
     <script>MktoForms2.loadForm("//app-sjg.marketo.com", "324-QRH-396", 6018);</script>
-    <br><br>
 layout: accordion
 ---
 
