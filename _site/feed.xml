@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://insideretail.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://insideretail.com/" rel="alternate" type="text/html" /><updated>2016-10-13T19:03:54+00:00</updated><id>http://insideretail.com/</id><title>Inside Retail</title><subtitle>The online destination for independent retailers. Whether you sell on the high street or online, are just getting started or tweaking the dream, you can find stories, tips, interviews and inspiration to help accelerate the growth of your business.</subtitle><entry><title>Payments Revolution Report</title><link href="http://insideretail.com/articles/payments-revolution-report/" rel="alternate" type="text/html" title="Payments Revolution Report" /><published>2016-08-31T21:12:00+00:00</published><updated>2016-08-31T21:12:00+00:00</updated><id>http://insideretail.com/articles/payments-revolution-report</id><content type="html" xml:base="http://insideretail.com/articles/payments-revolution-report/">&lt;h1 id=&quot;payments-revolution&quot;&gt;Payments Revolution&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://insideretail.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://insideretail.com/" rel="alternate" type="text/html" /><updated>2016-10-19T23:45:32+00:00</updated><id>http://insideretail.com/</id><title>Inside Retail</title><subtitle>The online destination for independent retailers. Whether you sell on the high street or online, are just getting started or tweaking the dream, you can find stories, tips, interviews and inspiration to help accelerate the growth of your business.</subtitle><entry><title>Payments Revolution Report</title><link href="http://insideretail.com/articles/payments-revolution-report/" rel="alternate" type="text/html" title="Payments Revolution Report" /><published>2016-08-31T21:12:00+00:00</published><updated>2016-08-31T21:12:00+00:00</updated><id>http://insideretail.com/articles/payments-revolution-report</id><content type="html" xml:base="http://insideretail.com/articles/payments-revolution-report/">&lt;h1 id=&quot;payments-revolution&quot;&gt;Payments Revolution&lt;/h1&gt;
 
 &lt;p&gt;Inside Retail has partnered with Mastercard to create this special report on what the digital payments revolution means for independent retailers.&lt;/p&gt;
 
@@ -45,19 +45,19 @@
 
 &lt;p&gt;Fill out the short form below to watch the video.&lt;/p&gt;
 
-&lt;script src=&quot;//app-sjg.marketo.com/js/forms2/js/forms2.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;//app-sj17.marketo.com/js/forms2/js/forms2.min.js&quot;&gt;&lt;/script&gt;
 
 &lt;form id=&quot;mktoForm_4966&quot;&gt;&lt;/form&gt;
 
 &lt;script&gt;
-MktoForms2.loadForm(&quot;//app-sjg.marketo.com&quot;, &quot;324-QRH-396&quot;, 4966, function(form) {
-    //Add an onSuccess handler
-    form.onSuccess(function(values, followUpUrl) {
-        // Take the lead to a different page on successful submit, ignoring the form&#39;s configured followUpUrl
-        location.href = &quot;http://insideretail.com/partner/vend-partnership-video&quot;;
-        // Return false to prevent the submission handler continuing with its own processing
-        return false;
-    });
+MktoForms2.loadForm(&quot;//app-sj17.marketo.com&quot;, &quot;324-QRH-396&quot;, 4966, function(form) {
+//Add an onSuccess handler
+form.onSuccess(function(values, followUpUrl) {
+// Take the lead to a different page on successful submit, ignoring the form&#39;s configured followUpUrl
+location.href = &quot;http://insideretail.com/partner/vend-partnership-video&quot;;
+// Return false to prevent the submission handler continuing with its own processing
+return false;
+});
 });
 &lt;/script&gt;</content><category term="in-store" /><summary>Looking for solutions to help drive your business forward?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://insideretail.com/uploads/partner-video-excert.jpg" /></entry><entry><title>Case study: Young Ideas</title><link href="http://insideretail.com/articles/case-study-young-ideas/" rel="alternate" type="text/html" title="Case study: Young Ideas" /><published>2016-07-21T16:21:00+00:00</published><updated>2016-07-21T16:21:00+00:00</updated><id>http://insideretail.com/articles/case-study-young-ideas</id><content type="html" xml:base="http://insideretail.com/articles/case-study-young-ideas/">&lt;p&gt;If you think that the recent strains of political, economic and social upheaval are reason enough to put off that stellar business plan, think again.&lt;/p&gt;
 
