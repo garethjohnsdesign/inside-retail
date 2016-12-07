@@ -20,7 +20,7 @@ During your first year of trading it’s difficult to know what will sell and wh
 “Only promote or highlight lines on your homepage, and in marketing communications, where you have deep stock,” advises Nicola Hollow, director of consulting at [Practicology](https://www.practicology.com/). “And think about discounting or promoting lines which are slow moving or are less likely to sell as Christmas gets nearer.
 
 **Top tip: Don’t waste prime spots on products that are likely to sell out anyway.** 
-
+<BR>
 
 ### 2 – Be ready to flex your marketing
 Ensure your marketing is planned but be prepared to be flexible to respond to promotions and price changes. 
