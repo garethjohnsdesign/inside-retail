@@ -5,9 +5,12 @@ categories:
 - up-and-running
 tags:
 - ecommerce
+excerpt-image: "/uploads/The_Letteroom_website.jpg"
+hero-image: "/uploads/The_Letteroom_website.jpg"
 hero-quote: "“Make sure your last delivery dates are achievable,” Nicola Hollow, director
   of consulting, Practicology"
 length: Three minute read
+top-image: "/uploads/The_Letteroom_website.jpg"
 ---
 
 December is a crucial trading month for online retailers. As seasonal selling starts in earnest, here are five essentials to help you make the most of it.
