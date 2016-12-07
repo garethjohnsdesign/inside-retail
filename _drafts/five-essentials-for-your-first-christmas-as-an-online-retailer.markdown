@@ -22,7 +22,6 @@ During your first year of trading it’s difficult to know what will sell and wh
 ### Top tip: Don’t waste prime spots on products that are likely to sell out anyway. 
 
 
-
 ### 2 – Be ready to flex your marketing
 Ensure your marketing is planned but be prepared to be flexible to respond to promotions and price changes. 
 
@@ -31,12 +30,10 @@ Ensure your marketing is planned but be prepared to be flexible to respond to pr
 ### Top tip: Have the right content ready (such as graphics) in advance so you can quickly change promotions as and when stock runs out.
  
 
-
 ### 3 – Deliver on time
 As well as ensuring you have good fast delivery options, don’t leave it too late. Hollow says: “Make sure your last delivery dates are achievable. A two-day delivery service may take three to four days nearer to Christmas and the last thing you want to do is disappoint your customers. Better to be safe than sorry.”
  
 ### Top tip: Staff up to ‘pick and pack’ to ensure customers receive the goods in the time you’ve promised.
-
 
 
 ### 4 – Shop your site
@@ -45,7 +42,6 @@ Just a store retailer walks their store to check everything is as it should be, 
 “By doing this regularly, you will be the first to know of any problems, not your customer,” says Hollow. 
 
 ### Top tip: Complete a purchase through to transaction and double check there are no problems with your payment provider. 
-
 
 
 ### 5 – Ramp up your customer service
