@@ -27,7 +27,8 @@ There’s a good reason you’re hearing a lot of social media noise. From comme
 
 Regardless of the size of your business, taking part in the cultural conversation and being reactive to hashtags and trending topics around Christmas can work well.
 
-Online gift retailer Prezzybox went as far as making [a parody ad](https://www.youtube.com/watch?v=mZmEWRg5SNE) of this year’s John Lewis TV ad. “It was relatively easy to do, we had a dog, goats and a trampoline so we thought ‘why not?’,” says Fran Prince, social and marketing executive. By using the same hashtags, the retailer notched up 9,000 views on Facebook and 4,000 views on the day it was released.*separate paragraph*.
+Online gift retailer Prezzybox went as far as making [a parody ad](https://www.youtube.com/watch?v=mZmEWRg5SNE) of this year’s John Lewis TV ad. “It was relatively easy to do, we had a dog, goats and a trampoline so we thought ‘why not?’,” says Fran Prince, social and marketing executive. By using the same hashtags, the retailer notched up 9,000 views on Facebook and 4,000 views on the day it was released.
+
 
 ### 2 – Avoid too focus much on product
 For most retailers, around two-thirds of annual sales take place during the Christmas selling season, so it’s no wonder there’s a temptation to just talk product, but that’s something to avoid.
