@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - in-store
+excerpt-text: It may be daunting and overwhelming but it’s also exciting and thrilling.
 hero-quote: "“Don’t compare yourself to the big chains” – Rebecca Bogue, co-founder,
   Lunacy Boutique"
 ---
