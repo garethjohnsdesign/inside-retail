@@ -1,6 +1,10 @@
 ---
 title: Advice for enjoying your first Christmas as an indie retailer
 date: 2016-12-08 10:41:00 Z
+categories:
+- up-and-running
+tags:
+- in-store
 hero-quote: "“Don’t compare yourself to the big chains” – Rebecca Bogue, co-founder,
   Lunacy Boutique"
 ---
