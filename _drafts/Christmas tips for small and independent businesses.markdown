@@ -6,7 +6,7 @@ categories:
 tags:
 - in-store
 excerpt-image: "/uploads/The-Letteroom-Christmas-2_v2.jpg"
-excerpt-text: It may be daunting and overwhelming but it’s also exciting and thrilling.
+excerpt-text: It may be daunting and overwhelming but it’s also exciting and thrilling
 hero-image: "/uploads/The-Letteroom-Christmas-2_v2.jpg"
 hero-quote: "“Don’t compare yourself to the big chains” – Rebecca Bogue, co-founder,
   Lunacy Boutique"
