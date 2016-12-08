@@ -6,8 +6,7 @@ categories:
 tags:
 - ecommerce
 excerpt-image: "/uploads/The_Letteroom_website.jpg"
-excerpt-text: During your first year of trading it’s difficult to know what will sell
-  and where to buy deep
+excerpt-text: Top tips from seasoned indies
 hero-image: "/uploads/The_Letteroom_website.jpg"
 hero-quote: "“Make sure your last delivery dates are achievable,” Nicola Hollow, director
   of consulting, Practicology"
