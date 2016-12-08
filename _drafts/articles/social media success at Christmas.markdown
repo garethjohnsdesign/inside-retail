@@ -29,13 +29,13 @@ Regardless of the size of your business, taking part in the cultural conversatio
 
 Online gift retailer Prezzybox went as far as making [a parody ad](https://www.youtube.com/watch?v=mZmEWRg5SNE) of this year’s John Lewis TV ad. “It was relatively easy to do, we had a dog, goats and a trampoline so we thought ‘why not?’,” says Fran Prince, social and marketing executive. By using the same hashtags, the retailer notched up 9,000 views on Facebook and 4,000 views on the day it was released.
 
-### 2 – Avoid too focus much on product
+### 2 – Avoid too much focus on product
 
 For most retailers, around two-thirds of annual sales take place during the Christmas selling season, so it’s no wonder there’s a temptation to just talk product, but that’s something to avoid.
 
 “Small retailers often talk about their product and what they’re doing when in reality they need to be having a conversation with their customers,” says Amy Hobson, partner at SocialB. “People get bored of you talking about yourself.”
 
-Instead talk about what’s relevant for your customers both on the national level but also personally. “Talk about how many sleeps there until Christmas, or the last order date for delivery. Use a simple graphic package like [Canva](https://www.canva.com/) to create posts,” she advises. “A children’s retailer could talk about nativities and plays, think about what will get your audience involved.”
+Instead talk about what’s relevant for your customers both on the national level but also personally. “Talk about how many sleeps there are until Christmas, or the last order date for delivery. Use a simple graphic package like [Canva](https://www.canva.com/) to create posts,” she advises. “A children’s retailer could talk about nativities and plays, think about what will get your audience involved.”
 
 ### 3 – Inspire and be helpful
 
