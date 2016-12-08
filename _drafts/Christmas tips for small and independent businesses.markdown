@@ -11,7 +11,7 @@ We asked some seasoned independent retailers to shine a light on how to enjoy th
 
 Here’s what they say…
 
-#> “We are elves, not robots” – Sherrie Mead, Co-Founder, [The Letteroom](https://www.theletteroom.com/) 
+# > “We are elves, not robots” – Sherrie Mead, Co-Founder, [The Letteroom](https://www.theletteroom.com/) 
 
 “I take an old-fashioned approach and just stay calm, it’s only Christmas. I also drink lots of coffee and remember that it does end. 
 
@@ -19,7 +19,7 @@ We still fly stock in last-minute and sometimes it arrives smashed. We’ve been
 
 We’re now in our ninth year, and it doesn’t get easier, but it is different time. It’s like children, they’re different each year.” 
 
-#> “It’s important to talk to people” – Julia Keeling, Director, [Wishes of Cudworth](http://www.wishesofcudworth.co.uk/)
+# > “It’s important to talk to people” – Julia Keeling, Director, [Wishes of Cudworth](http://www.wishesofcudworth.co.uk/)
 
 “Customer service is the number one thing for your first Christmas, so just interact with your customers, be as friendly as possible and politely sell to them in store. 
 
@@ -27,7 +27,7 @@ Part of the reason why people shop local is for that interaction so just talk, t
 
 Remember, your first Christmas is a foundation. If you survive your first year you’ll be ok, it’ll be a measure for the future.” 
 
-#> “Ride the wave of the festive feeling” –  Victoria Rex, Founder, [The Women’s Society](https://womens-society.co.uk/)
+# > “Ride the wave of the festive feeling” –  Victoria Rex, Founder, [The Women’s Society](https://womens-society.co.uk/)
 
 “This will be our 10th Christmas, but I remember our first as being fun, it’s a time to enjoy your customers coming in and is a great time to find time to talk to them. We also met a lot of husbands coming to buy gifts so it was nice to faces to names. When they came in the following year they were really surprised we knew and remembered them.
 
@@ -37,7 +37,7 @@ Just enjoy it, it’s hard because you have a lot of the big boys discounting ar
 
 It’s a chance to ride the wave of the festive feeling. Christmas Eve is always good fun because it’s busy and everyone’s excited.”
 
-#> “Don’t compare yourself to the big chains” – Rebecca Bogue, co-founder, [Lunacy Boutique](http://www.lunacyboutique.co.uk/) 
+# > “Don’t compare yourself to the big chains” – Rebecca Bogue, co-founder, [Lunacy Boutique](http://www.lunacyboutique.co.uk/) 
 
 “It’s really key not to compare yourself to the big chain stores and try and do the same things. If you do that it can become frustrating, you’re never going to have as much money to splash out – look at the plus points, you’re original. 
 
