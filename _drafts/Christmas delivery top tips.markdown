@@ -10,6 +10,7 @@ excerpt-text: 3 Delivery Top Tips
 hero-image: "/uploads/david-everett-strickler-v2.jpg"
 hero-quote: "“The final mile is where you’ll lose customers,” Sherrie Mead, co-founder,
   The Letteroom"
+length: Three minute read
 top-image: "/uploads/david-everett-strickler-v2.jpg"
 ---
 
