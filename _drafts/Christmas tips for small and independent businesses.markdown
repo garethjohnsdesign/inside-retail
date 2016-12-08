@@ -10,6 +10,7 @@ excerpt-text: Top tips for December
 hero-image: "/uploads/The-Letteroom-Christmas-2_v2.jpg"
 hero-quote: "“Don’t compare yourself to the big chains” – Rebecca Bogue, co-founder,
   Lunacy Boutique"
+length: Three minute read
 top-image: "/uploads/The-Letteroom-Christmas-2_v2.jpg"
 ---
 
