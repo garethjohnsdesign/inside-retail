@@ -1,6 +1,7 @@
 ---
 title: Pure London
 date: 2017-01-09 12:24:00 Z
+position: 2
 location: Olympia London
 period: 12-14 February 2017
 link: http://www.purelondon.com/

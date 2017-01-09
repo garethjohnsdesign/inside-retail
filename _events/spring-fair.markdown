@@ -1,6 +1,6 @@
 ---
 title: Autumn Fair
-position: 1
+position: 4
 location: NEC Birmingham
 period: 3-6 September 2017
 link: http://www.autumnfair.com
