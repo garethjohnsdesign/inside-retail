@@ -1,6 +1,6 @@
 ---
 title: Jewellery and Watch
-position: 3
+position: 0
 location: NEC Birmingham
 period: 5–9 February 2017
 link: http://www.jewelleryandwatchbirmingham.com
