@@ -29,4 +29,4 @@ Knowledge is definitely power when it comes to using data to take away the risk 
 Christmas remains a very predictable event in the annual calendar but such is the changing nature of the festive period, with pre-season sales and new events emerging like Black Friday, it has become very difficult for retailers to accurately forecast
 demand and to optimise their buying. Research from Inside Retail has found that 49% of retailers find...
 
-->[### To learn more about the power of data sign up here for the full report](http://lp.events.ascential.com/Spring-Fair-The-Power-of-Data-report.html)-<
+###->[To learn more about the power of data sign up here for the full report](http://lp.events.ascential.com/Spring-Fair-The-Power-of-Data-report.html)-<
