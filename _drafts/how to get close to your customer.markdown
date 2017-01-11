@@ -1,9 +1,14 @@
 ---
-title: How to get close to your customer
+title: How to get Close to your Customer
 date: 2017-01-09 13:10:00 Z
+excerpt-image: "/uploads/Vend-and-xero-retail-solution.jpg"
+hero-image: "/uploads/Vend-and-xero-retail-solution.jpg"
+hero-quote: “ Fashion retailers can tag products with the seasons they are launched
+  and see what sells and when it sold."
 ---
 
-Retailing has always been highly competitive but in recent years it has become highly challenging too. The reasons revolve around the fact that consumers have changed their behaviour through economic necessity but also because they have taken to new online channels to research and buy. Traditional loyalties to retailers have broken down and consumers increasingly prefer to search for products online via their mobile phones, tablets or computers.
+Independent retailers have always prided themselves on being close to their customers. But in today’s increasingly complex world, this has become much harder to achieve. Technology can now play a powerful role in restoring that close relationship with customers.
 
-Evolving So Fast
+Retailers place great importance on their ability to know their customers. This is based on their ability to collate data and use it to gain insights on their customer base which can then be used to deliver a better experience. 
 
+Collecting this data and being able to crunch the numbers through data analytics has very much been the domain of larger organisations but...
