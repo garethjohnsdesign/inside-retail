@@ -1,7 +1,5 @@
 ---
-title: |-
-  HOW TO GET CLOSE
-  TO YOUR CUSTOMER
+title: How to get close to your customer
 date: 2017-01-09 13:10:00 Z
 ---
 
