@@ -1,6 +1,10 @@
 ---
 title: How to get Close to your Customer
 date: 2017-01-09 13:10:00 Z
+categories:
+- branching-out
+tags:
+- in-store
 excerpt-image: "/uploads/Vend-and-xero-retail-solution.jpg"
 hero-image: "/uploads/Vend-and-xero-retail-solution.jpg"
 hero-quote: “ Fashion retailers can tag products with the seasons they are launched
@@ -30,4 +34,3 @@ Christmas remains a very predictable event in the annual calendar but such is th
 demand and to optimise their buying. Research from Inside Retail has found that 49% of retailers find...
 
 ### [To learn more about the power of data sign up here for the full report](http://lp.events.ascential.com/Spring-Fair-The-Power-of-Data-report.html)
-
