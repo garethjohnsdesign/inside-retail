@@ -17,7 +17,7 @@ Collecting this data and being able to crunch the numbers through data analytics
 enjoy the same benefits.
 
 ### Data analytics powers loyalty
-Charlie Yates, owner of Candle Scentral in Worthing explains how his belief in the power of loyalty has brought powerful results. 
+Charlie Yates, owner of Candle Scentral in Worthing explains how his belief in the power of loyalty has brought powerful results:
 
 Gaining insight into its customers through a loyalty programme has massively benefited candle specialist Candle Scentral, that is now able to target these individuals through tailored emails and in-store ‘clientelling’ using tablets.
 The multi-channel retailer uses the loyalty tool within the Vend solution to collect customers’ details and subsequently mine their shopping history data to determine how best to market to them – both online and in-store.
@@ -29,4 +29,4 @@ Knowledge is definitely power when it comes to using data to take away the risk 
 Christmas remains a very predictable event in the annual calendar but such is the changing nature of the festive period, with pre-season sales and new events emerging like Black Friday, it has become very difficult for retailers to accurately forecast
 demand and to optimise their buying. Research from Inside Retail has found that 49% of retailers find...
 
-To learn more about the power of data sign up here for the full article
+->[### To learn more about the power of data sign up here for the full report](http://lp.events.ascential.com/Spring-Fair-The-Power-of-Data-report.html)-<
