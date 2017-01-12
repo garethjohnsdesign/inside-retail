@@ -1,6 +1,7 @@
 ---
 title: How to get Close to your Customer
 date: 2017-01-12 15:33:00 Z
+published: false
 excerpt-image: "/uploads/Vend-and-xero-retail-solution-wih-logos.jpg"
 excerpt-text: 
 hero-video: 
