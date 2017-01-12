@@ -5,8 +5,8 @@ categories:
 - branching-out
 tags:
 - in-store
-excerpt-image: "/uploads/Vend-and-xero-retail-solution.jpg"
-hero-image: "/uploads/Vend-and-xero-retail-solution.jpg"
+excerpt-image: "/uploads/Vend-and-xero-retail-solution-wih-logos.jpg"
+hero-image: "/uploads/Vend-and-xero-retail-solution-wih-logos.jpg"
 hero-quote: “ Fashion retailers can tag products with the seasons they are launched
   and see what sells and when it sold."
 is-partner: true
