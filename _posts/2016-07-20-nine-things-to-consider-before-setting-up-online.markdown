@@ -5,7 +5,6 @@ categories:
 - up-and-running
 tags:
 - ecommerce
-image: "/uploads/uar-nine-things-to-consider-before-setting-up-online.jpg"
 excerpt-image: "/uploads/uar-nine-things-to-consider-before-setting-up-online.jpg"
 excerpt-text: 'A beginner’s ecommerce checklist '
 hero-image: "/uploads/uar-nine-things-to-consider-before-setting-up-online.jpg"
@@ -13,6 +12,8 @@ hero-quote: You’re not limited by physical space therefore you can potentially
   a broader range of products online.
 hero-cite: Martin Newman
 length: Five minute read
+is-top: true
+image: "/uploads/uar-nine-things-to-consider-before-setting-up-online.jpg"
 ---
 
 Before building your first website, retail expert Martin Newman of Practicology outlines the key things you need to consider to ensure you win your share of business. 
