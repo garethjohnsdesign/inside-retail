@@ -11,7 +11,7 @@ hero-video: LNgTXaMaN-8
 hero-quote: I never knew if it was possible or not. But when customers came from all
   over the world, that was the validation.
 length: 'Five minute read  '
-is-top: true
+is-top: false
 image: "/uploads/saxa.jpg"
 ---
 

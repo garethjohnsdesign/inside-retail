@@ -11,7 +11,7 @@ hero-video: q3GWzTAtFmI
 hero-quote: If the staff are trained with some basic styling skills, they get more
   confidence to engage with the customer
 length: 'Five minute read '
-is-top: true
+is-top: false
 image: "/uploads/style-them.jpg"
 ---
 
