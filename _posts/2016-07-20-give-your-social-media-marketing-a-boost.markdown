@@ -13,7 +13,7 @@ hero-quote: Smaller businesses could use their smartphones more to engage in mor
   in-the-moment and one-to-one personal connections.
 hero-cite: Courtney McNally
 length: 23 minute watch
-is-top: true
+is-top: false
 image: "/uploads/uar-give-your-social-media-marketing-a-boost.jpg"
 ---
 
