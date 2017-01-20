@@ -5,13 +5,14 @@ categories:
 - branching-out
 tags:
 - inspiration
-image: "/uploads/saxa.jpg"
 excerpt-image: "/uploads/saxa.jpg"
 excerpt-text: 'Saxa Stores is making a business out of virtue '
 hero-video: LNgTXaMaN-8
 hero-quote: I never knew if it was possible or not. But when customers came from all
   over the world, that was the validation.
 length: 'Five minute read  '
+is-top: true
+image: "/uploads/saxa.jpg"
 ---
 
 Valleryana Allemand is the CEO of Saxa, an etailer that provides a shopfront more than 60 ethical designers and sells globally.
