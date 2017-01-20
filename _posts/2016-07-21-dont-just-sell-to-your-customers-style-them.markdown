@@ -5,13 +5,14 @@ categories:
 - fine-tuning
 tags:
 - marketing
-image: "/uploads/style-them.jpg"
 excerpt-image: "/uploads/style-them.jpg"
 excerpt-text: 'TV stylist: how indie retailers can beat the high street'
 hero-video: q3GWzTAtFmI
 hero-quote: If the staff are trained with some basic styling skills, they get more
   confidence to engage with the customer
 length: 'Five minute read '
+is-top: true
+image: "/uploads/style-them.jpg"
 ---
 
 If you style your customers instead of selling to them you will boost sales and loyalty. So says styling consultant Nicky Hambleton-Jones, best-known for her role on Channel 4 show 10 Years Younger.
