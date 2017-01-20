@@ -1,11 +1,10 @@
 ---
 title: 'Business Growth: Top Tips'
-date: 2016-07-21 15:10:00 Z
+date: 2016-01-20 15:10:00 Z
 categories:
 - getting-started
 tags:
 - inspiration
-image: "/uploads/geoff-quinn.jpg"
 excerpt-image: "/uploads/geoff-quinn.jpg"
 excerpt-text: From a CEO who has grown a brand from one London store to 160 globally.
 hero-video: oWspyZPD-eY
@@ -13,6 +12,7 @@ hero-image: "/uploads/geoff-quinn.jpg"
 hero-quote: If the staff are trained with some basic styling skills, they get more
   confidence to engage with the customer
 length: 'Five minute read '
+image: "/uploads/geoff-quinn.jpg"
 ---
 
 Geoff Quinn is CEO of TMLewin, the Jermyn Street shirt retailer founded in 1898. When he joined in 1980, turnover was £179,000. It’s now a nine-figure sum. The brand has opened nearly 100 UK stores and expanded into Europe, Asia and the US.
