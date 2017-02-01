@@ -1,6 +1,6 @@
 ---
 title: Branching Out
-position: 3
+position: 2
 image: "/uploads/branching-out.jpg"
 shape: "/uploads/branching-out.svg"
 header: Shoot for the Stars

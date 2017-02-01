@@ -1,7 +1,7 @@
 ---
 title: About
 published: false
-position: 0
+position: 4
 image: "/uploads/about.jpg"
 shape: "/uploads/about-layer.svg"
 header: Welcome to Inside Retail

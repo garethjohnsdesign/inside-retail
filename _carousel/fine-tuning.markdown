@@ -1,6 +1,6 @@
 ---
 title: Fine-Tuning
-position: 4
+position: 3
 image: "/uploads/fine-tuning-3de19e.jpg"
 shape: "/uploads/fine-tuning.svg"
 header: Making your Business even better

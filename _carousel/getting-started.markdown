@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-position: 1
+position: 0
 image: "/uploads/getting-started.jpg"
 shape: "/uploads/getting-started.svg"
 header: 'At the Drawing Board? '
