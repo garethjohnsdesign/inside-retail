@@ -5,6 +5,8 @@ categories:
 - up-and-running
 tags:
 - in-store
+excerpt-image: "/uploads/valentines-and-mothers-day-article-image.jpg"
+hero-image: "/uploads/valentines-and-mothers-day-article-image.jpg"
 ---
 
 ### Preparing for Valentine’s and Mother’s Day
@@ -16,7 +18,7 @@ Timely reminders of upcoming events are an important aspect of preparing for Val
 Yet Adcock cautions that many retailers start advertising too early: “Give customers time to remember and make plans for event days, but avoid mixing Valentine's Day products with Easter products (or Christmas with Halloween), as this dilutes their appeal, making the event seem a long way off, rather than just around the corner.”
 
 ### Don’t overstock 
-Under=stock and you risk missing the sales opportunities posed by the seasons of lovers and mothers, but overstock and you might regret it for some time to come.
+Under-stock and you risk missing the sales opportunities posed by the seasons of lovers and mothers, but overstock and you might regret it for some time to come.
 
 “Over-committing to stock is probably the most risky part of planning for special occasions,” says [Poppy Treffry](http://www.poppytreffry.co.uk), textile designer and founder of the eponymous gift and homeware stores and online shop. She believes it’s critical to know what custom-ers are likely to spend on Mother’s Day and Valentine’s Day.
 
