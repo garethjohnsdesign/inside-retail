@@ -5,8 +5,8 @@ categories:
 - up-and-running
 tags:
 - in-store
-excerpt-image: "/uploads/valentines-and-mothers-day-article-image.jpg"
-hero-image: "/uploads/valentines-and-mothers-day-article-image.jpg"
+excerpt-image: "/uploads/v2--valentines-and-mothers-day-article-image.jpg"
+hero-image: "/uploads/v2--valentines-and-mothers-day-article-image.jpg"
 hero-quote: "“I create window displays and in-store merchandising that acknowledge
   the occasion, whilst inspiring everyone to experiment” Sarah Connelly, owner, Odyssey
   Boutique"
