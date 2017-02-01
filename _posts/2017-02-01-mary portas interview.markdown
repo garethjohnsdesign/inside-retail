@@ -7,6 +7,7 @@ categories:
 tags:
 - in-store
 excerpt-image: "/uploads/mary-portas-image.jpg"
+excerpt-text: Queen of Shops
 hero-video: JPC0AomuL8E
 ---
 
