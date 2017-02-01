@@ -1,5 +1,5 @@
 ---
-title: Preparing for Valentines and Mother’s Day
+title: Preparing for Valentine's and Mother’s Day
 date: 2017-02-01 09:16:00 Z
 categories:
 - up-and-running
