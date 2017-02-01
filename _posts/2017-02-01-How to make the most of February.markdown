@@ -5,9 +5,9 @@ categories:
 - up-and-running
 tags:
 - Inspiration
-excerpt-image: "/uploads/Gluttinous-Gardener_Glutgarden_rose_box_.jpg"
+excerpt-image: "/uploads/Gluttinous-Gardener_Glutgarden_rose_box_v2.jpg"
 excerpt-text: Preparation and planning
-hero-image: "/uploads/Gluttinous-Gardener_Glutgarden_rose_box_.jpg"
+hero-image: "/uploads/Gluttinous-Gardener_Glutgarden_rose_box_v2.jpg"
 hero-quote: '"February is a busy preparation month" Ned Trier, The Gluttonous Gardener'
 ---
 
