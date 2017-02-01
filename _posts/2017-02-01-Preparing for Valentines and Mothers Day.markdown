@@ -7,6 +7,8 @@ tags:
 - in-store
 excerpt-image: "/uploads/valentines-and-mothers-day-article-image.jpg"
 hero-image: "/uploads/valentines-and-mothers-day-article-image.jpg"
+hero-quote: "“Over-committing to stock is probably the most risky part of planning
+  for special occasions,” Poppy Treffry, Textile Designer and Founder of Poppy Teffry"
 ---
 
 ### Preparing for Valentine’s and Mother’s Day
