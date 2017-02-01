@@ -10,7 +10,7 @@ excerpt-text: Promotions that carry clout
 
 Are you considering running a mid-season sale? Or an Easter sale, or a January sale, or any other sort of sale? Great – they can be a terrific thing as long as you bear a few practicalities in mind. A number of our retail contacts offered us some useful points:
 
-###Do:
+### Do:
 
 * Consider the idea of a loss leader, says Lyndan Orvis, Ecommerce Manager at Hayes Garden World (pictured). “Even if you sell 100pcs or 1000pcs it will often lead to additional purchases,” he says. “This item should be something that is required by everyone for broad appeal but not your core product so that customers have nothing else to buy from you. We often promote a garden bench or bird bath at cost or a small loss but our aim is for people to purchase a garden set with table or lounge suite. A bench is an additional purchase.
 
