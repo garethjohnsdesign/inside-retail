@@ -32,7 +32,8 @@ Are you considering running a mid-season sale? Or an Easter sale, or a January s
 
 * Use a sale to clear out the old tat: if people didn’t want it at full price they may well not want it at a discount.
 
-Finally, Orvis advises that you need to have the right number of staff and the right number of goods. Pull staff from different departments if the alternative is to keep people waiting, and on product delivery remember lead times can be long, while customer attention span will be short. Don’t promise something that won’t arrive in time,
+### Finally
+Orvis advises that you need to have the right number of staff and the right number of goods. Pull staff from different departments if the alternative is to keep people waiting, and on product delivery remember lead times can be long, while customer attention span will be short. Don’t promise something that won’t arrive in time,
 
 And good luck!
 
