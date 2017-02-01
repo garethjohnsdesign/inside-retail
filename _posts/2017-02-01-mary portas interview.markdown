@@ -1,13 +1,11 @@
 ---
 title: Interview with Mary Portas
 date: 2017-02-01 11:32:00 Z
-published: false
 categories:
 - branching-out
 tags:
 - in-store
 excerpt-image: "/uploads/mary-portas-image.jpg"
-excerpt-text: Queen of Shops
 hero-video: JPC0AomuL8E
 ---
 
