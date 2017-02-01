@@ -8,7 +8,7 @@ tags:
 excerpt-image: "/uploads/Gluttinous-Gardener_Glutgarden_rose_box_.jpg"
 excerpt-text: Preparation and planning
 hero-image: "/uploads/Gluttinous-Gardener_Glutgarden_rose_box_.jpg"
-hero-text: February is a busy preparation month
+hero-quote: February is a busy preparation month
 ---
 
 Traditionally, February is a quiet month (apart from Valentine’s Day) following a hectic Christmas, so how do you make the most of this fallow period to make 2017 a profitable year? We asked several retailers, both online and offline, how they spend February:
