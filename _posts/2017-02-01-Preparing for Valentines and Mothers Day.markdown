@@ -7,8 +7,9 @@ tags:
 - in-store
 excerpt-image: "/uploads/valentines-and-mothers-day-article-image.jpg"
 hero-image: "/uploads/valentines-and-mothers-day-article-image.jpg"
-hero-quote: "“Over-committing to stock is probably the most risky part of planning
-  for special occasions,” Poppy Treffry, textile designer and founder of Poppy Teffry"
+hero-quote: "“I create window displays and in-store merchandising that acknowledge
+  the occasion, whilst inspiring everyone to experiment” Sarah Connelly, owner, Odyssey
+  Boutique"
 ---
 
 ### Preparing for Valentine’s and Mother’s Day
