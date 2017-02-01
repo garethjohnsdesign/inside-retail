@@ -6,6 +6,8 @@ categories:
 tags:
 - marketing
 excerpt-text: Promotions that carry clout
+hero-quote: '"Don''t assume the customer will see the word ''sale'' and roll over
+  onto their back." Lyndan Orvis, Ecommerce Manager, Hayes Garden World '
 ---
 
 Are you considering running a mid-season sale? Or an Easter sale, or a January sale, or any other sort of sale? Great – they can be a terrific thing as long as you bear a few practicalities in mind. A number of our retail contacts offered us some useful points:
