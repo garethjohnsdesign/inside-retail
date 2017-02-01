@@ -5,7 +5,9 @@ categories:
 - up-and-running
 tags:
 - Inspiration
+excerpt-image: "/uploads/Gluttinous-Gardener_Glutgarden_rose_box_.jpg"
 excerpt-text: Preparation and planning
+hero-image: "/uploads/Gluttinous-Gardener_Glutgarden_rose_box_.jpg"
 hero-text: February is a busy preparation month
 ---
 
