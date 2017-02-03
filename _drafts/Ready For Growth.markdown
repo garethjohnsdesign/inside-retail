@@ -29,7 +29,7 @@ To guarantee your time with one of the G by Grant Thornton experts at Spring Fai
 
 If you miss out on the opportunity to discuss your business at Spring Fair, contact us here and someone from the team at Inside Retail will be in touch to provide more details about the growth support, personalised modules, timeline, and costs involved in signing up to the Retail Growth Programme.
 
-Click here to find out more about the Grant Thornton Retail Growth Programme.
+Click here to find out more about the G by Grant Thornton Retail Growth Programme.
 
 
 
