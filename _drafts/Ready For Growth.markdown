@@ -25,12 +25,10 @@ Designed specifically for small retailers, G by Grant Thornton has developed The
 
 Inside Retail and G by Grant Thornton will be onsite at Spring Fair to discuss your growth ambitions and understand your specific business challenges in mini growth diagnostic sessions, all completely free of charge!
 
-To guarantee your time with one of the G by Grant Thornton experts at Spring Fair, make sure you book yourself in for one of our popular ‘Meet The Experts’ sessions being run throughout the fair. In addition to these sessions, G will be running two seminars on key topics - ‘How do I grow my business:  A Focus on Branding and Marketing’ with Lou Williams on Sunday, and ‘How to Grow Your Business’ with Azizur Rahman on Monday.
+To guarantee your time with one of the [G by Grant Thornton](http://g.grantthornton.co.uk/about-us/) experts at Spring Fair, make sure you book yourself in for one of our popular [‘Meet The Experts’](http://www.springfair.com/Content/Meet-The-Experts-Bookings) sessions being run throughout the fair. In addition to these sessions, G will be running two seminars on key topics - ‘How do I grow my business:  A Focus on Branding and Marketing’ with Lou Williams on Sunday, and ‘How to Grow Your Business’ with Azizur Rahman on Monday.
 
-If you miss out on the opportunity to discuss your business at Spring Fair, contact us here and someone from the team at Inside Retail will be in touch to provide more details about the growth support, personalised modules, timeline, and costs involved in signing up to the Retail Growth Programme.
+If you miss out on the opportunity to discuss your business at [Spring Fair](http://www.springfair.com/), [contact us here](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html) and someone from the team at Inside Retail will be in touch to provide more details about the growth support, personalised modules, timeline, and costs involved in signing up to the Retail Growth Programme.
 
-Click here to find out more about the G by Grant Thornton Retail Growth Programme.
-
-
+[Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
 
 
