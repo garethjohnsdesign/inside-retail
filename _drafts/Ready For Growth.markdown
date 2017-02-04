@@ -5,6 +5,8 @@ categories:
 - branching-out
 tags:
 - marketing
+excerpt-image: "/uploads/Young-boy-watering-a-plant.jpg"
+hero-image: "/uploads/Young-boy-watering-a-plant.jpg"
 hero-quote: Designed specifically for small retailers, G by Grant Thornton has developed
   The Retail Growth Programme in partnership with Inside Retail
 ---
@@ -13,11 +15,11 @@ Independent retailers across the UK face a host of challenges and obstacles each
 
 Inside Retail has conducted research into over 200 retailers like yourself from across the UK and we’ve found there are some recurring key challenges to achieving your business ambition.  These challenges often include;
 
-1.	Driving traffic to your website:
-2.	Using social media to increase customer numbers: 
-3.	Creating work-life balance, and good business time management: 
-4.	Driving footfall to your shop:
-5.	Choosing products which sell fast at full price: 
+1. Driving traffic to your website
+2. Using social media to increase customer numbers 
+3. Creating work-life balance, and good business time management
+4. Driving footfall to your shop
+5. Choosing products which sell fast at full price
 
 This is why we’ve teamed up with [G by Grant Thornton](http://g.grantthornton.co.uk/about-us/) to help address those issues and equip dynamic business leaders with the support they need to achieve their retail growth ambitions.
 
