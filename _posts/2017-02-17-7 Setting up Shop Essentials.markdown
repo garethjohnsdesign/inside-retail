@@ -12,7 +12,10 @@ hero-image: "/uploads/TM%20Lewin%20-%20How%20to%20pack%20for%20a%20weekend%20cit
 hero-quote: "“It may be worth paying more in order to enjoy the shopper volume that
   will be required for the business to flourish.” Nikki Thomas, Manager, Ascential
   Events"
+is-top: true
+top-position: 3
 top-image: "/uploads/TM%20Lewin%20-%20How%20to%20pack%20for%20a%20weekend%20city%20break.jpg"
+is-partner: true
 ---
 
 ### What are the building blocks for setting up an indie successfully? Retail journalist John Ryan picks his seven fundamental factors if you’re to stand a fighting chance.
