@@ -27,8 +27,8 @@ There are any number of reasons, [but here are seven to remember](http://WWW.INS
 
 From the outset the **single most** important element is location. It’s common sense but surprising how frequently independent retailers overlook the basics. When looking at where to rent a unit don’t make assumptions about the local demographic.
 
-### Putting cans of car engine oil on the shelves of a store in an area with very low per capita car ownership is unlikely to reap ready rewards. Equally, when it comes to fashion, towns and districts that have a more mature population are not going to favour teenwear, for example.
+1. ### Putting cans of car engine oil on the shelves of a store in an area with very low per capita car ownership is unlikely to reap ready rewards. Equally, when it comes to fashion, towns and districts that have a more mature population are not going to favour teenwear, for example.
 2 LOCATION… can you achieve standout, or will you be one of many?
 And don’t forget to check out the local competition. If there are three other shops like the one you are proposing, think again.
 
-Research about an area can be as simple as having a coffee at different times of day in a local café a couple of times a week for several weeks. Do this and the chances are good that you’ll understand the shoppers in an area and whether they’ll want what you intend to offer.
+2. Research about an area can be as simple as having a coffee at different times of day in a local café a couple of times a week for several weeks. Do this and the chances are good that you’ll understand the shoppers in an area and whether they’ll want what you intend to offer.
