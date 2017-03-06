@@ -17,8 +17,7 @@ is-partner: true
 ---
 
 Independent retailers across the UK face a host of challenges and obstacles each and every day which can limit growth potential and often leave you feeling unsure of what the best steps towards growth are.
-
-Inside Retail has conducted research into over 200 retailers like yourself from across the UK and we’ve found there are some recurring key challenges to achieving your business ambition.  These challenges often include;
+Inside Retail has conducted research into over 200 retailers like yourself from across the UK and we’ve found there are some recurring key challenges to achieving your business ambition. These challenges often include;
 
 1. Driving traffic to your website
 2. Using social media to increase customer numbers 
@@ -26,16 +25,13 @@ Inside Retail has conducted research into over 200 retailers like yourself from 
 4. Driving footfall to your shop
 5. Choosing products which sell fast at full price
 
-This is why we’ve teamed up with [G by Grant Thornton](http://g.grantthornton.co.uk/about-us/) to help address those issues and equip dynamic business leaders with the support they need to achieve their retail growth ambitions.
+To help address these issues and equip dynamic business leaders with the support they need to achieve their retail growth ambitions, we here at Inside Retail have teamed up with [G by Grant Thornton](http://g.grantthornton.co.uk/about-us/) to develop The Retail Growth Programme.
 
-Designed specifically for small retailers, G by Grant Thornton has developed The Retail Growth Programme in partnership with Inside Retail. The Retail Growth Programme provides you with the information and tools you need to expand your business. Through 10 structured growth workshops over 12 months, across core and optional subjects you will; gain knowledge and skills in these areas; understand best practices in the sector; and build your own plan to drive growth in your business.
+The programme is designed with the leader of a retail businesses in mind; providing practical tools, plans and best practices that will help to facilitate rapid and sustainable business growth. 
+It’s so important that time spent outside of your business brings with it tangible benefits both for you as an individual and for your business.  With this in mind, the 12 month programme you will allow you to develop your knowledge in key areas to deliver your business ambition, creating plans, networks and connections that will contribute to your business growth. 
 
-Inside Retail and G by Grant Thornton will be onsite at Spring Fair to discuss your growth ambitions and understand your specific business challenges in mini growth diagnostic sessions, all completely free of charge!
+This programme provides a unique opportunity for retailers to step back from the day-to-day demands of running your business, giving you the clarity and the time to develop a detailed, actionable plan for growth.
 
-To guarantee your time with one of the G by Grant Thornton experts at Spring Fair, make sure you book yourself in for one of our popular [‘Meet The Experts’](http://www.springfair.com/Content/Meet-The-Experts-Bookings) sessions being run throughout the fair. In addition to these sessions, G will be running two seminars on key topics - ‘How do I grow my business:  A Focus on Branding and Marketing’ with Lou Williams on Sunday, and ‘How to Grow Your Business’ with Azizur Rahman on Monday.
-
-If you miss out on the opportunity to discuss your business at [Spring Fair](http://www.springfair.com/), [contact us here](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html) and someone from the team at Inside Retail will be in touch to provide more details about the growth support, personalised modules, timeline, and costs involved in signing up to the Retail Growth Programme.
-
-[Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
+###[Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
 
 
