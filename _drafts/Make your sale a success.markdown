@@ -39,5 +39,3 @@ Orvis advises that you need to have the right number of staff and the right numb
 
 And good luck!
 
-[Autumn Fair 2017 exhibit brochure pdf.pdf](/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pdf)
-
