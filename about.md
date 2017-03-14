@@ -5,9 +5,9 @@ layout: page
 
 Inside Retail is designed to deliver insight and inspiration to the UK’s brilliant retail sector and its thousands of independent businesses.
 
-We know that starting, running and growing a retail business are all daunting tasks, and ones that have never been more complicated. That’s why this website is here - to help you with the knowledge, insight and confidence you need to succeed.
+We know that starting, running and growing a retail business are all daunting tasks, and ones that have never been more complicated. That’s why Inside Retail is here - to provide you with the knowledge, insight and confidence you need to succeed.
 
-Explore the site and you will find articles and analysis from retail experts, industry leaders and thought pioneers. We aim to bring you the resources, ideas, examples and tips you need to make your business decisions easier.
+Explore the site and you will find articles, interviews, and analysis from retail experts, industry leaders and thought pioneers. We aim to bring you the resources, ideas, examples and tips you need to make your business decisions easier.
 
 So whether you are running an established business, thinking of starting one up, or simply working in retail, this is the place for you.
 
