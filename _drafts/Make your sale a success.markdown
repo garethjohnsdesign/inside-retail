@@ -39,7 +39,9 @@ Orvis advises that you need to have the right number of staff and the right numb
 
 And good luck!
 
-[Download this](/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pdf)
+Just [Download this](/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pdf)
 
 Simply [download](http://www.insideretail.com/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pdf)
+
+<a href="http://www.insideretail.com/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pdf" class="accordion__button">Download Report</a>
 
