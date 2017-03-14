@@ -43,5 +43,5 @@ Just [Download this](/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pd
 
 Simply [download](http://www.insideretail.com/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pdf)
 
-<a href="http://www.insideretail.com/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pdf" class="accordion__button">Download Report</a>
+<a href="/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pdf" class="accordion__button">Download Report</a>
 
