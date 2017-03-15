@@ -43,7 +43,7 @@ The ability to learn, adopt new practices and develop personally are critical to
 
 This programme provides a unique opportunity for you to step back from the day-to-day demands of running your business, giving you the clarity and the time to develop a detailed, actionable plan for growth.
 
-# [Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
+[Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
 
 
 **The benefits:**
