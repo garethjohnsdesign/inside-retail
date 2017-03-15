@@ -32,7 +32,7 @@ To help address these issues and equip dynamic business leaders with the support
 Designed specifically for retailers, the Retail Growth Programme helps you plan and achieve the future growth ambitions you want for your business and for yourself.
 The programme is designed with the leader of retail businesses in mind; providing practical tools, plans and best practices that will help to facilitate rapid and sustainable business growth. During the year you will develop your knowledge in key areas to deliver your business goals: creating plans, networks and connections that will contribute to your business growth.
 
-###**“G HELPED US RECONNECT WITH OUR PURPOSE AND STRENGTHS AS WELL AS REALISING OUR FULLER POTENTIAL WITH REGARDS TO OUR OFFERING.”**
+### **“G HELPED US RECONNECT WITH OUR PURPOSE AND STRENGTHS AS WELL AS REALISING OUR FULLER POTENTIAL WITH REGARDS TO OUR OFFERING.”**
 Asra Ali-Khan,
 Managing Director, Liquid TV
 
@@ -40,17 +40,17 @@ Managing Director, Liquid TV
 
 The ability to learn, adopt new practices and develop personally are critical to business success. These newly adopted skills, applied to your business through clearly actionable plans, can set you apart in a crowded market, providing the catalyst for rapid and sustainable growth.
 
-#**THE PROGRAMME**
+# **THE PROGRAMME**
 
 This programme provides a unique opportunity for you to step back from the day-to-day demands of running your business, giving you the clarity and the time to develop a detailed, actionable plan for growth.
 
 **The benefits**
-•	Accelerated growth
-•	A robust and rigorous plan for growth
-•	More confidence and increased focus on priorities
-•	The path to improved profitability
-•	More effective leadership and management skills
-•	Drawing on the collective skills and knowledge of Grant Thornton’s extensive network
+* Accelerated growth
+* A robust and rigorous plan for growth
+* More confidence and increased focus on priorities
+* The path to improved profitability
+* More effective leadership and management skills
+* Drawing on the collective skills and knowledge of Grant Thornton’s extensive network
 
 
 **How does it work?**
@@ -66,32 +66,33 @@ Ambitious businesses in the retail sector
 **Where does it take place?**
 Two delivery locations; choose from either London or Birmingham
 
-##**YOUR 12 MONTH PROGRAMME**
+## **YOUR 12 MONTH PROGRAMME**
 
 **GROWTH SUPPORT**
-•	Diagnostic conversation and growth reviews
-•	Dedicated account manager providing coaching and support
-•	Quarterly Peer Boards
-•	Quarterly insights on key sectors and trends
+* Diagnostic conversation and growth reviews
+* Dedicated account manager providing coaching and support
+* Quarterly Peer Boards
+* Quarterly insights on key sectors and trends
 
 **GROWTH WORKSHOPS**
 There are ten specially designed growth workshops for you to choose from a selection of sixteen
-•	Growth Planning
-•	Going International
-•	Financial Management
-•	Buying and
-•	Merchandising
-•	Operations and Logistics
-•	e-commerce
-•	Customer and Sales Profiling
-•	Brand Identity
-•	Engaging and Retaining Talent
-•	Reaching the Market
-•	Choosing the Next Location
-•	Retail Space Design
-•	Innovation
-•	Regulations and Legislation
-•	Financing Growth
+* Growth Planning
+* Going International
+* Financial Management
+* Buying and
+* Merchandising
+* Operations and Logistics
+* e-commerce
+* Customer and Sales Profiling
+* Brand Identity
+* Engaging and Retaining Talent
+* Reaching the Marke
+* Choosing the Next Location
+* Retail Space Design
+* Innovation
+* Regulations and Legislation
+* Financing Growth
+
 
 This programme is designed for retailers or those looking to diversify into the retail sector. If you are already successfully trading and now want to take the next step towards future growth then please get in contact.
 
