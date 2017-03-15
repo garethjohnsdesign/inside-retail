@@ -1,7 +1,10 @@
 ---
 title: About
+published: false
 layout: page
 ---
+
+![FullSizeRender.jpg](/uploads/FullSizeRender.jpg)
 
 Inside Retail is designed to deliver insight and inspiration to the UK’s brilliant retail sector and its thousands of independent businesses.
 
