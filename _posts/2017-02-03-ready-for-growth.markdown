@@ -1,7 +1,6 @@
 ---
 title: Ready For Growth?
 date: 2017-02-03 17:20:00 Z
-published: false
 categories:
 - branching-out
 tags:
@@ -44,7 +43,7 @@ The ability to learn, adopt new practices and develop personally are critical to
 
 This programme provides a unique opportunity for you to step back from the day-to-day demands of running your business, giving you the clarity and the time to develop a detailed, actionable plan for growth.
 
-**The benefits**
+**The benefits:**
 * Accelerated growth
 * A robust and rigorous plan for growth
 * More confidence and increased focus on priorities
@@ -54,19 +53,25 @@ This programme provides a unique opportunity for you to step back from the day-t
 
 
 **How does it work?**
+
 The Retail Growth Programme is built around a series of growth workshops where you will develop and implement your growth strategy for your business. The programme is modular and allows you to continually apply your learning to how you run your business while you participate. The programme runs over 12 months. In between each workshop, you will continue working on developing and implementing your own growth strategy for your business, making immediate improvements every month.
 Throughout the programme, you will be supported by an experienced account manager who works with you to ensure that you get the maximum value from your experience.
 
 **Who is it for?**
+
 Ambitious businesses in the retail sector
 
 **What does it cost?**
+
 £5,000 + VAT (payable £1,250 + VAT per quarter)
 
 **Where does it take place?**
+
 Two delivery locations; choose from either London or Birmingham
 
+
 ## **YOUR 12 MONTH PROGRAMME**
+
 
 **GROWTH SUPPORT**
 * Diagnostic conversation and growth reviews
@@ -75,6 +80,7 @@ Two delivery locations; choose from either London or Birmingham
 * Quarterly insights on key sectors and trends
 
 **GROWTH WORKSHOPS**
+
 There are ten specially designed growth workshops for you to choose from a selection of sixteen
 * Growth Planning
 * Going International
