@@ -45,7 +45,6 @@ This programme provides a unique opportunity for you to step back from the day-t
 
 [Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
 
-
 **The benefits:**
 * Accelerated growth
 * A robust and rigorous plan for growth
