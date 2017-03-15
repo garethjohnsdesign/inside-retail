@@ -69,7 +69,7 @@ Ambitious businesses in the retail sector
 
 **Where does it take place?**
 
-Two delivery locations; choose from either London or Birmingham
+One monthly session in either London or Birmingham with support via phone and email across the duration of the programme.
 
 
 
