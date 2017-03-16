@@ -96,7 +96,7 @@ There are ten specially designed growth workshops for you to choose from a selec
 * Customer and Sales Profiling
 * Brand Identity
 * Engaging and Retaining Talent
-* Reaching the Marke
+* Reaching the Market
 * Choosing the Next Location
 * Retail Space Design
 * Innovation
