@@ -1,5 +1,5 @@
 ---
-title: Interview with Mary Portas
+title: 'Interview with Mary Portas : Opportunities for Independents'
 date: 2017-02-01 11:32:00 Z
 categories:
 - branching-out
