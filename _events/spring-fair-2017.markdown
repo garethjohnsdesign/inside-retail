@@ -1,5 +1,5 @@
 ---
-title: Spring Fair 2018
+title: Spring Fair
 date: 2017-01-09 11:33:00 Z
 position: 0
 location: NEC Birmingham
