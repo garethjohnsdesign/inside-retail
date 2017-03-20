@@ -1,13 +1,23 @@
 ---
 title: 'Tutorial: Creating A Brand & Personality For Your Shop'
 date: 2017-03-15 11:40:00 Z
+excerpt-text: The Retail Growth Programme
+hero-video: https://youtu.be/urpKgLkwTGk
+hero-image: "/uploads/Creating%20a%20brand%20web%20image%20.jpg"
+hero-quote: Designed specifically for retailers, the Retail Growth Programme helps
+  you plan and achieve the future growth ambitions you want for your business and
+  for yourself.
+top-position: true
+top-image: "/uploads/Creating%20a%20brand%20web%20image%20.jpg"
+is-partner: true
 ---
 
-Lou Williams from G by Grant Thornton talks to Inside Retail Editor, Sophy Searight about creating a brand & personality for your shop and the steps you can take to help build that successful personality.
+Lou Williams from [G by Grant Thornton ](http://g.grantthornton.co.uk/explore/) talks to Inside Retail Editor, Sophy Searight about creating a brand & personality for your shop and the steps you can take to help build that successful personality.
 
-Lou is a part of the...........
+Lou is responsible for developing the G Membership programme at Grant Thornton and as a part of this, has worked with Inside Retail to develop the Retail Growth Programme.
 
 Designed specifically for retailers, the Retail Growth Programme helps you plan and achieve the future growth ambitions you want for your business and for yourself.
+
 The programme is designed with the leader of retail businesses in mind; providing practical tools, plans and best practices that will help to facilitate rapid and sustainable business growth. During the year you will develop your knowledge in key areas to deliver your business goals: creating plans, networks and connections that will contribute to your business growth.
 
 ### **“G HELPED US RECONNECT WITH OUR PURPOSE AND STRENGTHS AS WELL AS REALISING OUR FULLER POTENTIAL WITH REGARDS TO OUR OFFERING.”**
