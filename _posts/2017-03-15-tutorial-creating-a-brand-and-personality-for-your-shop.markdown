@@ -2,6 +2,10 @@
 title: 'Tutorial: Creating A Brand & Personality For Your Shop'
 date: 2017-03-15 11:40:00 Z
 published: false
+categories:
+- branching-out
+tags:
+- marketing
 excerpt-text: The Retail Growth Programme
 hero-video: https://youtu.be/urpKgLkwTGk
 hero-image: "/uploads/Creating%20a%20brand%20web%20image%20.jpg"
