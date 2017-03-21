@@ -1,6 +1,7 @@
 ---
 title: 'Learning from retail mistakes: Avoiding and overcoming the classic errors'
 date: 2017-03-21 10:39:00 Z
+excerpt-image: "/uploads/Gina-Brar-product-shot.jpg"
 ---
 
 Mistakes are par for the course when setting up an indie retail business. Inside Retail has delved into the experiences of a range of independent retailers and the errors they made, and what they learned from them, to help prevent others falling victim to the same mistakes.    
