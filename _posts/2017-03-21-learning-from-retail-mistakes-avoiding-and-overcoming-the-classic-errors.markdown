@@ -5,6 +5,7 @@ categories:
 - getting-started
 tags:
 - inspiration
+excerpt-image: "/uploads/Gina-Brar-product-shot-f7066b.jpg"
 hero-image: "/uploads/Gina-Brar-product-shot-f7066b.jpg"
 top-image: "/uploads/Gina-Brar-product-shot-f7066b.jpg"
 ---
