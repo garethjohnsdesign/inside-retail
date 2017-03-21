@@ -5,8 +5,8 @@ categories:
 - getting-started
 tags:
 - inspiration
-excerpt-image: "/uploads/Gina-Brar-product-shot.jpg"
-top-image: "/uploads/Gina-Brar-product-shot594x339.jpg"
+hero-image: "/uploads/Gina-Brar-product-shot-f7066b.jpg"
+top-image: "/uploads/Gina-Brar-product-shot-f7066b.jpg"
 ---
 
 Mistakes are par for the course when setting up an indie retail business. Inside Retail has delved into the experiences of a range of independent retailers and the errors they made, and what they learned from them, to help prevent others falling victim to the same mistakes.    
