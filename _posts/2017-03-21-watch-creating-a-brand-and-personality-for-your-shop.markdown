@@ -7,7 +7,8 @@ tags:
 - marketing
 excerpt-image: "/uploads/Creating%20a%20brand%20web%20image%20.jpg"
 excerpt-text: The Retail Growth Programme
-hero-video: https://youtu.be/urpKgLkwTGk
+hero-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/urpKgLkwTGk"
+  frameborder="0" allowfullscreen></iframe>
 hero-image: "/uploads/Creating%20a%20brand%20web%20image%20.jpg"
 hero-quote: Designed specifically for retailers, the Retail Growth Programme helps
   you plan and achieve the future growth ambitions you want for your business and
