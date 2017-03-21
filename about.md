@@ -5,6 +5,7 @@ layout: page
 
 # **Hello and welcome to Inside Retail** 
 
+
 I’m thrilled you’ve found us and I hope you like what we’re doing! 
 
 I’m Sophy Searight, Editor of Inside Retail. I also work with the research team for the UK’s biggest retail trade shows and as the team chat to 400 indie retailers per year, I get a fascinating, year-round view of the issues that the UK’s highstreet and online independent retailers are working with. 
@@ -16,11 +17,15 @@ You will also find articles and analysis from retail experts, industry leaders a
 The articles and guides on Inside Retail are commissioned especially for you and feature loads of interviews and advice from fellow indies. I hope they help inspire, reassure and support you in living the indie dream! If you’ve learned something important in your retail journey that you wish someone had told you before, please let me know because I’d love to chat to you about it, and maybe feature your shop on the site. I’m travelling around a lot in 2017 visiting retailers for Inside Retail; and there’s nothing I’d enjoy more than to come and see your shop!
 
 
+
 Very best,
 
 
+
 Sophy Searight
+
 Editor
+
 Inside Retail
 
 
@@ -28,6 +33,7 @@ Inside Retail
 
 
 Inside Retail is powered by Ascential Events, the organisers of retail trade shows Pure London, Spring Fair, Autumn Fair, Jewellery and Watch and Glee. Sophy is head of content for these shows and if you visit them, you’ll find Inside Retail Live; where you can hear from and speak to retail success stories and experts. Inside Retail and all of the trade shows are free to use and attend. 
+
 
 
 
@@ -40,6 +46,8 @@ We’d love to hear from you.
 
 Download our brochure for more information or contact us via the email below. 
 
+
 <a href="/uploads/IR%20Partner%20Opportunities%202017.pdf" class="button">Download Partnership Opportunities Brochure</a>
+
 
 **Email us:** [insideretail@ascential.com](mailto:insideretail@ascential.com)
