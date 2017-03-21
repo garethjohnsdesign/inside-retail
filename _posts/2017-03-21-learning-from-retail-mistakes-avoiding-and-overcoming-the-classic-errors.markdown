@@ -1,6 +1,10 @@
 ---
 title: 'Learning from retail mistakes: Avoiding and overcoming the classic errors'
 date: 2017-03-21 10:39:00 Z
+categories:
+- getting-started
+tags:
+- inspiration
 excerpt-image: "/uploads/Gina-Brar-product-shot.jpg"
 top-image: "/uploads/Gina-Brar-product-shot594x339.jpg"
 ---
