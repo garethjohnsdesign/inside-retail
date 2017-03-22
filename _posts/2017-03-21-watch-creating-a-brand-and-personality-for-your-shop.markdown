@@ -19,6 +19,10 @@ is-partner: true
 
 [[Creating a brand and personality for your shop image.JPG](/uploads/Creating%20a%20brand%20and%20personality%20for%20your%20shop%20image.JPG)](http://lp.events.ascential.com/GT-Creating-a-brand.html)
 
+[![Creating%20a%20brand%20and%20personality%20for%20your%20shop%20image.JPG](/uploads/Creating%20a%20brand%20and%20personality%20for%20your%20shop%20image.JPG)](http://lp.events.ascential.com/GT-Creating-a-brand.html)
+
+/uploads/Creating%20a%20brand%20and%20personality%20for%20your%20shop%20image.JPG
+
 Lou Williams from [G by Grant Thornton ](http://g.grantthornton.co.uk/explore/) talks to Inside Retail Editor, Sophy Searight about creating a brand & personality for your shop and the steps you can take to help build that successful personality.
 
 Lou is responsible for developing the G Membership programme at Grant Thornton and as a part of this, has worked with Inside Retail to develop the Retail Growth Programme.
