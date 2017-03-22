@@ -34,6 +34,8 @@ She says they now listen more to their gut instinct and have come to learn if th
 
 ### 3) Take care over stock control
 
+![Lindsey-Adam.jpg](/uploads/Lindsey-Adam.jpg)
+
 The old adage that ‘retail is detail’ remains as true today as it ever did. It is vital to take a forensic approach when ordering stock.
 
 Forecasting amounts of seasonal stock can be especially hard to get right.
