@@ -45,4 +45,4 @@ Simply [download](http://www.insideretail.com/uploads/Autumn%20Fair%202017%20exh
 
 <a href="/uploads/Autumn%20Fair%202017%20exhibit%20brochure%20pdf.pdf" class="accordion__button">Download Report</a>
 
-![v2-Young-boy-watering-a-plant.jpg](/uploads/v2-Young-boy-watering-a-plant.jpg)
+[![v2-Young-boy-watering-a-plant.jpg](/uploads/v2-Young-boy-watering-a-plant.jpg)](http://www.springfair.com)
