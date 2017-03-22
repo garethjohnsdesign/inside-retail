@@ -1,7 +1,6 @@
 ---
 title: 'Learning from retail mistakes: Avoiding and overcoming the classic errors'
 date: 2017-03-21 10:39:00 Z
-published: false
 categories:
 - getting-started
 tags:
