@@ -8,7 +8,6 @@ tags:
 - marketing
 excerpt-image: "/uploads/Creating%20a%20brand%20web%20image%20.jpg"
 excerpt-text: The Retail Growth Programme
-hero-video: urpKgLkwTGk
 hero-quote: Designed specifically for retailers, the Retail Growth Programme helps
   you plan and achieve the future growth ambitions you want for your business and
   for yourself.
@@ -17,6 +16,8 @@ top-position: 1
 top-image: "/uploads/Creating%20a%20brand%20web%20image%20.jpg"
 is-partner: true
 ---
+
+[[Creating a brand and perosnality for your shop image.JPG](/uploads/Creating%20a%20brand%20and%20perosnality%20for%20your%20shop%20image.JPG)](http://lp.events.ascential.com/GT-Creating-a-brand.html)
 
 Lou Williams from [G by Grant Thornton ](http://g.grantthornton.co.uk/explore/) talks to Inside Retail Editor, Sophy Searight about creating a brand & personality for your shop and the steps you can take to help build that successful personality.
 
