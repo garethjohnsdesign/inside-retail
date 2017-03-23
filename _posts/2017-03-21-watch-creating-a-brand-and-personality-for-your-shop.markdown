@@ -38,7 +38,10 @@ The ability to learn, adopt new practices and develop personally are critical to
 
 This programme provides a unique opportunity for you to step back from the day-to-day demands of running your business, giving you the clarity and the time to develop a detailed, actionable plan for growth.
 
-[Click here to find out more about the Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
+Download the brochure with all the info here:
+
+<a href="/uploads/Retail%20Growth%20Programme%20A4.pdf" class="button">Download Brochure</a>
+
 
 **The benefits:**
 * Accelerated growth
