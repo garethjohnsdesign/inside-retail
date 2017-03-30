@@ -29,7 +29,7 @@ Sophy
 
 Editor
 
-![DSC0330.png](/api/v2/sites/5773d42c0bf79d1b9f598394/source/_uploads/DSC0330.png?download)
+![DSC0330.png](/uploads/DSC0330.png)
 
 The advantage of being a big retail chain or website like Amazon is that you have the logistics down pat – and that’s about it. Not that anyone should be less than respectful of the scale at which those companies operate, but it means that their business is purely transactional. The smaller organisation is therefore in a good position to add value, through personalisation, through quirkiness and a number of other means.
 

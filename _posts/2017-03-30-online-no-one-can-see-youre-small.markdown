@@ -29,7 +29,7 @@ Sophy
 
 Editor
 
-![DSC0330.png](/api/v2/sites/5773d42c0bf79d1b9f598394/source/_uploads/DSC0330.png?download)
+![DSC0330.png](/uploads/DSC0330.png)
 
 The good thing about being online is that nobody can see you’re a small retailer. The bad thing is this means if you’re not as slick as John Lewis, they’ll think it’s your fault. We asked a panel of respondents how they worked against the big companies online and the answers were many.
 
