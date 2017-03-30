@@ -1,6 +1,10 @@
 ---
 title: Think small, think added value
 date: 2017-03-30 09:22:00 Z
+categories:
+- up-and-running
+tags:
+- in-store
 excerpt-text: Seven essentials
 hero-text: |-
   We spoke to 40 small retailers as part of our research for [Autumn Fair](https://www.autumnfair.com/) (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
