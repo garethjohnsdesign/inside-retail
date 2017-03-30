@@ -21,6 +21,16 @@ hero-quote: "“People don’t pass through the High Street as they used to, and
 length: Three minute read
 ---
 
+We spoke to 40 small retailers as part of our research for [Autumn Fair](https://www.autumnfair.com/) (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
+\
+Thank you to those who shared their views with us, I hope it’s useful. Look out for ‘Online, no one can see you’re small’, and ‘[Battling the big boys](http://insideretail.com/articles/battling-the-big-boys/)’ for more direct advice from your peers.
+
+Sophy
+
+Editor
+
+![DSC0330.png](/api/v2/sites/5773d42c0bf79d1b9f598394/source/_uploads/DSC0330.png?download)
+
 The advantage of being a big retail chain or website like Amazon is that you have the logistics down pat – and that’s about it. Not that anyone should be less than respectful of the scale at which those companies operate, but it means that their business is purely transactional. The smaller organisation is therefore in a good position to add value, through personalisation, through quirkiness and a number of other means.
 
 We asked a number of retailers how they go about adding value and therefore differentiating.
