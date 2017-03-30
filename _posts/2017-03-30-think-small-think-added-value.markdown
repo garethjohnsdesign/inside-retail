@@ -22,7 +22,7 @@ length: Three minute read
 ---
 
 We spoke to 40 small retailers as part of our research for [Autumn Fair](https://www.autumnfair.com/) (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
-\
+
 Thank you to those who shared their views with us, I hope it’s useful. Look out for ‘[Online, no one can see you’re small](http://insideretail.com/articles/online-no-one-can-see-youre-small/)’, and ‘[Battling the big boys](http://insideretail.com/articles/battling-the-big-boys/)’ for more direct advice from your peers.
 
 Sophy
