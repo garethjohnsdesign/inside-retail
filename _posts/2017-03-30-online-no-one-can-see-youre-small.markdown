@@ -8,7 +8,7 @@ tags:
 excerpt-text: Eight essentials
 hero-text: |-
   We spoke to 40 small retailers as part of our research for [Autumn Fair](https://www.autumnfair.com/) (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
-  \
+
   Thank you to those who shared their views with us, I hope it’s useful. Look out for ‘[Think small, Think added value](http://insideretail.com/articles/think-small-think-added-value)’, and ‘[Battling the big boys](http://insideretail.com/articles/battling-the-big-boys/)’ for more direct advice from your peers.
 
   Sophy
@@ -20,6 +20,16 @@ hero-quote: "“It is surprising how many shops don’t know how to keep up to d
   Google business so that people can easily find them.” Anonymous respondent"
 length: Three minute read
 ---
+
+We spoke to 40 small retailers as part of our research for [Autumn Fair](https://www.autumnfair.com/) (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
+
+Thank you to those who shared their views with us, I hope it’s useful. Look out for ‘[Think small, Think added value](http://insideretail.com/articles/think-small-think-added-value)’, and ‘[Battling the big boys](http://insideretail.com/articles/battling-the-big-boys/)’ for more direct advice from your peers.
+
+Sophy
+
+Editor
+
+![DSC0330.png](/api/v2/sites/5773d42c0bf79d1b9f598394/source/_uploads/DSC0330.png?download)
 
 The good thing about being online is that nobody can see you’re a small retailer. The bad thing is this means if you’re not as slick as John Lewis, they’ll think it’s your fault. We asked a panel of respondents how they worked against the big companies online and the answers were many.
 
