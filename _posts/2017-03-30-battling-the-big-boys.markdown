@@ -21,6 +21,16 @@ hero-quote: "“The only way the big companies can compete is on volume and logi
 length: Three minute read
 ---
 
+We spoke to 40 small retailers as part of our research for Autumn Fair (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
+\
+Thank you to those who shared their views with us, I hope it’s useful. Look out for ‘[Online, no one can see you’re small](http://insideretail.com/articles/online-no-one-can-see-youre-small/)’, and ‘[Think small, Think added value](http://insideretail.com/articles/think-small-think-added-value/)’  for more direct advice from your peers.
+
+Sophy
+
+Editor
+
+![DSC0330.png](/uploads/DSC0330.png)
+
 You could be persuaded to panic. You’re a small retailer and your customer walks in holding a smartphone; you know they’re checking prices, you know they can serve themselves online without your help and you can’t throw the resources of one of the major High Street chains at the online world.
 
 We know that’s an issue for many smaller retailers because you’ve told us so. The average bricks and mortar retailer has seen trade falling by 2.4% a year in 2014 to 2.3% pa in 2015. The curious thing is that last year, 2016, retail sales rose by 2.1%, according to the Centre for Retail Research. And retail has always been competitive, hasn’t it?
