@@ -9,7 +9,7 @@ excerpt-text: You can still compete in a world of corporate and online retailers
 hero-text: |-
   We spoke to 40 small retailers as part of our research for Autumn Fair (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
   \
-  Thank you to those who shared their views with us, I hope it’s useful. Look out for ‘Online, no one can see you’re small’, and ‘[Think small, Think added value](http://insideretail.com/articles/think-small-think-added-value/)’  for more direct advice from your peers.
+  Thank you to those who shared their views with us, I hope it’s useful. Look out for ‘[Online, no one can see you’re small](http://insideretail.com/articles/online-no-one-can-see-youre-small/)’, and ‘[Think small, Think added value](http://insideretail.com/articles/think-small-think-added-value/)’  for more direct advice from your peers.
 
   Sophy
 
