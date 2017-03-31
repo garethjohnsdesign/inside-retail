@@ -5,8 +5,9 @@ categories:
 - up-and-running
 tags:
 - in-store
-excerpt-image: "/uploads/Inside_Retail_hero_image1024x576.png"
+excerpt-image: "/uploads/Stocksy_txp30a257aaN0R100_Small_1007812.jpg"
 excerpt-text: You can still compete in a world of corporate and online retailers
+hero-image: "/uploads/Stocksy_txp30a257aaN0R100_Small_1007812-ac8fb5.jpg"
 hero-text: |-
   We spoke to 40 small retailers as part of our research for Autumn Fair (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
   \
