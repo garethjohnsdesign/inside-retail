@@ -2,10 +2,21 @@
 title: 'Create a buzz: Ecommerce on a shoestring budget'
 date: 2017-03-30 14:16:00 Z
 published: false
+excerpt-image: "/uploads/Image%20for%20email%20v3.png"
+excerpt-text: The Retail Growth Programme
+hero-text: 'Watch the tutorial and you’ll be taken through how to use Facebook to
+  target your perfect customers, how you could use your website and social media to
+  share customer experiences, creating a database and using that database to generate
+  new customers while winning back old ones (with both email marketing and across
+  social media), reaching out to social influencers (and using software to do this
+  in the most effective way), as well as video and blog content creation. '
+is-top: true
+top-position: 2
+top-image: "/uploads/Image%20for%20email%20v3.png"
+is-partner: true
 ---
 
-[![Image for email v2.png](/uploads/Image%20for%20email%20v2.png)](http://lp.events.ascential.com/GT-Creating-a-Buzz-Video-Form.html)
-
+[![GT Tutorial web article image.PNG](/uploads/GT%20Tutorial%20web%20article%20image.PNG)](http://lp.events.ascential.com/GT-Creating-a-Buzz-Video-Form.html)
 
 Here at Inside Retail, we know from our conversations with you in the independent retail community that actually generating a 'buzz' and a marketing message around your new online business can be very challenging, particularly because some of your big competitors, like Amazon for instance, have enormous budgets.
 
