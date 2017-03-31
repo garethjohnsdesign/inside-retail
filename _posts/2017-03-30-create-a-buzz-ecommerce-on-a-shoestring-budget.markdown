@@ -25,11 +25,13 @@ Inside Retail has been working closely with G by Grant Thornton to develop The R
 
 The programme is designed with the leader of retail businesses in mind; providing practical tools, plans and best practices that will help to facilitate rapid and sustainable business growth. During the year you will develop your knowledge in key areas to deliver your business goals: creating plans, networks and connections that will contribute to your business growth.
 
-**[Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)**
 
 #### **“G HELPED US RECONNECT WITH OUR PURPOSE AND STRENGTHS AS WELL AS REALISING OUR FULLER POTENTIAL WITH REGARDS TO OUR OFFERING.”**
 Asra Ali-Khan,
 Managing Director, Liquid TV
+
+
+**[Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)**
 
 
 #### **STAND OUT FROM THE CROWD AND ACHIEVE RAPID AND SUSTAINABLE GROWTH**
