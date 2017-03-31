@@ -4,12 +4,9 @@ date: 2017-03-30 14:16:00 Z
 published: false
 excerpt-image: "/uploads/Image%20for%20email%20v3.png"
 excerpt-text: The Retail Growth Programme
-hero-quote: 'Watch the tutorial and you’ll be taken through how to use Facebook to
-  target your perfect customers, how you could use your website and social media to
-  share customer experiences, creating a database and using that database to generate
-  new customers while winning back old ones (with both email marketing and across
-  social media), reaching out to social influencers (and using software to do this
-  in the most effective way), as well as video and blog content creation. '
+hero-quote: Watch our free online marketing tutorial for small retailers to discover
+  insightful and practical tips that you’ll be able to easily implement without breaking
+  the bank.
 is-top: true
 top-position: 2
 top-image: "/uploads/Image%20for%20email%20v3.png"
@@ -20,7 +17,7 @@ is-partner: true
 
 Here at Inside Retail, we know from our conversations with you in the independent retail community that actually generating a 'buzz' and a marketing message around your new online business can be very challenging, particularly because some of your big competitors, like Amazon for instance, have enormous budgets.
 
-**That doesn't need to stand in your way, and Alasdair talks us through how you can implement some simple but effective online marketing tactics.**
+#### **That doesn't need to stand in your way, and Alasdair talks us through how you can implement some simple but effective online marketing tactics.**
 
 Watch the tutorial and you’ll be taken through how to use Facebook to target your perfect customers, how you could use your website and social media to share customer experiences, creating a database and using that database to generate new customers while winning back old ones (with both email marketing and across social media), reaching out to social influencers (and using software to do this in the most effective way), as well as video and blog content creation. 
 
@@ -30,13 +27,15 @@ The programme is designed with the leader of retail businesses in mind; providin
 
 **[Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)**
 
-### **“G HELPED US RECONNECT WITH OUR PURPOSE AND STRENGTHS AS WELL AS REALISING OUR FULLER POTENTIAL WITH REGARDS TO OUR OFFERING.”**
+#### **“G HELPED US RECONNECT WITH OUR PURPOSE AND STRENGTHS AS WELL AS REALISING OUR FULLER POTENTIAL WITH REGARDS TO OUR OFFERING.”**
 Asra Ali-Khan,
 Managing Director, Liquid TV
 
-##### **STAND OUT FROM THE CROWD AND ACHIEVE RAPID AND SUSTAINABLE GROWTH**
+
+#### **STAND OUT FROM THE CROWD AND ACHIEVE RAPID AND SUSTAINABLE GROWTH**
 
 The ability to learn, adopt new practices and develop personally are critical to business success. These newly adopted skills, applied to your business through clearly actionable plans, can set you apart in a crowded market, providing the catalyst for rapid and sustainable growth.
+
 
 # **THE PROGRAMME**
 
