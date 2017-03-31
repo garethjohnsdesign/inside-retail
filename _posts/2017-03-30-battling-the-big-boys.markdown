@@ -1,11 +1,11 @@
 ---
 title: Battling the big boys
 date: 2017-03-30 09:04:00 Z
-published: false
 categories:
 - up-and-running
 tags:
 - in-store
+excerpt-image: "/uploads/Inside_Retail_hero_image1024x576.png"
 excerpt-text: You can still compete in a world of corporate and online retailers
 hero-text: |-
   We spoke to 40 small retailers as part of our research for Autumn Fair (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
