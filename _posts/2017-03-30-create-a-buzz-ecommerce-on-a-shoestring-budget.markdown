@@ -34,12 +34,12 @@ Managing Director, Liquid TV
 **[Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)**
 
 
+# **THE PROGRAMME**
+
+
 #### **STAND OUT FROM THE CROWD AND ACHIEVE RAPID AND SUSTAINABLE GROWTH**
 
 The ability to learn, adopt new practices and develop personally are critical to business success. These newly adopted skills, applied to your business through clearly actionable plans, can set you apart in a crowded market, providing the catalyst for rapid and sustainable growth.
-
-
-# **THE PROGRAMME**
 
 This programme provides a unique opportunity for you to step back from the day-to-day demands of running your business, giving you the clarity and the time to develop a detailed, actionable plan for growth.
 
