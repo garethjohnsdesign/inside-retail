@@ -39,6 +39,8 @@ layout: page
 
 3\.2.Ascential will keep your information (to the extent permitted by the DPA) to enable Ascential to use it for the purposes described in this Privacy Policy.
 
+3\.3.Your personal data will be held and used by Ascential, and any third party hosting provider acting on its behalf, in order to run the event and for analysing visitor traffic with a view to improving the event experience for visitors.
+
 **4. Use of Your Information**
 
 4\.1.Ascential may use your personal information (subject in each case to the requirements of the DPA) for the following purposes:
@@ -64,6 +66,8 @@ layout: page
 5. (where you post material that does or may constitute a criminal offence, breach the rights of a third party, give rise to a civil action or breach the Terms & Conditions of the applicable website and as otherwise necessary to protect the rights, property or safety of Ascential and its customers), to any relevant authority or third party requiring Ascential to disclose the identity of or locate anyone posting such material on an Ascential website; and
 
 6. to any individual making a subject information request to Ascential.
+
+7. if you allow your visitor badge to be scanned by an exhibitor or sponsor when at the event, you will be providing the exhibitor or sponsor with your personal data, which they may use to contact you about their products or services and may transfer this data outside of the European Economic Area for these purposes.
 
 4\.3.In the event that Ascential(or a relevant part of Ascential) is acquired by or merges with another company, your personal information may be passed to the purchasing/merging company amongst the transferred business assets. This will enable your relationship to continue with the relevant Ascential business despite the change of ownership. Your personal information may also be passed (on a confidential basis) to companies with whom Ascential is negotiating such a sale/merger as part of the verification exercise carried out on Ascential by the third party.
 
