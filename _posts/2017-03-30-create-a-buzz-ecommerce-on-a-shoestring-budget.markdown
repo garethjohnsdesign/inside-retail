@@ -4,7 +4,7 @@ date: 2017-03-30 14:16:00 Z
 published: false
 excerpt-image: "/uploads/Image%20for%20email%20v3.png"
 excerpt-text: The Retail Growth Programme
-hero-text: 'Watch the tutorial and you’ll be taken through how to use Facebook to
+hero-quote: 'Watch the tutorial and you’ll be taken through how to use Facebook to
   target your perfect customers, how you could use your website and social media to
   share customer experiences, creating a database and using that database to generate
   new customers while winning back old ones (with both email marketing and across
