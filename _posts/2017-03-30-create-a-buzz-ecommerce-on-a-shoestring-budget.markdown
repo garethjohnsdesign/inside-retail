@@ -34,7 +34,7 @@ The programme is designed with the leader of retail businesses in mind; providin
 Asra Ali-Khan,
 Managing Director, Liquid TV
 
-# **STAND OUT FROM THE CROWD AND ACHIEVE RAPID AND SUSTAINABLE GROWTH**
+##### **STAND OUT FROM THE CROWD AND ACHIEVE RAPID AND SUSTAINABLE GROWTH**
 
 The ability to learn, adopt new practices and develop personally are critical to business success. These newly adopted skills, applied to your business through clearly actionable plans, can set you apart in a crowded market, providing the catalyst for rapid and sustainable growth.
 
@@ -108,6 +108,6 @@ There are ten specially designed growth workshops for you to choose from a selec
 
 This programme is designed for retailers or those looking to diversify into the retail sector. If you are already successfully trading and now want to take the next step towards future growth then please get in contact.
 
-### [Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
+## [Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
 
 
