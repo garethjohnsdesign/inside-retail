@@ -23,7 +23,7 @@ hero-quote: "“It is surprising how many shops don’t know how to keep up to d
 length: Three minute read
 is-top: true
 top-position: 3
-top-image: "/uploads/Stocksy_txp30a257aaN0R100_Small_184748-3c420b.jpg"
+top-image: "/uploads/Stocksy_txp30a257aaN0R100_Small_184748-d0af00.jpg"
 ---
 
 We spoke to 40 small retailers as part of our research for [Autumn Fair](https://www.autumnfair.com/) (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
