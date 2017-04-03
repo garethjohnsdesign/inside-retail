@@ -5,9 +5,9 @@ categories:
 - up-and-running
 tags:
 - ecommerce
-excerpt-image: "/uploads/Stocksy_txp30a257aaN0R100_Small_184748.jpg"
+excerpt-image: "/uploads/Stocksy_txp30a257aaN0R100_Small_184748-d0af00.jpg"
 excerpt-text: Eight essentials
-hero-image: "/uploads/Stocksy_txp30a257aaN0R100_Small_184748-3c420b.jpg"
+hero-image: "/uploads/Stocksy_txp30a257aaN0R100_Small_184748-d0af00.jpg"
 hero-text: |-
   We spoke to 40 small retailers as part of our research for [Autumn Fair](https://www.autumnfair.com/) (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
 
