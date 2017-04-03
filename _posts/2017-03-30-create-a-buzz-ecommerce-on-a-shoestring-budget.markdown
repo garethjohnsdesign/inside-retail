@@ -1,6 +1,12 @@
 ---
 title: 'Watch: Create a buzz - Ecommerce on a shoestring budget'
 date: 2017-03-30 14:16:00 Z
+categories:
+- up-and-running
+- getting-started
+tags:
+- ecommerce
+- marketing
 excerpt-image: "/uploads/GT%20Image%20for%20web.png"
 excerpt-text: The Retail Growth Programme
 hero-quote: Watch our free online marketing tutorial for small retailers to discover
