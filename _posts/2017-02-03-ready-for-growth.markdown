@@ -10,8 +10,7 @@ excerpt-text: The Retail Growth Programme
 hero-image: "/uploads/v2-Young-boy-watering-a-plant.jpg"
 hero-quote: Designed specifically for small retailers, G by Grant Thornton has developed
   The Retail Growth Programme in partnership with Inside Retail
-is-top: true
-top-position: 2
+is-top: false
 top-image: "/uploads/v2-Young-boy-watering-a-plant.jpg"
 is-partner: true
 ---
