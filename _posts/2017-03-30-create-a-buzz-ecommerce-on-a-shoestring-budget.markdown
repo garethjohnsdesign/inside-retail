@@ -2,14 +2,14 @@
 title: 'Create a buzz: Ecommerce on a shoestring budget'
 date: 2017-03-30 14:16:00 Z
 published: false
-excerpt-image: "/uploads/Image%20for%20email%20v3.png"
+excerpt-image: "/uploads/GT%20Image%20for%20web.png"
 excerpt-text: The Retail Growth Programme
 hero-quote: Watch our free online marketing tutorial for small retailers to discover
   insightful and practical tips that you’ll be able to easily implement without breaking
   the bank.
 is-top: true
 top-position: 2
-top-image: "/uploads/Image%20for%20email%20v3.png"
+top-image: "/uploads/GT%20Image%20for%20web.png"
 is-partner: true
 ---
 
