@@ -37,3 +37,20 @@ Example showing how to change the color/size of the icons:
 svg.icon.icon-envelop2 {
 	vertical-align: text-bottom;
 }
+
+.icon-vend {
+  color: #41AF4B;
+}
+
+.icon-grant-thornton {
+  color: #512178;
+}
+
+
+.sponsors__menu .icon {
+  transition: $primary-transition;
+}
+
+.sponsors__menu .icon:hover {
+  opacity: 0.5;
+}
