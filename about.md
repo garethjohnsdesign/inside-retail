@@ -1,5 +1,9 @@
 ---
 title: About
+Color: "#FF00FF"
+image: "/uploads/about.svg"
+lead-paragraph: Inside Retail offers seminars, one-to-one meetings, and workshops.
+  Most of it is free and all you need to do is choose the event
 layout: page
 ---
 

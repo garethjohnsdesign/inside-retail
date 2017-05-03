@@ -10,9 +10,7 @@ excerpt-text: The Retail Growth Programme
 hero-quote: Lou Williams from G by Grant Thornton talks to Inside Retail Editor, Sophy
   Searight about creating a brand & personality for your shop and the steps you can
   take to help build that successful brand personality.
-is-top: true
-top-position: 1
-top-image: "/uploads/Creating%20a%20brand%20web%20image%20.jpg"
+is-top: false
 is-partner: true
 ---
 
@@ -87,14 +85,13 @@ There are ten specially designed growth workshops for you to choose from a selec
 * Growth Planning
 * Going International
 * Financial Management
-* Buying and
-* Merchandising
+* Buying and Merchandising
 * Operations and Logistics
 * e-commerce
 * Customer and Sales Profiling
 * Brand Identity
 * Engaging and Retaining Talent
-* Reaching the Marke
+* Reaching the Market
 * Choosing the Next Location
 * Retail Space Design
 * Innovation

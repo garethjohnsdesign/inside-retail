@@ -5,20 +5,22 @@ categories:
 - getting-started
 tags:
 - inspiration
-image: "/uploads/prezola-how-to-shake-up-a-sector.jpg"
 excerpt-image: "/uploads/prezola-how-to-shake-up-a-sector.jpg"
 excerpt-text: 'Going digital in a traditional market to thrive '
 hero-image: "/uploads/prezola-how-to-shake-up-a-sector.jpg"
 hero-quote: Prezola has taken a centuries-old niche business and revolutionised it
   for the iPad generation.
 length: 'One minute read '
+image: "/uploads/prezola-how-to-shake-up-a-sector.jpg"
 ---
 
  With its innovative digital take on the wedding gift business, Prezola, which launched in 2010, manages over 5000 gift lists a year.  Forecasting a £10m turnover in 2016, the business has scooped multiple awards including the Retailer of the Year gong at The Great British Entrepreneur Awards and the Wedding Gift List of the Year for 2016. It is run by Ali and Dom Beaven. Here, Dom reveals the steps to success.
 
 ### 1 Take an established business and do it differently
 
-Prezola has taken a centuries-old niche business and revolutionised it for the iPad generation.  ### 2 Know your customer
+Prezola has taken a centuries-old niche business and revolutionised it for the iPad generation.
+
+  ### 2 Know your customer
 
 We target young, affluent, brand-aware couples and so it’s vital that we keep ahead of trends with the latest products, colours, styles and brands.
 

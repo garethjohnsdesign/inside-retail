@@ -95,14 +95,13 @@ There are ten specially designed growth workshops for you to choose from a selec
 * Growth Planning
 * Going International
 * Financial Management
-* Buying and
-* Merchandising
+* Buying and Merchandising
 * Operations and Logistics
 * e-commerce
 * Customer and Sales Profiling
 * Brand Identity
 * Engaging and Retaining Talent
-* Reaching the Marke
+* Reaching the Market
 * Choosing the Next Location
 * Retail Space Design
 * Innovation
