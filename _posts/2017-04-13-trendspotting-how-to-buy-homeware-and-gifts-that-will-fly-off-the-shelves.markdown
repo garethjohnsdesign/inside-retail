@@ -4,8 +4,6 @@ date: 2017-04-13 05:19:00 Z
 categories:
 - fine-tuning
 tags:
-- marketing
-- ecommerce
 - Inspiration
 excerpt-image: "/uploads/Trendspotting.jpg"
 excerpt-text: Maximize sales and profit
@@ -43,11 +41,11 @@ If you can provide products with real provenance (i.e where/how they were made),
 “We are moving as a society towards buying things with heritage. That’s how you get people to engage emotionally. People buy things that mean something to them,” says Healy.
 
 This can also help with PR coverage. If you have sourced a product that is newsworthy or surprising then you might be able to interest a newspaper, magazine or blog in featuring it.
-Consider products at each end of the scale: the lower cost, smaller items that are easier to shift; and the higher end, quality products that you don’t want to over-buy. If you’re new to trendhunting then try some low value stuff to start with. But don’t be afraid to get bolder.
+Consider products at each end of the scale: the lower cost, smaller items that are easier to shift; and the higher end, quality products that you don’t want to over-buy. If you’re new to trend-hunting then try some low value stuff to start with. But don’t be afraid to get bolder.
 
 **SCOURING THE NET**
 
-The best way of buying wisely is to be as informed as possible. It might sound obvious but if you can be all over social media, checking out Twitter, Instagram, Pinterest and Facebook, for what’s going on in the industry, the styles, patterns and tropes that are the most hashtagged, then it’s going to give you an edge.
+The best way of buying wisely is to be as informed as possible. It might sound obvious but if you can be all over social media, checking out Twitter, Instagram, Pinterest and Facebook, for what’s going on in the industry, the styles, patterns and tropes that are the most hash-tagged, then it’s going to give you an edge.
 
 Be mindful particularly of how trends travel by following overseas social networks. Japan and the USA are particularly good indicators of trends that will travel to the UK and Europe.
 
