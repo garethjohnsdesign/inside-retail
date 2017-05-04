@@ -55,7 +55,7 @@ Be a blog lover: try Abigail Ahern’s blog ([https://abigailahern.com](https://
 
 **THE INDUSTRY TALKS**
 
-Another top tip is to follow what’s going on at trade shows on social media. You might not have made it to Paris or London’s Olympia but you can see the pictures and get some idea of the buzz-worthy topics that emerged from the big shows like Spring Fair and Premier Vision. Spring Fair (Gift and Home) and Pure London (Fashion) have free trend presentations at the show.
+Another top tip is to follow what’s going on at trade shows on social media. You might not have made it to Paris or London’s Olympia but you can see the pictures and get some idea of the buzz-worthy topics that emerged from the big shows like Spring Fair and Premier Vision. [Spring Fair](http://www.springfair.com/) (Gift and Home) and [Pure London](http://www.purelondon.com/) (Fashion) have free trend presentations at the show.
 
 Again, it’s worth following both trade shows via their websites eg. Premiere Vision’s spotlight on section ([http://www.premierevision.com/en/categories/spotlight-on/](http://www.premierevision.com/en/categories/spotlight-on/)), for an idea of the biggest areas for trendhunting.
 
