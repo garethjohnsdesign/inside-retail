@@ -9,6 +9,7 @@ excerpt-image: "/uploads/inside_retail_article.jpg"
 excerpt-text: Your Editor goes undercover in Dubai to bring you the latest on how
   the world’s largest and most successful retail chains see their future. The big
   surprise was, they just want to be what you are.
+hero-image: "/uploads/inside_retail_article.jpg"
 hero-quote: |-
   ‘The Future of retail can be the highstreet, if it’s a good highstreet’
   Robin Lewis, CEO, The Robin Report
