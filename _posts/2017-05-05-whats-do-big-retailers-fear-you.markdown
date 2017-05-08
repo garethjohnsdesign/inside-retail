@@ -32,7 +32,7 @@ Waterstones actually had a great year, despite Amazon’s total domination of th
 
 For inspiration from larger retailers on elements you might want to adapt for your own store, follow the advice of Martin Newman Founder of famous consultancy Practicology, and check out:
 
-* Rapha. The cycle retailer has styled its stores a club houses and offers an amazing array of events, a real sense of community. Revenues areup 30% on the previous 12 months, so what they’re doing is obviously working.
+* [Rapha](http://pages.rapha.cc/clubs). The cycle retailer has styled its stores a club houses and offers an amazing array of events, a real sense of community. Revenues areup 30% on the previous 12 months, so what they’re doing is obviously working.
 
 * Jo Malone’s new store, Jo Loves. 92% of people who took part in her Perfume Painting experience went on to make a purchase. Take a look at her new initiatives for inspiration on making your store an unexpected delight for customers.
 
