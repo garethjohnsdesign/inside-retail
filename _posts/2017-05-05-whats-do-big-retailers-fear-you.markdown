@@ -1,7 +1,6 @@
 ---
 title: What’s Do Big Retailers Fear? You!
 date: 2017-05-05 12:38:00 Z
-published: false
 categories:
 - up-and-running
 tags:
@@ -34,7 +33,7 @@ For inspiration from larger retailers on elements you might want to adapt for yo
 
 * [Rapha](http://pages.rapha.cc/clubs). The cycle retailer has styled its stores a club houses and offers an amazing array of events, a real sense of community. Revenues areup 30% on the previous 12 months, so what they’re doing is obviously working.
 
-* Jo Malone’s new store, Jo Loves. 92% of people who took part in her Perfume Painting experience went on to make a purchase. Take a look at her new initiatives for inspiration on making your store an unexpected delight for customers.
+* Jo Malone’s new store, Jo Loves. 92% of people who took part in her Perfume Painting experience went on to make a purchase. Take a look at her [new initiatives](http://www.joloves.com/experiences) for inspiration on making your store an unexpected delight for customers.
 
 With the ability to change direction and respond to the customer, at speeds that large retailers can only dream of, indies are perfectly placed to offer the kind of retail experience consumers want. I know it’s very difficult to take time away from the day to day management to look at how to develop your store, or in the words of Exec Director of M&S Patrick Bousquet-Chavanne, answer the question, “What do you want to be when you grow up”;. But the rapid changes in the industry have created an opportunity, and it’s important to take it now.
 
@@ -56,7 +55,7 @@ This means that if one of your customers likes your Facebook post and buys then 
 
 There are loads of different ways to give your potential customers an opportunity to build trust in and interest in your shop. None of which require a Macy’s budget and 728 stores!
 
-**“When we opened Bloomingdales in Kuwait we made it a women-only store. This was controversial and took a lot of convincing the board but it’s highly successful. Don’t be afraid to take a risk if you know what your customers want” Khalid Al Tayer, CEO, Al Tayer Insignia**
+**“When we opened Bloomingdales in Kuwait we made it a women-only store. This was controversial and took a lot of convincing the board but it’s highly successful. Don’t be afraid to take a risk if you know what your customers want” [Khalid Al Tayer, CEO, Al Tayer Insignia](https://www.businessoffashion.com/community/people/khalid-al-tayer)**
 
 You’re probably not expanding to Kuwait but the willingness to listen to local customers made Bloomingdales a lot of money, so there’s no reason it can’t do the same for you. 
 
@@ -92,7 +91,7 @@ Amazon is a key reason for the decline of big retail and in the small retail com
 
 Working on these until you’ve managed to get onto the first page of the search results will put you in a position to compete on a level playing field with enormous conglomerates. And if you’re getting good reviews there’s no reason you can’t outsell Sony!
 
-**“Department Store retail now makes up 2% of the total retail market. It used to be 10% and we’ve seen 10yrs of steady decline.” Robin Lewis, CEO, The Robin Report**
+**“Department Store retail now makes up 2% of the total retail market. It used to be 10% and we’ve [seen 10yrs of steady decline](https://www.retail-week.com/sectors/home-and-diy/big-box-little-box-cardboard-box-why-big-retailers-are-shrinking/7011157.article).” Robin Lewis, CEO, [The Robin Report](http://www.therobinreport.com/)**
 
 The big thing I took from this fascinating session was that ‘big stores are not cool’. As young consumers look to experience and discover things, driving to an out of town retail park and wandering around DFS doesn’t cut it. The Big Box formats are only surviving in the US (where they lead, we follow) if they operate like neighbourhoods, with sports, community, great food, farmers markets ie a Highstreet!
 
