@@ -969,6 +969,12 @@
 		"oAP": "\/_posts\/2017-04-27-watch-customer-insight-at-number-six.markdown",
 		"oF": 0
 		},
+	"\/_posts\/2017-05-05-whats-do-big-retailers-fear-you.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_posts\/2017-05-05-whats-do-big-retailers-fear-you.markdown",
+		"oF": 0
+		},
 	"\/_posts\/articles\/2016-12-07-social media success at Christmas.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -1885,6 +1891,16 @@
 		"oA": 2,
 		"oAP": "\/_uploads\/Inside Retail Partnership Opportunities - Final_25Aug16.pdf",
 		"oF": 0
+		},
+	"\/_uploads\/inside_retail_article.jpg": {
+		"ft": 16384,
+		"iS": 351526,
+		"oA": 0,
+		"oAP": "\/_uploads\/inside_retail_article.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/Inside_Retail_hero_image1024x576.png": {
 		"ft": 32768,
