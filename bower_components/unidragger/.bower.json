@@ -36,5 +36,6 @@
     "commit": "c0f385d75422b1d26e1e980b996d7971bb27db2a"
   },
   "_source": "https://github.com/metafizzy/unidragger.git",
-  "_target": "^2.1.0"
+  "_target": "^2.1.0",
+  "_originalSource": "unidragger"
 }

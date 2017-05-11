@@ -504,6 +504,10 @@ li.excerpt__tag.align-right {
 	padding-top: 3rem;
 }
 
+.post__content img {
+	padding: 2rem 3rem;
+}
+
 .post__content__quote {
 	padding-top: 3rem;
 }
@@ -860,4 +864,40 @@ background-image: linear-gradient(to bottom, #75ae4c, #99c47c);
 
 .accordion__button {
 	@include button(false, $color--black, $color--gray, white, solid);
+}
+
+// Partners
+
+.partner__logo .icon {
+  font-size: 7rem;
+}
+
+.partner__panel {
+	background-color: $color--white;
+	padding: 2rem 2rem;
+	@include breakpoint(medium) {
+  padding: 3rem 3rem;
+  }
+  @include breakpoint(large) {
+    padding: 2rem 5rem;
+  }
+}
+
+.partner__title {
+  padding: 1rem;
+}
+
+.partner__image {
+  padding: 1rem;
+}
+
+.partners__contact .callout a {
+  color: $color--white;
+  &:hover {
+      color: $color--dark-gray;
+    }
+}
+
+.partner__content {
+  padding: 2rem;
 }

@@ -5,10 +5,10 @@ categories:
 - branching-out
 tags:
 - ecommerce
-image: "/uploads/bo-listen-to-your-customers-notonthehighstreet-1.jpg"
-excerpt-image: "/uploads/bo-listen-to-your-customers-notonthehighstreet-1.jpg"
+image: "/uploads/listen-to-your-customers-notonthehighstreet-01.jpg"
+excerpt-image: "/uploads/listen-to-your-customers-notonthehighstreet-01.jpg"
 excerpt-text: Marketing lessons from Simon Belsham
-hero-image: "/uploads/bo-listen-to-your-customers-notonthehighstreet-1.jpg"
+hero-image: "/uploads/listen-to-your-customers-notonthehighstreet-01.jpg"
 ---
 
 What should your ecommerce marketing plan look like? Notonthehighstreet.com CEO Simon Belsham shares his tips on how to get started. 
@@ -31,6 +31,6 @@ What should your ecommerce marketing plan look like? Notonthehighstreet.com CEO 
 
 **9.** Make sure your customers can browse easily on mobile and tablet, this will also boost your online search rankings.
 
-![bo-listen-to-your-customers-notonthehighstreet-2.jpg](/uploads/bo-listen-to-your-customers-notonthehighstreet-2.jpg)
+![listen-to-your-customers-notonthehighstreet-02.jpg](/uploads/listen-to-your-customers-notonthehighstreet-02.jpg)
 
  

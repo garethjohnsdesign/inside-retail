@@ -5,13 +5,13 @@ categories:
 - up-and-running
 tags:
 - ecommerce
-excerpt-image: "/uploads/david-everett-strickler-v2.jpg"
+excerpt-image: "/uploads/david-everett-strickler.jpg"
 excerpt-text: 3 Delivery Top Tips
-hero-image: "/uploads/david-everett-strickler-v2.jpg"
+hero-image: "/uploads/david-everett-strickler.jpg"
 hero-quote: "“The final mile is where you’ll lose customers,” Sherrie Mead, co-founder,
   The Letteroom"
 length: Three minute read
-top-image: "/uploads/david-everett-strickler-v2.jpg"
+top-image: "/uploads/david-everett-strickler.jpg"
 ---
 
 No matter how great your customer experience is, it’s the last mile that leaves the lasting impression. Get it right and your customers will walk away with a favourable view of your brand, get it wrong and they’re unlikely to return. 

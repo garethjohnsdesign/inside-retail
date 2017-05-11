@@ -14,8 +14,8 @@ collections:
   events:
     title: Events
     output: false
-  partner:
-    title: Partner
+  partners:
+    title: Partners
     output: true
   posts:
     title: Posts
@@ -64,6 +64,7 @@ defaults:
     type: blog_categories
   values:
     layout: category
+contact-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 url: http://insideretail.com
 permalink: pretty
 gems:
@@ -79,7 +80,6 @@ description: The online destination for independent retailers. Whether you sell 
   the high street or online, are just getting started or tweaking the dream, you can
   find stories, tips, interviews and inspiration to help accelerate the growth of
   your business.
-domain: http://insideretail.com
 company: i2i Events Group
 email: insideretail@ascential.com
 facebook: https://www.facebook.com/InsideRetailUK
@@ -87,7 +87,7 @@ instagram: https://www.instagram.com/insideretail
 twitter: https://twitter.com/InsideRetailUK
 linkedin: https://www.linkedin.com/insideretail
 googleplus: https://plus.google.com/+InsideRetail
-logo: "/assets/img/layout/logo.svg"
+logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"
 future: true

@@ -31,7 +31,7 @@ Inside Retail has partnered with Mastercard to create this special report on wha
 
 * Looking to the future
 
-<a href="http://www.insideretail.com/uploads/Mastercard-Special-Report.pdf" class="button">Download Report</a>
+<a href="http://www.insideretail.com/uploads/mastercard-special-report.pdf" class="button">Download Report</a>
 
 Mastercard are also partnering with Inside Retail to bring you exclusive masterclasses and seminars, free POS material and the opportunity to win a Priceless experience.
 

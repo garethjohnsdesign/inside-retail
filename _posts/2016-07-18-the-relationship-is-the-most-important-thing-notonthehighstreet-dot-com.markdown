@@ -1,14 +1,14 @@
 ---
-title: 'The Relationship Is the Most Important Thing: Notonthehighstreet.Com'
+title: 'The Relationship is the Most Important Thing: Notonthehighstreet.Com'
 date: 2016-07-18 14:43:00 Z
 categories:
 - branching-out
 tags:
 - ecommerce
-image: "/uploads/bo-the-relationship.jpg"
-excerpt-image: "/uploads/bo-the-relationship.jpg"
+image: "/uploads/the-relationship-is-the-most-important-thing.jpg"
+excerpt-image: "/uploads/the-relationship-is-the-most-important-thing.jpg"
 excerpt-text: Supply chain lessons from Simon Belsham
-hero-image: "/uploads/bo-the-relationship.jpg"
+hero-image: "/uploads/the-relationship-is-the-most-important-thing.jpg"
 length: 30 second read
 ---
 
