@@ -1,0 +1,43 @@
+<!-- Flickity HTML init -->
+<div class="animated fadeIn gallery">
+{% assign slide_documents = site.carousel | sort:"position" %}
+{% for slide in slide_documents %}
+<div class="gallery-cell" style="background-image: url({{slide.image}})">
+	
+<div class="row carousel__text">
+	<div class="small-10 medium-10 large-8 small-offset-1 medium-offset-1 large-offset-0 columns">
+	
+	<div class="row">
+	<div class="shrink columns">
+	<div class="carousel__title">{{slide.title}}</div>
+	</div>
+	</div>
+	
+	<div class="row">
+	<div class="shrink columns">
+	<div class="carousel__header">{{slide.header}}</div>
+	</div>
+	</div>
+	
+	<div class="row show-for-medium">
+	<div class="shrink columns">
+	<div class="carousel__subheader">{{slide.subheader}}</div>
+	</div>
+	</div>
+	
+	<div class="row">
+	<div class="shrink columns">
+	<a class="button carousel__button" href="{{slide.title | downcase | replace: ' ', '-'}}">View All</a>
+	</div>
+	</div>
+	
+	</div>
+</div>
+
+<div class="carousel__image">
+<img src="{{slide.shape}}">
+</div>
+
+</div>
+{% endfor %}
+</div>

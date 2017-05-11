@@ -1,0 +1,64 @@
+<article class="excerpt">
+
+<!-- Image -->
+<a href="{{post.url}}">
+<div class="excerpt__image">
+<img src="{{post.excerpt-image}}" alt="{{post.title}}" />
+
+{% if post.is-partner %}
+<div class="excerpt__sponsored">
+Partner
+</div>
+{% endif %}
+
+{% if post.hero-video %}
+<div class="excerpt__video">
+<svg class="icon icon-play3"><use xlink:href="#icon-play3"></use></svg>
+</div>
+{% endif %}
+
+
+</div>
+</a>
+<!-- End Image -->
+
+<!-- Category -->
+<section class="excerpt__meta">
+{% if post.categories or post.tags %}
+  <ul class="menu simple expanded excerpt__tags">
+    {% for post_category in post.categories %}    
+      {% assign post_category_downcase = post_category | downcase | replace: ' ', '-' %}
+      {% for site_category in site.blog_categories %}
+        {% assign site_category_title = site_category.title | downcase | replace: ' ', '-' %}
+        {% if site_category_title == post_category_downcase %}
+          <li class="excerpt__category"><a href="{{ site_category.permalink }}" class="excerpt__category__link{% if site_category.color %} {{site_category.color}}{% endif %}">{{ site_category.title }}</a></li>
+        {% endif %}
+      {% endfor %}      
+    {% endfor %}
+    
+    {% for post_tag in post.tags %}
+      {% assign post_tag_downcase = post_tag | downcase %}
+      {% for site_tag in site.blog_tags %}
+        {% assign site_tag_title = site_tag.title | downcase %}
+        {% if site_tag_title == post_tag_downcase %}
+          <li class="excerpt__tag align-right"><a href="{{ site_tag.permalink }}" class="align-right excerpt__tag__link{% if site_tag.color %} {{site_tag.color}}{% endif %}">{{ site_tag.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    
+  </ul>
+{% endif %}
+</section>
+<!-- End Category -->
+
+<!-- Title -->
+<h2 class="excerpt__title">
+<a href="{{ post.url }}">{{ post.title }}</a>
+</h2>
+<!-- End Title -->
+
+<!-- Excerpt Text -->
+<p>{{ post.excerpt-text }}</p>
+<!-- End Excerpt Text -->
+
+</article>

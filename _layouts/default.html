@@ -1,0 +1,78 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+{% include head.html %}
+
+<body>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCJCQG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WCJCQG');</script>
+<!-- End Google Tag Manager -->
+	
+{% if page.url == "/" %}
+<script>document.body.className += ' fade-out';</script>
+{% endif %}
+
+<!-- Announcement -->
+{% include announcement.html %}
+<!-- End Announcement -->
+
+<!-- Navigation -->
+{% include navigation.html %}
+<!-- End Navigation -->
+
+<!-- Subscribe Top -->
+{% include subscribe-top.html %}
+<!-- End Subscribe Top -->
+
+<!-- Search -->
+{% include search.html %}
+<!-- End Search -->
+
+
+<div class="animated fadeIn">
+
+	
+<!-- Content -->
+<section class="content">
+{{ content }}
+</section>
+<!-- End Content -->
+
+<!-- Sponsors -->
+{% if page.url == "/" %}
+{% include sponsors.html %}
+{% endif %}
+<!-- End Sponsors -->
+
+
+<!-- Subscribe -->
+{% include subscribe.html %}
+<!-- End Subscribe -->
+
+<!-- Footer -->
+{% include footer.html %}
+<!-- End Footer -->
+
+</div>
+ 
+</body>
+{% include scripts.html %}
+
+<script>superSearch({
+    searchSelector: '#js-super-search', // CSS Selector for search container element.
+    inputSelector: '#js-super-search__input', // CSS selector for <input>
+    resultsSelector: '#js-super-search__results' // CSS selector for results container
+});</script>
+
+</html>

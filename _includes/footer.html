@@ -1,0 +1,89 @@
+<!-- Footer Top -->
+<div class="footer__top">
+	
+<!-- Footer Top__Logo -->
+<div class="row expanded">
+<div class="small-12 medium-4 large-3 columns">
+<div class="footer__top__logo">
+<a href="/"><svg class="icon icon-logo"><use xlink:href="#icon-logo" id="top-bar__logo__desktop"></use></svg></a>
+</div>
+</div>
+</div>
+<!-- End Footer Top__Logo -->
+
+<!-- Footer Top__Menu__Mobile -->
+<div class="row expanded show-for-small-only">
+  
+  <div class="small-12 columns text-center">
+  {% for item in site.data.navigation.details %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  {% endfor %}
+  <hr>
+  {% for item in site.data.navigation.categories %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  {% endfor %}
+  <hr>
+  {% for item in site.data.navigation.tags %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  {% endfor %}
+  
+  </div>
+  
+</div>
+<!-- End Footer Top__Menu__Mobile -->
+
+<!-- Footer Top__Menu -->
+<div class="row expanded show-for-medium">
+  
+  <div class="small-12 medium-3 large-2 columns">
+  <ul class="menu vertical">
+  {% for item in site.data.navigation.details %}
+  <li class=""><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  
+  <div class="small-12 medium-3 large-2 columns">
+  <ul class="menu vertical align-center">
+  {% for item in site.data.navigation.categories %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  
+  <div class="small-12 medium-3 large-2 columns">
+  <ul class="menu vertical">
+  {% for item in site.data.navigation.tags %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+  </ul>
+  </div>
+  
+</div>
+<!-- End Footer Top__Menu-->
+
+<!-- End Footer Top -->
+</div>
+
+<!-- Footer Bottom -->
+<div class="row expanded footer__bottom">
+
+  <div class="small-12 medium-6 columns align-middle footer__bottom__copyright">
+  <a href="/copyright"><small>© Copyright</small></a>
+  <a href="http://www.ascential.com" target="_blank"><small>- About Ascential</small></a>
+  </div>
+  
+  <div class="small-12 medium-6 columns">
+  <ul class="menu footer__bottom__socials">
+	<li class="menu-text show-for-medium"><small><a href="mailto:insideretail@ascential.com">Contact Us</a></small></li>
+	<li><a href="mailto:insideretail@ascential.com"><svg class="icon icon-envelop"><use xlink:href="#icon-envelop"></use></svg></a></li>
+	<li class="menu-text show-for-medium"><small>Connect</small></li>
+	<li><a href="{{ site.facebook }}" target="_blank"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="{{ site.twitter }}" target="_blank"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+<!-- 	<li><a href="{{ site.googleplus }}" target="_blank"><svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg></a></li> -->
+<!-- 	<li><a href="{{ site.linkedin }}" target="_blank"><svg class="icon icon-linkedin2"><use xlink:href="#icon-linkedin2"></use></svg></a></li> -->
+  </ul>
+  </div>
+  
+</div>
+<!-- End Footer Bottom -->

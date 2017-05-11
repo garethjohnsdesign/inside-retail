@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<!-- Sub Navigation -->
+{% include sub-navigation.html %}
+<!-- End Sub Navigation -->
+
+<div class="category__header" style="background-image: url({{page.image}})">
+
+
+<div class="row category__header__content">
+	<div class="small-12 columns text-center">
+		<h6 class="category__title {% if page.color %} {{page.color}}{% endif %}">{{page.title}}</h6>
+		<h1>{{page.header}}</h1>
+		<p class="lead">{{page.subheader}}</p>
+		<p>{{page.lead-paragraph}}</p>
+		<a href="#category__content" class="category__link"><svg class="icon icon-arrow-down4 {% if page.color %} {{page.color}}{% endif %}"><use xlink:href="#icon-arrow-down4"></use></svg></a>
+	</div>
+</div>
+
+<div class="category__image">
+<img src="{{page.shape}}">
+</div>
+
+</div>
+
+<div class="category__content__wrap">
+<div class="row category__content" id="category__content">
+{% assign category = page.title | downcase | replace: ' ', '-' %}
+{% assign category_posts = site.categories[category] %}
+{% for post in category_posts %}
+<div class="small-12 medium-6 large-4 columns">
+{% include excerpt.html %}
+</div>
+{% endfor %}
+</div>
+</div>

@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div class="index__carousel">
+{% include carousel.html %}
+</div>
+
+<section class="index__content">
+<!-- Content -->
+<div class="row">
+
+<!-- Content Left -->
+<div class="small-12 medium-8 columns index__latest">
+
+<div class="row align-justify index__latest__title">
+<div class="column small-6"><h6>Latest</h6></div>
+<div class="column small-6 text-right"><a class="small hollow button" href="/all">View All</a></div>
+</div>
+
+<div class="row">
+{% for post in site.posts limit:8 %}
+<div class="small-12 medium-6 columns">
+{% include excerpt.html %}
+</div>
+{% endfor %}
+</div>
+</div>
+<!-- End Content Left -->
+
+<!-- Content Right -->
+<div class="small-12 medium-4 columns">
+
+<!-- Content Right Connect -->
+<div class="row index__connect">
+<div class="small-12 columns">
+<h6>Connect</h6>
+<ul class="menu simple">
+	<li><a href="{{ site.facebook }}" target="_blank"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>
+	<li><a href="{{ site.twitter }}" target="_blank"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+</ul>
+</div>
+</div>
+
+<div class="row index__top__title">
+<div class="small-12 columns">
+<h6>Top Articles</h6>
+</div>
+</div>
+
+<div class="row">
+{% assign posts = site.posts | sort:"top-position" | where: "is-top", "true" %}	
+{% for post in posts limit:5 %}
+<div class="small-12 columns">
+{% include excerpt-top.html %}
+</div>
+{% endfor %}
+
+</div>
+
+
+
+</div>
+<!-- End Content Right -->
+
+</div>
+<!-- End Content -->
+</section>

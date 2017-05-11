@@ -1,0 +1,111 @@
+---
+title: Inside Retail
+timezone: UTC
+collections:
+  annoucement:
+    title: Annoucement
+    output: false
+  carousel:
+    title: Carousel
+    output: false
+  blog_categories:
+    title: Categories
+    output: true
+  events:
+    title: Events
+    output: false
+  partner:
+    title: Partner
+    output: true
+  posts:
+    title: Posts
+    output: true
+  blog_tags:
+    title: Tags
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: articles/:title/
+    layout: post
+    excerpt-image: 
+    excerpt-text: 
+    hero-video: 
+    hero-image: 
+    hero-text: 
+    hero-quote: 
+    hero-cite: 
+    length: 
+    is-top: 
+    top-position: 
+    top-image: 
+    is-partner: 
+- scope:
+    path: ''
+    type: annoucement
+  values:
+    period: 
+    prepend: 
+    location: 
+    link: 
+    is-shown: 
+- scope:
+    path: ''
+    type: blog_tags
+  values:
+    layout: tag
+- scope:
+    path: ''
+    type: blog_categories
+  values:
+    layout: category
+url: http://insideretail.com
+permalink: pretty
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+description: The online destination for independent retailers. Whether you sell on
+  the high street or online, are just getting started or tweaking the dream, you can
+  find stories, tips, interviews and inspiration to help accelerate the growth of
+  your business.
+domain: http://insideretail.com
+company: i2i Events Group
+email: insideretail@ascential.com
+facebook: https://www.facebook.com/InsideRetailUK
+instagram: https://www.instagram.com/insideretail
+twitter: https://twitter.com/InsideRetailUK
+linkedin: https://www.linkedin.com/insideretail
+googleplus: https://plus.google.com/+InsideRetail
+logo: "/assets/img/layout/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
+exclude:
+- Gemfile
+- Gemfile.lock
+- bower.json
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false

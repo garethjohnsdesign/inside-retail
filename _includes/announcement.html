@@ -1,0 +1,8 @@
+{% assign annoucement_documents = site.annoucement | sort:"position" | where: "is-shown", "true" %}
+{% for annoucement in annoucement_documents limit:1 %}
+<div class="row expanded announcement show-for-medium">
+	<div class="small-12 columns text-center">
+		<a href="{{annoucement.link}}"><small>{{annoucement.prepend}} <span class="announcement__location">{{annoucement.title}}</span> <span class="announcement__location">{{annoucement.location}}</span> {{annoucement.period}}</small></a>
+	</div>
+</div>
+{% endfor %}

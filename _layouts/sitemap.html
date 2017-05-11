@@ -1,0 +1,273 @@
+---
+layout: default
+---
+
+<section class="sitemap">
+
+<hr>
+<!-- Top Level -->
+<div class="row text-center">
+	
+<!-- About -->
+<div class="small-12 medium-4 columns">
+<!-- About Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>Inside Retail</h1>
+	</div>
+</div>
+<!-- End About Title -->
+
+<!-- About List -->
+<div class="row">
+<div class="small-12 columns">
+  {% for item in site.data.navigation.details %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  {% endfor %}
+</div>
+</div>
+<!-- End About List -->
+</div>
+<!-- End About -->
+
+<!-- Category -->
+<div class="small-12 medium-4 columns">
+<!-- Category Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>Stage</h1>
+	</div>
+</div>
+<!-- End Category Title -->
+
+<!-- Category List -->
+<div class="row">
+	<div class="small-12 columns">
+		{% for item in site.data.navigation.categories %}
+		<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+		{% endfor %}
+	</div>
+</div>
+<!-- End Category List -->
+</div>
+<!-- End Category -->
+
+<!-- Tag -->
+<div class="small-12 medium-4 columns">
+<!-- Tag Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>Category</h1>
+	</div>
+</div>
+<!-- End Tag Title -->
+
+<!-- Tag List -->
+<div class="row">
+	<div class="small-12 columns">
+		{% for item in site.data.navigation.tags %}
+		<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+		{% endfor %}
+	</div>
+</div>
+<!-- End Tag List -->
+</div>
+<!-- End Tag -->
+
+</div>
+<!-- End Top Level -->
+
+<hr>
+
+<!-- Categories -->
+<div class="row text-center">
+<!-- Getting Started -->
+<div class="small-12 medium-3 columns">
+<!-- Getting Started Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>Getting Started</h1>
+	</div>
+</div>
+<!-- End Getting Started Title -->
+
+<!-- Getting Started List -->
+<div class="row">
+<div class="small-12 columns">
+  {% for item in site.categories.getting-started %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  {% endfor %}
+</div>
+</div>
+<!-- End Getting Started List -->
+</div>
+<!-- End Getting Started -->
+
+<!-- Up and Running -->
+<div class="small-12 medium-3 columns">
+<!-- Up and Running Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>Up and Running</h1>
+	</div>
+</div>
+<!-- End Up and Running Title -->
+
+<!-- Up and Running List -->
+<div class="row">
+	<div class="small-12 columns">
+		{% for item in site.categories.up-and-running %}
+		<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+		{% endfor %}
+	</div>
+</div>
+<!-- End Up and Running List -->
+</div>
+<!-- End Up and Running -->
+
+<!-- Branching Out -->
+<div class="small-12 medium-3 columns">
+<!-- Branching Out Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>Branching Out</h1>
+	</div>
+</div>
+<!-- End Branching Out Title -->
+
+<!-- Branching Out List -->
+<div class="row">
+	<div class="small-12 columns">
+		{% for item in site.categories.branching-out %}
+		<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+		{% endfor %}
+	</div>
+</div>
+<!-- End Branching Out List -->
+</div>
+<!-- End Branching Out -->
+
+<!-- Fine-Tuning -->
+<div class="small-12 medium-3 columns">
+<!-- Fine-Tuning Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>Fine-Tuning</h1>
+	</div>
+</div>
+<!-- End Fine-Tuning Title -->
+
+<!-- Fine-Tuning List -->
+<div class="row">
+	<div class="small-12 columns">
+		{% for item in site.categories.fine-tuning %}
+		<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+		{% endfor %}
+	</div>
+</div>
+<!-- End Fine-Tuning List -->
+</div>
+<!-- End Fine-Tuning -->
+
+</div>
+<!-- End Fine-Tuning -->
+<!-- End Categories -->
+
+<hr>
+
+<!-- Tags -->
+<div class="row text-center">
+<!-- eCommerce -->
+<div class="small-12 medium-3 columns">
+<!-- eCommerce Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>eCommerce</h1>
+	</div>
+</div>
+<!-- End eCommerce Title -->
+
+<!-- eCommerce List -->
+<div class="row">
+<div class="small-12 columns">
+  {% for item in site.tags.ecommerce %}
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  {% endfor %}
+</div>
+</div>
+<!-- End eCommerce List -->
+</div>
+<!-- End eCommerce -->
+
+<!-- Marketing -->
+<div class="small-12 medium-3 columns">
+<!-- Marketing Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>Marketing</h1>
+	</div>
+</div>
+<!-- End Marketing Title -->
+
+<!-- Marketing List -->
+<div class="row">
+	<div class="small-12 columns">
+		{% for item in site.tags.marketing %}
+		<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+		{% endfor %}
+	</div>
+</div>
+<!-- End Marketing List -->
+</div>
+<!-- End Marketing -->
+
+<!-- In-Store -->
+<div class="small-12 medium-3 columns">
+<!-- In-Store Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>In-Store</h1>
+	</div>
+</div>
+<!-- End In-Store Title -->
+
+<!-- In-Store List -->
+<div class="row">
+	<div class="small-12 columns">
+		{% for item in site.tags.in-store %}
+		<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+		{% endfor %}
+	</div>
+</div>
+<!-- End In-Store List -->
+</div>
+<!-- End In-Store -->
+
+<!-- Inspiration -->
+<div class="small-12 medium-3 columns">
+<!-- Inspiration Title -->
+<div class="row">
+	<div class="small-12 columns">
+		<h1>Inspiration</h1>
+	</div>
+</div>
+<!-- End Inspiration Title -->
+
+<!-- Inspiration List -->
+<div class="row">
+	<div class="small-12 columns">
+		{% for item in site.categories.fine-tuning %}
+		<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+		{% endfor %}
+	</div>
+</div>
+<!-- End Inspiration List -->
+</div>
+<!-- End Inspiration -->
+
+</div>
+<!-- End Inspiration -->
+<!-- End Tags -->
+
+<hr>
+</section>

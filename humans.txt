@@ -1,0 +1,68 @@
+The team, technology & tools behind this site.
+
+
+GARETH JOHNS ART DIRECTION + DESIGN TEAM
+--------
+
+Made with love in London.
+
+Gareth Johns
+Design & development
+@garethjohnsabc
+
+
+SPECIAL THANKS
+--------------
+
+Ciaran O'Shea
+Brendan Gatens
+Skylar Challand
+
+
+TECHNOLOGY
+----------
+
+Siteleaf - Content management system
+siteleaf.com
+
+Jekyll - Static site generator
+jekyllrb.com
+
+Sass - CSS pre-processor
+sass-lang.com
+
+Liquid - Templating
+shopify.github.io/liquid
+
+Foundation - Front-end Framework
+foundation.zurb.com
+
+GitHub - Code collaboration & hosting
+github.com
+
+JavaScript libraries include:
+jQuery
+
+
+TOOLS
+-----
+
+Coda - Text editor
+panic.com/coda
+
+Sketch - Graphics editor
+sketchapp.com
+
+Illustrator & Photoshop - Graphics editor
+adobe.com
+
+Slack - Emojis and GIFs
+slack.com
+
+
+FONTS
+-----
+
+Gotham
+by Hoefler & Co
+typography.com
