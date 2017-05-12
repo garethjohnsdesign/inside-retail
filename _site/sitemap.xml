@@ -76,6 +76,15 @@
 <loc>http://insideretail.com/marketing/</loc>
 </url>
 <url>
+<loc>http://insideretail.com/partners/grant-thornton/</loc>
+</url>
+<url>
+<loc>http://insideretail.com/partners/mastercard/</loc>
+</url>
+<url>
+<loc>http://insideretail.com/partners/vend/</loc>
+</url>
+<url>
 <loc>http://insideretail.com/articles/business-growth-top-tips/</loc>
 <lastmod>2016-01-20T15:10:00+00:00</lastmod>
 </url>
@@ -292,10 +301,6 @@
 <lastmod>2016-08-31T21:12:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://insideretail.com/articles/social-media-success-at-Christmas/</loc>
-<lastmod>2016-12-07T11:52:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://insideretail.com/articles/how-to-be-successful-in-ecommerce-this-christmas/</loc>
 <lastmod>2016-12-07T16:31:00+00:00</lastmod>
 </url>
@@ -334,10 +339,6 @@
 <url>
 <loc>http://insideretail.com/articles/ready-for-growth/</loc>
 <lastmod>2017-02-03T17:20:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://insideretail.com/articles/life-balance-when-you-run-your-own-retail-business/</loc>
-<lastmod>2017-02-15T10:28:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://insideretail.com/articles/big-ticket-spend-investment-for-the-year-ahead/</loc>
@@ -408,6 +409,9 @@
 </url>
 <url>
 <loc>http://insideretail.com/</loc>
+</url>
+<url>
+<loc>http://insideretail.com/partners/</loc>
 </url>
 <url>
 <loc>http://insideretail.com/privacy/</loc>

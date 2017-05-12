@@ -4,4 +4,4 @@ Website for Inside Retail. Please go to [www.insideretail.com](http://insidereta
 
 * * *
 
-Copyright (c) 2016 Gareth Johns Art Direction + Design – info@garethjohnsdesign.com
+Copyright (c) 2017 Gareth Johns Art Direction + Design – info@garethjohnsdesign.com

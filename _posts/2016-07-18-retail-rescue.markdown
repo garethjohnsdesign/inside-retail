@@ -5,17 +5,17 @@ categories:
 - fine-tuning
 tags:
 - in-store
-image: "/uploads/ft-bira.jpg"
-excerpt-image: "/uploads/ft-bira.jpg"
+image: "/uploads/retail-rescue.jpg"
+excerpt-image: "/uploads/retail-rescue.jpg"
 excerpt-text: BIRA’s top tips on improving business performance
-hero-image: "/uploads/ft-bira.jpg"
+hero-image: "/uploads/retail-rescue.jpg"
 hero-quote: Good businesses don’t become successful by accident. A motivated staff
   is the best asset you can have.
 hero-cite: Alan Hawkins
 length: Five minute read 
 is-top: true
 top-position: 5
-top-image: "/uploads/ft-bira-top.jpg"
+top-image: "/uploads/retail-rescue.jpg"
 ---
 
 What do you do if you think your business isn’t performing or expanding quite as you’d like? Alan Hawkins, CEO of British Independent Retailers Association (BIRAƒ) provides some useful advice and support. 

@@ -10,13 +10,7 @@ layout: compress
 <body>
 
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCJCQG"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WCJCQG');</script>
+{% include google-tag-manager.html %}
 <!-- End Google Tag Manager -->
 	
 {% if page.url == "/" %}
@@ -35,14 +29,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {% include subscribe-top.html %}
 <!-- End Subscribe Top -->
 
-<!-- Search -->
-{% include search.html %}
-<!-- End Search -->
-
-
-<div class="animated fadeIn">
-
-	
 <!-- Content -->
 <section class="content">
 {{ content }}
@@ -64,15 +50,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {% include footer.html %}
 <!-- End Footer -->
 
-</div>
- 
-</body>
-{% include scripts.html %}
 
-<script>superSearch({
-    searchSelector: '#js-super-search', // CSS Selector for search container element.
-    inputSelector: '#js-super-search__input', // CSS selector for <input>
-    resultsSelector: '#js-super-search__results' // CSS selector for results container
-});</script>
+<!-- Scripts -->
+{% include scripts.html %}
+<!-- End Scripts -->
+
+</body>
+
+
 
 </html>

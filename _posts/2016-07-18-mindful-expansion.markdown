@@ -18,7 +18,7 @@ Aria Crafts expanded from a local hand crafts and toys supplier to focus on hous
 
 Managing director Chris Kettle shares his story and tips. 
 
-![gs-mindful-expansion-aria-crafts-3.jpg](/uploads/gs-mindful-expansion-aria-crafts-3.jpg)
+![mindful-expansion.jpg](/uploads/mindful-expansion.jpg)
 
 ### THE ARIA CRAFTS STORY
 

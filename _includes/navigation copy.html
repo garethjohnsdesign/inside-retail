@@ -1,0 +1,57 @@
+<div class="title-bar" data-responsive-toggle="primary-menu" data-hide-for="medium">
+  
+  <div class="title-bar-title">
+  <a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo" id="top-bar__logo__desktop"></use></svg></a>
+  
+  <button class="hamburger hamburger--collapse" id="menuBar" data-toggler=".is-active" type="button" data-toggle="menuBar">
+  <span class="hamburger-box">
+  <span class="hamburger-inner"></span>
+  </span>
+  </button>
+  </div>
+
+<div class="top-bar" id="primary-menu">
+  <div class="top-bar-left">
+	
+	<ul class="vertical medium-horizontal dropdown menu primary-menu" data-dropdown-menu>
+	<li class="hide-for-small-only"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo" id="top-bar__logo__desktop"></use></svg></a></li>
+	
+	{% for link in site.data.navigation.header %}
+        {% assign current = nil %}
+        {% if page.url contains link.url %}
+            {% assign current = 'current' %}
+        {% endif %}
+        <li class="element element-{{ link.color }} {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
+    {% endfor %}
+	</ul>
+	
+	<ul class="vertical medium-horizontal dropdown menu secondary-menu" data-dropdown-menu>
+	{% for link in site.data.navigation.tags %}
+        {% assign current = nil %}
+        {% if page.url contains link.url %}
+            {% assign current = 'current' %}
+        {% endif %}
+        <li class="element show-for-small-only {% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+            <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+    
+    <ul class="menu simple social-menu show-for-small-only">
+	<li><a href="#"><svg class="icon icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-google-plus"><use xlink:href="/assets/icons/symbol-defs.svg#icon-google-plus"></use></svg></a></li>
+	<li><a href="#"><svg class="icon icon-linkedin2"><use xlink:href="/assets/icons/symbol-defs.svg#icon-linkedin2"></use></svg></a></li>
+	</ul>
+    
+  </div>
+  <div class="top-bar-right hide-for-small-only">
+    <ul class="menu align-right">
+	  <li><a href="#subscribe__bottom"><span class="show-for-large">Subscribe</span><span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="/assets/icons/symbol-defs.svg#icon-envelop2"></use></svg></span></a></li>
+    </ul>
+  </div>
+</div>
+
+</div>

@@ -5,7 +5,7 @@ position: 0
 location: Olympia London
 period: 23-25 July 2017
 link: http://www.purelondon.com/
-image: "/uploads/Pure-London-July-2017.jpg"
+image: "/uploads/pure-london.jpg"
 has-content: 
 ---
 

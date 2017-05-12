@@ -5,18 +5,18 @@ categories:
 - up-and-running
 tags:
 - marketing
-excerpt-image: "/uploads/GT%20Image%20for%20web.png"
+excerpt-image: "/uploads/create-a-buzz.jpg"
 excerpt-text: The Retail Growth Programme
 hero-quote: Watch our free online marketing tutorial for small retailers to discover
   insightful and practical tips that you’ll be able to easily implement without breaking
   the bank.
 is-top: true
 top-position: 2
-top-image: "/uploads/GT%20Image%20for%20web.png"
+top-image: "/uploads/create-a-buzz.jpg"
 is-partner: true
 ---
 
-[![GT Tutorial web article image.PNG](/uploads/GT%20Tutorial%20web%20article%20image.PNG)](http://lp.events.ascential.com/GT-Creating-a-Buzz-Video-Form.html)
+[![create-a-buzz-02.jpg](/uploads/create-a-buzz-02.jpg)](http://lp.events.ascential.com/GT-Creating-a-Buzz-Video-Form.html)
 
 Here at Inside Retail, we know from our conversations with you in the independent retail community that actually generating a 'buzz' and a marketing message around your new online business can be very challenging, particularly because some of your big competitors, like Amazon for instance, have enormous budgets.
 
@@ -48,7 +48,7 @@ This programme provides a unique opportunity for you to step back from the day-t
 
 Download the brochure with all the info here:
 
-<a href="/uploads/Retail%20Growth%20Programme%20A4.pdf" class="button">Download Brochure</a>
+<a href="/uploads/retail-growth-programme.pdf" class="button">Download Brochure</a>
 
 
 **The benefits:**
