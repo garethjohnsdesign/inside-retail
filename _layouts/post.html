@@ -12,7 +12,7 @@ layout: default
 <div class="row post__share">
 	<div class="small-12 columns">
 	<ul class="menu simple">
-	<li><button type="button" class="hollow button" onclick="history.back(-1)"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> Back</button></li>
+	<li><button type="button" class="hollow button" onclick="history.back(-1)"><svg class="icon icon-arrow-left8"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left8"></use></svg> Back</button></li>
 	<li>Share</li>
 	 
 	{% include sharing.html %} 
@@ -121,7 +121,7 @@ layout: default
   <div class="small-6 columns">
   {% if page.previous.url %}
   
-    <p><a class="prev" href="{{page.previous.url}}"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> Previous</a></p>
+    <p><a class="prev" href="{{page.previous.url}}"><svg class="icon icon-arrow-left8"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left8"></use></svg> Previous</a></p>
     <p class="hide-for-small-only"><a class="dark-gray prev" href="{{page.previous.url}}">{{page.previous.title}}</a></p>
     
   {% endif %}
@@ -129,7 +129,7 @@ layout: default
   <div class="small-6 columns text-right">
   {% if page.next.url %}
     
-    <p><a class="next text-right" href="{{page.next.url}}">Next <svg class="icon icon-arrow-right8"><use xlink:href="#icon-arrow-right8"></use></svg></a></p>
+    <p><a class="next text-right" href="{{page.next.url}}">Next <svg class="icon icon-arrow-right8"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right8"></use></svg></a></p>
     <p class="hide-for-small-only"><a class="dark-gray next text-right" href="{{page.next.url}}">{{page.next.title}}</a></p>
    </div>
   {% endif %}

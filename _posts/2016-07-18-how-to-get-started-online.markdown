@@ -5,16 +5,16 @@ categories:
 - getting-started
 tags:
 - ecommerce
-image: "/uploads/gs-how-to-get-started-online-Martin-Newman.jpg"
-excerpt-image: "/uploads/gs-how-to-get-started-online-Martin-Newman.jpg"
+image: "/uploads/how-to-get-started-online-martin-newman.jpg"
+excerpt-image: "/uploads/how-to-get-started-online-martin-newman.jpg"
 excerpt-text: Martin Newman answers your 7 ecommerce starter questions
-hero-image: "/uploads/gs-how-to-get-started-online-Martin-Newman.jpg"
+hero-image: "/uploads/how-to-get-started-online-martin-newman.jpg"
 hero-quote: There’s not always a need to reinvent the wheel.
 hero-cite: Martin Newman
 length: 2 minute read
 is-top: true
 top-position: 2
-top-image: "/uploads/gs-how-to-get-started-online-martin-newman-top.jpg"
+top-image: "/uploads/how-to-get-started-online-martin-newman-top.jpg"
 ---
 
 Retail expert Martin Newman of Practicology answers your starter questions. 

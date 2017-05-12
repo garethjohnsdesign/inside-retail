@@ -5,10 +5,10 @@ categories:
 - getting-started
 tags:
 - inspiration
-image: "/uploads/haskins-diversify-high.jpg"
-excerpt-image: "/uploads/haskins-diversify-high.jpg"
+image: "/uploads/haskins-diversify.jpg"
+excerpt-image: "/uploads/haskins-diversify.jpg"
 excerpt-text: How new services and products have helped this business bloom
-hero-image: "/uploads/haskins-diversify-high.jpg"
+hero-image: "/uploads/haskins-diversify.jpg"
 hero-quote: I have never regretted following my instincts but I have regretted not
   following them.
 length: Two minute read

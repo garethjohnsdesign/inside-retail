@@ -5,16 +5,16 @@ categories:
 - fine-tuning
 tags:
 - in-store
-image: "/uploads/ft-on-being-a-better-independent-retailer.jpg"
-excerpt-image: "/uploads/ft-on-being-a-better-independent-retailer.jpg"
+image: "/uploads/on-being-a-better-independent-retailer.jpg"
+excerpt-image: "/uploads/on-being-a-better-independent-retailer.jpg"
 excerpt-text: '5 unbreakable rules '
-hero-image: "/uploads/ft-on-being-a-better-independent-retailer.jpg"
+hero-image: "/uploads/on-being-a-better-independent-retailer.jpg"
 hero-quote: Any shopper passing a store has to be given a reason to enter it.
 hero-cite: John Ryan
 length: Three minute read
 is-top: true
 top-position: 3
-top-image: "/uploads/ft-on-being-a-better-independent-retailer-top.jpg"
+top-image: "/uploads/on-being-a-better-independent-retailer-top.jpg"
 ---
 
 How do you turn your store into a magnet for customers? Retail journalist John Ryan sets out the five unbreakable rules. 

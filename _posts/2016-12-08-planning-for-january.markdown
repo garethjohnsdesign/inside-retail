@@ -5,11 +5,11 @@ categories:
 - up-and-running
 tags:
 - ecommerce
-excerpt-image: "/uploads/almost-midnight-v2.jpg"
-excerpt-text: The Benefits Of Hindsight
-hero-image: "/uploads/almost-midnight-v2.jpg"
+excerpt-image: "/uploads/almost-midnight.jpg"
+excerpt-text: The Benefits of Hindsight
+hero-image: "/uploads/almost-midnight.jpg"
 length: Three minute read
-top-image: "/uploads/almost-midnight-v2.jpg"
+top-image: "/uploads/almost-midnight.jpg"
 ---
 
 Retail is a dynamic sector where change is a constant. One thing is certain though, Christmas 2017 starts on January 1st in what is a crucial month for independent retailers. Armed with the facts and figures from the Christmas season just past and a fresh perspective on what makes customers and your business tick, it’s time to take a deep breath and prep for the year ahead. 

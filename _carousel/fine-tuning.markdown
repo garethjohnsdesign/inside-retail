@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning
 position: 3
-image: "/uploads/fine-tuning-3de19e.jpg"
+image: "/uploads/fine-tuning.jpg"
 shape: "/uploads/fine-tuning.svg"
 header: Making your Business even better
 subheader: E-commerce, data, new buying habits – they all bring their challenges.

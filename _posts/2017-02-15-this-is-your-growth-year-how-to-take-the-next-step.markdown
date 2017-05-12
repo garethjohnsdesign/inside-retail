@@ -5,9 +5,9 @@ categories:
 - branching-out
 tags:
 - in-store
-excerpt-image: "/uploads/Growth-Article-image--We-Built-this-City---Alice-1024-x-576.jpg"
+excerpt-image: "/uploads/growth-year.jpg"
 excerpt-text: Growth and expansion
-hero-image: "/uploads/Growth-Article-image--We-Built-this-City---Alice-1024-x-576.jpg"
+hero-image: "/uploads/growth-year.jpg"
 hero-quote: "“Targeted PR for us has always worked better than a scattergun approach.”
   Alice Major, We Built this City"
 length: Three minute read

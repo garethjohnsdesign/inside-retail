@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div class="category__header" style="background-image: url({{page.image}})">
+<div class="row category__header__content">
+	<div class="small-12 columns text-center">
+		<h6 class="category__title {% if page.color %} {{page.color}}{% endif %}">{{page.title}}</h6>
+		<h1>{{page.header}}</h1>
+		<p class="lead">{{page.subheader}}</p>
+		<p>{{page.lead-paragraph}}</p>
+		<a href="#category__content" class="category__link"><svg class="icon icon-arrow-down4 {% if page.color %} {{page.color}}{% endif %}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-down4"></use></svg></a>
+	</div>
+</div>
+</div>
+
+<div class="category__content__wrap category__content partners" id="category__content">
+
+<!-- Partners -->
+{% assign partners_documents = site.partners | sort:"position" %}
+{% for partner in partners_documents %}
+<div class="row event partners__partner">
+	<div class="small-12 medium-7 columns">
+		<!-- <img class="partners__image" src="{{partner.image}}" alt="{{partner.title}}" /> -->
+		
+		<a href="{{partner.url}}">
+		<div class="excerpt__image">
+<img src="{{partner.image}}" alt="{{partner.title}}" />
+</div>
+</a>
+		
+	</div>
+	<div class="small-12 medium-5 columns">
+		<h1>{{partner.title}}</h1>
+		<h3>{{partner.strapline}}</h3>
+		{{partner.content}}
+		<a href="{{partner.url}}" target="_blank" class="button hollow">Find Out More</a>
+		<a href="{{partner.website}}" target="_blank" class="button hollow">Website</a>
+	</div>
+</div>
+{% endfor %}
+<!-- End Partners -->
+
+<hr>
+
+<!-- Posts -->
+<div class="row">
+  {% assign partners_posts = site.posts | where: "is-partner", "true" %}
+  {% for post in partners_posts %}
+    <div class="small-12 medium-4 columns">
+      {% include excerpt.html %}
+    </div>
+  {% endfor %}
+</div>
+<!-- End Posts -->
+
+
+<hr>
+
+<!-- Contact -->
+{% include contact.html %}
+<!-- End Contact -->
+
+
+
+</div>
+
+</div>

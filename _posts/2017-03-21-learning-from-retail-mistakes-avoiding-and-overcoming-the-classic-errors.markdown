@@ -5,9 +5,9 @@ categories:
 - getting-started
 tags:
 - inspiration
-excerpt-image: "/uploads/Gina-Brar-product-shot-f7066b.jpg"
-hero-image: "/uploads/Gina-Brar-product-shot-f7066b.jpg"
-top-image: "/uploads/Gina-Brar-product-shot-f7066b.jpg"
+excerpt-image: "/uploads/gina-brar-product.jpg"
+hero-image: "/uploads/gina-brar-product.jpg"
+top-image: "/uploads/gina-brar-product.jpg"
 layout: post
 ---
 
@@ -33,8 +33,6 @@ She says they now listen more to their gut instinct and have come to learn if th
 
 ### 3) Take care over stock control
 
-![Lindsey-Adam.jpg](/uploads/Lindsey-Adam.jpg)
-
 The old adage that ‘retail is detail’ remains as true today as it ever did. It is vital to take a forensic approach when ordering stock.
 
 Forecasting amounts of seasonal stock can be especially hard to get right.
@@ -44,8 +42,6 @@ Forecasting amounts of seasonal stock can be especially hard to get right.
 Lindsey advises to “keep it as tight as possible” when ordering seasonal products and she recommends asking suppliers if they will offer a ‘sale or exchange’ or a ‘sale or return’ deal.
 
 ### 4) Keep on top of your admin
-
-![Gina-Brar.jpg](/uploads/Gina-Brar.jpg)
 
 The temptation to shove your receipts in a drawer to worry about later can often be too great.
 

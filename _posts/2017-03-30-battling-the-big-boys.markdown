@@ -5,9 +5,9 @@ categories:
 - up-and-running
 tags:
 - in-store
-excerpt-image: "/uploads/Battling%20the%20big%20boys.jpg"
+excerpt-image: "/uploads/battling-the-big-boys.jpg"
 excerpt-text: You can still compete in a world of corporate and online retailers
-hero-image: "/uploads/Battling%20the%20big%20boys.jpg"
+hero-image: "/uploads/battling-the-big-boys.jpg"
 hero-text: |-
   We spoke to 40 small retailers as part of our research for Autumn Fair (trade show for retailers) about what their challenges and recommendations are for 2017. Here’s a bite-sized summary of how they’re approaching the challenge of pushing back against those online retailers.
   \
@@ -17,7 +17,7 @@ hero-text: |-
 
   Editor
 
-  ![DSC0330.png](/uploads/DSC0330.png)
+  ![editor.jpg](/uploads/editor.jpg)
 hero-quote: "“The only way the big companies can compete is on volume and logistics,
   so find another edge.”"
 length: Three minute read
@@ -31,7 +31,7 @@ Sophy
 
 Editor
 
-![DSC0330.png](/uploads/DSC0330.png)
+![editor.jpg](/uploads/editor.jpg)
 
 You could be persuaded to panic. You’re a small retailer and your customer walks in holding a smartphone; you know they’re checking prices, you know they can serve themselves online without your help and you can’t throw the resources of one of the major High Street chains at the online world.
 

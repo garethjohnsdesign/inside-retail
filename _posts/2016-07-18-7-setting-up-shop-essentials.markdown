@@ -5,10 +5,10 @@ categories:
 - getting-started
 tags:
 - in-store
-image: "/uploads/gs_setting-up-shop-essentials.jpg"
-excerpt-image: "/uploads/gs_setting-up-shop-essentials.jpg"
+image: "/uploads/setting-up-shop-essentials.jpg"
+excerpt-image: "/uploads/setting-up-shop-essentials.jpg"
 excerpt-text: 'The all-important basics for indie success '
-hero-image: "/uploads/gs_setting-up-shop-essentials.jpg"
+hero-image: "/uploads/setting-up-shop-essentials.jpg"
 hero-quote: It may be worth paying more in order to enjoy the shopper volume that
   will be required for the business to flourish.
 hero-cite: John Ryan
