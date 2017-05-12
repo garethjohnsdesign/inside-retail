@@ -92,6 +92,7 @@ a {
 	height: 2rem;
 }
 
+/*
 .top-bar {
 	font-family: $body-font-family;
 // 	text-transform: uppercase;
@@ -116,6 +117,7 @@ a {
 .top-bar .menu > li > a {
 	padding: 0.7rem 0.7rem;
 }
+*/
 
 #top-bar__logo__desktop {
   --teal-color: $color--teal;
@@ -125,17 +127,6 @@ a {
   --black-color: $color--black;
   --orange-color: $color--orange;
 }
-
-/*
-.header__home:hover #top-bar__logo__desktop {
-  --teal-color: $color--darkest-gray;
-  --purple-color: $color--darkest-gray;
-  --magenta-color: $color--darkest-gray;
-  --yellow-color: $color--darkest-gray;
-  --black-color: $color--darkest-gray;
-  --orange-color: $color--darkest-gray;
-}
-*/
 
 .current a {
   color: $color--dark-gray;

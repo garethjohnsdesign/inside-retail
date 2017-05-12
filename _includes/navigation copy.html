@@ -1,14 +1,20 @@
-<div class="title-bar" data-responsive-toggle="primary-menu">
-  <div class="title-bar-title"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo" id="top-bar__logo__desktop"></use></svg></a></div>
-  <button class="hamburger hamburger--collapse" data-toggler=".is-active" type="button" data-toggle><span class="hamburger-box">
-    <span class="hamburger-inner"></span>
-  </span></button>
-</div>
+<div class="title-bar" data-responsive-toggle="primary-menu" data-hide-for="medium">
+  
+  <div class="title-bar-title">
+  <a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo" id="top-bar__logo__desktop"></use></svg></a>
+  
+  <button class="hamburger hamburger--collapse" id="menuBar" data-toggler=".is-active" type="button" data-toggle="menuBar">
+  <span class="hamburger-box">
+  <span class="hamburger-inner"></span>
+  </span>
+  </button>
+  </div>
 
 <div class="top-bar" id="primary-menu">
   <div class="top-bar-left">
+	
 	<ul class="vertical medium-horizontal dropdown menu primary-menu" data-dropdown-menu>
-	<li class="hide-for-small-only"><a href="/" class="header__home2"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo" id="top-bar__logo__desktop"></use></svg></a></li>
+	<li class="hide-for-small-only"><a href="/" class="header__home"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo" id="top-bar__logo__desktop"></use></svg></a></li>
 	
 	{% for link in site.data.navigation.header %}
         {% assign current = nil %}
@@ -43,7 +49,9 @@
   </div>
   <div class="top-bar-right hide-for-small-only">
     <ul class="menu align-right">
-	  <li><a href="#subscribe__bottom"><span class="show-for-large">Subscribe</span><span class="top-bar-right__subscribe"></a></li>
+	  <li><a href="#subscribe__bottom"><span class="show-for-large">Subscribe</span><span class="top-bar-right__subscribe"><svg class="icon icon-envelop2"><use xlink:href="/assets/icons/symbol-defs.svg#icon-envelop2"></use></svg></span></a></li>
     </ul>
   </div>
+</div>
+
 </div>
