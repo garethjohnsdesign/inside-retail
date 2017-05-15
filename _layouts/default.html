@@ -25,10 +25,6 @@ layout: compress
 {% include navigation.html %}
 <!-- End Navigation -->
 
-<!-- Subscribe Top -->
-{% include subscribe-top.html %}
-<!-- End Subscribe Top -->
-
 <!-- Content -->
 <section class="content">
 {{ content }}
@@ -43,7 +39,11 @@ layout: compress
 
 
 <!-- Subscribe -->
+{% if page.layout contains "partner" %}
+{% include subscribe-partner.html %}
+{% else %}
 {% include subscribe.html %}
+{% endif %}
 <!-- End Subscribe -->
 
 <!-- Footer -->
