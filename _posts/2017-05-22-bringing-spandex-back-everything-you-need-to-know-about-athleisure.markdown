@@ -7,6 +7,7 @@ categories:
 tags:
 - Inspiration
 - in-store
+excerpt-image: "/uploads/Tully-Lou_Campaign_030517_10136_00291.jpg"
 excerpt-text: Maximize sales and profit
 hero-quote: "“Athleisure is not a fad, it’s a lifestyle. It is just going to continue
   to grow especially where activewear merges into streetwear”"
