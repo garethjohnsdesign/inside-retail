@@ -1,5 +1,5 @@
 ---
-title: "Bringing spandex back: Everything you need to know about athleisure"
+title: 'Bringing spandex back: Everything you need to know about athleisure'
 date: 2017-05-22 12:31:00 Z
 published: false
 categories:
