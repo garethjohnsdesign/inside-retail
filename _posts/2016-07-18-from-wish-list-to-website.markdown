@@ -5,10 +5,10 @@ categories:
 - getting-started
 tags:
 - ecommerce
-image: "/uploads/gs-from-wish-list-to-website-aubeterre-blue.jpg"
-excerpt-image: "/uploads/gs-from-wish-list-to-website-aubeterre-blue.jpg"
+image: "/uploads/from-wish-list-to-website.jpg"
+excerpt-image: "/uploads/from-wish-list-to-website.jpg"
 excerpt-text: Aubeterre Blue co-founder Piers Johnson talks process
-hero-image: "/uploads/gs-from-wish-list-to-website-aubeterre-blue.jpg"
+hero-image: "/uploads/from-wish-list-to-website.jpg"
 hero-quote: Wherever possible work with partners and experts, calling in favours and
   advice, as going it alone will be a daunting experience.
 hero-cite: Piers Johnson

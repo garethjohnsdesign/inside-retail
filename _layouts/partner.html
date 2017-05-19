@@ -2,103 +2,50 @@
 layout: default
 ---
 
-<div class="post__wrapper post--bg--{% for page_category in page.categories %}{% assign page_category_downcase = page_category | downcase | replace: ' ', '-' %}{% for site_category in site.blog_categories %}{% assign site_category_title = site_category.title | downcase | replace: ' ', '-' %}{% if site_category_title == page_category_downcase %}{{site_category.color}}{% endif %}{% endfor %}{% endfor %}">
+<div class="post__wrapper post--bg--partner">
 
 
 	
-<div class="row columns post__panel">
-	
-<!-- Post Share -->
-<div class="row post__share">
-	<div class="small-12 columns">
-	<ul class="menu simple">
-	<li><button type="button" class="hollow button" onclick="history.back(-1)"><svg class="icon icon-arrow-left8"><use xlink:href="#icon-arrow-left8"></use></svg> Back</button></li>	 
-  	</ul>
+<div class="row columns partner__panel">
+  
+
+<!-- Partner Logo -->
+<div class="row align-center partner__logo">
+	<div class="shrink columns text-center">
+<a href="{{ page.website }}" target="_blank"><svg class="icon icon-{{ page.title | slugify }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ page.title | slugify }}"></use></svg></a>
 	</div>
 </div>
-<!-- End Post Share -->
+<!-- End Partner Logo -->
 
-<!-- Post Title -->
-<div class="row post__title">
-	<div class="small-12 columns">
+	
+<!-- Partner Title and Strapline -->
+<div class="row partner__title">
+	<div class="small-12 columns text-center">
 		<h1>{{ page.title }}</h1>
+		<h4>{{ page.strapline }}</h4>
 	</div>
 </div>
+<!-- End Partner Title and Strapline -->
 
-<!-- Post Tag and Category -->
-<div class="row post__meta">
-	<div class="small-12 columns">
-{% if page.categories or page.tags %}
-  <ul class="menu simple excerpt__tags">
-    {% for page_category in page.categories %}    
-      {% assign page_category_downcase = page_category | downcase | replace: ' ', '-' %}
-      {% for site_category in site.blog_categories %}
-        {% assign site_category_title = site_category.title | downcase | replace: ' ', '-' %}
-        {% if site_category_title == page_category_downcase %}
-          <li class="excerpt__category"><a href="{{ site_category.permalink }}" class="excerpt__category__link{% if site_category.color %} {{site_category.color}}{% endif %}">{{ site_category.title }}</a></li>
-        {% endif %}
-      {% endfor %}      
-    {% endfor %}
-    
-    {% for page_tag in page.tags %}
-      {% assign page_tag_downcase = page_tag | downcase %}
-      {% for site_tag in site.blog_tags %}
-        {% assign site_tag_title = site_tag.title | downcase %}
-        {% if site_tag_title == page_tag_downcase %}
-          <li class="excerpt__tag"><a href="{{ site_tag.permalink }}" class="excerpt__tag__link">{{ site_tag.title }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    
-    	<li class="excerpt__length show-for-medium">{{ page.length }}</li>
-    
-  </ul>
-{% endif %}
+<!-- Partner Image -->
+<div class="row partner__image">
+	<div class="small-12 columns text-center">
+		<img src="{{page.hero-image}}" alt="{{page.title}}" />
 	</div>
 </div>
-<!-- End Tag and Category -->
+<!-- End Partner Image -->
 
-{% if page.hero-video or page.hero-image %}
-<div class="row post__hero">
-<div class="small-12 columns">
-{% if page.hero-video %}
-
-<div class="flex-video widescreen">
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/{{page.hero-video}}" frameborder="0" allowfullscreen></iframe>
-</div>
-
-{% elsif page.hero-image %}
-<img src="{{page.hero-image}}" alt="{{page.title}}" />
-
-{% if page.hero-image-credit %}
-<small class="dark-gray">Photo: {{ page.hero-image-credit }}</small>
-{% endif %}
-
-{% endif %}
-
-</div>
-</div>
-{% endif %}
-
-{% if page.hero-quote %}
-<div class="row align-center post__content__quote">
+<!-- Partner Content -->
+<div class="row  align-center partner__content">
 	<div class="small-12 medium-8 columns">
-<blockquote>
-{{ page.hero-quote }}
-{% if page.hero-cite %}
-<cite>{{ page.hero-cite }}</cite>
-{% endif %}
-</blockquote>
-	</div>
-</div>
-{% endif %}
-
-
-<div class="row post__content">
-	<div class="small-12 columns">
 		{{ page.content }}
 	</div>
 </div>
+<!-- End Partner Content -->
+
+<!-- Contact -->
+{% include contact.html %}
+<!-- End Contact -->
 
 
 </div>

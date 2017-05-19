@@ -6,9 +6,9 @@ categories:
 - up-and-running
 tags:
 - in-store
-excerpt-image: "/uploads/Big-ticket-investment-article-image-Highgate-Flowers-1024-x-576-b21aa5.jpg"
+excerpt-image: "/uploads/planning-for-investment.jpg"
 excerpt-text: Maximize sales and profit
-hero-image: "/uploads/Big-ticket-investment-article-image-Highgate-Flowers-1024-x-576-b21aa5.jpg"
+hero-image: "/uploads/planning-for-investment.jpg"
 hero-quote: "“Getting my own kiln also made me re-evaluate how I bought my whiteware.”
   Jinny Ngui, Jinny Ngui Design"
 length: Three minute read

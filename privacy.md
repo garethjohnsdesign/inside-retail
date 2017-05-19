@@ -53,7 +53,7 @@ layout: page
 
 4. for generating aggregated statistics about users, traffic patterns etc. of the Ascential website(s) and other services and developing Ascential's marketing plans.
 
-4\.2. Ascential may also disclose your information (subject in each case to the requirements of the DPA) as follows:
+4\.2.1.  Ascential may also disclose your information (subject in each case to the requirements of the DPA) as follows:
 
 1. if you have given your consent for Ascential to do so, to other selected organisations to enable them to contact you or send you information by post, telephone and/or email;
 
@@ -67,7 +67,7 @@ layout: page
 
 6. to any individual making a subject information request to Ascential.
 
-7. if you allow your visitor badge to be scanned by an exhibitor or sponsor when at the event, you will be providing the exhibitor or sponsor with your personal data, which they may use to contact you about their products or services and may transfer this data outside of the European Economic Area for these purposes.
+4\.2.2. If you allow your visitor badge to be scanned by an exhibitor or sponsor when at the event, you will be providing the exhibitor or sponsor with your personal data, which they may use to contact you about their products or services and may transfer this data outside of the European Economic Area for these purposes.
 
 4\.3.In the event that Ascential(or a relevant part of Ascential) is acquired by or merges with another company, your personal information may be passed to the purchasing/merging company amongst the transferred business assets. This will enable your relationship to continue with the relevant Ascential business despite the change of ownership. Your personal information may also be passed (on a confidential basis) to companies with whom Ascential is negotiating such a sale/merger as part of the verification exercise carried out on Ascential by the third party.
 

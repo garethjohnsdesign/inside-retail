@@ -17,6 +17,9 @@ header:
 - title: Events
   url: /events/
   color: black
+- title: Partners
+  url: /partners/
+  color: black
 details:
 - title: About
   url: /about/
