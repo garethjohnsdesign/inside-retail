@@ -477,18 +477,6 @@
 		"oAP": "\/_layouts\/page.html",
 		"oF": 0
 		},
-	"\/_layouts\/partner.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/partner.html",
-		"oF": 0
-		},
-	"\/_layouts\/partners.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/partners.html",
-		"oF": 0
-		},
 	"\/_layouts\/post.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -987,6 +975,12 @@
 		"oAP": "\/_posts\/2017-05-05-whats-do-big-retailers-fear-you.markdown",
 		"oF": 0
 		},
+	"\/_posts\/2017-05-22-bringing-spandex-back-everything-you-need-to-know-about-athleisure.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_posts\/2017-05-22-bringing-spandex-back-everything-you-need-to-know-about-athleisure.markdown",
+		"oF": 0
+		},
 	"\/_site": {
 		"ft": 65536,
 		"oA": 1,
@@ -1038,6 +1032,16 @@
 		"iS": 40507,
 		"oA": 0,
 		"oAP": "\/_uploads\/advice-from-the-export-experts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/AKshara-photo.jpg": {
+		"ft": 16384,
+		"iS": 53136,
+		"oA": 0,
+		"oAP": "\/_uploads\/AKshara-photo.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1137,6 +1141,16 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/bringing-spandex-back.jpg": {
+		"ft": 16384,
+		"iS": 393314,
+		"oA": 0,
+		"oAP": "\/_uploads\/bringing-spandex-back.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_uploads\/brothers-we-stand-2.jpg": {
@@ -1885,10 +1899,10 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Mastercard-Special-Report.pdf": {
+	"\/_uploads\/mastercard-special-report.pdf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_uploads\/Mastercard-Special-Report.pdf",
+		"oAP": "\/_uploads\/mastercard-special-report.pdf",
 		"oF": 0
 		},
 	"\/_uploads\/mastercard.jpg": {
@@ -1956,6 +1970,26 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/MAUREEN-HINTON-GlobalData-Retail-032900.jpg": {
+		"ft": 16384,
+		"iS": 28792,
+		"oA": 0,
+		"oAP": "\/_uploads\/MAUREEN-HINTON-GlobalData-Retail-032900.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/MAUREEN-HINTON-GlobalData-Retail.jpg": {
+		"ft": 16384,
+		"iS": 64075,
+		"oA": 0,
+		"oAP": "\/_uploads\/MAUREEN-HINTON-GlobalData-Retail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/mindful-expansion.jpg": {
@@ -14375,24 +14409,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/partners.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/partners.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/privacy.md": {
 		"cS": 0,
