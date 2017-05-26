@@ -22,7 +22,7 @@ So renting short-term retail space doesn’t have to be daunting, and there are 
 
 We caught up with Janine with a quick fire round of questions relating to fashion and retail.
 
- 1. Who is your fashion icon?
+ 1. Who is your fashion icon?\
     Diane Keaton (Annie Hall and still actually).\
     ![Diane_Keaton_2012-1.jpg](/uploads/Diane_Keaton_2012-1.jpg)
 
@@ -72,7 +72,7 @@ We caught up with Janine with a quick fire round of questions relating to fashio
 16. Onechallenge for 2017\
     Beating previous year's turnover.
 
-17. Thoughts on the future of retailing?
+17. Thoughts on the future of retailing?\
     Review your seasonal brand mix sell through, introduce new brands and improve marketing.\
     ![IMG_3299.JPG](/uploads/IMG_3299.JPG)
 
