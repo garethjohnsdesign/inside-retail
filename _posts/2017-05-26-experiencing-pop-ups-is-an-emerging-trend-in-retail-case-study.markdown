@@ -2,6 +2,7 @@
 title: Experiencing pop-ups is an emerging trend in retail – Case study
 date: 2017-05-26 13:17:00 Z
 excerpt-image: "/uploads/Picture1.jpg"
+hero-image: "/uploads/Picture1.jpg"
 ---
 
 For emerging brands, and retailers that have an online presence only, the concept of running an actual ‘bricks and mortar’ store can be daunting. Pop-up stores present a unique and creative opportunity to test location and new products, and give you a taster of who your customers could be, before committing to a lengthy lease.
@@ -21,73 +22,58 @@ So renting short-term retail space doesn’t have to be daunting, and there are 
 
 We caught up with Janine with a quick fire round of questions relating to fashion and retail.
 
- 1. 
-Who is your fashion icon? 
-\
-    Diane Keaton (Annie Hall and still actually). 
+ 1. Who is your fashion icon?
+    Diane Keaton (Annie Hall and still actually).\
+    ![Diane_Keaton_2012-1.jpg](/uploads/Diane_Keaton_2012-1.jpg)
 
  2. Favourite trend or era?
-\
     NOW.....I love the mash up, a new approach to fashion this season, mixing prints and colours...Be bold.
- 
 
- 3. What are your Spring/Summer wardrobe essentials? 
-\
+ 3. What are your Spring/Summer wardrobe essentials?
     Linen is my go to favourite summer fabric. We are carrying our own premium linen collection this summer and almost sold out already.
 
  4. Who, or what do you follow on social media?
-\
     A mixture of fashion, interior design, food and my gorgeous mates....my best inspiration.
 
  5. Favourite fashion magazine, blog \+/or website?
-\
-    Always VOGUE magazine.  
+    Always VOGUE magazine.
 
- 6. Who is your customer? 
-\
+ 6. Who is your customer?
     My customers are a real cross section of ages and sizes, and they love the eclectic brand mix we carry.
 
- 7. What do they love about you and your store? 
-\
-    My customers love that we are very much a lifestyle store and focus on unique bohemian inspired day and evening wear. Our own brand cashmere and linen dress collection is proving to be very popular this season as it is totally exclusive to our store.
+ 7. What do they love about you and your store?
+    My customers love that we are very much a lifestyle store and focus on unique bohemian inspired day and evening wear. Our own brand cashmere and linen dress collection is proving to be very popular this season as it is totally exclusive to our store.\
+    ![IMG_4641.JPG](/uploads/IMG_4641.JPG)
 
- 8. What's on the playlist in store today? 
-\
+ 8. What's on the playlist in store today?
     Guilty Secret...HARRY STYLES.....we LOVE his new single.
 
- 9. How do you and your team create a better shopping experience for your customer? 
-\
+ 9. How do you and your team create a better shopping experience for your customer?
     Laughter, fun, sincerity and time...the collections look after themselves then.
 
-10. Most desired piece instore?
-\
+10. Most desired piece instore?\
     Suzy D lounge pants. We sell about 300 pairs a season!
 
-11. Best piece of advice? 
-\
+11. Best piece of advice?
     Care about your customers.
 
-12. Most important form of support or advice when running your own business? 
-\
+12. Most important form of support or advice when running your own business?
     Family first, and honest feedback from customers.
 
-13. Biggest day of sales? 
-\
+13. Biggest day of sales?
     £9,000….Woohoo!!
 
-14. This month’s activity to drive customers in store? 
-\
+14. This month’s activity to drive customers in store?
     Introducing our own label, it’s been a huge success.
 
 15. One goal for 2017
-\
-    Expanding our own label. 
+    Expanding our own label.
 
+16. Onechallenge for 2017\
+    Beating previous year's turnover.
 
-16. One challenge for 2017 
-\
-    Beating previous year's turnover. 
+17. Thoughts on the future of retailing?
+    Review your seasonal brand mix sell through, introduce new brands and improve marketing.\
+    ![IMG_3299.JPG](/uploads/IMG_3299.JPG)
 
-17. Thoughts on the future of retailing? 
-\
-    Review your seasonal brand mix sell through, introduce new brands and improve marketing.
+![Janine-O'Keefe-2012.jpg](/uploads/Janine-O'Keefe-2012.jpg)
