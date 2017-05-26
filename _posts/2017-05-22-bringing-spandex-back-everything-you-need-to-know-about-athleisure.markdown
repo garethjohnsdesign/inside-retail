@@ -74,5 +74,3 @@ What will the boys be wearing? “A tailored pair of chinos and a really good qu
 You can stay on top of the latest trends by keeping a close eye on Instagram and there are lots of other [tips here .](http://insideretail.com/articles/trendspotting-how-to-buy-homeware-and-gifts-that-will-fly-off-the-shelves/) But this can be hard work and will mean the trend is already making its way to mainstream which leaves you rushing to place orders in time. A savvy option would be to check out the trade shows for a look at costs and styles whilst gathering as much free info as you can from trend forecasters like WGSN.
 
 Pure is coming up in July and stocks a curated athleisure range. You can also attend free seminars at the show from WGSN which will cover next year’s trends in more detail.
-
-![AKshara-photo.jpg](/uploads/AKshara-photo.jpg) ![MAUREEN-HINTON-GlobalData-Retail-032900.jpg](/uploads/MAUREEN-HINTON-GlobalData-Retail-032900.jpg)
