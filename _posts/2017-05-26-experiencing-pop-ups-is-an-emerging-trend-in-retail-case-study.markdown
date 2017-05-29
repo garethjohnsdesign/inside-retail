@@ -6,7 +6,6 @@ categories:
 - up-and-running
 tags:
 - instore
-- marketing
 - Inspiration
 excerpt-image: "/uploads/Picture1.jpg"
 hero-image: "/uploads/Picture1.jpg"
