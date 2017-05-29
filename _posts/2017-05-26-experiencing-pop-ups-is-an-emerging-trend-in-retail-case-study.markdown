@@ -30,8 +30,8 @@ So renting short-term retail space doesn’t have to be daunting, and there are 
 
 We caught up with Janine with a quick fire round of questions relating to fashion and retail.
 
- 1. Who is your fashion icon?\
-    Diane Keaton (Annie Hall and still actually).\
+ 1. Who is your fashion icon?
+    Diane Keaton (Annie Hall and still actually).
     ![Diane_Keaton_2012-1.jpg](/uploads/Diane_Keaton_2012-1.jpg)
 
  2. Favourite trend or era?
@@ -50,7 +50,7 @@ We caught up with Janine with a quick fire round of questions relating to fashio
     My customers are a real cross section of ages and sizes, and they love the eclectic brand mix we carry.
 
  7. What do they love about you and your store?
-    My customers love that we are very much a lifestyle store and focus on unique bohemian inspired day and evening wear. Our own brand cashmere and linen dress collection is proving to be very popular this season as it is totally exclusive to our store.\
+    My customers love that we are very much a lifestyle store and focus on unique bohemian inspired day and evening wear. Our own brand cashmere and linen dress collection is proving to be very popular this season as it is totally exclusive to our store.
     ![IMG_4641.JPG](/uploads/IMG_4641.JPG)
 
  8. What's on the playlist in store today?
@@ -59,7 +59,7 @@ We caught up with Janine with a quick fire round of questions relating to fashio
  9. How do you and your team create a better shopping experience for your customer?
     Laughter, fun, sincerity and time...the collections look after themselves then.
 
-10. Most desired piece instore?\
+10. Most desired piece instore?
     Suzy D lounge pants. We sell about 300 pairs a season!
 
 11. Best piece of advice?
@@ -77,11 +77,11 @@ We caught up with Janine with a quick fire round of questions relating to fashio
 15. One goal for 2017
     Expanding our own label.
 
-16. Onechallenge for 2017\
+16. Onechallenge for 2017
     Beating previous year's turnover.
 
-17. Thoughts on the future of retailing?\
-    Review your seasonal brand mix sell through, introduce new brands and improve marketing.\
+17. Thoughts on the future of retailing?
+    Review your seasonal brand mix sell through, introduce new brands and improve marketing.
     ![IMG_3299.JPG](/uploads/IMG_3299.JPG)
 
 ![Janine-O'Keefe-2012.jpg](/uploads/Janine-O'Keefe-2012.jpg)
