@@ -4,9 +4,11 @@ date: 2017-05-26 13:17:00 Z
 categories:
 - getting-started
 - up-and-running
+- fine-tuning
 tags:
 - instore
 - Inspiration
+- marketing
 excerpt-image: "/uploads/Picture1.jpg"
 hero-image: "/uploads/Picture1.jpg"
 ---
