@@ -4,8 +4,6 @@ date: 2017-05-26 13:17:00 Z
 categories:
 - getting-started
 - up-and-running
-- branching-out
-- fine-tuning
 tags:
 - instore
 - marketing
