@@ -58,7 +58,7 @@ One way Manohar believes men can be hooked in is by taking a leaf out of Lululem
 
 Lululemon has a reputation for being a retailer of women’s yoga clothes but is increasingly moving into menswear, and the latest step is through its [menswear store in Canada](http://info.lululemon.com/about/media/lululemon-opens-mens-local-in-toronto).
 
-This includes a pop-up barber shop and areas where customers can play ping pong or have a coffee.\\
+This includes a pop-up barber shop and areas where customers can play ping pong or have a coffee.
 
 Such concept stores are perhaps hard for indies to emulate but should certainly provide inspiration in how to tap into the lucrative but arguably less adventurous male customer.
 
