@@ -10,7 +10,7 @@ excerpt-image: "/uploads/HUB-SHOP-MENSWEAR-2.jpg"
 hero-image: "/uploads/LOU&GEORGIEHUBSHOP.jpg"
 ---
 
-Last week we explored the things to consider if you’re thinking about branching out into the rapidly growing [menswear](http://insideretail.com/articles/how-about-menswear-what-to-consider-when-expanding-into-menswear/) market. Now we’re able to share a real example of that diversification process.
+*Last week we explored the things to consider if you’re thinking about branching out into the rapidly growing [menswear](http://insideretail.com/articles/how-about-menswear-what-to-consider-when-expanding-into-menswear/) market. Now we’re able to share a real example of that diversification process.*
 
 You have decided to expand into menswear to make the most of the growing market but how exactly do you go about it?
 
