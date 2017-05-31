@@ -15,7 +15,7 @@ is-top: true
 top-position: 1
 top-image: "/uploads/Vend%20Web%20image.png"
 is-partner: true
-partner: Grant Thornton
+partner: Vend
 ---
 
 # [WIN WITH VEND:](https://www.vendhq.com/uk/london?campaign=7016F000001AWsi&utm_source=insideretail&utm_medium=promotion&utm_campaign=retail_growth)

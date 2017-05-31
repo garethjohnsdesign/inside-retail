@@ -5,7 +5,7 @@ strapline: A World Beyond Cash
 website: https://www.mastercard.co.uk/en-gb.html
 image: "/uploads/partners-mastercard.jpg"
 hero-image: "/uploads/partners-mastercard.jpg"
-layout: partner
+layout: partner-mastercard
 ---
 
 Mastercard partnered with Inside Retail to deliver advice, seminars, masterclasses and tools to help small and medium sized businesses achieve greater success.

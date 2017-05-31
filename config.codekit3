@@ -477,6 +477,24 @@
 		"oAP": "\/_layouts\/page.html",
 		"oF": 0
 		},
+	"\/_layouts\/partner-grant-thornton.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/partner-grant-thornton.html",
+		"oF": 0
+		},
+	"\/_layouts\/partner-mastercard.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/partner-mastercard.html",
+		"oF": 0
+		},
+	"\/_layouts\/partner-vend.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/partner-vend.html",
+		"oF": 0
+		},
 	"\/_layouts\/partner.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -2211,6 +2229,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/_uploads\/partners.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_uploads\/partners.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/_uploads\/payments-revolution.jpg": {
 		"ft": 16384,

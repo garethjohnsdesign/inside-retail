@@ -13,6 +13,7 @@ hero-quote: Designed specifically for small retailers, G by Grant Thornton has d
 is-top: false
 top-image: "/uploads/v2-Young-boy-watering-a-plant.jpg"
 is-partner: true
+partner: Grant Thornton
 ---
 
 Independent retailers across the UK face a host of challenges and obstacles each and every day which can limit growth potential and often leave you feeling unsure of what the best steps towards growth are.

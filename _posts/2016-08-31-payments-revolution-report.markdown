@@ -11,6 +11,7 @@ excerpt-text: A special report, in association with Mastercard, on what the digi
   payments revolution means for independent retailers
 hero-image: "/uploads/payments-revolution.jpg"
 is-partner: true
+partner: Mastercard
 ---
 
 # Payments Revolution

@@ -45,6 +45,7 @@ defaults:
     top-position: 
     top-image: 
     is-partner: 
+    partner: 
 - scope:
     path: ''
     type: annoucement

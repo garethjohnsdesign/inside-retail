@@ -11,6 +11,7 @@ hero-image: "/uploads/partner-video-submit.jpg"
 is-top: false
 top-image: "/uploads/partner-video-top.jpg"
 is-partner: true
+partner: Vend
 image: "/uploads/partner-video-excert.jpg"
 ---
 
