@@ -8,4 +8,6 @@ hero-image: "/uploads/partners-mastercard.jpg"
 layout: partner
 ---
 
-Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur blandit tempus porttitor. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod.
+Mastercard partnered with Inside Retail to deliver advice, seminars, masterclasses and tools to help small and medium sized businesses achieve greater success.
+
+As a market leader in digital payments and a partner of [The Autumn Fair](https://www.autumnfair.com), Mastercard is committed to helping the SME retail community to prosper.

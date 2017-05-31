@@ -477,6 +477,18 @@
 		"oAP": "\/_layouts\/page.html",
 		"oF": 0
 		},
+	"\/_layouts\/partner.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/partner.html",
+		"oF": 0
+		},
+	"\/_layouts\/partners.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/partners.html",
+		"oF": 0
+		},
 	"\/_layouts\/post.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -981,6 +993,24 @@
 		"oAP": "\/_posts\/2017-05-22-bringing-spandex-back-everything-you-need-to-know-about-athleisure.markdown",
 		"oF": 0
 		},
+	"\/_posts\/2017-05-26-experiencing-pop-ups-is-an-emerging-trend-in-retail-case-study.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_posts\/2017-05-26-experiencing-pop-ups-is-an-emerging-trend-in-retail-case-study.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2017-05-26-how-about-menswear-what-to-consider-when-expanding-into-menswear.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_posts\/2017-05-26-how-about-menswear-what-to-consider-when-expanding-into-menswear.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2017-05-29-lessons-learned-from-taking-the-plunge-into-menswear.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_posts\/2017-05-29-lessons-learned-from-taking-the-plunge-into-menswear.markdown",
+		"oF": 0
+		},
 	"\/_site": {
 		"ft": 65536,
 		"oA": 1,
@@ -1228,6 +1258,16 @@
 		"iS": 160465,
 		"oA": 0,
 		"oAP": "\/_uploads\/david-everett-strickler.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/Diane_Keaton_2012-1.jpg": {
+		"ft": 16384,
+		"iS": 77755,
+		"oA": 0,
+		"oAP": "\/_uploads\/Diane_Keaton_2012-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1633,6 +1673,46 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/HUB-SHOP-MENSWEAR-.jpg": {
+		"ft": 16384,
+		"iS": 93899,
+		"oA": 0,
+		"oAP": "\/_uploads\/HUB-SHOP-MENSWEAR-.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/HUB-SHOP-MENSWEAR-2.jpg": {
+		"ft": 16384,
+		"iS": 470939,
+		"oA": 0,
+		"oAP": "\/_uploads\/HUB-SHOP-MENSWEAR-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/IMG_3299.JPG": {
+		"ft": 16384,
+		"iS": 84092,
+		"oA": 0,
+		"oAP": "\/_uploads\/IMG_3299.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/IMG_4641.JPG": {
+		"ft": 16384,
+		"iS": 91189,
+		"oA": 0,
+		"oAP": "\/_uploads\/IMG_4641.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/inside-retail-partner-opportunities-2017.pdf": {
 		"ft": 8192,
 		"oA": 2,
@@ -1749,6 +1829,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_uploads\/Janine-O'Keefe-2012.jpg": {
+		"ft": 16384,
+		"iS": 45210,
+		"oA": 0,
+		"oAP": "\/_uploads\/Janine-O'Keefe-2012.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/jewellery-and-watch.jpg": {
 		"ft": 16384,
 		"iS": 21669,
@@ -1784,6 +1874,26 @@
 		"iS": 70484,
 		"oA": 0,
 		"oAP": "\/_uploads\/listen-to-your-customers-notonthehighstreet-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/LOU&GEORGIEHUBSHOP.jpg": {
+		"ft": 16384,
+		"iS": 569503,
+		"oA": 0,
+		"oAP": "\/_uploads\/LOU&GEORGIEHUBSHOP.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/Lululemon-store.jpg": {
+		"ft": 16384,
+		"iS": 522161,
+		"oA": 0,
+		"oAP": "\/_uploads\/Lululemon-store.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2092,11 +2202,31 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/partners.jpg": {
+		"ft": 16384,
+		"iS": 541171,
+		"oA": 0,
+		"oAP": "\/_uploads\/partners.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/payments-revolution.jpg": {
 		"ft": 16384,
 		"iS": 74606,
 		"oA": 0,
 		"oAP": "\/_uploads\/payments-revolution.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/Picture1.jpg": {
+		"ft": 16384,
+		"iS": 313520,
+		"oA": 0,
+		"oAP": "\/_uploads\/Picture1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -14409,6 +14539,24 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/partners.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/partners.md",
+		"oF": 1,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/privacy.md": {
 		"cS": 0,

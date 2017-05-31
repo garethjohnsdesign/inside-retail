@@ -20,6 +20,9 @@ collections:
   blog_tags:
     title: Tags
     output: true
+  partners:
+    title: Partners
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -61,11 +64,9 @@ defaults:
     type: blog_categories
   values:
     layout: category
-contact-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis
-  lacus vel augue laoreet rutrum faucibus dolor auctor. Vivamus sagittis lacus vel
-  augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Vivamus
-  sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cum sociis natoque
-  penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+contact-text: "Like what you see? Download a copy of our Partnership Opportunities brochure and take a look at some of the example partnership packages we have available. Inside Retail offers a wide range of bespoke retail marketing and research solutions to suit your unique business objectives, no matter how big or small.  
+
+To find out more, get in touch with Paul Barton, he’s our Strategic Partnerships Account Manager who’ll look after you"
 url: http://insideretail.com
 permalink: pretty
 gems:

@@ -882,12 +882,35 @@ background-image: linear-gradient(to bottom, #75ae4c, #99c47c);
   padding: 1rem;
 }
 
+.partners__contact {
+  padding: 3rem;
+  background-color: $color--gray;
+}
+
+.partners__contact__text {
+  padding: 1rem;
+}
+
+.partners__contact__buttons {
+  padding: 2rem;
+}
+
+.partners__contact__form {
+  padding: 2rem;
+}
+
+.partners__contact__buttons .button {
+  margin-bottom: 0rem;
+}
+
+/*
 .partners__contact .callout a {
   color: $color--white;
   &:hover {
       color: $color--dark-gray;
     }
 }
+*/
 
 .partner__content {
   padding: 2rem;
