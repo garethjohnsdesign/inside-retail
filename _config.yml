@@ -65,8 +65,10 @@ defaults:
     type: blog_categories
   values:
     layout: category
-contact-text: |-
-  Like what you see? Download a copy of our Partnership Opportunities brochure and take a look at some of the example partnership packages we have available. Inside Retail offers a wide range of bespoke retail marketing and research solutions to suit your unique business objectives, no matter how big or small.
+contact-text: Like what you see? Download a copy of our Partnership Opportunities
+  brochure and take a look at some of the example partnership packages we have available.
+  Inside Retail offers a wide range of bespoke retail marketing and research solutions
+  to suit your unique business objectives, no matter how big or small.
 url: http://insideretail.com
 permalink: pretty
 gems:
