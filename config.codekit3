@@ -1701,11 +1701,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/HUB-SHOP-MENSWEAR-2.jpg": {
+	"\/_uploads\/hub-shop.jpg": {
 		"ft": 16384,
-		"iS": 470939,
+		"iS": 161813,
 		"oA": 0,
-		"oAP": "\/_uploads\/HUB-SHOP-MENSWEAR-2.jpg",
+		"oAP": "\/_uploads\/hub-shop.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2537,6 +2537,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/taking-the-plunge-into-menswear.jpg": {
+		"ft": 16384,
+		"iS": 132669,
+		"oA": 0,
+		"oAP": "\/_uploads\/taking-the-plunge-into-menswear.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/the-adventures-of-a-menswear-brand.jpg": {
 		"ft": 16384,
 		"iS": 288,
@@ -2717,17 +2727,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Vend Web image.png": {
-		"ft": 32768,
-		"iS": 2456868,
-		"oA": 0,
-		"oAP": "\/_uploads\/Vend Web image.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/_uploads\/Vend-and-xero-retail-solution-wih-logos.jpg": {
 		"ft": 16384,
 		"iS": 75815,
@@ -2753,6 +2752,16 @@
 		"iS": 19788,
 		"oA": 0,
 		"oAP": "\/_uploads\/vend-logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/vend-number-six.jpg": {
+		"ft": 16384,
+		"iS": 112299,
+		"oA": 0,
+		"oAP": "\/_uploads\/vend-number-six.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

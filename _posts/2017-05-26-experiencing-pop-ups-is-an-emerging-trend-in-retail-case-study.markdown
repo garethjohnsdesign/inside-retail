@@ -3,12 +3,8 @@ title: Experiencing pop-ups is an emerging trend in retail – Case study
 date: 2017-05-26 13:17:00 Z
 categories:
 - getting-started
-- up-and-running
-- fine-tuning
 tags:
-- instore
-- Inspiration
-- marketing
+- in-store
 excerpt-image: "/uploads/Picture1.jpg"
 hero-image: "/uploads/Picture1.jpg"
 ---

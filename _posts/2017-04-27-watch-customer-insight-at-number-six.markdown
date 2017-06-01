@@ -6,14 +6,14 @@ categories:
 - getting-started
 tags:
 - in-store
-excerpt-image: "/uploads/Vend%20Web%20image.png"
+excerpt-image: "/uploads/vend-number-six.jpg"
 excerpt-text: WIN WITH VEND - RETAIL PACKAGE WORTH £20,000!
 hero-video: BucocRnX6N0
 hero-text: WIN WITH VEND - RETAIL PACKAGE WORTH £20,000!
 length: '12 MINUTE WATCH '
 is-top: true
 top-position: 1
-top-image: "/uploads/Vend%20Web%20image.png"
+top-image: "/uploads/vend-number-six.jpg"
 is-partner: true
 partner: Vend
 ---
