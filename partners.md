@@ -2,7 +2,7 @@
 title: Partners
 permalink: "/partners/"
 color: yellow
-image: "/uploads/partners.jpg"
+image: "/uploads/partners-rev.jpg"
 shape: "/uploads/partners.svg"
 header: Our Retail Partners
 subheader: Aenean lacinia bibendum nulla sed consectetur.

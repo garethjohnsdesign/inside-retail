@@ -2,8 +2,8 @@
 title: Events
 permalink: "/events/"
 color: yellow
-image: "/uploads/events.svg"
-shape: 
+image: "/uploads/partners.jpg"
+shape: "/uploads/partners.svg"
 header: Inside Retail Events
 subheader: Sometimes you can’t beat some face-to-face time to learn about the latest
   trends, meet other indie retailers and get inspiration from industry experts.

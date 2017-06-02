@@ -2027,10 +2027,10 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/mastercard-special-report.pdf": {
+	"\/_uploads\/Mastercard-Special-Report.pdf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_uploads\/mastercard-special-report.pdf",
+		"oAP": "\/_uploads\/Mastercard-Special-Report.pdf",
 		"oF": 0
 		},
 	"\/_uploads\/mastercard.jpg": {
@@ -2205,6 +2205,16 @@
 		"iS": 65611,
 		"oA": 0,
 		"oAP": "\/_uploads\/partners-mastercard.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/partners-rev.jpg": {
+		"ft": 16384,
+		"iS": 301775,
+		"oA": 0,
+		"oAP": "\/_uploads\/partners-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -14523,10 +14533,10 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/events.html",
-		"oF": 0,
-		"oFM": 0,
+		"oA": 2,
+		"oAP": "\/events.md",
+		"oF": 1,
+		"oFM": 9,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
