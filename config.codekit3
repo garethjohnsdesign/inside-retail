@@ -501,6 +501,12 @@
 		"oAP": "\/_layouts\/partner.html",
 		"oF": 0
 		},
+	"\/_layouts\/partners-thanks.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/partners-thanks.html",
+		"oF": 0
+		},
 	"\/_layouts\/partners.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -921,12 +927,6 @@
 		"oAP": "\/_posts\/2017-02-01-preparing-for-valentines-and-mothers-day.markdown",
 		"oF": 0
 		},
-	"\/_posts\/2017-02-03-ready-for-growth.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_posts\/2017-02-03-ready-for-growth.markdown",
-		"oF": 0
-		},
 	"\/_posts\/2017-02-15-big-ticket-spend-investment-for-the-year-ahead.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -1027,6 +1027,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_posts\/2017-05-29-lessons-learned-from-taking-the-plunge-into-menswear.markdown",
+		"oF": 0
+		},
+	"\/_posts\/2017-06-06-ready-for-growth.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_posts\/2017-06-06-ready-for-growth.markdown",
 		"oF": 0
 		},
 	"\/_site": {
@@ -2027,10 +2033,10 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Mastercard-Special-Report.pdf": {
+	"\/_uploads\/mastercard-special-report.pdf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_uploads\/Mastercard-Special-Report.pdf",
+		"oAP": "\/_uploads\/mastercard-special-report.pdf",
 		"oF": 0
 		},
 	"\/_uploads\/mastercard.jpg": {
@@ -2379,6 +2385,12 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/_uploads\/Retail Growth Programme detailed flyer 02.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_uploads\/Retail Growth Programme detailed flyer 02.pdf",
+		"oF": 0
 		},
 	"\/_uploads\/retail-growth-programme.pdf": {
 		"ft": 8192,
@@ -6213,6 +6225,70 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "\/bower_components\/get-style-property\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/jquery-smooth-scroll\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery-smooth-scroll\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/jquery-smooth-scroll\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery-smooth-scroll\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/jquery-smooth-scroll\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery-smooth-scroll\/index.html",
+		"oF": 0
+		},
+	"\/bower_components\/jquery-smooth-scroll\/jquery.smooth-scroll.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/jquery-smooth-scroll\/jquery.smooth-scroll.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/jquery-smooth-scroll\/jquery.smooth-scroll.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery-smooth-scroll\/jquery.smooth-scroll.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/jquery-smooth-scroll\/LICENSE-MIT": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery-smooth-scroll\/LICENSE-MIT",
+		"oF": 0
+		},
+	"\/bower_components\/jquery-smooth-scroll\/readme.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery-smooth-scroll\/readme.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -14587,6 +14663,30 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/partners-thanks.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/partners-thanks.html",
+		"oF": 0
+		},
+	"\/partners-thanks.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/partners-thanks.md",
+		"oF": 1,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/partners.md": {
 		"cS": 0,
 		"eF": 1,
@@ -14710,6 +14810,12 @@
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
 			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/jquery-smooth-scroll\/jquery.smooth-scroll.js",
+			"position": 4,
 			"type": 0
 			}
 		]
