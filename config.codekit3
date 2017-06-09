@@ -2033,10 +2033,10 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/mastercard-special-report.pdf": {
+	"\/_uploads\/Mastercard-Special-Report.pdf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_uploads\/mastercard-special-report.pdf",
+		"oAP": "\/_uploads\/Mastercard-Special-Report.pdf",
 		"oF": 0
 		},
 	"\/_uploads\/mastercard.jpg": {
@@ -14662,12 +14662,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/partners-thanks.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/partners-thanks.html",
-		"oF": 0
 		},
 	"\/partners-thanks.md": {
 		"cS": 0,
