@@ -6,9 +6,9 @@ categories:
 tags:
 - inspiration
 excerpt-image: "/uploads/inside_retail_article.jpg"
-excerpt-text: Your Editor goes undercover in Dubai to bring you the latest on how
-  the world’s largest and most successful retail chains see their future. The big
-  surprise was, they just want to be what you are.
+excerpt-text: Editor Sophy Searight went undercover in Dubai to bring you the latest
+  on how the world’s largest and most successful retail chains see their future. The
+  big surprise was, they just want to be just like you!
 hero-image: "/uploads/inside_retail_article.jpg"
 hero-quote: |-
   ‘The Future of retail can be the highstreet, if it’s a good highstreet’
@@ -16,7 +16,7 @@ hero-quote: |-
 length: Five minute read
 ---
 
-This month I visited the World Retail Congress in Dubai, to see what the world’s leading retailers are up to, and how they feel about their own progress in giving modern customers what they want. I went because although the growth strategy for Calvin Klein is a long way from that of my local independent boutique in Oxfordshire, I wanted to see what we, in the Independent Retail community could learn from the biggest and best. I also suspected there might be opportunities discussed that smaller retailers are best placed to take advantage of, and I wasn’t wrong.
+I visited the World Retail Congress in Dubai to see what the world’s leading retailers are up to, and how they feel about their own progress in giving modern customers what they want. I went because although the growth strategy for Calvin Klein is a long way from that of my local independent boutique in Oxfordshire, I wanted to see what we, in the Independent Retail community could learn from the biggest and best. I also suspected there might be opportunities discussed that smaller retailers are best placed to take advantage of, and I wasn’t wrong.
 
 I came away really excited despite the fact that brands like Macy’s, Marks and Spencer and lots of the other retailers present, are having a nightmare keeping up with customers changing demands. My unseemly optimism was down to things I heard constantly repeated during the event: The key to sustainable retail is catering to young consumers who want:
 

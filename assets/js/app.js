@@ -14,6 +14,7 @@ $('.gallery').flickity({
     }
 });
 
+$('a').smoothScroll();
 
 function subscribe() {
 

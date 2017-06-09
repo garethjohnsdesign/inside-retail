@@ -7936,10 +7936,32 @@ li.excerpt__tag.align-right {
 .partner__image {
   padding: 1rem; }
 
-.partners__contact .callout a {
-  color: #ffffff; }
-  .partners__contact .callout a:hover {
-    color: #949494; }
+.partners__contact {
+  padding: 3rem;
+  background-color: #d7d7d7; }
 
+.partners__contact__text {
+  padding: 1rem; }
+
+.partners__contact__buttons {
+  padding: 2rem; }
+
+.partners__contact__form {
+  padding: 2rem; }
+
+.partners__contact__buttons .button {
+  margin-bottom: 0rem; }
+
+/*
+.partners__contact .callout a {
+  color: $color--white;
+  &:hover {
+      color: $color--dark-gray;
+    }
+}
+*/
 .partner__content {
+  padding: 2rem; }
+
+.partner__posts {
   padding: 2rem; }

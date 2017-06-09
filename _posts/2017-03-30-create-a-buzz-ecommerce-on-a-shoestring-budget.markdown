@@ -14,6 +14,7 @@ is-top: true
 top-position: 2
 top-image: "/uploads/create-a-buzz.jpg"
 is-partner: true
+partner: Grant Thornton
 ---
 
 [![create-a-buzz-02.jpg](/uploads/create-a-buzz-02.jpg)](http://lp.events.ascential.com/GT-Creating-a-Buzz-Video-Form.html)
@@ -21,7 +22,7 @@ is-partner: true
 Here at Inside Retail, we know from our conversations with you in the independent retail community that actually generating a 'buzz' and a marketing message around your new online business can be very challenging, particularly because some of your big competitors, like Amazon for instance, have enormous budgets.
 
 #### **That doesn't need to stand in your way, and Alasdair talks us through how you can implement some simple but effective online marketing tactics.**
-
+x
 Watch the tutorial and you’ll be taken through how to use Facebook to target your perfect customers, how you could use your website and social media to share customer experiences, creating a database and using that database to generate new customers while winning back old ones (with both email marketing and across social media), reaching out to social influencers (and using software to do this in the most effective way), as well as video and blog content creation. 
 
 Inside Retail has been working closely with G by Grant Thornton to develop The Retail Growth Programme. It’s designed specifically for independent retailers like you and as part of the programme, you’ll get to work with experts like Alasdair who will help you to plan and achieve future growth for both you and your business. 

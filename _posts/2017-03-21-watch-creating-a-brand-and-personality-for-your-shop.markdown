@@ -12,6 +12,7 @@ hero-quote: Lou Williams from G by Grant Thornton talks to Inside Retail Editor,
   take to help build that successful brand personality.
 is-top: false
 is-partner: true
+partner: Grant Thornton
 ---
 
 [![creating-a-brand.jpg](/uploads/creating-a-brand.jpg)](http://lp.events.ascential.com/GT-Creating-a-brand.html)

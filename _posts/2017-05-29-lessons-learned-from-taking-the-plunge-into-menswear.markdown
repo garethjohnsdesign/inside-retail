@@ -6,8 +6,8 @@ categories:
 tags:
 - instore
 - Inspiration
-excerpt-image: "/uploads/HUB-SHOP-MENSWEAR-2.jpg"
-hero-image: "/uploads/LOU&GEORGIEHUBSHOP.jpg"
+excerpt-image: "/uploads/taking-the-plunge-into-menswear.jpg"
+hero-image: "/uploads/hub-shop.jpg"
 ---
 
 *Last week we explored the things to consider if you’re thinking about branching out into the rapidly growing [menswear](http://insideretail.com/articles/how-about-menswear-what-to-consider-when-expanding-into-menswear/) market. Now we’re able to share a real example of that diversification process.*

@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<div class="post__wrapper post--bg--partner">
+
+
+	
+<div class="row columns partner__panel">
+  
+
+<!-- Partner Logo -->
+<div class="row align-center partner__logo">
+	<div class="shrink columns text-center">
+<a href="{{ page.website }}" target="_blank"><svg class="icon icon-{{ page.title | slugify }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ page.title | slugify }}"></use></svg></a>
+	</div>
+</div>
+<!-- End Partner Logo -->
+
+	
+<!-- Partner Title and Strapline -->
+<div class="row partner__title">
+	<div class="small-12 columns text-center">
+		<h1>{{ page.title }}</h1>
+		<h4>{{ page.strapline }}</h4>
+	</div>
+</div>
+<!-- End Partner Title and Strapline -->
+
+<!-- Partner Image -->
+<div class="row partner__image">
+	<div class="small-12 columns text-center">
+		<img src="{{page.hero-image}}" alt="{{page.title}}" />
+	</div>
+</div>
+<!-- End Partner Image -->
+
+<!-- Partner Content -->
+<div class="row  align-center partner__content">
+	<div class="small-12 medium-8 columns">
+		{{ page.content }}
+	</div>
+</div>
+<!-- End Partner Content -->
+
+<!-- Posts -->
+<div class="row partner__posts">
+  {% assign partners_posts = site.posts | where: "partner", "Vend" %}
+  {% for post in partners_posts %}
+    <div class="small-12 medium-4 columns">
+      {% include excerpt.html %}
+    </div>
+  {% endfor %}
+</div>
+<!-- End Posts -->
+
+<!-- Contact -->
+{% include contact.html %}
+<!-- End Contact -->
+
+
+</div>
+</div>

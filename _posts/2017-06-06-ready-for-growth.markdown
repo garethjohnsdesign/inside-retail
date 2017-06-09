@@ -1,18 +1,20 @@
 ---
 title: Ready For Growth?
-date: 2017-02-03 17:20:00 Z
+date: 2017-06-06 05:20:00 Z
 categories:
 - branching-out
 tags:
 - marketing
 excerpt-image: "/uploads/v2-Young-boy-watering-a-plant.jpg"
-excerpt-text: The Retail Growth Programme
+excerpt-text: Designed specifically for small retailers, G by Grant Thornton has developed
+  The Retail Growth Programme in partnership with Inside Retail
 hero-image: "/uploads/v2-Young-boy-watering-a-plant.jpg"
 hero-quote: Designed specifically for small retailers, G by Grant Thornton has developed
   The Retail Growth Programme in partnership with Inside Retail
 is-top: false
 top-image: "/uploads/v2-Young-boy-watering-a-plant.jpg"
 is-partner: true
+partner: Grant Thornton
 ---
 
 Independent retailers across the UK face a host of challenges and obstacles each and every day which can limit growth potential and often leave you feeling unsure of what the best steps towards growth are.
@@ -26,6 +28,12 @@ Inside Retail has conducted research into over 200 retailers like yourself from 
 5. Choosing products which sell fast at full price
 
 To help address these issues and equip dynamic business leaders with the support they need to achieve their retail growth ambitions, we here at Inside Retail have teamed up with [G by Grant Thornton](http://g.grantthornton.co.uk/about-us/) to develop The Retail Growth Programme.
+
+
+### **Download the programme prospectus for all the info here:**
+
+<a href="/uploads/Retail Growth Programme detailed flyer 02.pdf" class="button">Download Brochure</a>
+
 
 Designed specifically for retailers, the Retail Growth Programme helps you plan and achieve the future growth ambitions you want for your business and for yourself.
 The programme is designed with the leader of retail businesses in mind; providing practical tools, plans and best practices that will help to facilitate rapid and sustainable business growth. During the year you will develop your knowledge in key areas to deliver your business goals: creating plans, networks and connections that will contribute to your business growth.
@@ -103,7 +111,7 @@ There are ten specially designed growth workshops for you to choose from a selec
 * Financing Growth
 
 
-This programme is designed for retailers or those looking to diversify into the retail sector. If you are already successfully trading and now want to take the next step towards future growth then please get in contact.
+This programme is designed for retailers or those looking to diversify into the retail sector. If you are already successfully trading and want to take the next step towards your future ambitions and growth, please get in contact.
 
 ### [Click here to find out more about the G by Grant Thornton Retail Growth Programme.](http://lp.events.ascential.com/IR-Client-Forms_Grant-Thornton-Page.html)
 

@@ -8,4 +8,6 @@ hero-image: "/uploads/partners-vend.jpg"
 layout: partner
 ---
 
-Vestibulum id ligula porta felis euismod semper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porta sem malesuada magna mollis euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Inside Retail are proud to have Vend on board as a partner, we share the same ambitions for a thriving high street.
+
+Vend is the UK’s leading retail ePOS software for payment and inventory management and, ecommerce. Vend helps every type of independent retailers drive growth and build customer loyalty by enabling them to deliver a better customer experience. 
