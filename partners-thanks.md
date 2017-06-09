@@ -1,5 +1,5 @@
 ---
-title: Partners
+title: Partners Thanks
 permalink: "/partners/thanks/"
 layout: partners-thanks
 ---
