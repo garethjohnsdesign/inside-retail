@@ -6,8 +6,10 @@ categories:
 tags:
 - instore
 - Inspiration
+excerpt-image: "/uploads/Brockwell-Park-Community-Greenhouses.jpg"
 excerpt-text: 'Inside Retail asked indie garden centres how they are tapping into
   the local community and attracting new customers with classes and events. '
+hero-image: "/uploads/Brockwell-Park-Community-Greenhouses.jpg"
 hero-quote: "“There is such a fashion now for things going on in unusual venues, it
   seems very appealing to listen to folk music in a greenhouse lit by fairy lights”"
 length: 2 mins
