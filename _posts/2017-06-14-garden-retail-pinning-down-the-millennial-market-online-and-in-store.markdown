@@ -21,7 +21,7 @@ length: One to two minute read
 
 Garden retail: Pinning down the millennial market online and in store
 
-In the second part of our series we’re analysing how to grab Millennials’ attention and bring them to your store. Previously {LINK TO PART ONE} we established that millennials’ new found interest in gardening is partly permanent and partly trend-based. Either way, there is short-term and long-term money to be made from this new customer demographic and here we look at how to achieve it.
+In the second part of our series we’re analysing how to grab Millennials’ attention and bring them to your store. [Previously](http://insideretail.com/articles/millennials-an-opportunity-for-independent-garden-retailers/) {LINK TO PART ONE} we established that millennials’ new found interest in gardening is partly permanent and partly trend-based. Either way, there is short-term and long-term money to be made from this new customer demographic and here we look at how to achieve it.
 
 To understand what they’re are already doing to encourage millennials choose them for their plant purchases, I asked thirty garden centres: **Has your business adapted any of the following in order to attract a future generation of gardeners/customers?**
 
