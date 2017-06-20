@@ -9,7 +9,7 @@ tags:
 excerpt-image: "/uploads/Brockwell-Park-Community-Greenhouses.jpg"
 excerpt-text: 'Inside Retail asked indie garden centres how they are tapping into
   the local community and attracting new customers with classes and events. '
-hero-image: "/uploads/Brockwell-Park-Community-Greenhouses.jpg"
+hero-image: "/uploads/Barton-Grange.jpg"
 hero-quote: "“There is such a fashion now for things going on in unusual venues, it
   seems very appealing to listen to folk music in a greenhouse lit by fairy lights”"
 length: 2 mins
@@ -30,11 +30,15 @@ Marketing manager Kate Ford says the events are organised to “offer diversity 
 Barton Grange relocated in 2008 and as part of the move it created a custom-built events space called the ‘Green Room’ that can seat up to 60 people.
 When summer is coming to an end Barton Grange also clears the furniture from its main indoor retail area and hosts a food and drink festival that plays host to 60 local suppliers and 6,000 visitors.
 
+![Barton-Grange-Food-Festival.jpg](/uploads/Barton-Grange-Food-Festival.jpg)
+
 Brockwell Park Community Greenhouses in London is equally creative with its existing space and has hosted small unplugged concerts in its greenhouses.
 
 “There is such a fashion now for things going on in unusual venues, it seems very appealing to listen to folk music in a greenhouse lit by fairy lights” says Brockwell Park Community Greenhouses director Kate Sebag. “It is nice because you have the benefit of the indoor-outdoor space of the greenhouse and it is very pretty.”
 
 The community greenhouses are a charitable initiative that was born out of “guerrilla gardeners” squatting in greenhouses 20 years ago after the site fell into disrepair.
+
+![Brockwell-Park-Community-Greenhouses1.jpg](/uploads/Brockwell-Park-Community-Greenhouses1.jpg)
 
 **Community spirit**
 
@@ -57,6 +61,8 @@ Matthew Bent, managing director of Bents garden centre in Glazebury, says their 
 Bent says his company has created a destination that encompasses “home, lifestyle and leisure for a complete day out” that still stays true to Bents’ gardening heritage.
 
 In 2014 it opened a whopping 30,000 sq ft of retail space, including a children’s boutique and a “fur friendly” pet café.
+
+![Bents.jpg](/uploads/Bents.jpg)
 
 Bents hosts 200 events a year with the majority held in the April and September school holidays, and activities are held across locations to best reflect the event’s focus.
 
