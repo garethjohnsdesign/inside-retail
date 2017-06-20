@@ -18,18 +18,15 @@ hero-text: "“At the moment, millennials are keenly aware of a narrow range of 
 length: One to two minute read
 ---
 
-## Part THREE: 
+## Part THREE:
 
-**Garden retail: building a long-term relationship with the millennial customer
-**
+**Garden retail: building a long-term relationship with the millennial customer**
 
-*In part 3 we take a closer look at the long term business opportunities and imperatives to make young gardeners a part of your customer base for the future, with a focus on social media strategies and varying your product ranges.
-*
+*In part 3 we take a closer look at the long term business opportunities and imperatives to make young gardeners a part of your customer base for the future, with a focus on social media strategies and varying your product ranges.*
 
-## *Social media 
-*
+## Social media
 
-Opinions, tastes, even values and hence buying decisions have always been heavily influenced by our peer groups. What has changed is the media through which we socialise: the internet. If you’re not using it to reach new customers, you’re limited to traditional marketing which excludes a large proportion of your potential customer base, who rely on it for everything from research to inspiration when it comes to buying. 
+Opinions, tastes, even values and hence buying decisions have always been heavily influenced by our peer groups. What has changed is the media through which we socialise: the internet. If you’re not using it to reach new customers, you’re limited to traditional marketing which excludes a large proportion of your potential customer base, who rely on it for everything from research to inspiration when it comes to buying.
 
 ## Online presence
 
@@ -41,20 +38,19 @@ How are you supposed to develop this online presence to a level that resonates w
 
 ## Engagement with customers online
 
-Have your staff who enjoy using social media provide aftercare to customers’ plants through your social media profiles. Encourage customers to upload photos of their plants, out of pride or in need of help, and have your employees express their gladness or provide tips for better plant care. All plants are unique so photo opportunities are endless! In this way, you’re building personal relationships between staff and customers. 
+Have your staff who enjoy using social media provide aftercare to customers’ plants through your social media profiles. Encourage customers to upload photos of their plants, out of pride or in need of help, and have your employees express their gladness or provide tips for better plant care. All plants are unique so photo opportunities are endless! In this way, you’re building personal relationships between staff and customers.
 
 ## Product Ranges
 
 Because millennial customers research through social media, they may be misinformed about the realities of buying plants: Instagram and Pinterest are American websites and dominated by US users so plants a UK millennial might like could be difficult to source in the UK. For that reason, they may be trying to buy the wrong thing (in your opinion), in the wrong way, at the wrong time of year, for the wrong environment. But this provides even greater opportunities later down the line for building relationships with them.
 
-**Millennials will probably come to you with a criterion of the following:
-**
+## Millennials will probably come to you with a criterion of the following:
 
-* The plant allows them to keep the lifestyle they want: they can go on holiday, it won’t kill their cat, it doesn’t require lots of messy re-potting 
+* The plant allows them to keep the lifestyle they want: they can go on holiday, it won’t kill their cat, it doesn’t require lots of messy re-potting
 
 * The plant can survive moving house, which generation rent do a lot
 
-* The plant is resilient and looks beautiful despite a variable level of care! 
+* The plant is resilient and looks beautiful despite a variable level of care!
 
 * If they’ve got the space various house plants are welcome (but unlikely in generation rent)
 
@@ -62,10 +58,10 @@ Because millennial customers research through social media, they may be misinfor
 
   Keep in mind that millennials may view plants as one of the few things they can control in their rented houses; renters can’t redecorate or even put things on the walls, and pets are certainly out of bounds. There is so much uncertainty in the world and a lack of job prospects/opportunities that it’s refreshing to have a hobby where the effort you put in to something (almost) guarantees the success you’ll get out.
 
-  **Cross-Selling
-**
+  ## Cross-Selling
+  
 
-  At the moment, millennials are keenly aware of a narrow range of plant life that meet their criteria. With your expert knowledge, garden centres should be able to recommend many other products that also fit the bill aside from the Swiss cheese plants and cacti, both of which are flavor of the month! Millennials are also keen on products that fit into the following trends so you might want to visually merchandise in a way that signposts these characteristics and have sales assistants provide recommendations. 
+  At the moment, millennials are keenly aware of a narrow range of plant life that meet their criteria. With your expert knowledge, garden centres should be able to recommend many other products that also fit the bill aside from the Swiss cheese plants and cacti, both of which are flavor of the month! Millennials are also keen on products that fit into the following trends so you might want to visually merchandise in a way that signposts these characteristics and have sales assistants provide recommendations.
 
   ## Eco-friendly products
 
@@ -88,29 +84,29 @@ Because millennial customers research through social media, they may be misinfor
   ## Packaging products
 
   An example of where all these things come together is in this photo that received over 37,000 likes on Pinterest:
-\
   
+
 [http://www.curateanddisplay.co.uk/urban-jungle-bloggers-plant-gang/
 ](http://www.curateanddisplay.co.uk/urban-jungle-bloggers-plant-gang/)
 
-  ![Picture2.jpg](/uploads/Picture2.jpg)
+![Picture2.jpg](/uploads/Picture2.jpg)
 
-  It’s unlikely anyone would buy everything in this photo on their first garden centre visit, but they might curate it over time. By creating something similar in your own store you will be (sub)consciously reminding them of that image and inspiring them as they walk in.
+It’s unlikely anyone would buy everything in this photo on their first garden centre visit, but they might curate it over time. By creating something similar in your own store you will be (sub)consciously reminding them of that image and inspiring them as they walk in.
 
-  Ask your employees who use social media to check out trending plant photos on social media and have them recreate the scene in store using existing stock.
+Ask your employees who use social media to check out trending plant photos on social media and have them recreate the scene in store using existing stock.
 \
-  Ferndale Garden Centre went one step further recently by creating a ‘basket full of RHS Chelsea Flower Show’ available to buy in store and advertised on Facebook. The plants involved had featured in the show the previous day .
+Ferndale Garden Centre went one step further recently by creating a ‘basket full of RHS Chelsea Flower Show’ available to buy in store and advertised on Facebook. The plants involved had featured in the show the previous day .
 
-  ![Picture1.png](/uploads/Picture1.png)
+![Picture1.png](/uploads/Picture1.png)
 
-  ## Adapting to demand
+## Adapting to demand
 
-  Raymond Evison Clematis is one great example of a company that’s iterated their product with the customer in mind: their plants are suitable for patios and indoors and have a very long flowering period. Plus, they’re often presented in gift packaging. Further negotiation with suppliers about which products retail well together can reap benefits for all.
+Raymond Evison Clematis is one great example of a company that’s iterated their product with the customer in mind: their plants are suitable for patios and indoors and have a very long flowering period. Plus, they’re often presented in gift packaging. Further negotiation with suppliers about which products retail well together can reap benefits for all.
 
-  ## Exotic Plants
+## Exotic Plants
 
-  Beetham Nurseries in Cumbria, installed a greenhouse at its nursery which allows them to grow rare plants at atypical times of year, and they’ve found that customer demand has outstripped supply.
+Beetham Nurseries in Cumbria, installed a greenhouse at its nursery which allows them to grow rare plants at atypical times of year, and they’ve found that customer demand has outstripped supply.
 
-  Examples of some of the rare and unusual plants that Beetham Nurseries has been able to retail include Telopea, various types of Protea including 'Madiba', citrus fruits, nectarines, peaches, lemons, mandarins, apricots, Musella lasiocarpa (Chinese banana) and grapevines. Source: [http://www.hortweek.com/tapping-demand-exotic-plants-flowers/retail/article/1432894](http://www.hortweek.com/tapping-demand-exotic-plants-flowers/retail/article/1432894)
+Examples of some of the rare and unusual plants that Beetham Nurseries has been able to retail include Telopea, various types of Protea including 'Madiba', citrus fruits, nectarines, peaches, lemons, mandarins, apricots, Musella lasiocarpa (Chinese banana) and grapevines. Source: [http://www.hortweek.com/tapping-demand-exotic-plants-flowers/retail/article/1432894](http://www.hortweek.com/tapping-demand-exotic-plants-flowers/retail/article/1432894)
 
-  Hopefully one or more of these strategies suits your own business. They really are shop-window methods that exist to get the millennial through the door in the first place. Once trust’s been built with the customer it will be easier to educate them about horticulture!
+Hopefully one or more of these strategies suits your own business. They really are shop-window methods that exist to get the millennial through the door in the first place. Once trust’s been built with the customer it will be easier to educate them about horticulture!
