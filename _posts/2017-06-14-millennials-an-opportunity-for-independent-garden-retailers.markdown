@@ -23,19 +23,19 @@ To what extent have garden retailers taken advantage of the trend for house-plan
 
 Overnight, it seems garden retail has found itself an influx of new competitors. I explored Central London one sunny morning this week and found a whole range of retailers, mainly targeting millennial customers, all cashing-in.
 
-![IMG_0233.jpg](/uploads/IMG_0233.jpg)\
-![IMG_0236-f7b3b1.jpg](/uploads/IMG_0236-f7b3b1.jpg)\
-**Urban Outfitters\
-**![IMG_0239.jpg](/uploads/IMG_0239.jpg)\
-**Urban Outfitters\
-**![IMG_0240-b7f7c3.jpg](/uploads/IMG_0240-b7f7c3.jpg)\
-**H&M Home\
-**![IMG_0241.jpg](/uploads/IMG_0241.jpg)\
-**Kiehl’s\
-**![IMG_0243.jpg](/uploads/IMG_0243.jpg)\
-**Jack Wills\
-\& Other Stories
-**![IMG_0245.jpg](/uploads/IMG_0245.jpg)\
+![IMG_0233.jpg](/uploads/IMG_0233.jpg)
+![IMG_0236-f7b3b1.jpg](/uploads/IMG_0236-f7b3b1.jpg)
+**Urban Outfitters**
+[IMG_0239.jpg](/uploads/IMG_0239.jpg)
+**Urban Outfitters**
+![IMG_0240-b7f7c3.jpg](/uploads/IMG_0240-b7f7c3.jpg)
+**H&M Home**
+![IMG_0241.jpg](/uploads/IMG_0241.jpg)
+**Kiehl’s**
+![IMG_0243.jpg](/uploads/IMG_0243.jpg)
+**Jack Wills**
+**& Other Stories**
+![IMG_0245.jpg](/uploads/IMG_0245.jpg)
 **& Other Stories**
 
 What we can see from these images is that retailers previously uninvolved in selling plants have got in on the act. Urban Outfitters, who describe themselves as a lifestyle brand, have created a product sector called ‘Terrariums and Garden’ to address this cultural change amongst their primary customer group (millennials).
