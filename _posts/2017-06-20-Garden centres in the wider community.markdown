@@ -30,7 +30,7 @@ Marketing manager Kate Ford says the events are organised to “offer diversity 
 Barton Grange relocated in 2008 and as part of the move it created a custom-built events space called the ‘Green Room’ that can seat up to 60 people.
 When summer is coming to an end Barton Grange also clears the furniture from its main indoor retail area and hosts a food and drink festival that plays host to 60 local suppliers and 6,000 visitors.
 
-![Barton-Grange-Food-Festival.jpg](/uploads/Barton-Grange-Food-Festival.jpg)
+![Barton-Grange-Food-Festival-756afc.jpg](/uploads/Barton-Grange-Food-Festival-756afc.jpg)
 
 Brockwell Park Community Greenhouses in London is equally creative with its existing space and has hosted small unplugged concerts in its greenhouses.
 
@@ -38,7 +38,7 @@ Brockwell Park Community Greenhouses in London is equally creative with its exis
 
 The community greenhouses are a charitable initiative that was born out of “guerrilla gardeners” squatting in greenhouses 20 years ago after the site fell into disrepair.
 
-![Brockwell-Park-Community-Greenhouses1.jpg](/uploads/Brockwell-Park-Community-Greenhouses1.jpg)
+![Brockwell-Park-Community-Greenhouses-deee3f.jpg](/uploads/Brockwell-Park-Community-Greenhouses-deee3f.jpg)
 
 **Community spirit**
 
@@ -62,7 +62,7 @@ Bent says his company has created a destination that encompasses “home, lifest
 
 In 2014 it opened a whopping 30,000 sq ft of retail space, including a children’s boutique and a “fur friendly” pet café.
 
-![Bents.jpg](/uploads/Bents.jpg)
+![Bents-217212.jpg](/uploads/Bents-217212.jpg)
 
 Bents hosts 200 events a year with the majority held in the April and September school holidays, and activities are held across locations to best reflect the event’s focus.
 
