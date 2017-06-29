@@ -1,5 +1,5 @@
 ---
-title: Experiencing pop-ups is an emerging trend in retail – Case study
+title: 'How to Pop-Up: Making experience part of your retail offering'
 date: 2017-05-26 13:17:00 Z
 categories:
 - getting-started
