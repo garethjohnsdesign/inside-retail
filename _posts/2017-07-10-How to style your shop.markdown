@@ -5,6 +5,7 @@ published: false
 tags:
 - instore
 - Inspiration
+excerpt-image: "/uploads/Aida-2.jpg"
 excerpt-text: Indies who have, sadly, recently ceased trading said in many cases a
   key reason for their eventual failure was a complacent or unadventurous approach
   to the way the shop looked
