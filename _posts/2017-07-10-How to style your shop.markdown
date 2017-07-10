@@ -11,6 +11,8 @@ excerpt-text: Indies who have, sadly, recently ceased trading said in many cases
 hero-quote: '"Your shop window is your cheapest form of advertising " '
 ---
 
+![Sophy Searight.jpg](/uploads/Sophy%20Searight.jpg)
+
 *By Sophy Searight
 Editor *
 
