@@ -1,7 +1,6 @@
 ---
 title: "Best Practice Video Case Study: \nCreate a Shop Customers Want to Explore"
 date: 2017-07-10 08:57:00 Z
-published: false
 tags:
 - instore
 - Inspiration
