@@ -46,7 +46,7 @@ For a bit of inspiration, Aida have a 360 view of their store, on their excellen
 
 Actually though their range is incredibly diverse. Instead of a homogenous product category, continuity is created through colour, and by the fact that these are the types of products that Aida’s young East London customer likes to buy when looking for apparel or home accessories. Whether for themselves or people they’re buying for.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1NI4zETSrQs" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/1NI4zETSrQs" frameborder="0" allowfullscreen></iframe>
 
 If you’re a gift/home retailer you might want to come to Autumn Fair at the NEC in September where Inside Retail are hosting one to one consultations, presentations and workshops with Debbie herself. Its free to attend and you can check out the schedule here [https://www.autumnfair.com/event-timetable#/
 ](https://www.autumnfair.com/event-timetable#/)
