@@ -1,6 +1,6 @@
 ---
 title: "Best Practice Video Case Study: \nCreate a Shop Customers Want to Explore"
-date: 2017-07-10 08:57:00 Z
+date: 2017-07-13 08:57:00 Z
 tags:
 - instore
 - Inspiration
@@ -13,7 +13,7 @@ hero-quote: '"Your shop window is your cheapest form of advertising " '
 
 ![Sophy Searight.jpg](/uploads/Sophy%20Searight.jpg)
 
-*By Sophy Searight*
+*By Sophy Searight*\
 *Editor*
 
 We’re fresh from our most recent round of research with 40 independent retailers and our questions this time focussed on advice we’d give our younger retail selves. What it revealed was  that keeping the shop looking fresh for potential customers is not only challenging but absolutely critical.
@@ -30,15 +30,11 @@ Debbie focusses on:
 
 * Helping them decide to spend
 
-  ![Aida-2.jpg](/uploads/Aida-2.jpg)
-
-  Debbie Flowerday, LCF, and Simon, lovely our lovely cameraman
+  ![Aida-2.jpg](/uploads/Aida-2.jpg)*Debbie Flowerday, LCF, and Simon, lovely our lovely cameraman*
 
 You don’t have to change your products every few weeks in order for the shop to have a different look, at least from the street. Your window is absolutely critical and should be put together with your customer in mind but it’s also a way to express the personality of your shop. One thing it must not be, is boring. It can be quirky, stylish, unexpected, beautiful, but it cannot be boring and it must be inviting.
 
-![Aida-3.jpg](/uploads/Aida-3.jpg)
-
-Aida’s coffee bar is also a place to display accessories.
+![Aida-3.jpg](/uploads/Aida-3.jpg)*Aida’s coffee bar is also a place to display accessories.*
 
 Once in the shop, does the customer feel intrigued and compelled to explore the shop and enjoy the environment or is it cluttered, poorly curated with an odd mix of product, are sizes hard to find, is it too quiet, too dark? Successful retailers often tell me that they ask friends to come into the shop and give them a piece of advice about what would make them stay longer, or love it more.
 
