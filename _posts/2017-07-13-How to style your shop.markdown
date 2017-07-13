@@ -15,7 +15,7 @@ hero-quote: '"Your shop window is your cheapest form of advertising " '
 
 ![Sophy Searight.jpg](/uploads/Sophy%20Searight.jpg)
 
-*By Sophy Searight*/
+*By Sophy Searight*
 *Editor*
 
 We’re fresh from our most recent round of research with 40 independent retailers and our questions this time focussed on advice we’d give our younger retail selves. What it revealed was  that keeping the shop looking fresh for potential customers is not only challenging but absolutely critical.
