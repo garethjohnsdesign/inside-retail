@@ -15,7 +15,7 @@ hero-quote: '"Your shop window is your cheapest form of advertising " '
 
 ![Sophy Searight.jpg](/uploads/Sophy%20Searight.jpg)
 
-*By Sophy Searight*\
+*By Sophy Searight*/
 *Editor*
 
 We’re fresh from our most recent round of research with 40 independent retailers and our questions this time focussed on advice we’d give our younger retail selves. What it revealed was  that keeping the shop looking fresh for potential customers is not only challenging but absolutely critical.
@@ -40,9 +40,9 @@ You don’t have to change your products every few weeks in order for the shop t
 
 Once in the shop, does the customer feel intrigued and compelled to explore the shop and enjoy the environment or is it cluttered, poorly curated with an odd mix of product, are sizes hard to find, is it too quiet, too dark? Successful retailers often tell me that they ask friends to come into the shop and give them a piece of advice about what would make them stay longer, or love it more.
 
-For a bit of inspiration, Aida have a 360 view of their store, on their excellent website: [https://www.aidashoreditch.co.uk/our-store](https://www.aidashoreditch.co.uk/our-store). You can see the flow they’ve created through the shop and the way they’re made a diverse range of products hang together. Each type of product is grouped with similar genres to create credibility and to arrest the eye for long enough to consider the collection.
+For a bit of inspiration, Aida have a 360 view of their store, on their excellent website: [https://www.aidashoreditch.co.uk/our-store](https://www.aidashoreditch.co.uk/our-store). You can see the flow they’ve created through the shop and the way they’ve made a diverse range of products hang together. Each type of product is grouped with similar genres to create credibility and to arrest the eye for long enough to consider the collection.
 
-Actually though their range is incredibly diverse. Instead of a homogenous product category, continuity is created through colour, and by the fact that these are the types of products that Aida’s young East London customer likes to buy when looking for apparel or home accessories. Whether for themselves or people they’re buying for.
+Actually though, their range is incredibly diverse. Instead of a homogenous product category, continuity is created through colour, and by the fact that these are the types of products that Aida’s young East London customer likes to buy when looking for apparel or home accessories. Whether for themselves or people they’re buying for.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/1NI4zETSrQs" frameborder="0" allowfullscreen></iframe>
 
