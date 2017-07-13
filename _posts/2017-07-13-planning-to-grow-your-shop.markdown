@@ -18,4 +18,4 @@ We know from a recent survey of our lovely readers that about 33% of you class y
 
 When you’re in the process of developing your shop, whether online or on the highstreet, we hear it can be challenging to know what to invest in first, and where you should focus your time. We like this tool that Grant Thornton have created to help small business figure out what your strengths are and also where you might want to look to combat any potential challenges. It’s free to use and takes a few minutes.
 
-[http://g.grantthornton.co.uk/business-snapshot/?utm_source=Inside target="_blank"](http://g.grantthornton.co.uk/business-snapshot/?utm_source=Inside)
+[http://g.grantthornton.co.uk/business-snapshot/?utm_source=Inside ](http://g.grantthornton.co.uk/business-snapshot/?utm_source=Inside target="_blank")
