@@ -13,6 +13,8 @@ excerpt-text: Indies who have, sadly, recently ceased trading said in many cases
 hero-quote: '"Your shop window is your cheapest form of advertising " '
 ---
 
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/1NI4zETSrQs" frameborder="0" allowfullscreen></iframe>
+
 ![Sophy Searight.jpg](/uploads/Sophy%20Searight.jpg)
 
 *By Sophy Searight* <br /> *Editor*
@@ -42,8 +44,6 @@ Once in the shop, does the customer feel intrigued and compelled to explore the 
 For a bit of inspiration, Aida have a 360 view of their store, on their excellent website: [https://www.aidashoreditch.co.uk/our-store](https://www.aidashoreditch.co.uk/our-store). You can see the flow they’ve created through the shop and the way they’ve made a diverse range of products hang together. Each type of product is grouped with similar genres to create credibility and to arrest the eye for long enough to consider the collection.
 
 Actually though, their range is incredibly diverse. Instead of a homogenous product category, continuity is created through colour, and by the fact that these are the types of products that Aida’s young East London customer likes to buy when looking for apparel or home accessories. Whether for themselves or people they’re buying for.
-
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/1NI4zETSrQs" frameborder="0" allowfullscreen></iframe>
 
 If you’re a gift/home retailer you might want to come to Autumn Fair at the NEC in September where Inside Retail are hosting one to one consultations, presentations and workshops with Debbie herself. Its free to attend and you can check out the schedule here [https://www.autumnfair.com/event-timetable#/
 ](https://www.autumnfair.com/event-timetable#/)
