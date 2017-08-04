@@ -10,11 +10,10 @@ excerpt-image: "/uploads/Aida-3-(1).jpg"
 excerpt-text: Indies who have, sadly, recently ceased trading said in many cases a
   key reason for their eventual failure was a complacent or unadventurous approach
   to the way the shop looked
-hero-video: https://www.youtube.com/watch?v=1NI4zETSrQs
 hero-quote: '"Your shop window is your cheapest form of advertising " '
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1NI4zETSrQs" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/1NI4zETSrQs" frameborder="0" allowfullscreen></iframe>
 
 ![Sophy Searight.jpg](/uploads/Sophy%20Searight.jpg)
 
