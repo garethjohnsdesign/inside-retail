@@ -6,8 +6,8 @@ categories:
 tags:
 - inspiration
 - marketing
-excerpt-image: "/uploads/Pure_London_Seminars0665-552ff8.jpg"
-hero-image: "/uploads/Pure_London_Seminars0665-552ff8.jpg"
+excerpt-image: "/uploads/Pure_London_Seminars0665-af6605.jpg"
+hero-image: "/uploads/Pure_London_Seminars0665-745afa.jpg"
 hero-quote: "“Choosing the right clothes can change your life, change how you feel,
   can give you confidence and connect you with other like minded people,"
 ---
