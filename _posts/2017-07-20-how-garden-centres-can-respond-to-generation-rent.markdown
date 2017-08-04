@@ -7,6 +7,8 @@ tags:
 - in-store
 - Inspiration
 excerpt-image: "/uploads/RHS-Garden-Wisley---The-Bowes-Lyon-Rose-Garden-in-summer-credit-RHS-and-Lee-Beel.jpg"
+excerpt-text: The growing army of renters poses a tough challenge for garden centres
+  but if you approach the problem in the right way you can reap the rewards.
 hero-image: "/uploads/RHS-Garden-Wisley---The-Bowes-Lyon-Rose-Garden-in-summer-credit-RHS-and-Lee-Beel.jpg"
 ---
 
