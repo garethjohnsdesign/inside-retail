@@ -38,6 +38,8 @@ Founder Julie Macauley decided a way of clearing stock would be to cut out the m
 
 The brand chose to take up space in a shipping container in Pop Brixton because the pop-up location was close to the company’s studio, and its lively location was a good fit for the brand.
 
+![Pop up shop kate spade.jpg](/uploads/Pop%20up%20shop%20kate%20spade.jpg)
+
 **Perfect timing**
 
 Macauley says launching at Pop Brixton in July for two weeks was perfect timing because the jewellery it was selling at the time was brightly coloured and fitted in with the summer vibe.
@@ -63,6 +65,8 @@ Once you’ve got people through the door it is important to build up brand loya
 John \+ Pearl gave every customer a free tote bag to help market the brand and created a geo-location for the store so visitors could ‘check-in’ on social media sites, while the décor was designed to be “Instagram-able”.
 
 In order to help capture customer data there were also in-store subscription competitions and giveaways.
+
+![Pop Up shop copenhagen.jpg](/uploads/Pop%20Up%20shop%20copenhagen.jpg)
 
 **Opening permanently**
 
