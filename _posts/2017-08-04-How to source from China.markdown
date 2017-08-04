@@ -17,5 +17,3 @@ length: 10 mins
 ---
 
 [![Inside-Retail---Sourcing-from-China-2017---LR-(002)-12.jpg](/uploads/Inside-Retail---Sourcing-from-China-2017---LR-(002)-12.jpg)](/uploads/Inside%20Retail%20-%20Sourcing%20from%20China%202017%20-%20LR%20(002).pdf)
-
-![Inside Retail - Sourcing from China 2017 - LR (002).pdf](/uploads/Inside%20Retail%20-%20Sourcing%20from%20China%202017%20-%20LR%20(002).pdf)
