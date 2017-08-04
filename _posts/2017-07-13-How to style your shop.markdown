@@ -15,6 +15,8 @@ hero-video: <iframe width="560" height="315" src="https://www.youtube.com/embed/
 hero-quote: '"Your shop window is your cheapest form of advertising " '
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1NI4zETSrQs" frameborder="0" allowfullscreen></iframe>
+
 ![Sophy Searight.jpg](/uploads/Sophy%20Searight.jpg)
 
 *By Sophy Searight* <br /> *Editor*
