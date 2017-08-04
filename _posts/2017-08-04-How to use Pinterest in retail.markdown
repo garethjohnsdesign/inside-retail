@@ -20,9 +20,9 @@ Pinterest is a great choice for many reasons, in our opinion. On the one hand it
 
 According to Pinterest 75% of pins come from businesses and unlike ‘content with an ulterior motives’ on other platforms, that doesn’t annoy the users at all. They love ‘rich pins’ where they can see what’s in the picture, and where to get it.
 
-**Case Study:** Have a look at Pinterest’s [case study on Hillarys blinds,](https://business.pinterest.com/en/success-stories/hillarys) for some examples of what can be achieved if you go the whole hog.
-
-![Pinterest hilaries.png](/uploads/Pinterest%20hilaries.png)
+> **Case Study:** Have a look at Pinterest’s [case study on Hillarys blinds,](https://business.pinterest.com/en/success-stories/hillarys) for some examples of what can be achieved if you go the whole hog.
+>
+> ![Pinterest hilaries.png](/uploads/Pinterest%20hilaries.png)
 
 1. To get started, [set up a business account](https://www.pinterest.co.uk/business/create/). It takes a few seconds
 
