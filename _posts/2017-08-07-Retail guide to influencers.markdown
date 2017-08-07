@@ -5,10 +5,10 @@ categories:
 - fine-tuning
 tags:
 - marketing
-excerpt-image: "/uploads/Picture1-b27edc.jpg"
+excerpt-image: "/uploads/Picture1-0fe910.jpg"
 excerpt-text: I asked industry leading bloggers to reveal how retailers can create
   and use social media followings
-hero-image: "/uploads/Picture1-b27edc.jpg"
+hero-image: "/uploads/Picture1-0fe910.jpg"
 hero-quote: "“What to do in one hour a week? Focus on engagement and make sure that
   the followers you have are interested. Start conversations and be a human”"
 length: 5 mins
@@ -64,7 +64,7 @@ What are the key steps to building an online community that care what you do?
 
 **What to do in one hour a week:** Focus on engagement and make sure that the followers you have are interested. Start conversations and be a human.
 
-**So you want to advertise yourself beyond your own following?**![Ben Heath.jpg](/uploads/Ben%20Heath.jpg)![Rowan Row.jpg](/uploads/Rowan%20Row.jpg)![Jamie Cullen.jpg](/uploads/Jamie%20Cullen.jpg)
+**So you want to advertise yourself beyond your own following?**![Ben Heath.jpg](/uploads/Ben%20Heath.jpg)![Jamie Cullen.jpg](/uploads/Jamie%20Cullen.jpg)
 
 **Ben Heath, Rowan Row, Jamie Cullen**
 
