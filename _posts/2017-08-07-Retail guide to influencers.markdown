@@ -5,6 +5,7 @@ categories:
 - fine-tuning
 tags:
 - marketing
+excerpt-image: "/uploads/Picture1-b27edc.jpg"
 excerpt-text: I asked industry leading bloggers to reveal how retailers can create
   and use social media followings
 hero-quote: "“What to do in one hour a week? Focus on engagement and make sure that
@@ -12,7 +13,7 @@ hero-quote: "“What to do in one hour a week? Focus on engagement and make sure
 length: 5 mins
 ---
 
-How to harness the power of influencers
+![Picture1-b27edc.jpg](/uploads/Picture1-b27edc.jpg)How to harness the power of influencers
 
 This week I was at Pure London running Inside Retail’s live presence at the show. And while I was there I managed to nab some time with this fine array of fabulous menswear bloggers whose brains I merrily picked on behalf of you good people.
 
@@ -28,7 +29,7 @@ Aside from being lovely people with terrifyingly good outfits and dazzling hair,
 
 This is the most-asked question at most live events we run so I asked Mitchel to share his advice, learned first-hand when building up his own online following. He also works at the London College of Fashion where he got his degree in fashion marketing. He is, in short, the knowledge.
 
-Mitchel Webb
+![file-2-a91981.jpeg](/uploads/file-2-a91981.jpeg)Mitchel Webb
 
 What are the key steps to building an online community that care what you do?
 
@@ -43,6 +44,8 @@ What are the key steps to building an online community that care what you do?
 * Make a video, it’s the best possible insight into your business. It can be 30 seconds long and be of your dog wearing your latest delivery of hats. There’s no need to be serious
 
 * To convince your followers to get involved, create an incentive eg: ‘£10 gift card for the best photo of you in your latest purchase from us’
+
+  ![Mitchell Webb_headshot.jpg](/uploads/Mitchell%20Webb_headshot.jpg)
 
 * Focus on Instagram because it translates very easily to Facebook – you can duplicate the content in a straightforward way (not the case with twitter)
 
