@@ -60,16 +60,22 @@ What are the key steps to building an online community that care what you do?
 
 **What to do in one hour a week:** Focus on engagement and make sure that the followers you have are interested. Start conversations and be a human.
 
-**So you want to advertise yourself beyond your own following?**
+**So you want to advertise yourself beyond your own following?**![Ben Heath.jpg](/uploads/Ben%20Heath.jpg)![Rowan Row.jpg](/uploads/Rowan%20Row.jpg)![Jamie Cullen.jpg](/uploads/Jamie%20Cullen.jpg)
 
-Ben Heath, Rowan Row, Jamie Cullen
+**Ben Heath, Rowan Row, Jamie Cullen**
 
 Some tips from Ben, Rowan and Jamie on how to work with bloggers if you decide that you want to expand your reach outside your own social accounts.
+
 5 steps to success!
-Choose your blogger carefully. Does their style reflect your product, really? Does their tone, photographic style, and personality fit what you're trying to achieve and is your product going to fit seamlessly with their other posts? If not, they're unlikely to work with you and it wouldn't serve you well even if they did.
-Once you've made a shortlist, call them, or send a structured and well thought through email. Detail what you have in mind, and outline any key deadlines or objectives right at the start. Then arrange to meet for a coffee.
-If you send gifts, make it clear who you are, what the story is with the product and why you've sent it. Some bloggers receive a huge number of gifts and yours will need to stand out. Let them know you're sending it. Follow up to check it arrived and ask what they thought.
-The advantage of using influencers rather than traditional media is the targeted nature and track-ability of your spend. Your blogger will help you interpret the success of the posts they've done for you - incredibly useful feedback both for your business and your marketing strategy.
-Working with a blogger long term means you can create a strong narrative around your shop. Perhaps choose a smaller, local influencer and create an ongoing relationship.
+
+1. Choose your blogger carefully. Does their style reflect your product, really? Does their tone, photographic style, and personality fit what you're trying to achieve and is your product going to fit seamlessly with their other posts? If not, they're unlikely to work with you and it wouldn't serve you well even if they did.
+
+2. Once you've made a shortlist, call them, or send a structured and well thought through email. Detail what you have in mind, and outline any key deadlines or objectives right at the start. Then arrange to meet for a coffee.
+
+3. If you send gifts, make it clear who you are, what the story is with the product and why you've sent it. Some bloggers receive a huge number of gifts and yours will need to stand out. Let them know you're sending it. Follow up to check it arrived and ask what they thought.
+
+4. The advantage of using influencers rather than traditional media is the targeted nature and track-ability of your spend. Your blogger will help you interpret the success of the posts they've done for you - incredibly useful feedback both for your business and your marketing strategy.
+
+5. Working with a blogger long term means you can create a strong narrative around your shop. Perhaps choose a smaller, local influencer and create an ongoing relationship.
 
 To sign off, I would also add that despite their exceptionally sauve-looking Instagram photos all these guys were friendly, fun and very approachable. Retailers have nothing to lose by getting in touch and potentially a lot to gain.
