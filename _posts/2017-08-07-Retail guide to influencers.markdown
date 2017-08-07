@@ -8,12 +8,13 @@ tags:
 excerpt-image: "/uploads/Picture1-b27edc.jpg"
 excerpt-text: I asked industry leading bloggers to reveal how retailers can create
   and use social media followings
+hero-image: "/uploads/Picture1-b27edc.jpg"
 hero-quote: "“What to do in one hour a week? Focus on engagement and make sure that
   the followers you have are interested. Start conversations and be a human”"
 length: 5 mins
 ---
 
-![Picture1-b27edc.jpg](/uploads/Picture1-b27edc.jpg)How to harness the power of influencers
+How to harness the power of influencers
 
 This week I was at Pure London running Inside Retail’s live presence at the show. And while I was there I managed to nab some time with this fine array of fabulous menswear bloggers whose brains I merrily picked on behalf of you good people.
 
