@@ -19,7 +19,7 @@ How to harness the power of influencers
 This week I was at Pure London running Inside Retail’s live presence at the show. And while I was there I managed to nab some time with this fine array of fabulous menswear bloggers whose brains I merrily picked on behalf of you good people.
 
 The gents good enough to share their opinions with me were:
-[Mitchel Webb](http://thefashionwebb.com/jan-faves/)
+[Mitchell Webb](http://thefashionwebb.com/jan-faves/)
 [Rowan Row ](http://rowanrow.com/)
 [Ben Heath ](http://www.twentyfirstcenturygent.com/)
 [Jamie Cullen ](https://cullenjamie.com/)
@@ -28,9 +28,9 @@ Aside from being lovely people with terrifyingly good outfits and dazzling hair,
 
 **First off: How To Be Better At Social Media!**
 
-This is the most-asked question at most live events we run so I asked Mitchel to share his advice, learned first-hand when building up his own online following. He also works at the London College of Fashion where he got his degree in fashion marketing. He is, in short, the knowledge.
+This is the most-asked question at most live events we run so I asked Mitchell to share his advice, learned first-hand when building up his own online following. He also works at the London College of Fashion where he got his degree in fashion marketing. He is, in short, the knowledge.
 
-![file-2-a91981.jpeg](/uploads/file-2-a91981.jpeg)Mitchel Webb
+![file-2-a91981.jpeg](/uploads/file-2-a91981.jpeg)Mitchell Webb
 
 What are the key steps to building an online community that care what you do?
 
