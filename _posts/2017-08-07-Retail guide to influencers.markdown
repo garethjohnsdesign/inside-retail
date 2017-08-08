@@ -64,8 +64,9 @@ What are the key steps to building an online community that care what you do?
 
 **What to do in one hour a week:** Focus on engagement and make sure that the followers you have are interested. Start conversations and be a human.
 
-**So you want to advertise yourself beyond your own following?**![Ben Heath.jpg](/uploads/Ben%20Heath.jpg)![Jamie Cullen.jpg](/uploads/Jamie%20Cullen.jpg)
+**So you want to advertise yourself beyond your own following?**!
 
+![all-pic.jpg](/uploads/all-pic.jpg)
 **Ben Heath, Rowan Row, Jamie Cullen**
 
 Some tips from Ben, Rowan and Jamie on how to work with bloggers if you decide that you want to expand your reach outside your own social accounts.
