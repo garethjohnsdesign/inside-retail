@@ -7,6 +7,7 @@ categories:
 tags:
 - instore
 - Inspiration
+excerpt-image: "/uploads/TD_2ndbdayParty-27-58643c.jpg"
 excerpt-text: Claire Leigh, owner of [Two Ducks](http://www.two-ducks.co.uk/), a gorgeous
   giftshop in St John’s Wokingham, shares her success secrets. With tips on everything
   from buying, to private events, to social media, her adventurous and innovative
