@@ -1,7 +1,6 @@
 ---
 title: 'How to Have a Successful First Three Years in Retail: Indie Case Study'
 date: 2017-08-18 09:56:00 Z
-published: false
 categories:
 - getting-started
 - Branching Out
