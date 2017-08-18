@@ -12,7 +12,7 @@ excerpt-text: Claire Leigh, owner of [Two Ducks](http://www.two-ducks.co.uk/), a
   from buying, to private events, to social media, her adventurous and innovative
   approach to running a small high-street shop is full of inspiration.
 hero-image: "/uploads/TD_2ndbdayParty-27.jpg"
-hero-text: "“I didn’t have any funds to speak off so I started small by getting an
+hero-quote: "“I didn’t have any funds to speak off so I started small by getting an
   £8k credit card loan and doing gift parties in people’s houses, mainly friends to
   start with, but then expanded it to others who were interested. I choose what to
   sell from years of researching, either online via websites or visiting shops in
