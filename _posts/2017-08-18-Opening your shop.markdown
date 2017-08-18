@@ -11,6 +11,7 @@ excerpt-text: Claire Leigh, owner of [Two Ducks](http://www.two-ducks.co.uk/), a
   giftshop in St John’s Wokingham, shares her success secrets. With tips on everything
   from buying, to private events, to social media, her adventurous and innovative
   approach to running a small high-street shop is full of inspiration.
+hero-image: "/uploads/TD_2ndbdayParty-27.jpg"
 hero-text: "“I didn’t have any funds to speak off so I started small by getting an
   £8k credit card loan and doing gift parties in people’s houses, mainly friends to
   start with, but then expanded it to others who were interested. I choose what to
@@ -19,7 +20,7 @@ hero-text: "“I didn’t have any funds to speak off so I started small by gett
 length: 3 mins
 ---
 
-![TD_2ndbdayParty-27.png](/uploads/TD_2ndbdayParty-27.png)Over a champagne-fuelled evening as Two Ducks celebrated its third birthday, I met Claire who shared her experience of the challenging but successful years.
+Over a champagne-fuelled evening as Two Ducks celebrated its third birthday, I met Claire who shared her experience of the challenging but successful years.
 
 **How did you decide to take the leap and become an independent retailer?**
 
