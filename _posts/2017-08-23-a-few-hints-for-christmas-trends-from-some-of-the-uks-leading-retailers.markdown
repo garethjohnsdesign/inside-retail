@@ -34,13 +34,13 @@ I learned from head gift buyer, Anna Rigby that John Lewis had a runaway success
 
 Planning on a Waitrose scale is impossible for small retailers but the military approach to stock management is critical and totally manageable no matter what your size. [Try this](http://insideretail.com/articles/how-to-be-successful-in-ecommerce-this-christmas/) article for advice, it’s geared to online retailers but applies to everyone.
 
-In an air-conditioned temporary show room on Baker Street, toy manufacturer Tomy is showing off its festive must-haves.
-
-"I put up the Christmas tree this morning," says Tomy's Nicola Jenkins, above the noise of a video game.
-
-"Predicting trends is always a bit of science and a bit of luck. We put the products in the hands of parents, children and influencers - word of mouth is really important."
-
-So what are Nicola's picks for this year? "Pokemon is still really hot and we're expecting the next level of Lightseekers games to do well."
+> In an air-conditioned temporary show room on Baker Street, toy manufacturer Tomy is showing off its festive must-haves.
+>
+> "I put up the Christmas tree this morning," says Tomy's Nicola Jenkins, above the noise of a video game.
+>
+> "Predicting trends is always a bit of science and a bit of luck. We put the products in the hands of parents, children and influencers - word of mouth is really important."
+>
+> So what are Nicola's picks for this year? "Pokemon is still really hot and we're expecting the next level of Lightseekers games to do well."
 
 Great tips here for Pokemon and Lightseekers. Try [Autumn Fair](https://www.autumnfair.com/) for last minute orders. You may not have the opportunity to conduct focus groups with gangs of kids to check your planned purchases but how about using your social media following while you’re at trade shows, to gauge opinions? Just make sure you check with stall holders before taking pictures. Once you’ve taken delivery, get the word out. You want your customer to plan to buy from you, not from Amazon!
 
