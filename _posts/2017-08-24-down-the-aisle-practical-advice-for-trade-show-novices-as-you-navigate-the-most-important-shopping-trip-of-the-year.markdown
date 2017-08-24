@@ -7,7 +7,7 @@ categories:
 tags:
 - in-store
 - ecommerce
-excerpt-image: "/uploads/aisle.jpg"
+excerpt-image: "/uploads/newness-1024x576.jpg"
 excerpt-text: 'In readiness for the autumn shows we asked Ian Middleton, MD and Co-Founder
   of Argenteus Jewellery to write up his advice for newbies. '
 hero-image: "/uploads/aisle.jpg"
@@ -33,7 +33,7 @@ She says not to worry asking too many questions – "You are a customer, and you
 
 Exclusivity is a big question if it's a unique product.  You want to make sure that you're not going to be in direct competition with another store in your area.  Sometimes this has already been given to a competitor, but Rachel advises it's always worth asking to be notified if the situation changes.
 
-Discount is another thorny issue and I've always followed the old maxim 'if you don't ask, you don't get'. Rachel explains that from a supplier’s point of view it really depends on if you're placing a large enough order, buying up old stock, or offering some other kind of a deal.  Some suppliers expect to offer a discount anyway and build this into their prices.  I'd advise it's worth asking when placing your first order as at that point they are generally more motivated to get your business.  But if they say no, don't be offended.  It's something you can always come back to once you've established a better relationship.
+**Discount is another thorny issue and I've always followed the old maxim 'if you don't ask, you don't get'. Rachel explains that from a supplier’s point of view it really depends on if you're placing a large enough order, buying up old stock, or offering some other kind of a deal.  Some suppliers expect to offer a discount anyway and build this into their prices.  I'd advise it's worth asking when placing your first order as at that point they are generally more motivated to get your business.  But if they say no, don't be offended.  It's something you can always come back to once you've established a better relationship.**
 
 ![Rachel-Parkin-(2).jpg](/uploads/Rachel-Parkin-(2).jpg)
 
@@ -45,23 +45,23 @@ If you're in a hurry for the goods it's Rachel advises it's usually best to acce
 
 It's also a good idea set a budget when you start to place an order.  Unless money's no object, you want to make sure you can spend a sensible amount with each supplier.  Rachel suggests you ask to be notified when you're approaching your limit so you don't get any nasty surprises later.
 
-You also need to make sure you buy enough of a range to get a decent idea of how well it will sell.  Just buying a few bits may not enable you to make an eye-catching display.  Some companies may also offer you a free or discounted display stand if you place a large enough order.  It's always good to ask the wholesaler for advice on which lines are good sellers.
+**You also need to make sure you buy enough of a range to get a decent idea of how well it will sell.  Just buying a few bits may not enable you to make an eye-catching display.  Some companies may also offer you a free or discounted display stand if you place a large enough order.  It's always good to ask the wholesaler for advice on which lines are good sellers.**
 
-Some final dos and don'ts
+**Some final dos and don'ts**
 
-Do wear comfortable clothing, especially shoes.  It's also a good idea to take a bag or rucksack to carry the copious amounts of brochures you're sure to pick up.  They'll be much more comfortable to lug around than the bags you'll be offered at the show.
+**Do **wear comfortable clothing, especially shoes.  It's also a good idea to take a bag or rucksack to carry the copious amounts of brochures you're sure to pick up.  They'll be much more comfortable to lug around than the bags you'll be offered at the show.
 
-Do bring business cards or something printed with your details on.  If you don't have them suppliers will usually write your details down, but it's quicker and more professional looking if you have cards.
+**Do **bring business cards or something printed with your details on.  If you don't have them suppliers will usually write your details down, but it's quicker and more professional looking if you have cards.
 
-Do take frequent breaks for food and drink and a chance to rest those aching feet. It's easy to get tired and jaded and you need to be fresh and in the right frame of mind to find those great new products.
+**Do **take frequent breaks for food and drink and a chance to rest those aching feet. It's easy to get tired and jaded and you need to be fresh and in the right frame of mind to find those great new products.
 
-Don't forget to make notes after meeting a new supplier or contact.  What's fresh in your mind now probably won't be by the end of the show.
+**Don't **forget to make notes after meeting a new supplier or contact.  What's fresh in your mind now probably won't be by the end of the show.
 
-Don't let time run away with you.  Try to ensure you get to each new prospect and avoid too much chatting with suppliers you're already in frequent contact with.  Nice as it is to catch up, it also uses up valuable time you could be spending finding new things.
+**Don't **let time run away with you.  Try to ensure you get to each new prospect and avoid too much chatting with suppliers you're already in frequent contact with.  Nice as it is to catch up, it also uses up valuable time you could be spending finding new things.
 
-Don't be wedded to your plan.  Make sure you keep an open mind for new ideas you may not have expected to find.  Allow yourself some time to simply browse.
+**Don't **be wedded to your plan.  Make sure you keep an open mind for new ideas you may not have expected to find.  Allow yourself some time to simply browse.
 
-Finally don't forget to enjoy yourself.  This may be work, but it's also about exciting new ideas, brands and products that will inspire you and your business.  Have fun on the journey!
+**Finally **don't forget to enjoy yourself.  This may be work, but it's also about exciting new ideas, brands and products that will inspire you and your business.  Have fun on the journey!
 
 The next shows you can see Inside Retail Live at, at [Autumn Fair](https://www.autumnfair.com/) and [Glee](https://www.gleebirmingham.com/). Both take place at the NEC in Birmingham, are free to attend and offer wholesale gift and home products, and garden products respectively.
 ![autumn-fair-exhibitor-dar-lighting1.jpg](/uploads/autumn-fair-exhibitor-dar-lighting1.jpg)
