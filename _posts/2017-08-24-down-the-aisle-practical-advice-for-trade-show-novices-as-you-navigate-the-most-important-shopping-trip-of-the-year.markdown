@@ -2,7 +2,6 @@
 title: 'Down the Aisle: Practical advice for trade show novices as you navigate the
   most important shopping trip of the year'
 date: 2017-08-24 09:28:00 Z
-published: false
 categories:
 - getting-started
 tags:
