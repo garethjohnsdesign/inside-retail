@@ -2,6 +2,7 @@
 title: 'Down the Aisle: Practical advice for trade show novices as you navigate the
   most important shopping trip of the year'
 date: 2017-08-24 09:28:00 Z
+published: false
 categories:
 - getting-started
 tags:
@@ -63,5 +64,5 @@ Don't be wedded to your plan.  Make sure you keep an open mind for new ideas you
 
 Finally don't forget to enjoy yourself.  This may be work, but it's also about exciting new ideas, brands and products that will inspire you and your business.  Have fun on the journey!
 
-The next shows you can see Inside Retail Live at, at [Autumn Fair](https://www.autumnfair.com/) and [Glee](https://www.gleebirmingham.com/). Both take place at the NEC in Birmingham, are free to attend and offer wholesale gift and home products, and garden products respectively.\
+The next shows you can see Inside Retail Live at, at [Autumn Fair](https://www.autumnfair.com/) and [Glee](https://www.gleebirmingham.com/). Both take place at the NEC in Birmingham, are free to attend and offer wholesale gift and home products, and garden products respectively.
 ![autumn-fair-exhibitor-dar-lighting1.jpg](/uploads/autumn-fair-exhibitor-dar-lighting1.jpg)
