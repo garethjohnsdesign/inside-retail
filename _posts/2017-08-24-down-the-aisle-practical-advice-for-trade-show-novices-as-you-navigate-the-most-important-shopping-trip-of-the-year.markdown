@@ -49,19 +49,19 @@ It's also a good idea set a budget when you start to place an order.  Unless mon
 
 **Some final dos and don'ts**
 
-**Do **wear comfortable clothing, especially shoes.  It's also a good idea to take a bag or rucksack to carry the copious amounts of brochures you're sure to pick up.  They'll be much more comfortable to lug around than the bags you'll be offered at the show.
+**Do** wear comfortable clothing, especially shoes.  It's also a good idea to take a bag or rucksack to carry the copious amounts of brochures you're sure to pick up.  They'll be much more comfortable to lug around than the bags you'll be offered at the show.
 
-**Do **bring business cards or something printed with your details on.  If you don't have them suppliers will usually write your details down, but it's quicker and more professional looking if you have cards.
+**Do** bring business cards or something printed with your details on.  If you don't have them suppliers will usually write your details down, but it's quicker and more professional looking if you have cards.
 
-**Do **take frequent breaks for food and drink and a chance to rest those aching feet. It's easy to get tired and jaded and you need to be fresh and in the right frame of mind to find those great new products.
+**Do** take frequent breaks for food and drink and a chance to rest those aching feet. It's easy to get tired and jaded and you need to be fresh and in the right frame of mind to find those great new products.
 
-**Don't **forget to make notes after meeting a new supplier or contact.  What's fresh in your mind now probably won't be by the end of the show.
+**Don't** forget to make notes after meeting a new supplier or contact.  What's fresh in your mind now probably won't be by the end of the show.
 
-**Don't **let time run away with you.  Try to ensure you get to each new prospect and avoid too much chatting with suppliers you're already in frequent contact with.  Nice as it is to catch up, it also uses up valuable time you could be spending finding new things.
+**Don't** let time run away with you.  Try to ensure you get to each new prospect and avoid too much chatting with suppliers you're already in frequent contact with.  Nice as it is to catch up, it also uses up valuable time you could be spending finding new things.
 
-**Don't **be wedded to your plan.  Make sure you keep an open mind for new ideas you may not have expected to find.  Allow yourself some time to simply browse.
+**Don't** be wedded to your plan.  Make sure you keep an open mind for new ideas you may not have expected to find.  Allow yourself some time to simply browse.
 
-**Finally **don't forget to enjoy yourself.  This may be work, but it's also about exciting new ideas, brands and products that will inspire you and your business.  Have fun on the journey!
+**Finally** don't forget to enjoy yourself.  This may be work, but it's also about exciting new ideas, brands and products that will inspire you and your business.  Have fun on the journey!
 
 The next shows you can see Inside Retail Live at, at [Autumn Fair](https://www.autumnfair.com/) and [Glee](https://www.gleebirmingham.com/). Both take place at the NEC in Birmingham, are free to attend and offer wholesale gift and home products, and garden products respectively.
 ![autumn-fair-exhibitor-dar-lighting1.jpg](/uploads/autumn-fair-exhibitor-dar-lighting1.jpg)
