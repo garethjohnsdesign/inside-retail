@@ -7,13 +7,12 @@ tags:
 - instore
 excerpt-image: "/uploads/christmas7.jpg"
 excerpt-text: Tips to make Christmas pay – and not drag out until February!
+hero-image: "/uploads/christmas7-f399c5.jpg"
 hero-quote: "“Referring to our previous sales figures is a good indication of what
   is likely to be popular the following Christmas, but we also need to be aware of
   the changing trends. .” Steve Pym, Black By Design"
 length: Three minute read
 ---
-
-![christmas7-f399c5.jpg](/uploads/christmas7-f399c5.jpg)
 
 As Inside Retail types this article it’s the middle of the year, which means two things – first, it’s chucking it down, and second our readers will inevitably be thinking of Christmas especially as we’re approaching the last major trade shows before the season of goodwill. Ideally this is one of the best times of year for independents, with high foot-fall and looser-than-usual consumer budgets, but it can backfire spectacularly. Over-ordering can be a nightmare; your correspondent was in a brewery’s shop this Easter and they were offering a good price on Christmas Ale.
 
