@@ -7,7 +7,7 @@ tags:
 - instore
 excerpt-image: "/uploads/christmas7.jpg"
 excerpt-text: Tips to make Christmas pay – and not drag out until February!
-hero-image: "/uploads/christmas7-f399c5.jpg"
+hero-image: "/uploads/christmas7-c79760.jpg"
 hero-quote: "“Referring to our previous sales figures is a good indication of what
   is likely to be popular the following Christmas, but we also need to be aware of
   the changing trends. .” Steve Pym, Black By Design"
