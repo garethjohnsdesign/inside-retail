@@ -1,7 +1,6 @@
 ---
 title: The timeless ubiquity of kitsch and how East influences West
 date: 2017-09-01 09:36:00 Z
-published: false
 categories:
 - getting-started
 tags:
