@@ -25,9 +25,10 @@ UK Pinners are saving classic staples such as the trench, **shearling coat** and
 
 **UK Style Report -** the full list of the style ideas Brits are searching for the most on Pinterest:
 
-* **Brits say it like it is **– [slogan t-shirts](https://protect-eu.mimecast.com/s/9OM5BUkDdpgiZk) are up \+32% (year on year). Spelling it out on your clothes is the ultimate in street style sass.
+* **Brits say it like it is – **[slogan t-shirts](https://protect-eu.mimecast.com/s/9OM5BUkDdpgiZk) are up \+32% (year on year). Spelling it out on your clothes is the ultimate in street style sass.\
+  ![Logo tee.jpg](/uploads/Logo%20tee.jpg)
 
-* **Skinny is out,** **the **[‘mom’ jean](https://protect-eu.mimecast.com/s/lqGbBfKx3ont2b) **is in **– When it comes to jeans, our waistline is rising. The once skinny jean staple has been replaced by the more relaxed and ‘oh so comfy’ mom jean.
+* **Skinny is out**, the [‘mom’ jean](https://protect-eu.mimecast.com/s/lqGbBfKx3ont2b) **is in–** When it comes to jeans, our waistline is rising. The once skinny jean staple has been replaced by the more relaxed and ‘oh so comfy’ mom jean.
 
 * **Keeping it classic when it comes to coats – **the most popular coat search in the UK is camel coats followed closely by the [perennial trench](https://protect-eu.mimecast.com/s/z4WmBT6XOkJuEl).
 
