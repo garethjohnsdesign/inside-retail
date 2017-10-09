@@ -8,13 +8,12 @@ tags:
 - marketing
 excerpt-text: 'Some hints to get you started: How to take advantage of the latest
   changes in the way people shop'
+hero-image: "/uploads/High-Street.png"
 hero-quote: 'We’re seeing three consumer trends emerging against this backdrop that
   don’t just make us optimistic for the future of high street retail. They make us
   extremely excited, if as a retail community we seize them. '
 length: Three minute read
 ---
-
-![High-Street.png](/uploads/High-Street.png)
 
 It can sometimes feel like the future of retail belongs to the internet. Yes there are articles about ways to improve your high street store, but on the whole conversation is dominated by eCommerce strategies and tactics. You could easily be mistaken for thinking ‘*innovation*’ and ‘*the high street*’ no longer belong in the same sentence.
 
