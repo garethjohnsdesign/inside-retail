@@ -2,7 +2,6 @@
 title: 'After the Shows: Practical advice for trade show novices as you navigate the
   most important shopping trip of the year'
 date: 2017-10-09 14:59:00 Z
-published: false
 categories:
 - getting-started
 tags:
