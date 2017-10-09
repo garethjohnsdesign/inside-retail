@@ -18,7 +18,7 @@ hero-quote: If you're there with a colleagues you can split up and send groups o
 length: Three minute read
 ---
 
-In my last two articles on the right way to do trade fairs I've covered preparation before the show and how to get the most out of a show when you're actually there.  In this final instalment we'll deal with what you should be doing after you've returned from a successful visit.
+In my last two articles on the right way to do trade fairs I've covered [preparation before the show](http://insideretail.com/articles/How-to-get-ready-for-trade-shows/) and [how to get the most out of a show when you're actually there](http://insideretail.com/articles/down-the-aisle-practical-advice-for-trade-show-novices-as-you-navigate-the-most-important-shopping-trip-of-the-year/).  In this final instalment we'll deal with what you should be doing after you've returned from a successful visit.
 \
 What you do after a show is equally as important as what you do before and during.  All that hard slog around a trade fair can be wasted if you don't follow up on contacts or leave a pile of promotional information in the corner of your office to moulder until you've forgotten about them.  So the first job on day one is to empty out those carrier bags full of business cards, catalogues, samples and order forms.
 \
@@ -39,20 +39,20 @@ If there are any catalogues or cards for people you know you're never going to c
 \
 Finally, if you've been given some samples of products don't just treat them as freebies, they're given away to help you remember their products and properly assess them.  Give them a test drive and make notes of what you thought.  Attach these to the empty product containers or wrappers or to the promotional material you also got from the manufacturers or distributers.  If you think they'd be right for your store, make a small order and let your customers try too.  Be careful though as many samples may be from stock that's close to its use by date, don't let them go to waste by ignoring them for too long!
 
-As with the first two articles here's a list of key things to do and avoid:
+**As with the first two articles here's a list of key things to do and avoid:**
 
-Do check through orders as soon as possible to make sure you've not overspent
+**Do** check through orders as soon as possible to make sure you've not overspent
 \
-Do go through promotional and contact material from the show as soon as possible
+**Do** go through promotional and contact material from the show as soon as possible
 \
-Do organise the information you have and connect it with notes you made at the time\
+**Do** organise the information you have and connect it with notes you made at the time\
 \
-Do make notes while things are fresh in your mind (if you didn't do it at the show)
+**Do** make notes while things are fresh in your mind (if you didn't do it at the show)
 \
-Don't leave promotional material to languish in a carrier bag for weeks
+**Don't** leave promotional material to languish in a carrier bag for weeks
 \
-Don't waste samples, many of them will be close to their use by dates
+**Don't** waste samples, many of them will be close to their use by dates
 \
-Don't discount cards and catalogues from companies you didn't speak to, there must have been something that made you pick them up
+**Don't **discount cards and catalogues from companies you didn't speak to, there must have been something that made you pick them up
 \
-Don't lose contact with new prospects you met at the show.  Make a connection early so neither of you forget who you are.
+**Don't** lose contact with new prospects you met at the show.  Make a connection early so neither of you forget who you are.
