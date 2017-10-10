@@ -35,7 +35,6 @@ The second category in your post-show haul will be those people you spoke to but
 
 If there are any catalogues or cards for people you know you're never going to contact, file them away with some notes or bin them.  Just keeping them knocking around will only confuse you when you find them again. This can include the third category of the card or catalogue grab you made from a stand where you didn't actually talk to anyone.  But don't be too hasty on these.  If you picked up the details, there must have been something that snagged your interest.  It's always worth checking out their websites or Googling the brand or the product name to make sure you're not missing out on something you might have overlooked if you're too cursory about it.
 
-
 Finally, if you've been given some samples of products don't just treat them as freebies, they're given away to help you remember their products and properly assess them.  Give them a test drive and make notes of what you thought.  Attach these to the empty product containers or wrappers or to the promotional material you also got from the manufacturers or distributers.  If you think they'd be right for your store, make a small order and let your customers try too.  Be careful though as many samples may be from stock that's close to its use by date, don't let them go to waste by ignoring them for too long!
 
 **As with the first two articles here's a list of key things to do and avoid:**
@@ -55,3 +54,5 @@ Finally, if you've been given some samples of products don't just treat them as 
 **Don't**  discount cards and catalogues from companies you didn't speak to, there must have been something that made you pick them up
 
 **Don't** lose contact with new prospects you met at the show.  Make a connection early so neither of you forget who you are.
+
+[Ian Middleton](https://twitter.com/ianmiddletonx?lang=en) is a retail consultant and writer/commentator
