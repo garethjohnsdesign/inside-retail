@@ -45,7 +45,7 @@ As always there are some golden rules to include in your pre-show checklists :
 * Do download and install any app available for your phone or tablet
 
 * Do allocate specific amounts of time to speak to each prospect
-  
+
 
 * Don't forget to register well before a show.  It means quicker and usually free entry
 
@@ -58,6 +58,7 @@ As always there are some golden rules to include in your pre-show checklists :
 * Don't turn up at a show unprepared.  You'll waste valuable time and energy if you just try to wing it.
 
 * Whether this is your first of your fiftieth trade show, preparation is the key and will mean you have a much more enjoyable and rewarding experience both during and after the event.
-  
 
-  Ian Middleton is the Managing Director and Co-Founder of Argenteus Jewellery LTD and has been to many many trade shows! Look out ‘How to Work the Show’ and ‘Post Show Follow Up’ which we’ll be publishing shortly.
+Ian Middleton is the Managing Director and Co-Founder of Argenteus Jewellery LTD and has been to many many trade shows! Look out ‘How to Work the Show’ and ‘Post Show Follow Up’ which we’ll be publishing shortly.
+
+[Ian Middleton](https://twitter.com/ianmiddletonx?lang=en) is a retail consultant and writer/commentator
