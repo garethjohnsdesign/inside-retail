@@ -65,3 +65,5 @@ It's also a good idea set a budget when you start to place an order.  Unless mon
 
 The next shows you can see Inside Retail Live at, at [Autumn Fair](https://www.autumnfair.com/) and [Glee](https://www.gleebirmingham.com/). Both take place at the NEC in Birmingham, are free to attend and offer wholesale gift and home products, and garden products respectively.
 ![autumn-fair-exhibitor-dar-lighting1.jpg](/uploads/autumn-fair-exhibitor-dar-lighting1.jpg)
+
+[Ian Middleton](https://twitter.com/ianmiddletonx?lang=en) is a retail consultant and writer/commentator
