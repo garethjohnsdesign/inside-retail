@@ -21,7 +21,7 @@ hero-quote: "“I didn’t have any funds to speak off so I started small by get
 length: 3 mins
 ---
 
-Over a champagne-fuelled evening as Two Ducks celebrated its third birthday, I met Claire who shared her experience of the challenging but successful years.
+Over a champagne-fuelled evening as Two Ducks celebrated its third birthday, I met owner Claire who shared her experience of the challenging but successful first years in retail.
 
 **How did you decide to take the leap and become an independent retailer?**
 
