@@ -1,7 +1,6 @@
 ---
 title: 'Case Study: A fabulous first year in Stirling'
 date: 2017-10-13 11:17:00 Z
-published: false
 categories:
 - getting-started
 tags:
@@ -9,17 +8,17 @@ tags:
 excerpt-image: "/uploads/Lisa-Picture-1.png"
 excerpt-text: Ideas for a stunning first year in retail. From social media to unique
   product selection to fairy castle giveaways.
+hero-image: "/uploads/Lisa-Picture-1.png"
+hero-text: Lisa Davidson in her shop, Tinkerbell’s Emporium
 hero-quote: "“I listened carefully to what my customers needed and I invested heavily
   in marketing in every way I could including hand delivering leaflets to almost all
   of Stirling” Lisa Davidson, Tinkerbell’s Emporium"
 length: Three minute read
 ---
 
-We Love to hear your stories here at Inside Retail and I’m especially excited about this one from Lisa Davidson, Creator of Tinkerbell’s Emporium in Stirling which sells fairy and other magical ephemera to adults and kids alike. She’s had a stonking first year and has been kind enough to share her how her dream shop came about.
-
-![Lisa-Picture-1.png](/uploads/Lisa-Picture-1.png)
-
 **Lisa Davidson in her shop, Tinkerbell’s Emporium**
+
+We Love to hear your stories here at Inside Retail and I’m especially excited about this one from Lisa Davidson, Creator of Tinkerbell’s Emporium in Stirling which sells fairy and other magical ephemera to adults and kids alike. She’s had a stonking first year and has been kind enough to share her how her dream shop came about.
 
 **How did you decide to take the leap and become an independent retailer yourself?**
 
