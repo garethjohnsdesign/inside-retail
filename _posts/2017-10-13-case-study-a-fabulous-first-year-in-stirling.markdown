@@ -1,6 +1,7 @@
 ---
 title: 'Case Study: A fabulous first year in Stirling'
 date: 2017-10-13 11:17:00 Z
+published: false
 categories:
 - getting-started
 tags:
