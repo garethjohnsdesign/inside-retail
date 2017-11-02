@@ -51,11 +51,11 @@ We have been offered a couple of exciting opportunities in the last couple of we
 
 The main problem has been the weakness of sterling that has caused price rises. I’m certain Sterling will recover and just hope its sooner rather than later.
 
-**What advice would you give to retailers who are struggling? **
+**What advice would you give to retailers who are struggling?** 
 
 Be completely honest with yourself. Are you enjoying the job? Can you turn things around or are you just hoping things will magically improve? Would you be better selling the business or closing and doing something else? If you honestly believe you can turn the business around invest all your time, money and energy as it won’t be easy.
 
-**What’s the best thing about being a retailer? **
+**What’s the best thing about being a retailer?**
 
 People. I love meeting suppliers and customers. Thankfully nearly all the feedback we receive is positive so that helps! Winning prestigious awards like ‘British Independent Retailer of the Year’ is amazing but none of the awards would be possible without the support of our customers and suppliers.
 
