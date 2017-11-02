@@ -5,7 +5,7 @@ categories:
 - Up and Running
 tags:
 - instore
-excerpt-image: "/uploads/shop%20front%202016%20Mantons.jpg"
+excerpt-image: "/uploads/shop-front-2016-Mantons.jpg"
 excerpt-text: Thoughts from a small island as the owner of a successful card shop
   shares his experiances
 hero-image: "/uploads/shop%20front%202016%20Mantons.jpg"
