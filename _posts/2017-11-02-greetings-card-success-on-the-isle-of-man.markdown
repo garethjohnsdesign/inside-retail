@@ -33,6 +33,8 @@ The cost of everything is higher! Also, it can be more difficult and expensive t
 
 The shop team are also responsible of choosing many of the products and the most important thing is the quality, right from its design and feel to the packaging and the value we can offer our customers.
 
+![shop interior 2 - close up.jpg](/uploads/shop%20interior%202%20-%20close%20up.jpg)
+
 **How does your work/life balance look and how has that changed over time? **
 
 My family and friends refer to Mantons as my other woman, so I guess I must devote a lot of time to work. I’ve always worked hard but it’s something I enjoy, and I always have time to spend with my family and friends so I feel especially lucky.
@@ -57,9 +59,13 @@ Be completely honest with yourself. Are you enjoying the job? Can you turn thing
 
 People. I love meeting suppliers and customers. Thankfully nearly all the feedback we receive is positive so that helps! Winning prestigious awards like ‘British Independent Retailer of the Year’ is amazing but none of the awards would be possible without the support of our customers and suppliers.
 
+![chris beards.jpg](/uploads/chris%20beards.jpg)
+
 **Are there any jobs in your business that you’ve outsourced to fill skills gaps? **
 
 The Mantons team have the skills for most things retail so we have just outsourced things like building works and updating our electricity etc. We are always improving our skills, personally I have attended retail seminars and The Oxford Summer School Retail course to continue to learn.
+
+![awards 2 Mantons Team.jpg](/uploads/awards%202%20Mantons%20Team.jpg)
 
 **What was the best single decision you’ve made during your time at Mantons? **
 
