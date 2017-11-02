@@ -47,7 +47,7 @@ It’s really a case of working together to promote their High St and retailers 
 
 We have been offered a couple of exciting opportunities in the last couple of weeks that I am investigating further. Other than that we always look to grow our existing business year on year.
 
-**Does the political situation worry you or do you feel its effects on your business will be limited?** 
+**Does the political situation worry you or do you feel its effects on your business will be limited?**
 
 The main problem has been the weakness of sterling that has caused price rises. I’m certain Sterling will recover and just hope its sooner rather than later.
 
@@ -67,11 +67,11 @@ The Mantons team have the skills for most things retail so we have just outsourc
 
 ![awards 2 Mantons Team.jpg](/uploads/awards%202%20Mantons%20Team.jpg)
 
-**What was the best single decision you’ve made during your time at Mantons? **
+**What was the best single decision you’ve made during your time at Mantons?**
 
 Buying the freehold to the building. The ground floor is about 2,500 square feet and its five stories so has plenty of room for our offices and storage. As well as saving on rent we wouldn’t have been able to remove walls if we were renting.
 
-**Do you feel the role of your website might change in the future? **
+**Do you feel the role of your website might change in the future?**
 
 At the moment I expect the website to remain a relatively small part of our business, but the way tech moves on you have to keep an open mind. Maybe websites will go the way of the fax machine in ten years’ time.
 
