@@ -47,11 +47,11 @@ It’s really a case of working together to promote their High St and retailers 
 
 We have been offered a couple of exciting opportunities in the last couple of weeks that I am investigating further. Other than that we always look to grow our existing business year on year.
 
-**Does the political situation worry you or do you feel its effects on your business will be limited? **
+**Does the political situation worry you or do you feel its effects on your business will be limited?** 
 
 The main problem has been the weakness of sterling that has caused price rises. I’m certain Sterling will recover and just hope its sooner rather than later.
 
-**What advice would you give to retailers who are struggling?** 
+**What advice would you give to retailers who are struggling?**
 
 Be completely honest with yourself. Are you enjoying the job? Can you turn things around or are you just hoping things will magically improve? Would you be better selling the business or closing and doing something else? If you honestly believe you can turn the business around invest all your time, money and energy as it won’t be easy.
 
@@ -61,7 +61,7 @@ People. I love meeting suppliers and customers. Thankfully nearly all the feedba
 
 ![chris beards.jpg](/uploads/chris%20beards.jpg)
 
-**Are there any jobs in your business that you’ve outsourced to fill skills gaps? **
+**Are there any jobs in your business that you’ve outsourced to fill skills gaps?**
 
 The Mantons team have the skills for most things retail so we have just outsourced things like building works and updating our electricity etc. We are always improving our skills, personally I have attended retail seminars and The Oxford Summer School Retail course to continue to learn.
 
