@@ -21,7 +21,7 @@ This week Chris Beards, owner of the award winning [Mantons Cards](http://www.ma
 
 I started as a 14-year-old selling my own bands T-shirts. Other bands started to ask me to sell theirs and soon I had a mail order, and then online retail, business selling band merchandise. After receiving a generous unsolicited offer, I sold the business at the start of 2008 and made the moved into bricks and mortar retail.
 
-**Having taken over the shop in 2008, can you talk through your planning and execution? **
+**Having taken over the shop in 2008, can you talk through your planning and execution?**
 
 I’ve always loved sending greeting cards and Mantons came up for sale a few months after I’d sold the T-shirt business. At the time I took over Mantons sold a lot of toys a selection of cards and no gifts. Since then we have become greeting card and gift specialists while still stocking a few high-quality toys.
 
