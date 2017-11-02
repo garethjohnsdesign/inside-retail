@@ -35,7 +35,7 @@ The shop team are also responsible of choosing many of the products and the most
 
 ![shop interior 2 - close up.jpg](/uploads/shop%20interior%202%20-%20close%20up.jpg)
 
-**How does your work/life balance look and how has that changed over time? **
+**How does your work/life balance look and how has that changed over time?**
 
 My family and friends refer to Mantons as my other woman, so I guess I must devote a lot of time to work. I’ve always worked hard but it’s something I enjoy, and I always have time to spend with my family and friends so I feel especially lucky.
 
