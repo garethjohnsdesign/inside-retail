@@ -19,11 +19,11 @@ This week Chris Beards, owner of the award winning [Mantons Cards](http://www.ma
 
 **What precipitated your move into retail?**
 
-I started as a 14-year-old selling my own bands T-shirts. Other bands started to ask me to sell theirs and soon I had a mail order, and then online retail, business selling band merchandise. After receiving a generous unsolicited offer, I sold the business at the start of 2008 and made the moved into bricks and mortar retail.
+I started as a 14-year-old selling my own band’s T-shirts. Other bands started to ask me to sell theirs and soon I had a mail order, and then online retail, business selling band merchandise. After receiving a generous unsolicited offer, I sold the business at the start of 2008 and made the moved into bricks and mortar retail.
 
 **Having taken over the shop in 2008, can you talk through your planning and execution?**
 
-I’ve always loved sending greeting cards and Mantons came up for sale a few months after I’d sold the T-shirt business. At the time I took over Mantons sold a lot of toys a selection of cards and no gifts. Since then we have become greeting card and gift specialists while still stocking a few high-quality toys.
+I’ve always loved sending greeting cards and Mantons came up for sale a few months after I’d sold the T-shirt business. At the time I took over, Mantons sold a lot of toys a selection of cards and no gifts. Since then we have become greeting card and gift specialists while still stocking a few high-quality toys.
 
 **Is there anything special/different about retailing on the Isle of Man?**
 
@@ -69,7 +69,7 @@ The Mantons team have the skills for most things retail so we have just outsourc
 
 **What was the best single decision you’ve made during your time at Mantons?**
 
-Buying the freehold to the building. The ground floor is about 2,500 square feet and its five stories so has plenty of room for our offices and storage. As well as saving on rent we wouldn’t have been able to remove walls if we were renting.
+Buying the freehold to the building. The ground floor is about 2,500 square feet and it’s five stories so has plenty of room for our offices and storage. As well as saving on rent we wouldn’t have been able to remove walls if we were renting.
 
 **Do you feel the role of your website might change in the future?**
 
