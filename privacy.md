@@ -9,7 +9,7 @@ layout: page
 
 **1. Introduction**
 
-1\.1 This Privacy and Cookies Policy sets out the privacy and cookies policy of Ascential Events Limited, company number 7925964 (England and Wales) whose registered address is at c/o Ascential Group Limited, The Prow, 1 Wilder Walk, London W1B 5AP, a “data controller” for the purpose of the Data Protection Act 1998 (the “Act”), and its subsidiaries who act as “data processors” on behalf of Ascential Events Limited within the meaning of the Act (these subsidiaries together with Ascential Events Limited hereinafter referred to as “Ascential”).
+1\.1 This Privacy and cookies Policy sets out the privacy and cookies policy of Ascential Events Limited, company number 7925964 (England and Wales) whose registered address is at c/o Ascential Group Limited, The Prow, 1 Wilder Walk, London W1B 5AP, a “data controller” for the purpose of the Data Protection Act 1998 (the “Act”), and its subsidiaries who act as “data processors” on behalf of Ascential Events Limited within the meaning of the Act (these subsidiaries together with Ascential Events Limited hereinafter referred to as “Ascential”).
 
 1\.2.Ascential is committed to protecting the privacy of its users and the purpose of this Privacy Policy is to describe to you how Ascential will use personal information about you that is submitted to Ascential.
 
