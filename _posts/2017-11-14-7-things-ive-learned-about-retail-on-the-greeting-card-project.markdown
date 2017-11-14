@@ -16,7 +16,7 @@ We invited Jeremy Corner, owner of card wholesaler Blue Eyed Sun, to share what 
 
 7 things learned about Retail on The Greeting Card Project
 
-This year I have visited over 50 stores as part of my New Year’s resolution to buy and send more cards and share my experiences at [www.YouTube.com/TheGreetingCardProject](https://protect-eu.mimecast.com/s/gnOLBUKkWQYiK)
+This year I have visited over 50 stores as part of my New Year’s resolution to buy and send more cards and share my experiences at [www.YouTube.com/TheGreetingCardProject](http://www.YouTube.com/TheGreetingCardProject)
 
 I have learnt a number of interesting things about retail whilst filming in so many shops. Here are seven things that could boost your retail sales:
 
@@ -27,10 +27,10 @@ Cards can make up a significant amount of sales in independent gift shops. Those
 The top retailers never run out of their best sellers. To be effective at this you have to track them and make buying decisions based on your sales data rather than feelings about how long the card may have been in stock or not. Similarly, slow sellers are cleared quickly to make way for new potential best sellers.
 
 3\. Have a Webpage\
-Websites have never been easier to create. If you don’t have a big budget you can always use something like wix.com to create a simple page. You just need a few nice photos of your store and be sure to add Google Analytics so that you can track its success. The main info people want from you is your opening hours, location and contact details. You don’t need to worry about selling online to begin with. You just need a page for people to find and share you online.
+Websites have never been easier to create. If you don’t have a big budget you can always use something like [wix.com](https://www.wix.com/) to create a simple page. You just need a few nice photos of your store and be sure to add Google Analytics so that you can track its success. The main info people want from you is your opening hours, location and contact details. You don’t need to worry about selling online to begin with. You just need a page for people to find and share you online.
 
 4\. Google Business Listings\
-At the very least, register your business at [www.google.com/business](https://protect-eu.mimecast.com/s/AGEkBhZrvQ7uJ) This will enable you to show up when people search for you and keywords relating to your business. Add some nice photos of your shop and fill in the main info. This will also allow your business to show up on Google Maps.
+At the very least, register your business at [www.google.com/business](http://www.google.com/business) This will enable you to show up when people search for you and keywords relating to your business. Add some nice photos of your shop and fill in the main info. This will also allow your business to show up on Google Maps.
 
 5\. Social Media\
 Most retailers don’t use social media and those that try don’t always use it as effectively as they could. Have content plan for regular postings and stick to it. Keep it simple if it seems like too big a task. Stick to one or two platforms like Instagram and Facebook for now, although it is really useful to be registered on all the major ones so that people who want to tag and talk about you can. Be sure to engage and not just sell.
@@ -44,3 +44,19 @@ Well trained staff make all the difference for your customers. Good product know
 It’s been fascinating visiting so many different shops on The Greeting Card Project and buying so many different types of cards. I’ve learned a huge amount about retail and cards doing it. I’ve also enjoyed inspiring others to send more cards to connect with their friends and loved ones.
 
 I’d love to hear what you think of the videos, so please do check them out and comment below them or message me via Twitter and Instagram @JeremyCorner.
+
+Subscribe to the channel: [www.YouTube.com/TheGreetingCardProject](http://www.YouTube.com/TheGreetingCardProject)
+\
+
+\
+Like the project: [www.Facebook.com/TheGreetingCardProject
+](http://www.Facebook.com/TheGreetingCardProject)\
+
+\
+Get involved in the Community: [www.Facebook.com/groups/TheGreetingCardProject
+](http://www.Facebook.com/groups/TheGreetingCardProject)\
+
+\
+
+\
+Check out my greeting card business at [www.blueeyedsun.co.uk](http://www.blueeyedsun.co.uk)
