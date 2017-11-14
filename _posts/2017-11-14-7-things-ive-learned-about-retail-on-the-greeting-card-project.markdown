@@ -14,7 +14,7 @@ length: Three minute read
 
 We invited Jeremy Corner, owner of card wholesaler Blue Eyed Sun, to share what he learned this year as he embarked on an ambitious project.....
 
-7 things learned about Retail on The Greeting Card Project
+**7 things learned about Retail on The Greeting Card Project**
 
 This year I have visited over 50 stores as part of my New Year’s resolution to buy and send more cards and share my experiences at [www.YouTube.com/TheGreetingCardProject](http://www.YouTube.com/TheGreetingCardProject)
 
