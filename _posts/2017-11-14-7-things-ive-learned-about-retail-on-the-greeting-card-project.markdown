@@ -47,15 +47,10 @@ I’d love to hear what you think of the videos, so please do check them out and
 
 Subscribe to the channel: [www.YouTube.com/TheGreetingCardProject](http://www.YouTube.com/TheGreetingCardProject)
 
-
-
 Like the project: [www.Facebook.com/TheGreetingCardProject
 ](http://www.Facebook.com/TheGreetingCardProject)
 
-
 Get involved in the Community: [www.Facebook.com/groups/TheGreetingCardProject
 ](http://www.Facebook.com/groups/TheGreetingCardProject)
-
-
 
 Check out my greeting card business at [www.blueeyedsun.co.uk](http://www.blueeyedsun.co.uk)
