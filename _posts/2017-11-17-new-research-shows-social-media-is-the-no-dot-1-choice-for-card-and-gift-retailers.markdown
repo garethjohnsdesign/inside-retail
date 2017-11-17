@@ -133,10 +133,8 @@ There are numerous free articles and tools online that can help retailers utilis
 \*\*\
  
 \
-At first glance it might seem like retailers aren’t wild about online marketing. Strong figures for social media drop off dramatically when you look at other forms of promotion, but this isn’t necessarily a bad thing. 
-\
- 
-\
+At first glance it might seem like retailers aren’t wild about online marketing. Strong figures for social media drop off dramatically when you look at other forms of promotion, but this isn’t necessarily a bad thing.
+
 These figures show us that there’s a lot of potential in the world of online marketing. All forms of marketing require testing, and this research shows that most card & gift retailers still have lots of things they can try out. 
 \
  
