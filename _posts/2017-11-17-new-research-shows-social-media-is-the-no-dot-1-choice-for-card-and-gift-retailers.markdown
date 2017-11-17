@@ -48,7 +48,7 @@ Just 47% of the 343 companies analysed had a blog to showcase their brand.
 
 With millions of blog posts created every day it’s easy to assume that the blogging world is crowded, but with over half of the shops surveyed missing a blog, that might not be the case in the retail industry.
 
-![Graph-of-retailers-using-online-marketing-methods-050f79.png](/uploads/Graph-of-retailers-using-online-marketing-methods-050f79.png)
+![Graph-of-retailers-using-online-marketing-methods-4ca0fb.png](/uploads/Graph-of-retailers-using-online-marketing-methods-4ca0fb.png)
 
 **Build Your Own Email List**
 
