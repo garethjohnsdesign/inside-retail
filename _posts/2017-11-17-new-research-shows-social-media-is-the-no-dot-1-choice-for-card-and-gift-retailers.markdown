@@ -5,6 +5,7 @@ categories:
 - Up and Running
 tags:
 - marketing
+excerpt-image: "/uploads/Pinterest%20image-4f677b.png"
 excerpt-text: 5 tips to reach more people online, mostly for free!
 hero-image: "/uploads/Pinterest%20image-4f677b.png"
 hero-quote: 'Follow the hashtag #journorequest on Twitter and you’ll get a constant
