@@ -14,8 +14,6 @@ hero-quote: "“I have always been inclined to work with quality fabrics, ever s
 length: Three minute read
 ---
 
-![insideshop_brenda.png](/uploads/insideshop_brenda.png)
-
 With much doom and gloom in the news at the moment, often regarding the highstreet, I’m thrilled to share success stories with you. Not only because they’re inspiring but also because they’re interesting; generally retailers who have been in business for many many years, are very very good at it!
 
 We’re talking to Brenda from Bare Necessities today. She’s in a competitive sector but one where a strong customer service offer is a key part of the service, a fact she’s absolutely making the most of.
