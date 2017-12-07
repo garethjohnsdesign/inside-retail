@@ -8,6 +8,7 @@ tags:
 excerpt-text: Brenda Cresswell is the founder of the independent premium lingerie
   boutique Bare Necessities. Bare Necessities is based in Melbourne Derbyshire, UK
   and stocks high quality brands, such as, Marie Jo, Empreinte, Prima Donna, and Aubade.
+hero-image: "/uploads/insideshop_brenda.png"
 hero-quote: "“I have always been inclined to work with quality fabrics, ever since
   starting out as a fashion student!”"
 length: Three minute read
