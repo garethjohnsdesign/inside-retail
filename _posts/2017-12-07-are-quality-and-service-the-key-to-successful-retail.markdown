@@ -47,13 +47,13 @@ Recommendations for similar businesses who may be encountering problems would de
 
 ![shopfront_brenda.png](/uploads/shopfront_brenda.png)
 
-> 2. Can you talk through your buying process, from start to finish?
+> 1. Can you talk through your buying process, from start to finish?
 
 My buying process has not altered a large amount over the 21 years that I have been in retail. I generally do not move between brands, because I love the quality of the brands I purchase from. I do always think about the customer when purchasing products, as I have to assess what will sell better, both online and offline.
 
 With the rise of online shopping, I have had to rapidly adjust to this trend in order to remain competitive in the lingerie sector, which was a learning process in itself. Internet sales come with a huge set of competitors but also the ability to reach a wider audience in different countries. However, I still believe that there are many advantages of purchasing in store, and as quality and personal service are my key selling points I really try to capitalise on this.
 
-> 3.  If you could give younger self advice, what would it be?
+> 2. If you could give younger self advice, what would it be?
 
 I always enjoy being the face of the business in both online and offline aspects and I enjoy giving my customers a truly personal experience each and every time - I love what I do!
 
