@@ -1,7 +1,6 @@
 ---
 title: Are quality and service the key to successful retail?
 date: 2017-12-07 11:42:00 Z
-published: false
 categories:
 - Up and Running
 tags:
