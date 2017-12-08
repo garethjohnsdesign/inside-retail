@@ -5,6 +5,7 @@ categories:
 - Up and Running
 tags:
 - Inspiration
+excerpt-image: "/uploads/insideshop_brenda.png"
 excerpt-text: Brenda Cresswell is the founder of the independent premium lingerie
   boutique Bare Necessities. Bare Necessities is based in Melbourne Derbyshire, UK
   and stocks high quality brands, such as, Marie Jo, Empreinte, Prima Donna, and Aubade.
@@ -34,7 +35,7 @@ I truly believe that the premium lingerie retail market that I operate in fulfil
 
 As our services are personal, we help our customers to understand the importance of a good bra fitting and how it can help your day to day life dramatically. This opportunity to talk feels quite unique to the product and is a great opportunity to build a connection.
 
-> 1. How do you prepare for large seasonal events?
+**How do you prepare for large seasonal events?**
 
 We prepare for large seasonal events, such as Christmas, by buying 6-9 months ahead, directly from the source of the premium brands. It’s important to order early from the brands we stock, like Empreinte and Marie Jo, because they are mostly made to order
 
@@ -52,7 +53,7 @@ My buying process has not altered a large amount over the 21 years that I have b
 
 With the rise of online shopping, I have had to rapidly adjust to this trend in order to remain competitive in the lingerie sector, which was a learning process in itself. Internet sales come with a huge set of competitors but also the ability to reach a wider audience in different countries. However, I still believe that there are many advantages of purchasing in store, and as quality and personal service are my key selling points I really try to capitalise on this.
 
-> 2. If you could give younger self advice, what would it be?
+> 1. If you could give younger self advice, what would it be?
 
 I always enjoy being the face of the business in both online and offline aspects and I enjoy giving my customers a truly personal experience each and every time - I love what I do!
 
