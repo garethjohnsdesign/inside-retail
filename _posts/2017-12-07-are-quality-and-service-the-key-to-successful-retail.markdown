@@ -19,7 +19,7 @@ With much doom and gloom in the news at the moment, often regarding the highstre
 
 We’re talking to Brenda from Bare Necessities today. She’s in a competitive sector but one where a strong customer service offer is a key part of the service, a fact she’s absolutely making the most of.
 
-> Tell us about your route into retail?
+**Tell us about your route into retail?**
 
 I originally trained as a fashion designer, which is how I began my journey into fashion. After my studies, I took a break and travelled for a couple of years. Upon my return I started working in license trading.
 
@@ -29,7 +29,7 @@ I have now been operating for 21 years at Bare Necessities. My dedication to the
 
 *“I have always been inclined to work with quality fabrics, ever since starting out as a fashion student!”*
 
-> “I have always been inclined to work with quality fabrics, ever since starting out as a fashion student!”What is unique about the market you're working in?
+**“I have always been inclined to work with quality fabrics, ever since starting out as a fashion student!”What is unique about the market you're working in?**
 
 I truly believe that the premium lingerie retail market that I operate in fulfils most women's needs, as we stock a wide variety of bras in cup sizes A-J. This includes many hard to find back sizes, giving the customer the comfort and support that you can only get from a fit perfect fit. This sector is very distinct in terms of the importance of the product in the customer’s life, it’s a big responsibility!
 
