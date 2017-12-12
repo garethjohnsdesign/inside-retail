@@ -14,7 +14,7 @@ hero-quote: Many of the UK’s most famous names have found that German consumer
 length: Three minute read
 ---
 
-## **[Access the Guide Now](https://download.retail-week-connect.com/landing/dit-germany?ref=InsideRetail)**
+# **[Access the Guide Now](https://download.retail-week-connect.com/landing/dit-germany?ref=InsideRetail)**
 
 **We’ve partnered with Retail Week to bring you their latest podcast with the Department of International Trade. It covers all the information you need if you’re considering branching out to sell online to overseas customers, especially in Germany.**
 
