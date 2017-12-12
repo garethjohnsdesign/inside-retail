@@ -51,7 +51,7 @@ Our worthy winning team or individual here will be responsible for diversificati
 
 The winner should have executed an innovative buying campaign demonstrating diversification into a new category in order to increase revenue. The buyer or buying team will have identified a new opportunity, assessed the risks of broadening the offer, and bought the new range.
 
-The new range (of whatever size) might represent a major strategic move and entrance into a new sector, or a small but important foray into an unexpected category. Markers of success include profit margin, net profit, or revenue as you choose and may be expressed in financial figures or percentage improvement. \*\*Note: To enter this retailer category, [download this application form](https://gallery.mailchimp.com/9fabf33666fd137a8c6bce059/files/4d7510e7-8a50-4708-8988-e8206d152029/Retailer_Application_Form.01.docx).
+The new range (of whatever size) might represent a major strategic move and entrance into a new sector, or a small but important foray into an unexpected category. Markers of success include profit margin, net profit, or revenue as you choose and may be expressed in financial figures or percentage improvement. **Note: To enter this retailer category, [download this application form](https://gallery.mailchimp.com/9fabf33666fd137a8c6bce059/files/4d7510e7-8a50-4708-8988-e8206d152029/Retailer_Application_Form.01.docx).**
 
 **MULTIPLE RETAILER BUYER/TEAM**
 
