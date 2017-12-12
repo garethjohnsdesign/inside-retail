@@ -33,9 +33,9 @@ Do you have what it takes?
 
 *“We were incredibly excited to be shortlisted and then to actually win was fantastic! We make sure to use the Winning icon on POS materials, which we supply to help retailers large and small display this GOTY ‘badge of honour’ to inform their customers about the product in question.*
 
-*It certainly does bring some new customers who would perhaps not have had the product ‘on their radar' before.”  *
+*It certainly does bring some new customers who would perhaps not have had the product ‘on their radar' before.”*
 
-***Designed in Colour***
+**Designed in Colour**
 
 ### Here are the retail categories
 
