@@ -13,6 +13,8 @@ hero-text: Winners will be announced at a special ceremony on the evening of Sun
 length: Three minute read
 ---
 
+![gift-of-the-year-fa3c4f.jpg](/uploads/gift-of-the-year-fa3c4f.jpg)
+
 Editor Sophy Searight was delighted to be given the opportunity to help create a new category within [Gift of the Year](https://www.giftoftheyear.co.uk/), especially for retailers. The Giftware Association and Spring Fair host Gift of the Year annually and it’s always a fabulous occasion, designed to recognise products and buyers who have had a fabulous year. This is the first year to include retailers and your opportunity for a prestigious award and some fantastic prizes.
 
 Often, when we ask successful retailers for marketing or PR tips for their peers, they’ll mention that they aim to be shortlisted, and win, as many awards as possible. It can only boost your business.
