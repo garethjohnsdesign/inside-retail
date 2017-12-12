@@ -13,7 +13,7 @@ hero-text: Winners will be announced at a special ceremony on the evening of Sun
 length: Three minute read
 ---
 
-![gift-of-the-year-fa3c4f.jpg](/uploads/gift-of-the-year-fa3c4f.jpg)
+![gift-of-the-year-small.jpg](/uploads/gift-of-the-year-small.jpg)
 
 Editor Sophy Searight was delighted to be given the opportunity to help create a new category within [Gift of the Year](https://www.giftoftheyear.co.uk/), especially for retailers. The Giftware Association and Spring Fair host Gift of the Year annually and it’s always a fabulous occasion, designed to recognise products and buyers who have had a fabulous year. This is the first year to include retailers and your opportunity for a prestigious award and some fantastic prizes.
 
@@ -33,9 +33,9 @@ Do you have what it takes?
 
 *“We were incredibly excited to be shortlisted and then to actually win was fantastic! We make sure to use the Winning icon on POS materials, which we supply to help retailers large and small display this GOTY ‘badge of honour’ to inform their customers about the product in question.*
 
-*It certainly does bring some new customers who would perhaps not have had the product ‘on their radar' before.”  *
+*It certainly does bring some new customers who would perhaps not have had the product ‘on their radar' before.”*
 
-***Designed in Colour***
+**Designed in Colour**
 
 ### Here are the retail categories
 
