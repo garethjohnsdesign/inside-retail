@@ -36,10 +36,10 @@ It certainly does bring some new customers who would perhaps not have had the pr
 
 Here are the retail categories
 
-* INDEPENDENT RETAILER BUYER / TEAM\
+* **INDEPENDENT RETAILER BUYER / TEAM**\
   This category winner is a team or individual responsible for using a new product selection to allow their small shop to diversify into a new product area. We will look for evidence of careful planning, customer knowledge and research, and a healthy approach to risk and innovation. Markers of success include profit margin, net profit, or revenue as you choose and may be expressed in financial figures or percentage improvement. **Note: To enter this retailer category, [download this application form](https://gallery.mailchimp.com/9fabf33666fd137a8c6bce059/files/4d7510e7-8a50-4708-8988-e8206d152029/Retailer_Application_Form.01.docx)**.
 
-* ONLINE RETAILER BUYER/TEAM
+* **ONLINE RETAILER BUYER/TEAM**
   Our worthy winning team or individual here will be responsible for diversification of product range within a purely online retail offering – the business does not have a bricks and mortar retail outlet. We will look for evidence of innovation and the research, evidence or inspiration used to inform it. The store can be of any size from independent to multiple and everything in between. Markers of success include profit margin, net profit, or revenue as you choose and may be expressed in financial figures or percentage improvement. You may also wish to include other indicators such as traffic, engagement, and online PR. **Note: To enter this retailer category, [download this application form](https://gallery.mailchimp.com/9fabf33666fd137a8c6bce059/files/4d7510e7-8a50-4708-8988-e8206d152029/Retailer_Application_Form.01.docx)**.
 
 * DEPARTMENT STORE BUYER / TEAM
