@@ -35,7 +35,7 @@ Do you have what it takes?
 
 It certainly does bring some new customers who would perhaps not have had the product ‘on their radar' before.”  Designed in Colour
 
-Here are the retail categories
+### Here are the retail categories
 
 **INDEPENDENT RETAILER BUYER / TEAM**
 
