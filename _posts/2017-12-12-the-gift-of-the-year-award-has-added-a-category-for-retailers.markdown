@@ -5,10 +5,9 @@ categories:
 - up-and-running
 tags:
 - marketing
-excerpt-image: "/uploads/gift-of-the-year.jpg"
+excerpt-image: "/uploads/gift-of-the-year-fa3c4f.jpg"
 excerpt-text: Nominate your retail buying team or your best buyer into one of the
   four retail categories and gain recognition from a top panel of judges
-hero-image: "/uploads/gift-of-the-year.jpg"
 hero-text: Winners will be announced at a special ceremony on the evening of Sunday
   4 February, hosted by celebrity entertainer Rory Bremner
 length: Three minute read
