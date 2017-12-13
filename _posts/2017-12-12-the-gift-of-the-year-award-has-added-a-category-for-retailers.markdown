@@ -5,7 +5,7 @@ categories:
 - up-and-running
 tags:
 - marketing
-excerpt-image: "/uploads/gift-of-the-year-fa3c4f.jpg"
+excerpt-image: "/uploads/Food-and-Drink-Ross-Ross-Farm-Shop-Deli-Show-2.jpg"
 excerpt-text: Nominate your retail buying team or your best buyer into one of the
   four retail categories and gain recognition from a top panel of judges
 hero-image: "/uploads/Food-and-Drink-Ross-Ross-Farm-Shop-Deli-Show-2.jpg"
