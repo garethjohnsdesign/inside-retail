@@ -1,19 +1,19 @@
 ---
 title: The Gift of the Year award has added a category for retailers
 date: 2017-12-12 05:31:00 Z
+published: false
 categories:
 - up-and-running
 tags:
 - marketing
-excerpt-image: "/uploads/gift-of-the-year-fa3c4f.jpg"
+excerpt-image: "/uploads/Food-and-Drink-Ross-Ross-Farm-Shop-Deli-Show-2.jpg"
 excerpt-text: Nominate your retail buying team or your best buyer into one of the
   four retail categories and gain recognition from a top panel of judges
+hero-image: "/uploads/Food-and-Drink-Ross-Ross-Farm-Shop-Deli-Show-2.jpg"
 hero-text: Winners will be announced at a special ceremony on the evening of Sunday
   4 February, hosted by celebrity entertainer Rory Bremner
 length: Three minute read
 ---
-
-![gift-of-the-year-small.jpg](/uploads/gift-of-the-year-small.jpg)
 
 Editor Sophy Searight was delighted to be given the opportunity to help create a new category within [Gift of the Year](https://www.giftoftheyear.co.uk/), especially for retailers. The Giftware Association and Spring Fair host Gift of the Year annually and it’s always a fabulous occasion, designed to recognise products and buyers who have had a fabulous year. This is the first year to include retailers and your opportunity for a prestigious award and some fantastic prizes.
 
@@ -57,4 +57,4 @@ The new range (of whatever size) might represent a major strategic move and entr
 
 This category winner is a team or individual of any seniority is responsible for leading a large retailer in a new direction. Selecting a product range based on information, experience, customer knowledge, market trends, and sector analysis, the winner is able to describe their process and demonstrate success. Markers of success include profit margin, net profit, or revenue as you choose and may be expressed in financial figures or percentage improvement. **Note: To enter this retailer category, [download this application form](https://gallery.mailchimp.com/9fabf33666fd137a8c6bce059/files/4d7510e7-8a50-4708-8988-e8206d152029/Retailer_Application_Form.01.docx).**
 
-The application is easy and a perfect activity for a post-Christmas afternoon. We hope to see you at the ceremony. Good luck!
+The application is easy and a perfect activity for a post-Christmas afternoon. We hope to see you at the ceremony. Good luck!![gift-of-the-year-small.jpg](/uploads/gift-of-the-year-small.jpg)
