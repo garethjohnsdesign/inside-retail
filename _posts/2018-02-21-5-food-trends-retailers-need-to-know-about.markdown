@@ -8,10 +8,10 @@ tags:
 excerpt-text: Look out for kitchen and dining products that complement a street food
   upsurge and keep vegan and vegetarian diets front of mind for gifting.
 hero-image: "/uploads/james.jpg"
-hero-text: |-
+hero-quote: |-
   “Customers will also put more pressure on companies to stop using as much plastic, which will result in innovative and new packaging designs.”
-  \
-  James Cadbury, Founder of [Love Cocoa](https://lovecocoa.com/)
+
+  James Cadbury, Founder of Love Cocoa
 length: Three minute read
 ---
 
