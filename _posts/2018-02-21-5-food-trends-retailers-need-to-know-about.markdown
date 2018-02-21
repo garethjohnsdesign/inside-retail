@@ -5,6 +5,7 @@ categories:
 - up-and-running
 tags:
 - Inspiration
+excerpt-image: "/uploads/james-08aae7.jpg"
 excerpt-text: Look out for kitchen and dining products that complement a street food
   upsurge and keep vegan and vegetarian diets front of mind for gifting.
 hero-image: "/uploads/james.jpg"
