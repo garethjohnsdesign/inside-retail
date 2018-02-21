@@ -7,6 +7,7 @@ tags:
 - Inspiration
 excerpt-text: Look out for kitchen and dining products that complement a street food
   upsurge and keep vegan and vegetarian diets front of mind for gifting.
+hero-image: "/uploads/james.jpg"
 hero-text: |-
   “Customers will also put more pressure on companies to stop using as much plastic, which will result in innovative and new packaging designs.”
   \
@@ -18,6 +19,8 @@ length: Three minute read
 
 ## 1) Street Food at home
 
+![Foods_trends-veg.jpg](/uploads/Foods_trends-veg.jpg)
+
 “Throughout 2017, we analysed [street food trends](http://gazeboshop.co.uk/foodstreet/) on social media so we could see what is going to be popular and what already is booming. The quick answer is woodfired pizza! On Instagram specifically, woodfired pizza had an 80% rise in hashtag use from June this year. We expect that this trend will continue with vegan influences and increased vegetable toppings, especially as veggie ‘meat’ is becoming more popular and widespread”
 
 *Luigi Pannozzo, founder of [Gazeboshop](http://gazeboshop.co.uk/)*
@@ -25,6 +28,8 @@ length: Three minute read
 Look out for kitchen and dining products that complement a street food upsurge and keep vegan and vegetarian diets front of mind for gifting.
 
 ## 2) Coffee cocktails
+
+![Tia-Coffee-Tonic-Lifestyle-3.jpg](/uploads/Tia-Coffee-Tonic-Lifestyle-3.jpg)
 
 According to Tia Maria’s [Future Laboratory](http://www.thefuturelaboratory.com/) report, espresso tonic is set to make waves in 2018, adding to the classic recipe of coffee and cocktails, such as the public favourite - espresso martini. They predict coffee cocktails to become the hottest cocktail bar trend in not only 2018, but the coming decade. They predict fusions of coffee in an array of cocktails so it is not the singular ingredient but one component in a machine of alcoholic elegance.
 
