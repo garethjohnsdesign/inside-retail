@@ -5,8 +5,10 @@ categories:
 - Up and Running
 tags:
 - ecommerce
+excerpt-image: "/uploads/HB_Overview.jpg"
 excerpt-text: Local customers are searching for products and services you offer, only
   to be sent to a big online retailer.
+hero-image: "/uploads/HB_Overview.jpg"
 hero-quote: "“the time to act is now. If you want to compete with big online retailers
   and have a successful (meaning profitable) shop - you're going to have to keep up
   with how consumers are shopping nowadays “"
