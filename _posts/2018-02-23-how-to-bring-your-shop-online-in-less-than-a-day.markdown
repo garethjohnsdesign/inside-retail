@@ -15,7 +15,7 @@ hero-quote: "“the time to act is now. If you want to compete with big online r
 length: Three minute read
 ---
 
-*Here we look at a route for you to consider when the move to online sales is feeling overwhelming. This ‘how to’ is written by NearStreet. Please note we don’t endorse the service as we’ve not used it ourselves, but we think that it might work well for our readers with independent bricks and mortar stores.*
+*Here we look at a route for you to consider when the move to online sales is feeling overwhelming. This ‘how to’ is written by NearSt. Please note we don’t endorse the service as we’ve not used it ourselves, but we think that it might work well for our readers with independent bricks and mortar stores.*
 
 Today, the amount of shoppers that begin their purchase journey online is staggering. Mobile makes up [88% of all "near me" searches](https://www.thinkwithgoogle.com/consumer-insights/build-your-mobile-centric-search-strategy/), with those mobile searches growing at [146%, year after year](https://goo.gl/yrogHY). These numbers alone should make brick & mortar businesses at least think about transitioning their products to an online space.
 
@@ -23,11 +23,11 @@ However, the pain points can outweigh the benefits in many cases. Maintaining a 
 
 Add keeping up with an online shop on top of that? It's essentially a whole other full-time job if you’re using the traditional channels to help you, which involves normally;
 
-- *Gathering and inputting (usually one by one) all of your product information.* As in; high-quality photos, descriptions, pricing, inventory counts and, usually nowadays - category mapping.
+* *Gathering and inputting (usually one by one) all of your product information.* As in; high-quality photos, descriptions, pricing, inventory counts and, usually nowadays - category mapping.
 
-- *Manually maintaining and updating your shop as your inventory counts change* (Which for some shops, can be daily/weekly)
+* *Manually maintaining and updating your shop as your inventory counts change* (Which for some shops, can be daily/weekly)
 
-- *Planning and executing delivery orders* for customers
+* *Planning and executing delivery orders* for customers
 
 That being said, the time to act is now. If you want to compete with big online retailers and have a successful (meaning profitable) shop - you're going to have to keep up with how consumers are shopping nowadays.
 
@@ -43,19 +43,19 @@ The second step after creating online awareness is to promote the products you�
 
 With our [NearLIVE](https://near.st/blog/helping-small-businesses-attract-local-shoppers) technology, those same local customers who are searching on Google for products will be able to find your shop, they’ll also be able to;
 
-- Order for 1-hour delivery (completely taken care of by our team)
+* Order for 1-hour delivery (completely taken care of by our team)
 
-- Order for instant collection (this means more footfall into your store)
+* Order for instant collection (this means more footfall into your store)
 
 And in case they decide not to buy right away online. Your new online shop shows the directions right to your door, opening times and everything, so they can pick up what they need when it fits into their lifestyle.
 
 The benefits of getting more footfall from online searches?
 
-- More product sales.
+* More product sales.
 
-- You gain the ability to cross-sell, talk to these new customers about the services you offer, the events you host.
+* You gain the ability to cross-sell, talk to these new customers about the services you offer, the events you host.
 
-- Omnichannel shoppers spend more. According to [Mastercard](https://www.thinkwithgoogle.com/marketing-resources/micro-moments/5-ways-consumers-connect-stores-mobile-shopping/), customers who shop both online and off end up spending 250% more with a specific retailer.
+* Omnichannel shoppers spend more. According to [Mastercard](https://www.thinkwithgoogle.com/marketing-resources/micro-moments/5-ways-consumers-connect-stores-mobile-shopping/), customers who shop both online and off end up spending 250% more with a specific retailer.
 
 **3. Why Social Media is important, no matter what you’re selling.**
 
