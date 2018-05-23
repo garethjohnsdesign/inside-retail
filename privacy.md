@@ -113,7 +113,7 @@ These include third parties in the following areas:
 
 **(a)** Data storage and hosting;
 
-**(b) **IT Security;
+**(b)** IT Security;
 
 **(c)** Workplace productivity and e-mail;
 
@@ -123,9 +123,9 @@ These include third parties in the following areas:
 
 **(f)** Communications services;
 
-**(g) **Project management and event planning systems;
+**(g)** Project management and event planning systems;
 
-**(h) **Event sponsors for the limited purpose of better planning delegate experience;
+**(h)** Event sponsors for the limited purpose of better planning delegate experience;
 
 **(i) **Event experience services, such as traffic flow tracking and analytics;
 
@@ -223,7 +223,7 @@ If you wish to raise a complaint or question about how we use your information, 
 
 **12.2. **Ascential use cookies to:
 
-**(a) **Create a specific log-in session for a visitor to an Ascential website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
+**(a)** Create a specific log-in session for a visitor to an Ascential website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
 
 **(b)** Recognise when a visitor to an Ascential website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
 
@@ -233,7 +233,7 @@ If you wish to raise a complaint or question about how we use your information, 
 
 **(e)** Improve the website(s) and learn which parts are most popular to visitors. To do this, we gather statistical information about how our visitors use the website(s) including device-specific data such as the IP address of the device (collected and stored in an anonymised format); the device screen size; the device type and browser information; country of location; and the preferred language used to display the website(s). Our servers also automatically record information including the referring domain; the pages visited; and the date and time when website(s) pages were accessed;
 
-**(f) **Gather information through our advertising partners, about the pages on the Ascential website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.com/uk/ or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
+**(f)** Gather information through our advertising partners, about the pages on the Ascential website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.com/uk/ or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
 
 **12.3.** Some of the cookies used by Ascential websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on an Ascential website(s) you may not be able to take full advantage of the website(s) if you do so.
 
