@@ -185,7 +185,7 @@ Subject to certain limitations on certain rights, you have the following rights 
 
 \(f) to object to the processing of your information for certain purposes, namely:
 
-\(i) to us using or processing your information to carry out a task in the public interest\*\* **or for our legitimate interests**,\*\* including ‘profiling’ (i.e. analysing or predicting your behaviour based on your information); and
+\(i) to us using or processing your information to carry out a task in the public interest **or for our legitimate interests**, including ‘profiling’ (i.e. analysing or predicting your behaviour based on your information); and
 
 \(ii) to object to us using or processing your information for direct marketing purposes (including any profiling we engage in that is related to such direct marketing).
 
