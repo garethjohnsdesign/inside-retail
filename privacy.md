@@ -49,7 +49,7 @@ This section details the information what we collect, the purpose for its collec
 
 **(g)** Information about how you and your device interact with the Service, including:
 
-**(i)** Computer, device and connection information, such as IP address, browser type and version, operating system, platform and other software installed on your device, unique device identifier and other technical identifiers, error reports and performance data;
+\(i) Computer, device and connection information, such as IP address, browser type and version, operating system, platform and other software installed on your device, unique device identifier and other technical identifiers, error reports and performance data;
 
 \(ii) Usage data, such as the features you used, the settings you selected, your URL click stream data, including date and time stamp and referring and exit pages, and pages you visited on the Service; and/or
 
@@ -69,7 +69,7 @@ Depending on which Service you use and how you interact with us, we use your per
 
 **(e)** Offer you enriched customized content to offer a more relevant Service to you;
 
-**(f) **Respond to your requests and inquiries;
+**(f)** Respond to your requests and inquiries;
 
 **(g)** Notify you about changes, updates and other announcements related to the Service and our other products and services;
 
@@ -79,7 +79,7 @@ Depending on which Service you use and how you interact with us, we use your per
 
 **(j)** Invite you to take part in user testing and surveys, competitions and promotions;
 
-**(k) **Identify usage trends and develop data analysis, including for purposes of research, audit, reporting and other business operations;
+**(k)** Identify usage trends and develop data analysis, including for purposes of research, audit, reporting and other business operations;
 
 **(l) **Comply with our legal obligations, resolve disputes, and enforce our agreements;
 
