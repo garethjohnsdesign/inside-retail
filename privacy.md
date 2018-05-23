@@ -221,7 +221,7 @@ If you wish to raise a complaint or question about how we use your information, 
 
 **12.1.** When you visit our website(s), we use “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you're use of the website. A number of cookies Ascential use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
 
-**12.2. **Ascential use cookies to:
+**12.2.** Ascential use cookies to:
 
 **(a)** Create a specific log-in session for a visitor to an Ascential website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
 
