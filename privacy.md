@@ -65,7 +65,7 @@ Depending on which Service you use and how you interact with us, we use your per
 
 **(c)** Provide technical, product and other support and to help keep the Service working, safe and secure;
 
-**(d) **Enhance and improve the Service and our other products and services and to develop new products, services and benefits;
+**(d)** Enhance and improve the Service and our other products and services and to develop new products, services and benefits;
 
 **(e)** Offer you enriched customized content to offer a more relevant Service to you;
 
@@ -73,17 +73,17 @@ Depending on which Service you use and how you interact with us, we use your per
 
 **(g)** Notify you about changes, updates and other announcements related to the Service and our other products and services;
 
-**(h) **Deliver targeted advertisements, promotional messages, notices and other information related to the Service and your interests;
+**(h)** Deliver targeted advertisements, promotional messages, notices and other information related to the Service and your interests;
 
-**(i) **Provide you with promotional messages and other information about products, events and services of ours, our affiliates and third parties, such as exhibitors, sponsors and media partners;
+**(i)** Provide you with promotional messages and other information about products, events and services of ours, our affiliates and third parties, such as exhibitors, sponsors and media partners;
 
 **(j)** Invite you to take part in user testing and surveys, competitions and promotions;
 
 **(k)** Identify usage trends and develop data analysis, including for purposes of research, audit, reporting and other business operations;
 
-**(l) **Comply with our legal obligations, resolve disputes, and enforce our agreements;
+**(l)** Comply with our legal obligations, resolve disputes, and enforce our agreements;
 
-**(m) **Disclose data to selected third parties: please see “Transfer and Storage of Your Information” and “Disclosure to Data Recipients” sections below.
+**(m)** Disclose data to selected third parties: please see “Transfer and Storage of Your Information” and “Disclosure to Data Recipients” sections below.
 
 **2.4. Our Grounds for Processing your Information:**
 
@@ -119,7 +119,7 @@ These include third parties in the following areas:
 
 **(d)** Customer relationship management;
 
-**(e) **Marketing automation, solutions and analytics;
+**(e)** Marketing automation, solutions and analytics;
 
 **(f)** Communications services;
 
@@ -127,15 +127,15 @@ These include third parties in the following areas:
 
 **(h)** Event sponsors for the limited purpose of better planning delegate experience;
 
-**(i) **Event experience services, such as traffic flow tracking and analytics;
+**(i)** Event experience services, such as traffic flow tracking and analytics;
 
-**(j) **Website and app developers and hosts;
+**(j)** Website and app developers and hosts;
 
 **(k)** Accounts receivable, accounts payable and credit control;
 
 **(l)** Advice (accountants, tax specialists, other financial advisors, lawyers and other specialists); and
 
-**(m) **Independent contractors.
+**(m)** Independent contractors.
 
 **4.2. Other third parties**
 
