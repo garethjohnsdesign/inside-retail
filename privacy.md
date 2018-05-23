@@ -35,21 +35,21 @@ This section details the information what we collect, the purpose for its collec
 
 **2.2. The information that we collect about you when you engage with our business is as follows:**
 
-\*\*(a) \*\*Contact details, such as your name, email address, postal address, social media handle and phone number;
+**(a)** Contact details, such as your name, email address, postal address, social media handle and phone number;
 
-\*\*(b) \*\*Account login credentials, such as usernames and passwords, password hints and similar security information;
+**(b)** Account login credentials, such as usernames and passwords, password hints and similar security information;
 
-\*\*(c) \*\*Other account or event registration and profile information, such as educational, employment and professional background, dietary and accessibility requirements, and photo;
+**(c)** Other account or event registration and profile information, such as educational, employment and professional background, dietary and accessibility requirements, and photo;
 
-\*\*(d) \*\*Payment information, such as credit or debit card number;
+**(d)** Payment information, such as credit or debit card number;
 
-\*\*(e) \*\*Comments, feedback and other information you provide to us, including information that you send to customer support and messages, appointment inquiries and other information that you wish us to share with our exhibitors, visitors, partners and others; and/or
+**(e)** Comments, feedback and other information you provide to us, including information that you send to customer support and messages, appointment inquiries and other information that you wish us to share with our exhibitors, visitors, partners and others; and/or
 
-\*\*(f) \*\*Interests and communication preferences, including matchmaking and event planning and networking choices and preferred language;
+**(f)** Interests and communication preferences, including matchmaking and event planning and networking choices and preferred language;
 
-\*\*(g) \*\*Information about how you and your device interact with the Service, including:
+**(g)** Information about how you and your device interact with the Service, including:
 
-\(i) Computer, device and connection information, such as IP address, browser type and version, operating system, platform and other software installed on your device, unique device identifier and other technical identifiers, error reports and performance data;
+**(i)** Computer, device and connection information, such as IP address, browser type and version, operating system, platform and other software installed on your device, unique device identifier and other technical identifiers, error reports and performance data;
 
 \(ii) Usage data, such as the features you used, the settings you selected, your URL click stream data, including date and time stamp and referring and exit pages, and pages you visited on the Service; and/or
 
@@ -59,31 +59,31 @@ This section details the information what we collect, the purpose for its collec
 
 Depending on which Service you use and how you interact with us, we use your personal information to:
 
-\*\*(a) \*\*Fulfil, activate and manage your access to and use of the Service;
+**(a)** Fulfil, activate and manage your access to and use of the Service;
 
-\*\*(b) \*\*Process and fulfil a requested order, download or other transaction;
+**(b)** Process and fulfil a requested order, download or other transaction;
 
-\*\*(c) \*\*Provide technical, product and other support and to help keep the Service working, safe and secure;
+**(c)** Provide technical, product and other support and to help keep the Service working, safe and secure;
 
-\*\*(d) \*\*Enhance and improve the Service and our other products and services and to develop new products, services and benefits;
+**(d) **Enhance and improve the Service and our other products and services and to develop new products, services and benefits;
 
-\*\*(e) \*\*Offer you enriched customized content to offer a more relevant Service to you;
+**(e)** Offer you enriched customized content to offer a more relevant Service to you;
 
-\*\*(f) \*\*Respond to your requests and inquiries;
+**(f) **Respond to your requests and inquiries;
 
-\*\*(g) \*\*Notify you about changes, updates and other announcements related to the Service and our other products and services;
+**(g)** Notify you about changes, updates and other announcements related to the Service and our other products and services;
 
-\*\*(h) \*\*Deliver targeted advertisements, promotional messages, notices and other information related to the Service and your interests;
+**(h) **Deliver targeted advertisements, promotional messages, notices and other information related to the Service and your interests;
 
-\*\*(i) \*\*Provide you with promotional messages and other information about products, events and services of ours, our affiliates and third parties, such as exhibitors, sponsors and media partners;
+**(i) **Provide you with promotional messages and other information about products, events and services of ours, our affiliates and third parties, such as exhibitors, sponsors and media partners;
 
-\*\*(j) \*\*Invite you to take part in user testing and surveys, competitions and promotions;
+**(j)** Invite you to take part in user testing and surveys, competitions and promotions;
 
-\*\*(k) \*\*Identify usage trends and develop data analysis, including for purposes of research, audit, reporting and other business operations;
+**(k) **Identify usage trends and develop data analysis, including for purposes of research, audit, reporting and other business operations;
 
-\*\*(l) \*\*Comply with our legal obligations, resolve disputes, and enforce our agreements;
+**(l) **Comply with our legal obligations, resolve disputes, and enforce our agreements;
 
-\*\*(m) \*\*Disclose data to selected third parties: please see “Transfer and Storage of Your Information” and “Disclosure to Data Recipients” sections below.
+**(m) **Disclose data to selected third parties: please see “Transfer and Storage of Your Information” and “Disclosure to Data Recipients” sections below.
 
 **2.4. Our Grounds for Processing your Information:**
 
@@ -111,31 +111,31 @@ A number of third parties provide us with services necessary to run our business
 
 These include third parties in the following areas:
 
-\*\*(a) \*\*Data storage and hosting;
+**(a)** Data storage and hosting;
 
-\*\*(b) \*\*IT Security;
+**(b) **IT Security;
 
-\*\*(c) \*\*Workplace productivity and e-mail;
+**(c)** Workplace productivity and e-mail;
 
-\*\*(d) \*\*Customer relationship management;
+**(d)** Customer relationship management;
 
-\*\*(e) \*\*Marketing automation, solutions and analytics;
+**(e) **Marketing automation, solutions and analytics;
 
-\*\*(f) \*\*Communications services;
+**(f)** Communications services;
 
-\*\*(g) \*\*Project management and event planning systems;
+**(g) **Project management and event planning systems;
 
-\*\*(h) \*\*Event sponsors for the limited purpose of better planning delegate experience;
+**(h) **Event sponsors for the limited purpose of better planning delegate experience;
 
-\*\*(i) \*\*Event experience services, such as traffic flow tracking and analytics;
+**(i) **Event experience services, such as traffic flow tracking and analytics;
 
-\*\*(j) \*\*Website and app developers and hosts;
+**(j) **Website and app developers and hosts;
 
-\*\*(k) \*\*Accounts receivable, accounts payable and credit control;
+**(k)** Accounts receivable, accounts payable and credit control;
 
-\*\*(l) \*\*Advice (accountants, tax specialists, other financial advisors, lawyers and other specialists); and
+**(l)** Advice (accountants, tax specialists, other financial advisors, lawyers and other specialists); and
 
-\*\*(m) \*\*Independent contractors.
+**(m) **Independent contractors.
 
 **4.2. Other third parties**
 
@@ -219,27 +219,27 @@ If you wish to raise a complaint or question about how we use your information, 
 
 **12. Cookies**
 
-\*\*12.1. \*\*When you visit our website(s), we use “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you're use of the website. A number of cookies Ascential use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
+**12.1. **When you visit our website(s), we use “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you're use of the website. A number of cookies Ascential use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
 
-\*\*12.2. \*\*Ascential use cookies to:
+**12.2. **Ascential use cookies to:
 
-\*\*(a) \*\*Create a specific log-in session for a visitor to an Ascential website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
+**(a) **Create a specific log-in session for a visitor to an Ascential website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
 
-\*\*(b) \*\*Recognise when a visitor to an Ascential website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
+**(b)** Recognise when a visitor to an Ascential website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
 
-\*\*(c) \*\*Customise elements of the promotional layout and/or content of the pages of the website;
+**(c)** Customise elements of the promotional layout and/or content of the pages of the website;
 
-\*\*(d) \*\*Store your product selections to the shopping basket;
+**(d)** Store your product selections to the shopping basket;
 
-\*\*(e) \*\*Improve the website(s) and learn which parts are most popular to visitors. To do this, we gather statistical information about how our visitors use the website(s) including device-specific data such as the IP address of the device (collected and stored in an anonymised format); the device screen size; the device type and browser information; country of location; and the preferred language used to display the website(s). Our servers also automatically record information including the referring domain; the pages visited; and the date and time when website(s) pages were accessed;
+**(e)** Improve the website(s) and learn which parts are most popular to visitors. To do this, we gather statistical information about how our visitors use the website(s) including device-specific data such as the IP address of the device (collected and stored in an anonymised format); the device screen size; the device type and browser information; country of location; and the preferred language used to display the website(s). Our servers also automatically record information including the referring domain; the pages visited; and the date and time when website(s) pages were accessed;
 
-\*\*(f) \*\*Gather information through our advertising partners, about the pages on the Ascential website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.com/uk/ or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
+**(f) **Gather information through our advertising partners, about the pages on the Ascential website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.com/uk/ or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
 
-\*\*12.3. \*\*Some of the cookies used by Ascential websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on an Ascential website(s) you may not be able to take full advantage of the website(s) if you do so.
+**12.3.** Some of the cookies used by Ascential websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on an Ascential website(s) you may not be able to take full advantage of the website(s) if you do so.
 
-\*\*12.4. \*\*Certain cookies are either set by third parties on the Website or these are set by us using the third party’s cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website.
+**12.4.** Certain cookies are either set by third parties on the Website or these are set by us using the third party’s cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website.
 
-\*\*12.5. \*\*In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.
+**12.5.** In addition to cookies, tracking gifs may be set by us or third parties in respect of your use of the Site. Tracking gifs are small image files within the content of our site or the body of our newsletters so we or third parties can understand which parts of the website are visited or whether particular content is of interest.
 
 **13. Changes to this notice**
 
