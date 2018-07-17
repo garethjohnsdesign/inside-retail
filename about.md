@@ -24,7 +24,7 @@ Sophy Searight
 Editor
 Inside Retail
 
-Inside Retail is powered by Ascential Events, the organisers of retail trade shows Pure London, Spring Fair, Autumn Fair, Jewellery and Watch and Glee. Sophy is head of content for these shows and if you visit them, you’ll find Inside Retail Live; where you can hear from and speak to retail success stories and experts. Inside Retail and all of the trade shows are free to use and attend.
+Inside Retail is powered by ITE Group, the organisers of retail trade shows Pure London, Spring Fair, Autumn Fair, Jewellery and Watch and Glee. Sophy is head of content for these shows and if you visit them, you’ll find Inside Retail Live; where you can hear from and speak to retail success stories and experts. Inside Retail and all of the trade shows are free to use and attend.
 
 ### **PARTNERS**
 
@@ -35,4 +35,4 @@ Download our brochure for more information or contact us via the email below.
 
 <a href="/uploads/inside-retail-partner-opportunities-2017.pdf" class="button">Download Partnership Opportunities Brochure</a>
 
-**Email us:** [insideretail@ascential.com](mailto:insideretail@ascential.com)
+**Email us:** [insideretail@ite-exhibitions.uk](mailto:insideretail@ite-exhibitions.uk)
