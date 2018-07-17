@@ -5,13 +5,13 @@ permalink: "/privacy/"
 layout: page
 ---
 
-**Ascential Events Limited Privacy & Cookies Policy**
+**ITE Group plc Privacy & Cookies Policy**
 
 **1. About Us**
 
-At Ascential Events we’re committed to protecting and respecting your privacy. We want to give you clear information about what information we collect and how we use it.
+At ITE Group Events we’re committed to protecting and respecting your privacy. We want to give you clear information about what information we collect and how we use it.
 
-This privacy and cookies notice applies to the use of personal information by Ascential Events Limited, a company registered in England and Wales (company number 07925964), which collects or receives your data under this privacy notice as a data controller in respect of each service it offers including events, websites, apps and other services (each a “**Service**”). Together all of our event brands (Autumn Fair, BETT, BVE, CWIEME, the Education Show, Glee, Pure London, and Spring Fair) are referred to as “**Ascential Events**”, “**we**” “**us**” or “**our**”.
+This privacy and cookies notice applies to the use of personal information by ITE Group plc, a company registered in England and Wales (company number 07925964), which collects or receives your data under this privacy notice as a data controller in respect of each service it offers including events, websites, apps and other services (each a “**Service**”). Together all of our event brands (Autumn Fair, BETT, BVE, CWIEME, the Education Show, Glee, Pure London, and Spring Fair) are referred to as “**ITE Group**”, “**we**” “**us**” or “**our**”.
 
 **2. Information we collect and how we use it**
 
@@ -189,7 +189,7 @@ Subject to certain limitations on certain rights, you have the following rights 
 
 \(ii) to object to us using or processing your information for direct marketing purposes (including any profiling we engage in that is related to such direct marketing).
 
-You can exercise your rights by writing to us at Ascential Events Limited, C/O Ascential Group Limited, The Prow, 1 Wilder Walk, London, United Kingdom, W1B 5AP or sending an email to [Privacy@ascential.com](mailto:Privacy@ascential.com).
+You can exercise your rights by writing to us at ITE Group plc, C/O ITE Group plc, 105 Salusbury Road, London NW6 6RG or sending an email to [Privacy@ite-exhibitions.uk](mailto:Privacy@ite-exhibitions.uk).
 
 You may also exercise your right to object to us using or processing your information for direct marketing purposes by clicking the unsubscribe link contained at the bottom of any marketing email we send to you and updating your preferences at [https://lp.events.ascential.com/update-details-preferences.html](https://lp.events.ascential.com/update-details-preferences.html).
 
@@ -205,7 +205,7 @@ We do not otherwise knowingly or intentionally collect sensitive personal inform
 
 We are concerned to protect the privacy of children. We do not knowingly contact or collect information from persons under the age of 18. The website is not intended to solicit information of any kind from persons under the age of 18.
 
-If you believe that we have received information pertaining to persons under the age of 18 please contact us at [Privacy@ascential.com](mailto:Privacy@ascential.com). If we become aware that a person under age 18 has provided us with personal information, we will take steps to delete such information.
+If you believe that we have received information pertaining to persons under the age of 18 please contact us at [Privacy@ite-exhibitions.uk](mailto:Privacy@ite-exhibitions.uk). If we become aware that a person under age 18 has provided us with personal information, we will take steps to delete such information.
 
 **10. Do not Track**
 
@@ -215,17 +215,17 @@ At this time, we do not respond to DNT signals, in part, because no common indus
 
 **11. Complaints and Questions**
 
-If you wish to raise a complaint or question about how we use your information, please contact us at [Privacy@ascential.com](mailto:Privacy@ascential.com) and we will do our best to help. If you are still unhappy, you can contact a data protection supervisory authority, in particular, if applicable, in the EU Member State of your habitual residence, place of work or of an alleged infringement of the General Data Protection Regulation. The UK Information Commissioner’s Office can be contacted via their [website](https://ico.org.uk/).
+If you wish to raise a complaint or question about how we use your information, please contact us at [Privacy@ite-exhibitions.uk](mailto:Privacy@ite-exhibitions.uk) and we will do our best to help. If you are still unhappy, you can contact a data protection supervisory authority, in particular, if applicable, in the EU Member State of your habitual residence, place of work or of an alleged infringement of the General Data Protection Regulation. The UK Information Commissioner’s Office can be contacted via their [website](https://ico.org.uk/).
 
 **12. Cookies**
 
-**12.1.** When you visit our website(s), we use “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you're use of the website. A number of cookies Ascential use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
+**12.1.** When you visit our website(s), we use “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small pieces of information which are issued to your computer or any similar device you use to access the internet e.g. smart phone, tablet or other mobile device when you visit a website and which store and sometimes track information about you're use of the website. A number of cookies ITE Group use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
 
-**12.2.** Ascential use cookies to:
+**12.2.** ITE Group use cookies to:
 
-**(a)** Create a specific log-in session for a visitor to an Ascential website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
+**(a)** Create a specific log-in session for a visitor to an ITE Group website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
 
-**(b)** Recognise when a visitor to an Ascential website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
+**(b)** Recognise when a visitor to an ITE Group website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
 
 **(c)** Customise elements of the promotional layout and/or content of the pages of the website;
 
@@ -233,9 +233,9 @@ If you wish to raise a complaint or question about how we use your information, 
 
 **(e)** Improve the website(s) and learn which parts are most popular to visitors. To do this, we gather statistical information about how our visitors use the website(s) including device-specific data such as the IP address of the device (collected and stored in an anonymised format); the device screen size; the device type and browser information; country of location; and the preferred language used to display the website(s). Our servers also automatically record information including the referring domain; the pages visited; and the date and time when website(s) pages were accessed;
 
-**(f)** Gather information through our advertising partners, about the pages on the Ascential website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.com/uk/ or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
+**(f)** Gather information through our advertising partners, about the pages on the ITE Group website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.com/uk/ or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
 
-**12.3.** Some of the cookies used by Ascential websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on an Ascential website(s) you may not be able to take full advantage of the website(s) if you do so.
+**12.3.** Some of the cookies used by ITE Group websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on an ITE Group website(s) you may not be able to take full advantage of the website(s) if you do so.
 
 **12.4.** Certain cookies are either set by third parties on the Website or these are set by us using the third party’s cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website.
 
