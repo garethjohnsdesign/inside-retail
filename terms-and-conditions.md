@@ -101,7 +101,6 @@ Copyright in any software that is made available for download from the Website a
 
 7\.1 To access certain parts of the Website, ITE Group may require you to register and provide certain information about yourself. Such registration may be subject to specific terms of registration, and in addition when you register you also agree to:
 
-\
 
 \(a) provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and
 
@@ -117,8 +116,6 @@ Copyright in any software that is made available for download from the Website a
 
 ITE Group cannot and will not be liable for any losses, damages or costs arising from your failure to comply with these requirements.
 
-\
-
 **Trade Marks**
 
 All ITE Group trademarks (whether registered or unregistered) and graphics, logos, designs, page headers and button icons are the intellectual property rights of ITE Group and neither they nor any confusingly similar versions may be used by you including (but not limited to) as part of any trademarks and/or domain names without the prior written consent of ITE Group other than for the purpose of referring to ITE Group and its associated brands lawfully and in good faith (only)
@@ -133,7 +130,6 @@ All ITE Group trademarks (whether registered or unregistered) and graphics, logo
 
 10\.1 ITE Group will not be liable to you for any loss or damage caused by ITE Group or its employees or sub-contractors in circumstances where:
 
-\
 
 \(a) there is no breach of a legal duty of care owed to you by ITE Group (or its employees or sub-contractors); or
 
