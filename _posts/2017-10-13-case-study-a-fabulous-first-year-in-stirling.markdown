@@ -98,4 +98,4 @@ I have made the finals for the Stirling and Falkirk Business awards in for Best 
 
 I feel that it so important to give back to the community as much as possible and so each month I support different local events with raffle prizes where I have supported everything from MacMillan Coffee mornings to ladies days to the Scouts! This year I sponsored a runner in the Stirling Marathon and she did amazingly well. I love being part of all of these things and it builds more and more trust and respect within the community at the same time.
 
-*Thanks so much to Lisa for sharing her retail journey, we’ll look forward to checking back in as she gets stuck into her second year. If you’d like to share your successes and ideally your challenges as well, with fellow retailers on the site, please email me at *sophy.searight@ascential.com.
+*Thanks so much to Lisa for sharing her retail journey, we’ll look forward to checking back in as she gets stuck into her second year. If you’d like to share your successes and ideally your challenges as well, with fellow retailers on the site, please email me at *sophy.searight@ite-exhibitions.uk.
