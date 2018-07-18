@@ -105,4 +105,4 @@ The relationships you have with your customers - having their trust. I also love
 
 ![FINAL-Ducks-&-strapline-new.jpg](/uploads/FINAL-Ducks-&-strapline-new.jpg)
 
-If you’re a retailer and would like to feature on inside retail, please do let me know. I’d love to come and visit you! Sophy.searight@ascential.com
+If you’re a retailer and would like to feature on inside retail, please do let me know. I’d love to come and visit you! Sophy.searight@ite-exhibitions.uk
